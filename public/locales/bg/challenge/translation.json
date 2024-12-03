@@ -1,0 +1,18 @@
+{
+  "challenge": "Предизвикателство",
+  "completed": "Преминато",
+  "completedRounds": "Завършени рундове",
+  "complete_homework": "Изпълние предизвикателството",
+  "completed_homework": "Предизвикателството завършено",
+  "commentToTask": "Коментари от преподавателя",
+  "stage": "Етап",
+  "task": "Задача",
+  "roundFinish" : {
+    "pushButton": "Натисни бутона",
+    "allowNewRound": "Достъпен е нов рунд",
+    "roundFinished": "Браво! Рундът е завършен",
+    "youCanStartNewRound": "Можеш да започнеш следващия рунд или да го оставиш за утре",
+    "newRoundTomorrow": "Новият рунд ще бъде достъпен утре",
+    "forUnblockRound": "за отключване на рунда"
+  }
+}

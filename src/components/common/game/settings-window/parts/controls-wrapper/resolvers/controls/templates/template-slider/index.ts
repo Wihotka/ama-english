@@ -1,0 +1,1 @@
+export {TemplateSlider} from './TemplateSlider';

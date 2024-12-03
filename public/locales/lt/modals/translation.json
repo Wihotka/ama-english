@@ -1,0 +1,48 @@
+{
+  "gameStart": {
+    "youCanDo": "Tu turi teisę į",
+    "textErrors": ["klaidą", "klaidas", "klaidų"],
+    "noErrors": "Nedaryk klaidų",
+    "completeTaskFor": "Baik žaidimą per",
+    "give": "Duok",
+    "rightAnswers": "teisingų atsakymų",
+    "textAnswers": ["atsakymą", "atsakymus", "atsakymų"],
+    "textRight": ["teisingą", "teisingus", "teisingų"],
+    "right": "teisingų",
+    "min": "min",
+    "sec": "s"
+  },
+  "gameFinish": {
+    "successTrue": "Šaunuolis",
+    "successFalse": "Užduotis neatlikta",
+    "successSmallTrue": "Užduotis atlikta",
+    "successSmallFalse": "Bandyk dar kartą",
+    "saving": "Rezultatas išsaugomas",
+    "failSave": "Rezultatas neišsaugotas",
+    "successSave": "Rezultatas išsaugotas",
+    "writeToHelp": "Kreipkitės į techninės pagalbos skyrių",
+    "min": "min",
+    "sec": "s",
+    "indicators":{
+      "rightAnswersQty": "Teisingų atsakymų kiekis",
+      "wrongAnswersQty": "Neteisingų atsakymų kiekis",
+      "gameTime": "Žaidimo laikas",
+      "speed": "Greitis",
+      "readingSyllablesSpeed": "Skaitymo greitis (skiemenų/min)",
+      "readingWordsSpeed": "Skaitymo greitis (skiemenų/min)",
+      "pointsQty": "Balų kiekis"
+    }
+  },
+  "template": {
+    "settings": "Nustatymai",
+    "level": "Lygis",
+    "description": "Žaidimo aprašymas",
+    "selectedSettings": "Pasirinkti nustatymai",
+    "levelsNames": {
+      "marathon": "Maratonas",
+      "faultless": "Neklystantis",
+      "fittings": "Greitis",
+      "free": "Laisvas"
+    }
+  }
+}

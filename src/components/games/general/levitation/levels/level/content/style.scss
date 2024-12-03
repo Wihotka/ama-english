@@ -1,0 +1,44 @@
+@import 'src/scss/_mixins.scss';
+
+.gameWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 700px;
+
+  z-index: 999999;
+
+  @include width-1280-L {
+    height: 465px;
+  }
+  @include width-1280-P {
+    height: 465px;
+  }
+
+  @include width-1000-L {
+    height: 415px;
+  }
+  @include width-768-P {
+    height: 615px;
+  }
+
+  @include width-732-L {
+    height: 100%;
+  }
+  @include width-412-P {
+    height: 100%;
+  }
+}
+
+.game {
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+}

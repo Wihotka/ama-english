@@ -1,0 +1,23 @@
+{
+  "textbook": "Web Book",
+  "challenge": "Challenge",
+  "vocabulary": "Dictionary",
+  "games": "Games",
+  "arena": "Arena",
+  "fun": "Fun",
+  "completed": "Completed",
+
+  "descriptions": {
+    "challenge": "Practicing new rules and vocabulary",
+    "vocabulary": "Learning new words",
+    "games": "General revision",
+    "arena": "On-line games with a rival",
+    "fun": "Games for everyone",
+    "textbook": "Learning new material"
+  },
+  "messages": {
+    "dueTo": "Due to"
+  },
+
+  "developing": "Section in development"
+}

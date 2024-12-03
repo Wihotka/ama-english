@@ -1,0 +1,18 @@
+{
+  "challenge": "Πρόκληση",
+  "completed": "Περασμένα",
+  "completedRounds": "Ολοκληρωμένοι γυροί",
+  "complete_homework": "Ολοκληρώσε την πρόκληση",
+  "completed_homework": "Η πρόκληση ολοκληρώθηκε",
+  "commentToTask": "Σχόλια από τον εκπαιδευτικό",
+  "stage": "Επίπεδο",
+  "task": "Άσκηση ",
+  "roundFinish": {
+    "pushButton": "Πατήσε το κουμπί",
+    "allowNewRound": "Νέος γύρος διαθέσιμος",
+    "roundFinished": "Μπράβο! Ο γύρος ολοκληρώθηκε",
+    "youCanStartNewRound": "Μπορείς να ξεκινήσεις τον επόμενο γύρο ή να τον συνεχίσεις αύριο",
+    "newRoundTomorrow": "Ο νέος γύρος θα είναι διαθέσιμος αύριο",
+    "forUnblockRound": "για να ξεκλειδώσεις τον γύρο"
+  }
+}

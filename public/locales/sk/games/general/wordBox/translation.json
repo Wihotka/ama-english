@@ -1,0 +1,13 @@
+﻿{
+  "taskName1": "Nájdite správny počet slov vo štvorci. Usporiadanie slov: vertikálne, horizontálne. Smer slov: ↓, →",
+  "taskName2": "Nájdite správny počet slov vo štvorci. Usporiadanie slov: vertikálne, horizontálne. Smer slov: ↓, →, ↑ , ←",
+  "taskName3": "Nájdite správny počet slov vo štvorci. Usporiadanie slov: vertikálne, horizontálne, diagonálne. Smer slov: ↓, →, ↘",
+  "taskName4": "Nájdite správny počet slov vo štvorci. Usporiadanie slov: vertikálne, horizontálne, diagonálne. Smer slov: ↓, →, ↑ , ←, ↘, ↙",
+  "leftToFind": "Zostáva nájsť",
+  "moreToFind": "Ešte nájdite",
+  "words0": "slov",
+  "words1": "slovo",
+  "words2": "slova",
+  "found": "nájdené",
+  "direction": "smer"
+}

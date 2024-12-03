@@ -1,0 +1,386 @@
+{
+  "1": [
+    {
+      "question": "I'm afraid we _____ yesterday .",
+      "correctAnswer": "were watched",
+      "incorrectAnswers": "are watched"
+    },
+    {
+      "question": "These notes _____ two days ago .",
+      "correctAnswer": "were written",
+      "incorrectAnswers": "are written"
+    },
+    {
+      "question": "The picture _____ by the artist 5 years ago .",
+      "correctAnswer": "was drawn",
+      "incorrectAnswers": "is drawn"
+    },
+    {
+      "question": "I _____ last weekends .",
+      "correctAnswer": "was troubled",
+      "incorrectAnswers": "am troubled"
+    },
+    {
+      "question": "You _____ by them 3 months ago .",
+      "correctAnswer": "were chosen",
+      "incorrectAnswers": "are chosen"
+    },
+    {
+      "question": "The cake _____ yesterday .",
+      "correctAnswer": "was baked",
+      "incorrectAnswers": "is baked"
+    },
+    {
+      "question": "The article _____ 3 days ago .",
+      "correctAnswer": "was printed",
+      "incorrectAnswers": "is printed"
+    },
+    {
+      "question": "My car _____ by my father last Friday .",
+      "correctAnswer": "was fixed",
+      "incorrectAnswers": "is fixed"
+    },
+    {
+      "question": "You _____ by your teacher 2 days ago .",
+      "correctAnswer": "were helped",
+      "incorrectAnswers": "are helped"
+    },
+    {
+      "question": "The mail _____ by the postman last morning .",
+      "correctAnswer": "was delivered",
+      "incorrectAnswers": "is delivered"
+    },
+    {
+      "question": "The team _____ by the referee after the match yesterday .",
+      "correctAnswer": "was congratulated",
+      "incorrectAnswers": "is congratulated"
+    },
+    {
+      "question": "The presents _____ several hours ago .",
+      "correctAnswer": "were opened",
+      "incorrectAnswers": "are opened"
+    },
+    {
+      "question": "The criminal _____ by the police last night .",
+      "correctAnswer": "was followed",
+      "incorrectAnswers": "is followed"
+    },
+    {
+      "question": "My car _____ by my brother a week ago .",
+      "correctAnswer": "was washed",
+      "incorrectAnswers": "is washed"
+    },
+    {
+      "question": "The exam _____ last Wednesday .",
+      "correctAnswer": "was taken",
+      "incorrectAnswers": "is taken"
+    },
+    {
+      "question": "My passport _____ in the airport yesterday .",
+      "correctAnswer": "was checked",
+      "incorrectAnswers": "is checked"
+    },
+    {
+      "question": "The door _____ by the headmaster 5 minutes ago .",
+      "correctAnswer": "was closed",
+      "incorrectAnswers": "is closed"
+    },
+    {
+      "question": "The watch _____ 2 days ago .",
+      "correctAnswer": "was repaired",
+      "incorrectAnswers": "is repaired"
+    },
+    {
+      "question": "The highest tower _____ in 1998 .",
+      "correctAnswer": "was built",
+      "incorrectAnswers": "was build"
+    },
+    {
+      "question": "Nick’s order _____ yesterday in the afternoon .",
+      "correctAnswer": "was delivered",
+      "incorrectAnswers": "was deliver"
+    },
+    {
+      "question": "Last night our dinner _____ by the professional chef .",
+      "correctAnswer": "was cooked",
+      "incorrectAnswers": "was cook"
+    },
+    {
+      "question": "This letter _____ by her three weeks ago .",
+      "correctAnswer": "was written",
+      "incorrectAnswers": "was wrote"
+    },
+    {
+      "question": "My articles _____ in this magazine a month ago .",
+      "correctAnswer": "were typed",
+      "incorrectAnswers": "were type"
+    },
+    {
+      "question": "Last year a new supermarket _____ in the city center .",
+      "correctAnswer": "was built",
+      "incorrectAnswers": "was build"
+    },
+    {
+      "question": "The plants _____ by my mum last morning .",
+      "correctAnswer": "were watered",
+      "incorrectAnswers": "were water"
+    },
+    {
+      "question": "The classrooms _____ last weekends .",
+      "correctAnswer": "were cleaned",
+      "incorrectAnswers": "were clean"
+    },
+    {
+      "question": "In his childhood he _____ what to do by his sister .",
+      "correctAnswer": "was told",
+      "incorrectAnswers": "was tell"
+    },
+    {
+      "question": "A year ago harmful trash _____ into the lake .",
+      "correctAnswer": "was thrown",
+      "incorrectAnswers": "was threw"
+    },
+    {
+      "question": "A class _____ by her yesterday .",
+      "correctAnswer": "was taken",
+      "incorrectAnswers": "was took"
+    },
+    {
+      "question": "A movie about me _____ last year .",
+      "correctAnswer": "was shot",
+      "incorrectAnswers": "was shoot"
+    },
+    {
+      "question": "Yesterday the final match _____ by everyone .",
+      "correctAnswer": "was watched",
+      "incorrectAnswers": "was watch"
+    },
+    {
+      "question": "The kids _____ by Ron last year .",
+      "correctAnswer": "were trained",
+      "incorrectAnswers": "were train"
+    },
+    {
+      "question": "His interview _____ 2 hours before the premier .",
+      "correctAnswer": "was taken",
+      "incorrectAnswers": "was took"
+    },
+    {
+      "question": "Last Sunday the final match _____ at Wankhede Stadium .",
+      "correctAnswer": "was played",
+      "incorrectAnswers": "was play"
+    },
+    {
+      "question": "The last video _____ 5 months ago .",
+      "correctAnswer": "was recorded",
+      "incorrectAnswers": "was record"
+    },
+    {
+      "question": "Last night some people _____ on the road .",
+      "correctAnswer": "were arrested",
+      "incorrectAnswers": "were arrest"
+    },
+    {
+      "question": "Last weekend a picnic _____ by our school .",
+      "correctAnswer": "was organized",
+      "incorrectAnswers": "was organize"
+    },
+    {
+      "question": "Last evening a concert _____ by the band .",
+      "correctAnswer": "was organized",
+      "incorrectAnswers": "was organize"
+    }
+  ],
+  "2": [
+    {
+      "question": "I'm afraid we _____ # yesterday .",
+      "correctAnswer": "were watched",
+      "incorrectAnswers": "watched"
+    },
+    {
+      "question": "These notes _____ # two days ago .",
+      "correctAnswer": "were written",
+      "incorrectAnswers": "wrote"
+    },
+    {
+      "question": "The picture _____ # by the artist 5 years ago .",
+      "correctAnswer": "was drawn",
+      "incorrectAnswers": "drew"
+    },
+    {
+      "question": "I _____ # last weekends .",
+      "correctAnswer": "was troubled",
+      "incorrectAnswers": "troubled"
+    },
+    {
+      "question": "You _____ # by them 3 months ago .",
+      "correctAnswer": "were chosen",
+      "incorrectAnswers": "chose"
+    },
+    {
+      "question": "The cake _____ # yesterday .",
+      "correctAnswer": "was baked",
+      "incorrectAnswers": "baked"
+    },
+    {
+      "question": "The article _____ # 3 days ago .",
+      "correctAnswer": "was printed",
+      "incorrectAnswers": "printed"
+    },
+    {
+      "question": "My car _____ # by my father last Friday .",
+      "correctAnswer": "was fixed",
+      "incorrectAnswers": "fixed"
+    },
+    {
+      "question": "You _____ # by your teacher 2 days ago .",
+      "correctAnswer": "were helped",
+      "incorrectAnswers": "helped"
+    },
+    {
+      "question": "The mail _____ # by the postman last morning .",
+      "correctAnswer": "was delivered",
+      "incorrectAnswers": "delivered"
+    },
+    {
+      "question": "The team _____ # by the referee after the match yesterday .",
+      "correctAnswer": "was congratulated",
+      "incorrectAnswers": "congratulated"
+    },
+    {
+      "question": "The presents _____ # several hours ago .",
+      "correctAnswer": "were opened",
+      "incorrectAnswers": "opened"
+    },
+    {
+      "question": "The criminal _____ # by the police last night .",
+      "correctAnswer": "was followed",
+      "incorrectAnswers": "followed"
+    },
+    {
+      "question": "My car _____ # by my brother a week ago .",
+      "correctAnswer": "was washed",
+      "incorrectAnswers": "washed"
+    },
+    {
+      "question": "The exam _____ # last Wednesday .",
+      "correctAnswer": "was taken",
+      "incorrectAnswers": "took"
+    },
+    {
+      "question": "My passport _____ # in the airport yesterday .",
+      "correctAnswer": "was checked",
+      "incorrectAnswers": "checked"
+    },
+    {
+      "question": "The door _____ # by the headmaster 5 minutes ago .",
+      "correctAnswer": "was closed",
+      "incorrectAnswers": "closed"
+    },
+    {
+      "question": "The watch _____ # 2 days ago .",
+      "correctAnswer": "was repaired",
+      "incorrectAnswers": "repaired"
+    },
+    {
+      "question": "The highest tower _____ # in 1998 .",
+      "correctAnswer": "was built",
+      "incorrectAnswers": "built"
+    },
+    {
+      "question": "Nick’s order _____ # yesterday in the afternoon .",
+      "correctAnswer": "was delivered",
+      "incorrectAnswers": "delivered"
+    },
+    {
+      "question": "Last night our dinner _____ # by the professional chef .",
+      "correctAnswer": "was cooked",
+      "incorrectAnswers": "cooked"
+    },
+    {
+      "question": "This letter _____ # by her three weeks ago .",
+      "correctAnswer": "was written",
+      "incorrectAnswers": "is written"
+    },
+    {
+      "question": "My articles _____ # in this magazine a month ago .",
+      "correctAnswer": "were typed",
+      "incorrectAnswers": "typed"
+    },
+    {
+      "question": "Last year a new supermarket _____ # in the city center .",
+      "correctAnswer": "was built",
+      "incorrectAnswers": "was build"
+    },
+    {
+      "question": "The plants _____ # by my mum last morning .",
+      "correctAnswer": "were watered",
+      "incorrectAnswers": "watered"
+    },
+    {
+      "question": "The classrooms _____ # last weekends .",
+      "correctAnswer": "were cleaned",
+      "incorrectAnswers": "cleaned"
+    },
+    {
+      "question": "He _____ # what to do by his sister .",
+      "correctAnswer": "was told",
+      "incorrectAnswers": "told"
+    },
+    {
+      "question": "A year ago harmful trash _____ # into the lake .",
+      "correctAnswer": "was thrown",
+      "incorrectAnswers": "thrown"
+    },
+    {
+      "question": "A class _____ # by her yesterday .",
+      "correctAnswer": "was taken",
+      "incorrectAnswers": "took"
+    },
+    {
+      "question": "A movie about me _____ # last year .",
+      "correctAnswer": "was shot",
+      "incorrectAnswers": "shot"
+    },
+    {
+      "question": "Yesterday the final match _____ # by everyone .",
+      "correctAnswer": "was watched",
+      "incorrectAnswers": "watched"
+    },
+    {
+      "question": "The kids _____ # by Ron last year .",
+      "correctAnswer": "were trained",
+      "incorrectAnswers": "trained"
+    },
+    {
+      "question": "His interview _____ # 2 hours before the premier .",
+      "correctAnswer": "was taken",
+      "incorrectAnswers": "was took"
+    },
+    {
+      "question": "Last Sunday the final match _____ # at Wankhede Stadium .",
+      "correctAnswer": "was played",
+      "incorrectAnswers": "played"
+    },
+    {
+      "question": "The last video _____ # 5 months ago .",
+      "correctAnswer": "was recorded",
+      "incorrectAnswers": "recorded"
+    },
+    {
+      "question": "Last night some people _____ # on the road .",
+      "correctAnswer": "were arrested",
+      "incorrectAnswers": "arrested"
+    },
+    {
+      "question": "Last weekend picnic _____ # by our school .",
+      "correctAnswer": "was organized",
+      "incorrectAnswers": "organized"
+    },
+    {
+      "question": "Last evening a concert _____ # by the band .",
+      "correctAnswer": "was organized",
+      "incorrectAnswers": "organized"
+    }
+  ]
+}

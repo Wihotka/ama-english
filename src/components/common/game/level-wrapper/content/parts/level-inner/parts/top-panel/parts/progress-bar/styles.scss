@@ -1,0 +1,44 @@
+@import '/src/scss/_mixins';
+
+.progressBar{
+
+}
+
+.line{
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: block;
+  transition: all .3s;
+  /* background: #D3BBFF;
+  box-shadow: inset 0px -4px 6px rgba(138, 69, 169, 0.72), inset 0px 4px 6px rgba(255, 255, 255, 0.72); */
+  border-radius: 51px;
+}
+
+
+.starWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  position: absolute;
+  width: 111px;
+  height: 36px;
+  right: -5px;
+  top: -20px;
+
+  z-index: 1;
+
+  @include firstPoint() {
+    transform: scale(.78);
+    right: -5px;
+    top: -15px;
+  }
+
+  @include xsWH-block() {
+    transform: scale(.47);
+    right: -25px;
+  }
+}

@@ -1,0 +1,197 @@
+@import 'src/scss/_mixins.scss';
+
+.keyboard {
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin-top: 8px;
+  padding: 24px 24px 28px;
+
+  max-width: 832px;
+
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+
+  border-radius: 24px;
+
+  @include width-1280-L {
+    padding: 12px 24px 16px;
+  }
+  @include width-1280-P {
+    padding: 12px 24px 16px;
+  }
+
+  @include width-854-L {
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.56);
+  }
+  @include width-534-P {
+    margin-top: 16px;
+    padding: 12px 6px 16px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.56);
+  }
+
+  @include width-732-L {
+    border-radius: 8px;
+  }
+  @include width-412-P {
+    padding: 12px 3px 16px;
+    border-radius: 8px;
+  }
+
+  @include width-640-L {
+    margin-top: 6px;
+  }
+}
+
+.key {
+  width: 64px;
+  height: 64px;
+
+  border-radius: 32px;
+
+  margin-left: 16px;
+  margin-top: 16px;
+
+  transition: .1s;
+
+  text-transform: uppercase;
+
+  @include titleM;
+
+  @include width-1280-L {
+    width: 48px;
+    height: 48px;
+    margin-left: 12px;
+    margin-top: 12px;
+    border-radius: 48px;
+  }
+  @include width-1280-P {
+    width: 48px;
+    height: 48px;
+    margin-left: 12px;
+    margin-top: 12px;
+    border-radius: 48px;
+  }
+
+  @include width-854-L {
+    width: 56px;
+    height: 40px;
+    margin-left: 8px;
+    border-radius: 56px;
+  }
+  @include width-534-P {
+    width: 40px;
+    height: 56px;
+    margin-left: 8px;
+    border-radius: 40px;
+  }
+
+  @include width-732-L {
+    width: 40px;
+    height: 32px;
+    margin-top: 8px;
+    border-radius: 40px;
+  }
+  @include width-412-P {
+    width: 32px;
+    height: 40px;
+    margin-top: 8px;
+    margin-left: 6px;
+    border-radius: 32px;
+  }
+
+  @include width-640-L {
+    height: 26px;
+    margin-top: 12px;
+  }
+  @include width-360-P {
+    width: 26px;
+    margin-top: 12px;
+  }
+
+  &:nth-child(-n+11) {
+    margin-top: 0;
+  }
+
+  &:nth-child(1),
+  &:nth-child(12),
+  &:nth-child(22) {
+    margin-left: 0;
+  }
+
+  &Backspace {
+    position: relative;
+
+    &::after {
+      content: '';
+
+      position: absolute;
+      top: 17px;
+      left: 11px;
+
+      width: 37px;
+      height: 30px;
+
+      background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzkiIGhlaWdodD0iMzEiIHZpZXdCb3g9IjAgMCAzOSAzMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgb3BhY2l0eT0iMC44OCI+CjxwYXRoIGQ9Ik0zNi40MjkzIDAuMTI1SDEzLjIyMjlDMTIuNzEzMiAwLjEyNSAxMi4yMDM3IDAuMzYwMTU4IDExLjg5MDEgMC43OTEzNjVMMS4yMjc3NCAxNC4yMzdDMC43NTc0MjEgMTQuODY0MiAwLjc1NzQyMSAxNS43MjY2IDEuMjI3NzQgMTYuMzUzNkwxMS44OTAxIDI5LjgzODRDMTIuMjAzOCAzMC4yMzA1IDEyLjcxMzUgMzAuNTA0OCAxMy4yMjI5IDMwLjUwNDhIMzYuMzkwMUMzNy4zMzA5IDMwLjUwNDggMzguMDc1NSAyOS43NTk5IDM4LjA3NTUgMjguODE5M0wzOC4wNzU4IDEuODEwNTNDMzguMTE0OSAwLjg2OTg3IDM3LjM3MDEgMC4xMjUwNyAzNi40Mjk0IDAuMTI1MDdMMzYuNDI5MyAwLjEyNVpNMzQuNzA0NCAyNy4wOTQ2SDE0LjA0Nkw0Ljc1NTYgMTUuMjk1NEwxNC4wNDYgMy40OTYySDM0LjcwNDRWMjcuMDk0NloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xNi4wNDU0IDIyLjE5NDRDMTYuMzU5IDIyLjUwODEgMTYuODI5MyAyMi43MDQxIDE3LjI2MDUgMjIuNzA0MUMxNy42OTE3IDIyLjcwNDEgMTguMTIyOSAyMi41NDc0IDE4LjQ3NTcgMjIuMTk0NEwyMi45NDQ1IDE3LjcyNTZMMjcuNDEzMyAyMi4xOTQ0QzI3LjcyNjkgMjIuNTA4MSAyOC4xOTcyIDIyLjcwNDEgMjguNjI4NCAyMi43MDQxQzI5LjA1OTYgMjIuNzA0MSAyOS40OTA4IDIyLjU0NzQgMjkuODQzNSAyMi4xOTQ0QzMwLjUwOTkgMjEuNTI4MSAzMC41MDk5IDIwLjQ2OTYgMjkuODQzNSAxOS44MDMyTDI1LjMzNTkgMTUuMjk1NEwyOS44MDQ3IDEwLjgyNjZDMzAuNDcxIDEwLjE2MDIgMzAuNDcxIDkuMTAxNzEgMjkuODA0NyA4LjQzNTM4QzI5LjEzODMgNy43NjkwNSAyOC4wNzk4IDcuNzY5MDEgMjcuNDEzNSA4LjQzNTM4TDIyLjk0NDcgMTIuOTA0MkwxOC40MzY1IDguMzk2MzJDMTcuNzcwMiA3LjcyOTk1IDE2LjcxMTcgNy43Mjk5NSAxNi4wNDUzIDguMzk2MzJDMTUuMzc5IDkuMDYyNjggMTUuMzc5IDEwLjEyMTIgMTYuMDQ1MyAxMC43ODc1TDIwLjUxNDEgMTUuMjk1NEwxNi4wNDUzIDE5Ljc2NDJDMTUuMzc5IDIwLjQzMDUgMTUuMzc5IDIxLjUyODEgMTYuMDQ1MyAyMi4xOTQ1TDE2LjA0NTQgMjIuMTk0NFoiIGZpbGw9IndoaXRlIi8+CjwvZz4KPC9zdmc+Cg==);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+      @include width-1280-L {
+        top: 13px;
+        left: 9px;
+        width: 26px;
+        height: 21px;
+      }
+      @include width-1280-P {
+        top: 13px;
+        left: 9px;
+        width: 26px;
+        height: 21px;
+      }
+
+      @include width-854-L {
+        top: 9px;
+        left: 13px;
+      }
+      @include width-534-P {
+        top: 17px;
+        left: 5px;
+      }
+
+      @include width-732-L {
+        top: 7px;
+        left: 8px;
+        width: 21px;
+        height: 17px;
+      }
+      @include width-412-P {
+        top: 11px;
+        left: 4px;
+        width: 21px;
+        height: 17px;
+      }
+
+      @include width-640-L {
+        top: 5px;
+        left: 11px;
+        width: 16px;
+        height: 13px;
+      }
+      @include width-360-P {
+        top: 13px;
+        left: 3px;
+        width: 16px;
+        height: 13px;
+      }
+    }
+  }
+}
+
+.brake {width: 100%}

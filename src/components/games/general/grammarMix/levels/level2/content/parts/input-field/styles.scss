@@ -1,0 +1,125 @@
+@import 'src/scss/_mixins.scss';
+
+.inputField {
+  position: relative;
+  margin: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include width-1280-L {
+    margin: 32px;
+  }
+  @include width-1280-P {
+    margin: 32px;
+  }
+
+  @include width-854-L {
+    margin: 32px 0 0;
+  }
+  @include width-534-P {
+    width: 100%;
+    margin: 32px 0 0;
+  }
+
+  @include width-732-L {
+    margin-top: 16px;
+  }
+  @include width-412-P {
+    margin-top: 24px;
+  }
+
+  @include width-360-P {
+    margin-top: 16px;
+  }
+}
+
+.label {
+  position: relative;
+  width: 476px;
+  height: 104px;
+  border-radius: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.4), inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+
+  &:before {
+    content: '';
+    position: absolute;
+    bottom: 16px;
+    right: auto;
+    left: 40px;
+
+    display: block;
+    width: calc(100% - 80px);
+    height: 1px;
+    background-color: #38166D;
+  }
+
+  @include width-1280-L {
+    width: 446px;
+    height: 96px;
+  }
+  @include width-1280-P {
+    width: 446px;
+    height: 96px;
+  }
+
+  @include width-854-L {
+    width: 486px;
+    height: 80px;
+  }
+  @include width-534-P {
+    width: 100%;
+  }
+
+  @include width-732-L {
+    width: 446px;
+    height: 80px;
+  }
+  @include width-412-P {
+    height: 80px;
+  }
+
+  @include width-640-L {
+    width: 100%;
+    height: 64px;
+  }
+}
+
+.mistake {
+  box-shadow: 0 0 4px #FE3A3A, 0 0 32px #FE3A3A,
+  4px 8px 24px rgba(56, 22, 109, 0.4),
+  inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+}
+
+.input {
+  width: 100%;
+  height: 100%;
+
+  padding: 44px 40px 16px;
+
+  background-color: #fff;
+  border-radius: inherit;
+
+  @include titleS;
+  text-align: center;
+  color: #38166D;
+
+  @include width-854-L {
+    padding: 36px 40px 16px;
+  }
+
+  @include width-412-P {
+    padding: 36px 40px 16px;
+  }
+
+  @include width-640-L {
+    padding: 24px 40px 16px;
+  }
+  @include width-360-P {
+    padding: 38px 40px 16px;
+  }
+}

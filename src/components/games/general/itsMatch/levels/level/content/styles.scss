@@ -1,0 +1,113 @@
+@import "src/scss/_mixins";
+
+.content {
+  width: 100%;
+  height: 100%;
+  padding-top: 80px;
+  padding-bottom: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: center;
+  gap: 44px;
+
+  @include width-1280-L {
+    gap: 32px;
+    padding-top: 56px;
+    padding-bottom: 130px;
+  }
+  @include width-1280-P {
+    gap: 32px;
+    padding-top: 56px;
+    padding-bottom: 130px;
+  }
+
+  @include width-1000-L {
+    padding-top: 40px;
+    padding-bottom: 96px;
+  }
+  @include width-768-P {
+    gap: 32px;
+    padding-top: 140px;
+    padding-bottom: 195px;
+  }
+
+  @include width-854-L {
+    padding-bottom: 0;
+  }
+  @include width-534-P {
+    padding-top: 144px;
+    padding-bottom: 0;
+  }
+
+  @include width-732-L {
+    gap: 24px;
+  }
+  @include width-412-P {
+    gap: 40px;
+    padding-top: 112px;
+  }
+
+  @include width-640-L {
+    gap: 16px;
+    padding-top: 16px;
+  }
+  @include width-360-P {
+    gap: 24px;
+    padding-top: 120px;
+  }
+}
+
+.btnVerification {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  width: 258px;
+  height: 56px;
+  padding: 0;
+
+  align-self: flex-end;
+
+  @include width-1280-L {
+    width: 227px;
+    height: 49px;
+  }
+
+  @include width-854-L {
+    right: 8px;
+    bottom: 12px;
+    width: 268px;
+    height: 48px;
+  }
+
+  @include width-732-L {
+    height: 40px;
+  }
+
+  @include width-640-L {
+    bottom: 8px;
+  }
+
+  @include width-1280-P {
+    width: 227px;
+    height: 49px;
+  }
+
+  @include width-534-P {
+    right: 8px;
+    bottom: 12px;
+    width: 268px;
+    height: 48px;
+  }
+
+  @include width-412-P {
+    height: 40px;
+  }
+}
+
+.btnVerification:disabled {
+  opacity: 0.4;
+  border: none;
+  background: linear-gradient(180deg, #BAE3C6 0%, #DFF5E6 100%);
+  box-shadow: 0 4px 0 #95CB95, 0 6px 16px rgba(149, 203, 149, 0.72);
+}

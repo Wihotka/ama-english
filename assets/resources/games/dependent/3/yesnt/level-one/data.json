@@ -1,0 +1,650 @@
+[
+    {
+      "textTitle": "Dan Hovey",
+      "taskText": "Hey, I’m Dan! I’m a musician. I play the guitar in a big jazz club in New York. I live in a small apartment with my wife Lisa, and my daughter, Ann. We enjoy spending time together. At weekends we usually go out together. We’ve got a big fluffy cat - Sam. We love him very much.",
+      "taskQuestions": [
+        {
+          "question": "Dan is a teacher.",
+          "correctAnswer": false
+        },
+        {
+          "question": "He works in a rock club.",
+          "correctAnswer": false
+        },
+        { "question": "Dan and his family live in Los Angeles.", "correctAnswer": false },
+        { "question": "The name of Dan’s daughter is Lisa.", "correctAnswer": false },
+        { "question": "Dan’s family has a dog.", "correctAnswer": false },
+        {
+          "question": "The name of Dan’s dog is Sam.",
+          "correctAnswer": false
+        },
+        {
+          "question": "Dan plays the guitar.",
+          "correctAnswer": true
+        },
+        {
+          "question": "Dan plays jazz.",
+          "correctAnswer": true
+        },
+        { "question": "Lisa is Dan’s wife.", "correctAnswer": true },
+        { "question": "Sam is big and fluffy.", "correctAnswer": true },
+        {
+          "question": "Sam is Dan’s pet.",
+          "correctAnswer": true
+        },
+        {
+          "question": "Dan’s family lives in a small apartment.",
+          "correctAnswer": true
+        }
+      ]
+    },{
+    "textTitle": "Dancing in class",
+    "taskText": "Georgia is sitting in class and her teacher is standing in front of the room. He is talking. Georgia is finding the class a bit boring.\nIn Georgia’s mind, she is dancing on a stage in front of hundreds of people. She is wearing a beautiful costume. She is having so much fun!\nSoon, she is finishing her show. People like her dance, they shout  “Bravo! Bravo!” Georgia is smiling.\n“Georgia?” her teacher is saying, looking at her. “Are you feeling okay? You are shouting ‘Bravo! Bravo!’ in class.”",
+    "taskQuestions": [
+      {
+        "question": "Georgia likes the lesson.",
+        "correctAnswer": false
+      },
+      {
+        "question": "In Georgia’s mind she is singing.",
+        "correctAnswer": false
+      },
+      { "question": "Georgia doesn’t like dancing.", "correctAnswer": false },
+      { "question": "People don’t like Georgia’s dance.", "correctAnswer": false },
+      { "question": "Georgia’s classmates shout “Bravo! Bravo!” in class.", "correctAnswer": false },
+      {
+        "question": "In Georgia’s mind she is dancing in front of her parents.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Georgia thinks that the lesson isn’t interesting.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Georgia likes dancing very much.",
+        "correctAnswer": true
+      },
+      { "question": "People shout ‘Bravo!’ to Georgia’s dance.", "correctAnswer": true },
+      { "question": "Georgia is dancing in a beautiful costume.", "correctAnswer": true },
+      {
+        "question": "Georgia has fun when she dances.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Georgia shouts ‘Bravo!’ in class.",
+        "correctAnswer": true
+      }
+    ]
+  },{
+    "textTitle": "Making friends",
+    "taskText": "Let’s say that you are at a party where a person comes to you and asks you a question. What can you do to make friends with him?\nFirstly, say “Hi!”. Another way to greet someone is to say “How are you doing?”\nThen, tell your name and ask the name of your new friend. After that, you can try to find something that you both like (it can be a book, a film or a hobby).  You can also ask your new friend about the party.\nDon’t be shy and you will make new friends very quickly!",
+    "taskQuestions": [
+      {
+        "question": "Don’t say ‘Hi!’ if you want to start a chat.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Do not tell your name to your new friend.",
+        "correctAnswer": false
+      },
+      { "question": "Do not ask the name of your new friend.", "correctAnswer": false },
+      { "question": "Do not ask about hobbies and films.", "correctAnswer": false },
+      { "question": "Do not try to find friends at parties.", "correctAnswer": false },
+      {
+        "question": "You should be shy to find new friends.",
+        "correctAnswer": false
+      },
+      {
+        "question": "You can try to find a new friend at a party.",
+        "correctAnswer": true
+      },
+      {
+        "question": "You should be friendly to find a new friend.",
+        "correctAnswer": true
+      },
+      { "question": "You can say ‘Hi!’ or ‘How are you doing?’ to start a chat.", "correctAnswer": true },
+      { "question": "Try to find something that you and your new friend both like.", "correctAnswer": true },
+      {
+        "question": "You can try to talk about books, films or hobbies.",
+        "correctAnswer": true
+      },
+      {
+        "question": "You shouldn’t be shy to find a new friend.",
+        "correctAnswer": true
+      }
+    ]
+  },{
+    "textTitle": "Magic Numbers",
+    "taskText": "There is some magic in numbers. Certain numbers have their own magical meanings. For example, in many countries, thirteen is an unlucky number and seven is a lucky number. You don’t need to be good at maths to understand that nine is a magic number. Look: 5х9=54; 5+4=9. Here is another example: 26х9=234; 2+3+4=9. See what I mean? It’s real magic!",
+    "taskQuestions": [
+      {
+        "question": "You must be good at maths to see magic in numbers.",
+        "correctAnswer": false
+      },
+      {
+        "question": "In many countries thirteen is a lucky number.",
+        "correctAnswer": false
+      },
+      { "question": "Many people believe that seven is an unlucky number.", "correctAnswer": false },
+      { "question": "All numbers have their magical meaning.", "correctAnswer": false },
+      { "question": "Nine isn’t a magic number.", "correctAnswer": false },
+      {
+        "question": "In many countries eight is a lucky number.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Some numbers have magical meanings.",
+        "correctAnswer": true
+      },
+      {
+        "question": "13 is an unlucky number.",
+        "correctAnswer": true
+      },
+      { "question": "9 has its own magical meaning.", "correctAnswer": true },
+      { "question": "You don’t have to be good at maths to understand the magical meaning of numbers.", "correctAnswer": true },
+      {
+        "question": "Not all numbers have their own magical meaning.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Seven is a lucky number in many countries.",
+        "correctAnswer": true
+      }
+    ]
+  },{
+    "textTitle": "Oxford and Cambridge",
+    "taskText": "Oxford and Cambridge are two famous British cities. They are the homes of the UK’s most famous universities. Oxford has 38 colleges. Students live in the colleges, but they go to the University for their classes. Many famous people were students in Oxford – including politicians, writers, and actors. Cambridge University is also very old. It started because some of the teachers and students at Oxford did not like the university and wanted to start a new one.",
+    "taskQuestions": [
+      {
+        "question": "Oxford and Cambridge are Italian cities.",
+        "correctAnswer": false
+      },
+      {
+        "question": "There are no universities in Oxford and Cambridge.",
+        "correctAnswer": false
+      },
+      { "question": "There are thirty colleges in Oxford.", "correctAnswer": false },
+      { "question": "Cambridge is older than Oxford.", "correctAnswer": false },
+      { "question": "There are 38 colleges in Cambridge.", "correctAnswer": false },
+      {
+        "question": "Students don’t live in colleges.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Oxford and Cambridge are cities in the UK.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Many writers, politicians and actors went to Oxford.",
+        "correctAnswer": true
+      },
+      { "question": "Students go to Universities for their classes.", "correctAnswer": true },
+      { "question": "Oxford University is older than Cambridge.", "correctAnswer": true },
+      {
+        "question": "Teachers and students started Cambridge University.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Students live in the colleges.",
+        "correctAnswer": true
+      }
+    ]
+  },{
+    "textTitle": "The UK",
+    "taskText": "The UK has 4 parts: England, Wales, Scotland and Northern Ireland. It has different names – United Kingdom, or Great Britain, or Britain. It is a very old country. First people came here from Italy, Germany and Denmark. It has a Queen whose family came here from Europe 1500 years ago. Britain has difficult weather. There is often rain, and a grey sky. It is often cold, and wet. But the country is very green because of rains.",
+    "taskQuestions": [
+      {
+        "question": "There are three parts in the UK.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Wales, the UK, Scotland and England are parts of Great Britain.",
+        "correctAnswer": false
+      },
+      { "question": "First people came to the UK from America.", "correctAnswer": false },
+      { "question": "Queen’s family came to England 150 years ago.", "correctAnswer": false },
+      { "question": "It’s often sunny in Britain.", "correctAnswer": false },
+      {
+        "question": "The country isn’t very green.",
+        "correctAnswer": false
+      },
+      {
+        "question": "There are four parts in the United Kingdom.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The UK has different names.",
+        "correctAnswer": true
+      },
+      { "question": "Britain is a very green country.", "correctAnswer": true },
+      { "question": "Queen’s family came to the UK from Europe.", "correctAnswer": true },
+      {
+        "question": "The UK is a rainy country.",
+        "correctAnswer": true
+      },
+      {
+        "question": "It’s usually wet in the UK.",
+        "correctAnswer": true
+      }
+    ]
+  },{
+    "textTitle": "My Dream Room",
+    "taskText": "I want to tell you about my dream room! There is a big bed in the room. Next to the bed there is a bedside table with a lamp on it. Also there is a table and two chairs next to the table for me and my friends. There are some posters on the walls in my room. On the floor there is a big and colourful rug! There is a soft red armchair in front of the bed for me to sit and relax sometimes! Next to the armchair there is a box with toys! It is my dream!",
+    "taskQuestions": [
+      {
+        "question": "There are three chairs in my room.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I don’t have posters in my room.",
+        "correctAnswer": false
+      },
+      { "question": "There is a soft blue armchair in my room.", "correctAnswer": false },
+      { "question": "I don’t have toys in my room.", "correctAnswer": false },
+      { "question": "There is a small rug in my bedroom.", "correctAnswer": false },
+      {
+        "question": "I don’t have a table in my room.",
+        "correctAnswer": false
+      },
+      {
+        "question": "A bedside table is next to the bed.",
+        "correctAnswer": true
+      },
+      {
+        "question": "A soft red armchair is in front of the bed.",
+        "correctAnswer": true
+      },
+      { "question": "A lamp is on the bedside table.", "correctAnswer": true },
+      { "question": "The bed in my room is big.", "correctAnswer": true },
+      {
+        "question": "The rug in my dream room is big and colourful.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Sometimes I can sit and relax in my armchair.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "textTitle": "My school",
+    "taskText": "My school is near my house. It is very big. My teachers are very good, I like them. There are many classrooms in my school. My classmates are very cool, we chat a lot when we have breaks.",
+    "taskQuestions": [
+      {
+        "question": "My school is far from my house.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I go to school by bus.",
+        "correctAnswer": false
+      },
+      { "question": "I don’t like my teachers.", "correctAnswer": false },
+      { "question": "There is only one classroom in my school.", "correctAnswer": false },
+      { "question": "I don’t talk with my classmates.", "correctAnswer": false },
+      {
+        "question": "My classmates are not funny.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I live near my school.",
+        "correctAnswer": true
+      },
+      {
+        "question": "My teachers are nice people.",
+        "correctAnswer": true
+      },
+      { "question": "My school has a lot of classrooms.", "correctAnswer": true },
+      { "question": "I have fun with my classmates.", "correctAnswer": true },
+      {
+        "question": "I talk a lot with my classmates.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I like my school.",
+        "correctAnswer": true
+      }
+    ]
+  },{
+  "textTitle": "My room",
+  "taskText": "There are four rooms in my flat and my room is the biggest one. There are two windows with nice curtains in it. There is also a bed, a TV, a sofa and a wardrobe in my room. There are two pictures on the wall. I like my room very much.",
+  "taskQuestions": [
+    {
+      "question": "I live in a house.",
+      "correctAnswer": false
+    },
+    {
+      "question": "My flat is small.",
+      "correctAnswer": false
+    },
+    { "question": "My room is the smallest one.", "correctAnswer": false },
+    { "question": "I have three windows without curtains  in my room.", "correctAnswer": false },
+    { "question": "I don’t have a TV in my room.", "correctAnswer": false },
+    {
+      "question": "There is a sofa in the kitchen.",
+      "correctAnswer": false
+    },
+    {
+      "question": "My room isn’t the smallest one.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Curtains in my room look nice.",
+      "correctAnswer": true
+    },
+    { "question": "I can watch TV in my room.", "correctAnswer": true },
+    { "question": "I enjoy my room.", "correctAnswer": true },
+    {
+      "question": "I can see two pictures in my room.",
+      "correctAnswer": true
+    },
+    {
+      "question": "There are four things of furniture in my room.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "A school day",
+  "taskText": "Well, on school days I get up at 7:45. I have breakfast at 8 and I go to school at 8:30. I have lunch in school with my friends, that’s at 12:50 – it’s early in our school. I leave school at 3:30 in the afternoon and I walk home with my friends. I get home at 4:30. I go to bed at 11 o’clock on school days, but not at the weekends.",
+  "taskQuestions": [
+    {
+      "question": "I get up at 7:45 on weekends.",
+      "correctAnswer": false
+    },
+    {
+      "question": "I don’t have breakfast.",
+      "correctAnswer": false
+    },
+    { "question": "I don’t go to school.", "correctAnswer": false },
+    { "question": "I have lunch at home with my family.", "correctAnswer": false },
+    { "question": "I leave school in the evening.", "correctAnswer": false },
+    {
+      "question": "I walk home alone.",
+      "correctAnswer": false
+    },
+    {
+      "question": "We have early lunch at school.",
+      "correctAnswer": true
+    },
+    {
+      "question": "I have breakfast at home.",
+      "correctAnswer": true
+    },
+    { "question": "I go home with my friends.", "correctAnswer": true },
+    { "question": "I go to bed at 11 o’clock on school days.", "correctAnswer": true },
+    {
+      "question": "I go to school after breakfast.",
+      "correctAnswer": true
+    },
+    {
+      "question": "I have lunch at school.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "Different Foods",
+  "taskText": "When Ann is hungry she goes to the kitchen and opens the cupboard. There are a lot of snacks in it. She doesn’t know what she wants. The sandwich is too salty and the lollipop is too sweet. The oranges are too sour and the jam is too bitter. Then, her dad comes and gives her a very tasty ice cream, so Ann is happy.",
+  "taskQuestions": [
+    {
+      "question": "Ann is never hungry.",
+      "correctAnswer": false
+    },
+    {
+      "question": "Ann goes to the living room when she wants to eat.",
+      "correctAnswer": false
+    },
+    { "question": "There is no food in the kitchen.", "correctAnswer": false },
+    { "question": "Ann always knows what she wants to eat.", "correctAnswer": false },
+    { "question": "The sandwich is too bitter.", "correctAnswer": false },
+    {
+      "question": "The jam is too sweet.",
+      "correctAnswer": false
+    },
+    {
+      "question": "There is food in the cupboard.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Ann has many snacks.",
+      "correctAnswer": true
+    },
+    { "question": "Oranges are very sour.", "correctAnswer": true },
+    { "question": "Ann doesn’t like lollipops.", "correctAnswer": true },
+    {
+      "question": "Ann’s dad brings her tasty food.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Ann enjoys ice cream.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "Going to a cafe",
+  "taskText": "Sandra and Paul are at a cafe and a waiter greets them.\n“Here are your menus, do you know what you would like to order?“ the waiter asks.\n“I want pancakes with jam and coffee, please,” Sandra says.\n“I would like meat with potatoes and a cup of tea, please,” Paul says.\nThe waiter quickly returns with food and drinks.",
+  "taskQuestions": [
+    {
+      "question": "Sandra and Paul are at home.",
+      "correctAnswer": false
+    },
+    {
+      "question": "The waiter says goodbye.",
+      "correctAnswer": false
+    },
+    { "question": "Sandra wants sweets.", "correctAnswer": false },
+    { "question": "Paul isn’t hungry.", "correctAnswer": false },
+    { "question": "Paul wants coffee.", "correctAnswer": false },
+    {
+      "question": "The waiter doesn’t give food.",
+      "correctAnswer": false
+    },
+    {
+      "question": "The waiter gives the menus to Sandra and Paul.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Paul asks for tea.",
+      "correctAnswer": true
+    },
+    { "question": "The waiter gives pancakes to Sandra.", "correctAnswer": true },
+    { "question": "Sandra and Paul order food and drinks.", "correctAnswer": true },
+    {
+      "question": "Paul wants to eat potato and meat.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Sandra and Paul don’t wait long.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "The pet store",
+  "taskText": "George is at the pet store and he thinks which animal he wants to get on his Birthday. He wanted to get a horse but his parents said “no”. He sees dogs and cats and he likes them because he can play with them. Then, George sees rabbits, parrots, fish and turtles. He thinks that cats and dogs are too active for him, so George thinks that now he wants a turtle.",
+  "taskQuestions": [
+    {
+      "question": "George thinks which pet he wants to get on Christmas.",
+      "correctAnswer": false
+    },
+    {
+      "question": "George wanted to get a dog.",
+      "correctAnswer": false
+    },
+    { "question": "George’s parents want to give him a horse.", "correctAnswer": false },
+    { "question": "There are no cats and dogs in the store.", "correctAnswer": false },
+    { "question": "There are no rabbits in the store.", "correctAnswer": false },
+    {
+      "question": "Now George wants a parrot.",
+      "correctAnswer": false
+    },
+    {
+      "question": "Parents don’t want to give George a horse.",
+      "correctAnswer": true
+    },
+    {
+      "question": "George likes playing with cats and dogs.",
+      "correctAnswer": true
+    },
+    { "question": "There are rabbits, parrots, fish and turtles in the store.", "correctAnswer": true },
+    { "question": "Cats and dogs are too active for George.", "correctAnswer": true },
+    {
+      "question": "George now wants a turtle.",
+      "correctAnswer": true
+    },
+    {
+      "question": "George is in the pet store.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "Los Angeles",
+  "taskText": "Kate lives in Los Angeles, California. It is a very warm and sunny city, so Kate doesn’t wear sweaters or coats. She can wear T-shirts, shorts, skirts or dresses. Many actors and singers live there and Kate usually sees them in cafes. She wants to be an actress too.",
+  "taskQuestions": [
+    {
+      "question": "Kate lives in Italy.",
+      "correctAnswer": false
+    },
+    {
+      "question": "It is very cold in Los Angeles.",
+      "correctAnswer": false
+    },
+    { "question": "Kate usually wears sweaters.", "correctAnswer": false },
+    { "question": "Kate doesn’t wear dresses.", "correctAnswer": false },
+    { "question": "Kate never sees any actors in the city.", "correctAnswer": false },
+    {
+      "question": "Kate wants to be a doctor.",
+      "correctAnswer": false
+    },
+    {
+      "question": "Kate lives in California.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Kate usually wears skirts, dresses, shorts and T-shirts.",
+      "correctAnswer": true
+    },
+    { "question": "Kate wants to be an actress.", "correctAnswer": true },
+    { "question": "Kate usually sees actors and singers.", "correctAnswer": true },
+    {
+      "question": "It is very warm in Los Angeles.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Los Angeles is a sunny city.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "London",
+  "taskText": "London is the capital of England in the United Kingdom. There are many interesting places in London like parks, streets and buildings. Everyone knows about Big Ben, Buckingham Palace, and the London Eye. The city is very old and nice. Would you like to go there?",
+  "taskQuestions": [
+    {
+      "question": "London is the capital of France.",
+      "correctAnswer": false
+    },
+    {
+      "question": "There are no interesting places in London.",
+      "correctAnswer": false
+    },
+    { "question": "Parks, streets and buildings are not interesting in London.", "correctAnswer": false },
+    { "question": "Not many people know about Big Ben.", "correctAnswer": false },
+    { "question": "London isn’t very old.", "correctAnswer": false },
+    {
+      "question": "London isn’t nice.",
+      "correctAnswer": false
+    },
+    {
+      "question": "London is a very interesting city.",
+      "correctAnswer": true
+    },
+    {
+      "question": "London is the capital of England.",
+      "correctAnswer": true
+    },
+    { "question": "Many people know about Big Ben, Buckingham Palace, and the London Eye.", "correctAnswer": true },
+    { "question": "There are many interesting places in London.", "correctAnswer": true },
+    {
+      "question": "Big Ben, Buckingham Palace, and the London Eye are in London.",
+      "correctAnswer": true
+    },
+    {
+      "question": "The capital of England is old and nice.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "Ecology",
+  "taskText": "Many people do lots of bad things to our nature because they don’t think about it. Our streets are very dirty because people throw away trash there. Let’s clean our nature and streets. Let’s throw away trash like paper, plastic and glass in different trash bins. Together we can think about our nature and do lots of good things!",
+  "taskQuestions": [
+    {
+      "question": "Many people do bad things to our nature because they want it.",
+      "correctAnswer": false
+    },
+    {
+      "question": "Our streets are very clean.",
+      "correctAnswer": false
+    },
+    { "question": "There is no trash in our streets.", "correctAnswer": false },
+    { "question": "It is good to throw trash in the streets.", "correctAnswer": false },
+    { "question": "Trash bins are not for trash.", "correctAnswer": false },
+    {
+      "question": "We can’t do anything good.",
+      "correctAnswer": false
+    },
+    {
+      "question": "People don’t think about our nature.",
+      "correctAnswer": true
+    },
+    {
+      "question": "We can throw paper, glass and plastic in different trash bins.",
+      "correctAnswer": true
+    },
+    { "question": "Together we can do lots of good things.", "correctAnswer": true },
+    { "question": "Together we can clean our streets.", "correctAnswer": true },
+    {
+      "question": "Our streets are very dirty.",
+      "correctAnswer": true
+    },
+    {
+      "question": "People throw away a lot of trash.",
+      "correctAnswer": true
+    }
+  ]
+},{
+  "textTitle": "Halloween",
+  "taskText": "Halloween is an American holiday. People celebrate it on 31st October each year. People wear scary or funny costumes and decorate their houses. Children ask for candies. They visit houses and say: “Trick or Treat!”",
+  "taskQuestions": [
+    {
+      "question": "Halloween is an Italian holiday.",
+      "correctAnswer": false
+    },
+    {
+      "question": "Halloween isn’t a holiday.",
+      "correctAnswer": false
+    },
+    { "question": "People celebrate Halloween on 29th October.", "correctAnswer": false },
+    { "question": "Children ask for vegetables on Halloween.", "correctAnswer": false },
+    { "question": "People don’t wear any costumes on Halloween.", "correctAnswer": false },
+    {
+      "question": "People do not celebrate Halloween.",
+      "correctAnswer": false
+    },
+    {
+      "question": "People celebrate Halloween each year.",
+      "correctAnswer": true
+    },
+    {
+      "question": "Halloween is an autumn holiday.",
+      "correctAnswer": true
+    },
+    { "question": "People like wearing funny and scary costumes on Halloween.", "correctAnswer": true },
+    { "question": "Children play “Trick or Treat” on Halloween.", "correctAnswer": true },
+    {
+      "question": "Children eat lots of candies on Halloween.",
+      "correctAnswer": true
+    },
+    {
+      "question": "People usually decorate their houses on Halloween.",
+      "correctAnswer": true
+    }
+  ]
+}
+]

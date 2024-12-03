@@ -1,0 +1,22 @@
+﻿{
+  "yes": "Igen",
+  "no": "Nem",
+  "start": "Start",
+  "finish": "Vége",
+  "play": "Indít",
+  "next": "Tovább",
+  "restart": "Újra",
+  "tryAgain": "Új próbálkozás",
+  "toChallenge": "Challenge",
+  "finishGame": "Játék befejezése",
+  "newGame": "Új játék",
+  "back": "Vissza",
+  "choosingGame": "Játék kiválasztása",
+  "check": "Ellenőrzés",
+  "settings": "Játék beállításai",
+  "homework": "Otthoni gyakorlás",
+  "reloadPage": "Oldal újratöltése",
+  "exit": "Kilépés",
+  "toTheMain": "Főoldal",
+  "stayInGame": "Játszom még"
+}

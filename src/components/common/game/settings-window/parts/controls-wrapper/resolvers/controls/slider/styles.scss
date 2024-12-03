@@ -1,0 +1,18 @@
+.wrap{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+}
+
+.step{
+  border: 2px solid #41c3d7;
+  border-radius: 1px;
+  background: linear-gradient(90deg, rgba(57,86,102,1) 0%, rgba(34,130,144,1) 50%, rgba(57,86,102,1) 100%);
+  transition: all .3s;
+
+  &_active{
+    filter: drop-shadow(0px 1px 3px #00FFD1) drop-shadow(0px 0px 3px #00FFD1);
+    background: linear-gradient(90deg, rgba(57,86,102,1) 0%, rgb(35, 191, 208) 50%, rgb(57, 86, 102) 100%);
+  }
+}

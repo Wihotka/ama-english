@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "theme": "clothesWeather",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "food",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "in": [
+        ["", "the", "morning"],
+        ["", "Summer"],
+        ["", "August"],
+        ["", "the", "afternoon"],
+        ["", "November"]
+      ],
+      "on": [
+        ["", "Wednesday"],
+        ["", "Tuesday"],
+        ["", "Monday"],
+        ["", "Sunday"],
+        ["", "Friday"]
+      ],
+      "at": [
+        ["", "night"],
+        ["", "weekends"]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "travel",
+    "wrongTheme": "food",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "clothesWeather",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "travel",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/21.png",
+        "words": ["the", "rainbow", "come", "after", "the", "rain."],
+        "answer": "The rainbow comes after the rain."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/22.svg",
+        "words": ["it", "a", "green", "skirt."],
+        "answer": "It is a green skirt."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/23.svg",
+        "words": ["it", "cloudy."],
+        "answer": "It is cloudy."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/24.svg",
+        "words": ["the", "weather", "bad."],
+        "answer": "The weather is bad."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/25.svg",
+        "words": ["she", "like", "autumn."],
+        "answer": "She likes autumn."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "time",
+    "wrongTheme": "food",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/26.svg",
+        "words": ["she", "eat", "many", "fruit."],
+        "answer": "She eats many fruit."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/27.svg",
+        "words": ["he", "drink", "juice."],
+        "answer": "He drinks juice."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/28.svg",
+        "words": ["she", "like", "apples."],
+        "answer": "She likes apples."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/29.png",
+        "words": ["he", "eat", "sandwiches", "for", "breakfast."],
+        "answer": "He eats sandwiches for breakfast."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/30.png",
+        "words": ["he", "like", "eating", "lemons."],
+        "answer": "He likes eating lemons."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "eat": [
+        ["I", "seldom", "", "eggs", "for", "breakfast."],
+        ["We", "seldom", "", "sandwiches", "for", "lunch."],
+        ["They", "usually", "", "meat", "for", "dinner."],
+        ["I", "don't", "usually", "", "meat", "for", "breakfast."],
+        ["Do", "they", "usually", "", "vegetables?"]
+      ],
+      "eats": [
+        ["She", "seldom", "", "vegetables."],
+        ["He", "usually", "", "fruit."],
+        ["It", "usually", "", "carrots."],
+        ["She", "usually", "", "bananas."],
+        ["He", "seldom", "", "apples."]
+      ],
+      "eating": [
+        ["I", "like", "", "sweets."],
+        ["They", "like", "", "fruit."],
+        ["She", "doesn't", "like", "", "cucumbers."],
+        ["He", "does", "not", "like", "", "tomatoes."],
+        ["Does", "he", "like", "", "oranges?"]
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "theme": "time",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "holidays",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "going": [
+        ["We", "like", "", "to", "school."],
+        ["I", "like", "", "to", "the", "park."],
+        ["She", "likes", "", "to", "school", "with", "her", "sister."],
+        ["He", "does", "not", "like", "", "to", "school."],
+        ["Do", "they", "like", "", "to", "the", "park?"]
+      ],
+      "go": [
+        ["They", "", "to", "the", "park", "on", "weekends."],
+        ["I", "", "to", "school", "every", "day."],
+        ["We", "", "to", "our", "grandparents", "every", "summer."],
+        ["I", "do", "not", "", "to", "school."],
+        ["Do", "they", "", "with", "our", "family?"]
+      ],
+      "goes": [
+        ["She", "", "to", "the", "park", "every", "day."],
+        ["She", "usually", "", "to", "her", "parents", "on", "holidays."],
+        ["He", "", "to", "school."],
+        ["He", "", "to", "his", "grandmother", "on", "weekends."],
+        ["She", "", "to", "the", "park", "with", "his", "brother."]
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "theme": "travel",
+    "wrongTheme": "food",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/31.png",
+        "words": ["he", "enjoy", "Christmas."],
+        "answer": "He enjoys Christmas."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/32.png",
+        "words": ["your", "Birthday", "in", "August."],
+        "answer": "Your Birthday is in August."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/33.svg",
+        "words": ["he", "have", "fun."],
+        "answer": "He has fun."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/34.svg",
+        "words": ["she", "visit", "her", "grandparents", "on", "holidays."],
+        "answer": "She visits her grandparents on holidays."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/35.png",
+        "words": ["he", "celebrate", "Easter", "with", "his", "parents."],
+        "answer": "He celebrates Easter with his parents."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "holidays",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "time",
+    "wrongTheme": "food",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "time",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "some": [
+        ["There", "are", "", "flowers", "in", "the", "garden."],
+        ["There", "are", "", "bikes", "near", "the", "house."],
+        ["We", "want", "", "salty", "cookies."],
+        ["Children", "know", "", "good", "songs."],
+        ["", "African", "animals", "can", "live", "in", "zoos."]
+      ],
+      "any": [
+        ["Tim", "can't", "cook", "", "sandwiches."],
+        ["There", "isn't", "", "cheese", "in", "the", "fridge."],
+        ["There", "isn't", "", "butter", "on", "the", "plate."],
+        ["There", "aren't", "", "pictures", "on", "the", "wall."],
+        ["The", "children", "don't", "like", "", "games."]
+      ],
+      "because": [
+        ["I'm", "wearing", "shorts", "", "it", "is", "hot."],
+        ["She", "is", "wearing", "gloves", "", "it's", "cold."],
+        ["He", "is", "wearing", "a", "hat", "", "it's", "sunny."],
+        ["We", "can", "take", "an", "umbrella", "", "it", "is", "rainy."],
+        ["Put", "on", "a", "scarf", "", "it", "is", "windy", "today."]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/36.svg",
+        "words": ["she", "like", "travelling", "by", "plane."],
+        "answer": "She likes travelling by plane."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/37.svg",
+        "words": ["he", "go", "to", "school", "by", "bus."],
+        "answer": "He goes to school by bus."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/38.png",
+        "words": ["my", "father", "go", "to", "work", "by", "car."],
+        "answer": "My father goes to work by car."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/39.png",
+        "words": ["my", "brother", "go", "to", "school", "by", "bike."],
+        "answer": "My brother goes to school by bike."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/40.png",
+        "words": ["she", "meet", "her", "friend", "near", "the", "bus", "stop."],
+        "answer": "She meets her friend near the bus stop."
+      }
+    ]
+  }
+]

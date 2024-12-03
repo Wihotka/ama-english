@@ -1,0 +1,11 @@
+﻿{
+  "somethingWrong": "Hiba történt!",
+  "platformError": "Sajnáljuk, hiba történt a platformon.",
+  "tryReloadPage": "Próbáld meg újra betölteni az oldalt, vagy lépj kapcsolatba az ügyfélszolgálattal!",
+  "ifReloadNotHelpWriteTo": "Ha az oldal újraindítása nem segített, kérünk írj az ügyfélszolgálatnak.",
+  "gameNotAllow": "A játék nem elérhető",
+  "gameNotAllowMessage": "Sajnáljuk, a játék megszakadt, de az oldal újratöltése segíthet. Ha az oldal újratöltése nem segített, kérünk írj az ügyfélszolgálatnak.",
+  "whenGameBroke": "Amíg a játékot javítjuk, addig játszhatsz másik játékkal.",
+  "pageNotFound": "Az oldal nem található.",
+  "pageMoved": "Sajnáljuk, az oldal máshova költözött vagy megszűnt."
+}

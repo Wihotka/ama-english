@@ -1,0 +1,59 @@
+@import 'src/scss/_mixins.scss';
+
+.gameWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+
+  padding-top: 32px;
+  padding-bottom: 18px;
+
+  @include width-1280-L {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  @include width-1280-P {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  @include width-852-P {
+    padding-top: 48px;
+    padding-bottom: 89px;
+  }
+
+  @include width-534-P {
+    padding-top: 64px;
+  }
+
+  @include width-412-P {
+    padding-top: 62px;
+  }
+
+  @include width-360-P {
+    padding-top: 8px;
+  }
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 100%;
+  height: 100%;
+
+  @include width-854-L {
+    justify-content: flex-start;
+  }
+
+  @include width-360-P {
+    justify-content: flex-start;
+  }
+}

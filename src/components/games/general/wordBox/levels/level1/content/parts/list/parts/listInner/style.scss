@@ -1,0 +1,326 @@
+@import 'src/scss/_mixins.scss';
+
+.title {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  height: 44px;
+  margin-bottom: 18px;
+  font-weight: 500;
+  font-size: 22px;
+
+  & > * {
+    line-height: 44px;
+
+    @include width-1280-L {
+      line-height: 32px;
+    }
+    @include width-1280-P {
+      line-height: 32px;
+    }
+
+    @include width-854-L {
+      line-height: 100%;
+    }
+    @include width-534-P {
+      line-height: 100%;
+    }
+  }
+
+  @include width-1280-L {
+    height: 32px;
+    margin-bottom: 6px;
+    font-size: 16px;
+    letter-spacing: 0.01em;
+  }
+  @include width-1280-P {
+    height: 32px;
+    margin-bottom: 6px;
+    font-size: 16px;
+    letter-spacing: 0.01em;
+  }
+
+  @include width-854-L {
+    height: fit-content;
+    margin-bottom: 16px;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  @include width-534-P {
+    height: fit-content;
+    margin-bottom: 2px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 110%;
+    text-align: center;
+  }
+
+  @include width-732-L {
+    margin-bottom: 4px;
+    font-size: 18px;
+  }
+  @include width-412-P {
+    font-size: 18px;
+    line-height: 120%;
+  }
+
+  & > span {
+    font-weight: 500;
+    font-size: 22px;
+
+    @include width-1280-L {
+      font-size: 16px;
+    }
+    @include width-1280-P {
+      font-size: 16px;
+    }
+
+    @include width-854-L {
+      font-weight: 600;
+      font-size: 20px;
+    }
+    @include width-534-P {
+      font-weight: 600;
+      font-size: 20px;
+    }
+
+    @include width-732-L {
+      font-size: 18px;
+      letter-spacing: 0.01em;
+    }
+    @include width-412-P {
+      font-size: 18px;
+      letter-spacing: 0.01em;
+    }
+  }
+}
+
+.theme {
+  margin-bottom: 20px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0.01em;
+
+  @include width-1280-L {
+    margin-bottom: 14px;
+    font-size: 14px;
+  }
+  @include width-1280-P {
+    margin-bottom: 14px;
+    font-size: 14px;
+  }
+
+  @include width-854-L {
+    margin-bottom: 8px;
+    font-size: 16px;
+  }
+  @include width-534-P {
+    display: none;
+  }
+
+  @include width-732-L {
+    margin-bottom: 4px;
+  }
+
+  & > span {
+    &:last-child {
+      font-weight: 400;
+      font-size: 18px;
+
+      @include width-1280-L {
+        font-size: 13px;
+      }
+      @include width-1280-P {
+        font-size: 13px;
+      }
+
+      @include width-854-L {
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+.subtitle {
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 20px;
+
+  @include width-1280-L {
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+  @include width-1280-P {
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+
+  @include width-854-L() {
+    margin-bottom: 4px;
+    text-align: center;
+    font-size: 18px;
+  }
+  @include width-534-P() {
+    margin-bottom: 4px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 110%;
+  }
+
+  @include width-732-L {
+    margin-bottom: 2px;
+    font-size: 16px;
+  }
+  @include width-412-P {
+    margin-bottom: 2px;
+    font-size: 16px;
+    line-height: 120%;
+  }
+}
+
+.number {
+  @include titleM();
+
+  font-weight: 800 !important;
+  font-size: 34px !important;
+
+  @include width-1280-L {
+    font-size: 26px !important;
+  }
+  @include width-1280-P {
+    font-size: 26px !important;
+  }
+
+  @include width-732-L {
+    font-size: 20px !important;
+  }
+  @include width-412-P {
+    font-size: 20px !important;
+  }
+}
+
+.wordsWrap {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  @include width-1280-L {
+    gap: 7px;
+  }
+  @include width-1280-P {
+    gap: 7px;
+  }
+
+  @include width-854-L {
+    gap: 8px;
+  }
+  @include width-534-P {
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2px 24px;
+    width: 100%;
+    padding: 0 36px;
+  }
+
+  @include width-732-L {
+    gap: 4px;
+  }
+  @include width-412-P {
+    gap: 4px 16px;
+    padding: 0 16px;
+  }
+}
+
+.wordWrap {
+  display: flex;
+  align-items: center;
+
+  @include width-854-L {
+    border: none !important;
+    text-align: center;
+  }
+  @include width-534-P {
+    border-bottom: none!important;
+  }
+}
+
+.word {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 28px;
+
+  @include bodyRegular140Font();
+
+  @include width-1280-L {
+    height: 22px;
+  }
+  @include width-1280-P {
+    height: 22px;
+  }
+
+  @include width-854-L {
+    height: fit-content;
+  }
+  @include width-534-P {
+    height: fit-content;
+    line-height: 110%;
+  }
+
+  @include width-412-P {
+    line-height: 120%;
+  }
+}
+
+.crossLine {
+  position: absolute;
+  height: 2px;
+  border-radius: 2px;
+  width: calc(100% + 16px);
+  transform: translateY(-20%);
+
+  background: var(--static-main-color1);
+}
+
+.additionalWord {
+  position: absolute;
+  bottom: 24px;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.01em;
+
+  @include width-1280-L {
+    bottom: 26px;
+    left: 12px;
+    font-size: 14px;
+  }
+  @include width-1280-P {
+    bottom: 26px;
+    left: 12px;
+    font-size: 14px;
+  }
+
+  @include width-854-L {
+    bottom: 8px;
+    left: 16px;
+  }
+  @include width-534-P {
+    bottom: 0;
+    left: auto;
+    font-size: 13px;
+  }
+
+  @include width-732-L {
+    bottom: 4px;
+    left: auto;
+    font-size: 12px;
+  }
+  @include width-412-P {
+    font-size: 11px;
+  }
+}

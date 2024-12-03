@@ -1,0 +1,18 @@
+.select{
+  width: 100%;
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 0;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(0,0,0,0);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #F1D45D;
+    margin: 5px;
+    padding: 5px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+}

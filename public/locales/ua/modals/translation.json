@@ -1,0 +1,48 @@
+{
+  "gameStart": {
+    "youCanDo": "Ти маєш право на",
+    "textErrors": ["помилку", "помилки", "помилок"],
+    "noErrors": "Не допускай помилок",
+    "completeTaskFor": "Заверши гру за",
+    "give": "Дай",
+    "rightAnswers": "правильних відповідей",
+    "textAnswers": ["відповідь", "відповіді", "відповідей"],
+    "textRight": ["правильний", "правильних", "правильних"],
+    "right": "правильних",
+    "min": "хв",
+    "sec": "сек"
+  },
+  "gameFinish": {
+    "successTrue": "Молодець",
+    "successFalse": "Завдання не виконано",
+    "successSmallTrue": "Завдання виконано",
+    "successSmallFalse": "Спробуй ще раз",
+    "saving": "Результат зберігається",
+    "failSave": "Результат не збережено",
+    "successSave": "Результат збережено",
+    "writeToHelp": "Зверніться в техпідтримку",
+    "min": "хв",
+    "sec": "сек",
+    "indicators":{
+      "rightAnswersQty": "Кількість правильних відповідей",
+      "wrongAnswersQty": "Кількість неправильних відповідей",
+      "gameTime": "Час гри",
+      "speed": "Швидкість",
+      "readingSyllablesSpeed": "Швидкість читання (складів/хв)",
+      "readingWordsSpeed": "Швидкість читання (слів/хв)",
+      "pointsQty": "Кількість балів"
+    }
+  },
+  "template": {
+    "settings": "Налаштування",
+    "level": "Рівень",
+    "description": "Опис гри",
+    "selectedSettings": "Вибрані налаштування",
+    "levelsNames": {
+      "marathon": "Марафон",
+      "faultless": "Безпомилковий",
+      "fittings": "Підганялки",
+      "free": "Вільний"
+    }
+  }
+}

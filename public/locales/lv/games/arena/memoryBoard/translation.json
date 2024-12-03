@@ -1,0 +1,7 @@
+{
+  "taskName": {
+    "online": "Atrodiet visus atbilstošos pārus, cik ātri vien iespējams. Kartes jāatver pa vienai. Par katru pareizo pāri var iegūt 2 punktus. Lai uzvarētu, spēle ir jāpabeidz ātrāk nekā sāncensis. Spēle tiks pabeigta, kad spēles laukumā vairs nebūs nevienas kārtis.",
+    "offline": "Atrodiet visus atbilstošos karšu pārus. Kartes jāatver pa vienai. Katram spēlētājam tiek dotas 10 sekundes, lai veiktu kārtu. Par katru pareizo pāri varat iegūt 2 punktus un papildu laiku. Lai uzvarētu spēli, jums ir jāatrod vairāk pareizo pāru un jāiegūst vairāk punktu nekā jūsu sāncensis. Spēle tiks pabeigta, kad spēles laukumā vairs nebūs nevienas kārtis."
+  },
+  "time": "Kopējais spēles laiks: 5 min."
+}

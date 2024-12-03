@@ -1,0 +1,11 @@
+dist
+.idea
+.idea/
+node_modules
+coverage
+package-lock.json
+.idea/workspace.xml
+.idea/vcs.xml
+.vscode/settings.json
+.DS_store
+/.prettierrc.json

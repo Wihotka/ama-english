@@ -1,0 +1,308 @@
+[
+  {
+    "question": "it a big house.",
+    "correctAnswers": ["It is a big house", "It's a big house"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it hot.",
+    "correctAnswers": ["It is hot", "It's hot"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it cloudy.",
+    "correctAnswers": ["It is cloudy", "It's cloudy"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it sweet.",
+    "correctAnswers": ["It is sweet", "It's sweet"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it black.",
+    "correctAnswers": ["It is black", "It's black"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it a triangle.",
+    "correctAnswers": ["It is a triangle", "It's a triangle"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it a star.",
+    "correctAnswers": ["It is a star", "It's a star"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it windy.",
+    "correctAnswers": ["It is windy", "It's windy"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "the weather bad.",
+    "correctAnswers": ["The weather is bad"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "this orange tasty.",
+    "correctAnswers": ["This orange is tasty"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "our family big.",
+    "correctAnswers": ["Our family is big"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "this ship small.",
+    "correctAnswers": ["This ship is small"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "my bedroom small.",
+    "correctAnswers": ["My bedroom is small"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "the window in their room big.",
+    "correctAnswers": ["The window in their room is big"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "her eyes brown.",
+    "correctAnswers": ["Her eyes are brown"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "your birthday in August.",
+    "correctAnswers": ["Your birthday is in August"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "the skirt green.",
+    "correctAnswers": ["The skirt is green"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "the skirt not green.",
+    "correctAnswers": ["The skirt is not green", "The skirt isn't green"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not windy.",
+    "correctAnswers": ["It is not windy", "It isn't windy"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "her birthday not in August.",
+    "correctAnswers": ["Her birthday is not in August", "Her birthday isn't in August"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "her eyes not brown.",
+    "correctAnswers": ["Her eyes are not brown", "Her eyes aren't brown"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "the window in their room not big.",
+    "correctAnswers": ["The window in their room is not big", "The window in their room isn't big"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "my bedroom not small.",
+    "correctAnswers": ["My bedroom is not small", "My bedroom isn't small"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "this ship not big.",
+    "correctAnswers": ["This ship is not big", "This ship isn't big"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "our family not big.",
+    "correctAnswers": ["Our family is not big", "Our family isn't big"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not a star.",
+    "correctAnswers": ["It is not a star", "It isn't a star"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not a triangle.",
+    "correctAnswers": ["It is not a triangle", "It isn't a triangle"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not black.",
+    "correctAnswers": ["It is not black", "It isn't black"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "this pear not tasty.",
+    "correctAnswers": ["This pear is not tasty", "This pear isn't tasty"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not sweet.",
+    "correctAnswers": ["It is not sweet", "It isn't sweet"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "the weather not bad.",
+    "correctAnswers": ["The weather is not bad", "The weather isn't bad"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not cloudy.",
+    "correctAnswers": ["It is not cloudy", "It isn't cloudy"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not hot.",
+    "correctAnswers": ["It is not hot", "It isn't hot"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not a big house.",
+    "correctAnswers": ["It is not a big house", "It isn't a big house"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "this ship big?",
+    "correctAnswers": ["Is this ship big"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "my bedroom small?",
+    "correctAnswers": ["Is my bedroom small"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "the window in their room big?",
+    "correctAnswers": ["Is the window in their room big"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "your birthday in August?",
+    "correctAnswers": ["Is your birthday in August"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "the skirt green?",
+    "correctAnswers": ["Is the skirt green"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it windy?",
+    "correctAnswers": ["Is it windy"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "our family big?",
+    "correctAnswers": ["Is our family big"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it a star?",
+    "correctAnswers": ["Is it a star"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it a triangle?",
+    "correctAnswers": ["Is it a triangle"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it black?",
+    "correctAnswers": ["Is it black"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it sweet?",
+    "correctAnswers": ["Is it sweet"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it cloudy?",
+    "correctAnswers": ["Is it cloudy"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it hot?",
+    "correctAnswers": ["Is it hot"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it a big house?",
+    "correctAnswers": ["Is it a big house"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "the weather bad?",
+    "correctAnswers": ["Is the weather bad"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "this apple tasty?",
+    "correctAnswers": ["Is this apple tasty"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "her eyes brown?",
+    "correctAnswers": ["Are her eyes brown"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  }
+]

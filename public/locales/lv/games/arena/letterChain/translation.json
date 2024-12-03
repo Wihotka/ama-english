@@ -1,0 +1,10 @@
+{
+  "taskName": {
+    "online": "No dotajiem burtiem jāizveido pēc iespējas vairāk vārdu. Vārdiem jābūt vismaz 3 burtu gariem. Par katru vārdu var iegūt 2 punktus. Ja nevarat atrast jaunus vārdus, varat atjaunināt spēles laukumu un turpināt spēli.",
+    "offline": "Savukārt no dotajiem burtiem veido vārdus. Vārdiem jābūt vismaz 3 burtu gariem. Par katru vārdu var iegūt 2 punktus. Ja nevarat atrast jaunus vārdus, varat atjaunināt spēles laukumu un turpināt spēli. Katram spēlētājam ir dotas 30 sekundes, lai veiktu kārtu."
+  },
+  "time": {
+    "online": "Kopējais spēles laiks: 3 min.",
+    "offline": "Kopējais spēles laiks: 5 min."
+  }
+}

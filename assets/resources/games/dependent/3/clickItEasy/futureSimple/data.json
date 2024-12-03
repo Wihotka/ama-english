@@ -1,0 +1,362 @@
+[
+  {
+    "sentence": "You will be a policeman one day.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/1.png"
+  },
+  {
+    "sentence": "Will you be a policeman?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/1.png"
+  },
+  {
+    "sentence": "I will buy a new car next month.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/2.png"
+  },
+  {
+    "sentence": "I will not buy a new car next month.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/2.png"
+  },
+  {
+    "sentence": "Will I buy a new car next month?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/2.png"
+  },
+  {
+    "sentence": "I will try to come to your birthday party.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/3.png"
+  },
+  {
+    "sentence": "Will he try to come to your birthday party?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/3.png"
+  },
+  {
+    "sentence": "She'll go to the cinema with us.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/4.svg"
+  },
+  {
+    "sentence": "She won't go to the cinema with us.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/4.svg"
+  },
+  {
+    "sentence": "Will she go to the cinema with us?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/4.svg"
+  },
+  {
+    "sentence": "Her son will be a great lawyer in the future.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/5.png"
+  },
+  {
+    "sentence": "Will her son be a great lawyer?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/5.png"
+  },
+  {
+    "sentence": "Max will spend holiday in France next year.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/6.png"
+  },
+  {
+    "sentence": "Max won't spend holidays in France next year.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/6.png"
+  },
+  {
+    "sentence": "Will Max spend his holidays in France?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/6.png"
+  },
+  {
+    "sentence": "My mom will make us breakfast in the morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/7.png"
+  },
+  {
+    "sentence": "My mom won't make us breakfast in the morning.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/7.png"
+  },
+  {
+    "sentence": "Will my mom make us breakfast in the morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/7.png"
+  },
+  {
+    "sentence": "We'll go to the theatre together tonight.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/8.png"
+  },
+  {
+    "sentence": "We will not go to the theatre together tonight.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/8.png"
+  },
+  {
+    "sentence": "Will we go to the theatre together tonight?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/8.png"
+  },
+  {
+    "sentence": "She will play tennis at the sports club.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/9.png"
+  },
+  {
+    "sentence": "She won't play tennis at the sports club.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/9.png"
+  },
+  {
+    "sentence": "Will she play tennis at the sports club?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/9.png"
+  },
+  {
+    "sentence": "I will become a famous actor in ten years.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/10.png"
+  },
+  {
+    "sentence": "I will not become a famous actor in ten years.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/10.png"
+  },
+  {
+    "sentence": "Will I become a famous actor in ten years?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/10.png"
+  },
+  {
+    "sentence": "I will travel to China in two years.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/11.png"
+  },
+  {
+    "sentence": "I won't travel to China in two years.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/11.png"
+  },
+  {
+    "sentence": "Will I travel to China in two years?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/11.png"
+  },
+  {
+    "sentence": "My brother will study Geography at the university.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/12.png"
+  },
+  {
+    "sentence": "My brother will not study Geography at the university.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/12.png"
+  },
+  {
+    "sentence": "Will my brother study Geography at the university?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/12.png"
+  },
+  {
+    "sentence": "I will read these stories in the train.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/13.png"
+  },
+  {
+    "sentence": "I won't read these stories in the train.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/13.png"
+  },
+  {
+    "sentence": "Will he read these stories in the train?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/13.png"
+  },
+  {
+    "sentence": "My sister will play the guitar with our dad.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/14.png"
+  },
+  {
+    "sentence": "My sister will not play the guitar with our dad.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/14.png"
+  },
+  {
+    "sentence": "Will my sister play the guitar  with our dad?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/14.png"
+  },
+  {
+    "sentence": "I will visit 50 countries in ten years.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/15.png"
+  },
+  {
+    "sentence": "I will not visit 50 countries in ten years.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/15.png"
+  },
+  {
+    "sentence": "Will I visit 50 countries in ten years?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/15.png"
+  },
+  {
+    "sentence": "We will take the children to the park.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/16.png"
+  },
+  {
+    "sentence": "We won't take the children to the park.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/16.png"
+  },
+  {
+    "sentence": "Will we take the children to the park?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/16.png"
+  },
+  {
+    "sentence": "My friends will have an exam next week.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/17.png"
+  },
+  {
+    "sentence": "My friends will not have an exam next week.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/17.png"
+  },
+  {
+    "sentence": "Will my friends have an exam next week?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/17.png"
+  },
+  {
+    "sentence": "I will be 30 years old next week.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/18.png"
+  },
+  {
+    "sentence": "I will not be 30 years old next week.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/18.png"
+  },
+  {
+    "sentence": "Will he be 30 years old next week?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/18.png"
+  },
+  {
+    "sentence": "I will wait for you at the bus stop.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/19.png"
+  },
+  {
+    "sentence": "I won't wait for you at the bus stop.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/19.png"
+  },
+  {
+    "sentence": "Will she wait for you at the bus stop?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/19.png"
+  },
+  {
+    "sentence": "She will wear a green dress for the festival.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/20.png"
+  },
+  {
+    "sentence": "She will not wear a green dress for the festival.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/20.png"
+  },
+  {
+    "sentence": "Will she wear a green dress for the festival?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/20.png"
+  },
+  {
+    "sentence": "She'll write a letter to her best friend.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/21.png"
+  },
+  {
+    "sentence": "She won't write a letter to her best friend.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/21.png"
+  },
+  {
+    "sentence": "Will she write a letter to her best friend?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/21.png"
+  },
+  {
+    "sentence": "They'll watch a football match at the stadium.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/22.png"
+  },
+  {
+    "sentence": "They will not watch a football match at the stadium.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/22.png"
+  },
+  {
+    "sentence": "Will they watch a football match at the stadium?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/22.png"
+  },
+  {
+    "sentence": "I will help my friends with their homework.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/23.png"
+  },
+  {
+    "sentence": "Max won't help his friends with their homework.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/23.png"
+  },
+  {
+    "sentence": "Will Max help his friends with their homework?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/23.png"
+  },
+  {
+    "sentence": "I will take a photo of you near the castle.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/24.png"
+  },
+  {
+    "sentence": "He won't take a photo of me near the castle.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/24.png"
+  },
+  {
+    "sentence": "Will he take a photo of me near the castle?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/24.png"
+  },
+  {
+    "sentence": "We'll have pizza and salad for dinner.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/25.png"
+  },
+  {
+    "sentence": "We will not have pizza and salad for dinner.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/25.png"
+  },
+  {
+    "sentence": "Will we have pizza and salad for dinner?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/futureSimple/25.png"
+  }
+]

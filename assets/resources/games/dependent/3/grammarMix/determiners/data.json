@@ -1,0 +1,55 @@
+[
+  {
+    "correctAnswer": "some",
+    "incorrectAnswers": "any",
+    "question": [
+      "There are _____ # tomatoes in the fridge .",
+      "I have _____ # favourite colours .",
+      "There are 2 stars and _____ # hearts in the picture .",
+      "She knows _____ # letters .",
+      "He reads _____ # books .",
+      "Sarah can cook _____ # snacks .",
+      "Robin can hug _____ # toys .",
+      "My family has got _____ # pets .",
+      "There are _____ # flowers in the garden .",
+      "There are _____ # bikes near the house .",
+      "We want _____ # salty cookies .",
+      "Children know _____ # good songs .",
+      "_____ # African animals can live in zoos .",
+      "_____ # eating habits are good .",
+      "Caleb, give me _____ # cheese, please .",
+      "I can see _____ # hares near the tree ."
+    ]
+  },
+  {
+    "correctAnswer": "any",
+    "incorrectAnswers": "some",
+    "question": [
+      "There aren't _____ # cucumbers in the salad .",
+      "We haven't got _____ # vegetables in the fridge .",
+      "There aren't _____ # girls in the room .",
+      "I don't like _____ # games .",
+      "Rose can't do _____ # puzzles .",
+      "Tim can't cook _____ # sandwiches .",
+      "There isn't _____ # cheese in the fridge .",
+      "There isn't _____ # butter on the plate .",
+      "There aren't _____ # pictures on the wall .",
+      "The children don't like _____ # games .",
+      "Can you play _____ # games ?",
+      "Can she read _____ # letters ?",
+      "Can Sam touch _____ # computers in the room ?",
+      "Can your friends sing _____ # songs ?",
+      "Have you got _____ # favourite animals ?",
+      "Has Amy got _____ # toys ?",
+      "Have you got _____ # lessons in the evening ?",
+      "Do Steve and Fiona like playing _____ # games ?",
+      "Have you got _____ # eating habits ?",
+      "There aren't _____ # sunny days in autumn .",
+      "I can't see _____ # boys in the kitchen .",
+      "Have you got _____ # pears ?",
+      "Has she got _____ # red pencils ?",
+      "Do you want _____ # cucumbers for lunch ?",
+      "Do we have _____ # milk in the bottle ?"
+    ]
+  }
+]

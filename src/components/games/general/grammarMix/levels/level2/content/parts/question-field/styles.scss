@@ -1,0 +1,105 @@
+@import 'src/scss/_mixins.scss';
+
+.question {
+  width: 100%;
+  padding: 85px 55px;
+
+  text-align: center;
+
+  border-radius: 32px;
+
+  background: #FFFFFF;
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.32);
+
+  transition: all 1000ms ease-out;
+
+  opacity: 0;
+
+  @include width-1280-L {
+    padding: 55px 40px;
+  }
+  @include width-1280-P {
+    padding: 55px 40px;
+  }
+  @include width-852-P {
+    padding: 40px;
+  }
+
+  @include width-1000-L {
+    padding: 32px 40px;
+  }
+
+  @include width-732-L {
+    padding: 32px;
+  }
+  @include width-412-P {
+    padding: 32px;
+  }
+
+  @include width-640-L {
+    padding: 32px 24px;
+  }
+  @include width-360-P {
+    padding: 40px 24px;
+  }
+}
+
+.underlining {
+  display: inline-block;
+  @include titleM;
+  width: 80px;
+
+  margin-left: 8px;
+}
+
+
+.word {
+  display: inline-block;
+  @include titleM;
+  margin-top: 5px;
+  margin-left: 8px;
+
+  white-space: nowrap;
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-left: 0;
+  }
+}
+
+.mark {
+  display: inline;
+  @include titleM;
+  margin-right: 8px;
+  white-space: nowrap;
+}
+
+.variantsAnswer {
+  display: inline-block;
+  @include titleM;
+  margin-left: 8px;
+  color: #38166D;
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-left: 0;
+  }
+}
+
+.successField {
+  box-shadow: 0 0 16px rgba(114, 255, 128, 0.88),
+  0 0 80px #72FF80, 4px 8px 24px rgba(56, 22, 109, 0.32);
+}
+
+.view {
+  opacity: 1;
+}
+
+.cap {
+  text-transform: capitalize;
+}

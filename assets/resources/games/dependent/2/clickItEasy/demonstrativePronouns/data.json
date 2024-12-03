@@ -1,0 +1,422 @@
+[
+  {
+    "sentence": "This cat is mine.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/1.png"
+  },
+  {
+    "sentence": "This cat is not mine.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/1.png"
+  },
+  {
+    "sentence": "Is this cat mine?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/1.png"
+  },
+  {
+    "sentence": "This is my father's phone.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/2.png"
+  },
+  {
+    "sentence": "This isn't my father's phone.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/2.png"
+  },
+  {
+    "sentence": "Is this my father's phone?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/2.png"
+  },
+  {
+    "sentence": "This house is big.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/3.png"
+  },
+  {
+    "sentence": "This house is not big.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/3.png"
+  },
+  {
+    "sentence": "Is this house big?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/3.png"
+  },
+  {
+    "sentence": "This flower is nice.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/4.png"
+  },
+  {
+    "sentence": "This flower isn't nice.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/4.png"
+  },
+  {
+    "sentence": "Is this flower nice?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/4.png"
+  },
+  {
+    "sentence": "This book is interesting.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/5.png"
+  },
+  {
+    "sentence": "This book is not interesting.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/5.png"
+  },
+  {
+    "sentence": "Is this book interesting?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/5.png"
+  },
+  {
+    "sentence": "I drive this car.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/6.png"
+  },
+  {
+    "sentence": "I don't drive this car.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/6.png"
+  },
+  {
+    "sentence": "Do I drive this car?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/6.png"
+  },
+  {
+    "sentence": "This crayon is orange.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/7.png"
+  },
+  {
+    "sentence": "This crayon is not red.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/7.png"
+  },
+  {
+    "sentence": "Is this crayon orange?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/7.png"
+  },
+  {
+    "sentence": "This rabbit is sweet.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/8.png"
+  },
+  {
+    "sentence": "This rabbit is not sweet.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/8.png"
+  },
+  {
+    "sentence": "Is this rabbit sweet?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/8.png"
+  },
+  {
+    "sentence": "That cat is yours.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/9.png"
+  },
+  {
+    "sentence": "That cat isn't yours.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/9.png"
+  },
+  {
+    "sentence": "Is that cat yours?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/9.png"
+  },
+  {
+    "sentence": "That is my phone.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/10.png"
+  },
+  {
+    "sentence": "That is not my phone.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/10.png"
+  },
+  {
+    "sentence": "Is that my phone?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/10.png"
+  },
+  {
+    "sentence": "That house is brown.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/11.png"
+  },
+  {
+    "sentence": "That house is not green.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/11.png"
+  },
+  {
+    "sentence": "Is that house brown?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/11.png"
+  },
+  {
+    "sentence": "That flower is nice.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/12.png"
+  },
+  {
+    "sentence": "That flower is not nice.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/12.png"
+  },
+  {
+    "sentence": "Is that flower nice?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/12.png"
+  },
+  {
+    "sentence": "That book is interesting.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/13.png"
+  },
+  {
+    "sentence": "That book isn't interesting.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/13.png"
+  },
+  {
+    "sentence": "Is that book interesting?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/13.png"
+  },
+  {
+    "sentence": "My father drives that car.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/14.png"
+  },
+  {
+    "sentence": "My father does not drive that car.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/14.png"
+  },
+  {
+    "sentence": "Does my father drive that car?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/14.png"
+  },
+  {
+    "sentence": "That crayon is orange.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/15.png"
+  },
+  {
+    "sentence": "That crayon isn't black.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/15.png"
+  },
+  {
+    "sentence": "Is that crayon orange?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/15.png"
+  },
+  {
+    "sentence": "That rabbit is sweet.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/16.png"
+  },
+  {
+    "sentence": "That rabbit is not sweet.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/16.png"
+  },
+  {
+    "sentence": "Is that rabbit sweet?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/16.png"
+  },
+  {
+    "sentence": "These cats are mine.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/17.png"
+  },
+  {
+    "sentence": "These cats are not mine.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/17.png"
+  },
+  {
+    "sentence": "Are these cats mine?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/17.png"
+  },
+  {
+    "sentence": "These are my parents' phones.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/18.png"
+  },
+  {
+    "sentence": "These aren't my parents' phones.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/18.png"
+  },
+  {
+    "sentence": "Are these my parents' phones?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/18.png"
+  },
+  {
+    "sentence": "These flowers are for my sister.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/19.png"
+  },
+  {
+    "sentence": "These flowers are not for my sister.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/19.png"
+  },
+  {
+    "sentence": "Are these flowers for my sister?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/19.png"
+  },
+  {
+    "sentence": "These are my sister's books.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/20.png"
+  },
+  {
+    "sentence": "These are not my sister's books.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/20.png"
+  },
+  {
+    "sentence": "Are these my sister's books?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/20.png"
+  },
+  {
+    "sentence": "These cars are red.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/21.png"
+  },
+  {
+    "sentence": "These cars aren't yellow.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/21.png"
+  },
+  {
+    "sentence": "Are these cars red?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/21.png"
+  },
+  {
+    "sentence": "These crayons are colourful.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/22.png"
+  },
+  {
+    "sentence": "These crayons are not brown.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/22.png"
+  },
+  {
+    "sentence": "Are these crayons colourful?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/22.png"
+  },
+  {
+    "sentence": "Those cats are yours.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/23.png"
+  },
+  {
+    "sentence": "Those cats are not yours.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/23.png"
+  },
+  {
+    "sentence": "Are those cats yours?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/23.png"
+  },
+  {
+    "sentence": "Those are my friends' phones.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/24.png"
+  },
+  {
+    "sentence": "Those aren't my friends' phones.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/24.png"
+  },
+  {
+    "sentence": "Are those my friends' phones?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/24.png"
+  },
+  {
+    "sentence": "Those flowers are for my mum.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/25.png"
+  },
+  {
+    "sentence": "Those flowers are not for my mum.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/25.png"
+  },
+  {
+    "sentence": "Are those flowers for my mum?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/25.png"
+  },
+  {
+    "sentence": "Those are my brother's books.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/26.png"
+  },
+  {
+    "sentence": "Those are not my brother's books.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/26.png"
+  },
+  {
+    "sentence": "Are those my brother's books?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/26.png"
+  },
+  {
+    "sentence": "Those cars are red.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/27.png"
+  },
+  {
+    "sentence": "These cars aren't grey.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/27.png"
+  },
+  {
+    "sentence": "Are those cars red?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/27.png"
+  },
+  {
+    "sentence": "Those crayons are colourful.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/28.png"
+  },
+  {
+    "sentence": "Those crayons are not brown.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/28.png"
+  },
+  {
+    "sentence": "Are those crayons colourful?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/demonstrativePronouns/28.png"
+  }
+]

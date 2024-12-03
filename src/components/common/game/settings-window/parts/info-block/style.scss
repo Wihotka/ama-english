@@ -1,0 +1,54 @@
+@import '/src/scss/_mixins';
+
+.infoBlock{
+  display: flex;
+  flex-wrap: wrap;
+  //justify-content: center;
+  //flex: 1 0 auto;
+  flex-direction: column;
+  max-width: 100%;
+  width: 100%;
+
+  //align-self: stretch;
+
+  &__descr{
+    flex: 1 0 auto;
+  }
+
+  &__item{
+    margin-bottom: 24px;
+  }
+
+
+  &__textsWrapper{
+    width: 100%;
+  }
+
+  &__text{
+    font-size: 16px;
+    min-height: 10px;
+    margin-bottom: 8px;
+    color: #FFFFFF;
+    line-height: 140%;
+  }
+
+  &__bottom{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex: 1 0 100%;
+    margin-top: 20px;
+    font-style: italic;
+  }
+}
+
+.items{
+  //display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.infoCardTexts{
+  padding-right: 13px;
+  overflow: auto;
+}

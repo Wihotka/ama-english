@@ -1,0 +1,402 @@
+[
+  {
+    "sentence": "They were singing when I entered the room.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/1.png"
+  },
+  {
+    "sentence": "They were not singing when I entered the room.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/1.png"
+  },
+  {
+    "sentence": "Were they singing when you entered the room?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/1.png"
+  },
+  {
+    "sentence": "I was eating breakfast when the phone rang.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/2.png"
+  },
+  {
+    "sentence": "I was not eating breakfast when the phone rang.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/2.png"
+  },
+  {
+    "sentence": "Were you eating breakfast when the phone rang?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/2.png"
+  },
+  {
+    "sentence": "He was driving home when I saw him.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/3.png"
+  },
+  {
+    "sentence": "He was not driving home when I saw him.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/3.png"
+  },
+  {
+    "sentence": "Was he driving when you saw him?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/3.png"
+  },
+  {
+    "sentence": "I took a photo when she was playing the guitar.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/4.png"
+  },
+  {
+    "sentence": "This time last year, he was living in London.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/5.png"
+  },
+  {
+    "sentence": "This time last year, he wasn't living in London.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/5.png"
+  },
+  {
+    "sentence": "It was snowing when we left the building.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/6.png"
+  },
+  {
+    "sentence": "It wasn't snowing when we left the building.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/6.png"
+  },
+  {
+    "sentence": "Was it snowing when we left the building?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/6.png"
+  },
+  {
+    "sentence": "They were looking at the clock during the test.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/7.png"
+  },
+  {
+    "sentence": "They were not looking at the clock during the test.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/7.png"
+  },
+  {
+    "sentence": "Were they looking at the clock during the test?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/7.png"
+  },
+  {
+    "sentence": "She was cooking fish when I called her.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/8.png"
+  },
+  {
+    "sentence": "She wasn't cooking fish when I called her.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/8.png"
+  },
+  {
+    "sentence": "Was she cooking fish when you called her?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/8.png"
+  },
+  {
+    "sentence": "They were studying when I came to visit them.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/9.png"
+  },
+  {
+    "sentence": "They were not studying when I came to visit them.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/9.png"
+  },
+  {
+    "sentence": "Were they studying when you came to visit them?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/9.png"
+  },
+  {
+    "sentence": "She was playing volleyball when she hurt her knee.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/10.png"
+  },
+  {
+    "sentence": "She was not playing volleyball when she hurt her knee.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/10.png"
+  },
+  {
+    "sentence": "Was she playing volleyball when she hurt her knee?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/10.png"
+  },
+  {
+    "sentence": "They were watching a football match that evening.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/11.png"
+  },
+  {
+    "sentence": "They were not watching a football match that evening.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/11.png"
+  },
+  {
+    "sentence": "Were they watching a football match that evening?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/11.png"
+  },
+  {
+    "sentence": "They were running in the park when he fell.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/12.png"
+  },
+  {
+    "sentence": "They were not running in the park when he fell.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/12.png"
+  },
+  {
+    "sentence": "Were they running in the park when he fell?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/12.png"
+  },
+  {
+    "sentence": "They were crossing the road when the car appeared.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/13.png"
+  },
+  {
+    "sentence": "They were not crossing the road when the car appeared.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/13.png"
+  },
+  {
+    "sentence": "Were they crossing the road when the car appeared?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/13.png"
+  },
+  {
+    "sentence": "My husband was reading in the living room this morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/14.png"
+  },
+  {
+    "sentence": "My husband wasn't reading in the living room this morning.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/14.png"
+  },
+  {
+    "sentence": "Was my husband reading in the living room this morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/14.png"
+  },
+  {
+    "sentence": "They were playing a concert when the lights turned off.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/15.png"
+  },
+  {
+    "sentence": "They were not playing a concert when the lights turned off.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/15.png"
+  },
+  {
+    "sentence": "Were they playing a concert when the lights turned off?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/15.png"
+  },
+  {
+    "sentence": "They were washing the dishes when dad came home.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/16.png"
+  },
+  {
+    "sentence": "They were not washing the dishes when dad came home.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/16.png"
+  },
+  {
+    "sentence": "Were they washing the dishes when dad came in?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/16.png"
+  },
+  {
+    "sentence": "We were eating pizza when the doorbell rang.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/17.png"
+  },
+  {
+    "sentence": "We were not eating pizza when the doorbell rang.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/17.png"
+  },
+  {
+    "sentence": "Were we eating pizza when the doorbell rang?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/17.png"
+  },
+  {
+    "sentence": "We were having a picnic when it started to rain.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/18.png"
+  },
+  {
+    "sentence": "We were not having a picnic when it started to rain.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/18.png"
+  },
+  {
+    "sentence": "Were we having a picnic when it started to rain?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/18.png"
+  },
+  {
+    "sentence": "He was waiting for us at the bus stop.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/19.png"
+  },
+  {
+    "sentence": "He wasn't waiting for us at the bus stop.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/19.png"
+  },
+  {
+    "sentence": "Was he waiting for us at the bus stop?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/19.png"
+  },
+  {
+    "sentence": "The birds were singing when I woke up this morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/20.png"
+  },
+  {
+    "sentence": "The birds were not singing when I woke up this morning.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/20.png"
+  },
+  {
+    "sentence": "Were the birds singing when you woke up this morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/20.png"
+  },
+  {
+    "sentence": "He was eating breakfast when his brother entered the kitchen.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/21.svg"
+  },
+  {
+    "sentence": "He wasn't eating breakfast when his brother entered the kitchen.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/21.svg"
+  },
+  {
+    "sentence": "Was he eating breakfast when his brother entered the kitchen?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/21.svg"
+  },
+  {
+    "sentence": "I was cleaning the flat when my son called.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/22.png"
+  },
+  {
+    "sentence": "I wasn't cleaning the flat when my son called.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/22.png"
+  },
+  {
+    "sentence": "Were you cleaning the flat when you son called?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/22.png"
+  },
+  {
+    "sentence": "He was sleeping when the alarm clock rang.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/23.png"
+  },
+  {
+    "sentence": "He wasn't sleeping when the alarm clock rang.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/23.png"
+  },
+  {
+    "sentence": "Was he sleeping when the alarm clock rang?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/23.png"
+  },
+  {
+    "sentence": "We were sitting in the restaurant when we saw our friend.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/24.png"
+  },
+  {
+    "sentence": "We were not sitting in the restaurant when we saw our friend.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/24.png"
+  },
+  {
+    "sentence": "Were we sitting in the restaurant when we saw our friend?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/24.png"
+  },
+  {
+    "sentence": "I was working on my science project in the morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/25.png"
+  },
+  {
+    "sentence": "I wasn't working on my science project in the morning.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/25.png"
+  },
+  {
+    "sentence": "Were you working on your science project in the morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/25.png"
+  },
+  {
+    "sentence": "She was wearing a nice green dress at the party.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/26.png"
+  },
+  {
+    "sentence": "Was she wearing a nice green dress at the party?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/26.png"
+  },
+  {
+    "sentence": "We were walking in the zoo when our mother called.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/27.png"
+  },
+  {
+    "sentence": "We were not walking in the zoo when our mother called.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/27.png"
+  },
+  {
+    "sentence": "Were we walking in the zoo when our mother rang?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/27.png"
+  },
+  {
+    "sentence": "We were eating burgers when she came in.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/28.png"
+  },
+  {
+    "sentence": "We were not eating burgers when she came in.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/28.png"
+  },
+  {
+    "sentence": "Were we eating burgers when she came in?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastContinuous/28.png"
+  }
+]

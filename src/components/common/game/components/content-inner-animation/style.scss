@@ -1,0 +1,33 @@
+.fadeEnter.exampleWrapper {
+  opacity: 0;
+  transform: scale(0.5);
+}
+
+.fadeEnterActive.exampleWrapper {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.fadeExit.exampleWrapper {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.fadeExitActive.exampleWrapper {
+  opacity: 0;
+  transform: scale(0.5);
+}
+
+.fadeEnterActive.exampleWrapper,
+.fadeExitActive.exampleWrapper {
+  transition: opacity 250ms, transform 250ms;
+}
+
+@keyframes appearance {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

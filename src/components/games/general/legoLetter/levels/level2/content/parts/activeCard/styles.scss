@@ -1,0 +1,137 @@
+@import 'src/scss/_mixins.scss';
+
+.card {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  top: 0;
+  width: 256px;
+  height: 171px;
+  padding: 24px 16px 16px 24px;
+  transform: none !important;
+
+  @include width-1280-L {
+    gap: 0;
+    width: 200px;
+    height: 120px;
+    padding: 16px 16px 8px 24px;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    gap: 0;
+    width: 200px;
+    height: 120px;
+    padding: 16px 16px 8px 24px;
+    border-radius: 24px;
+  }
+
+  @include width-768-P {
+    width: 200px;
+    height: 120px;
+    border-radius: 24px;
+  }
+
+  @include width-732-L {
+    width: 131px;
+    height: 86px;
+    padding: 16px 8px 8px 16px;
+    border-radius: 16px;
+  }
+  @include width-412-P {
+    width: 131px;
+    height: 86px;
+    padding: 16px 8px 8px 16px;
+    border-radius: 16px;
+  }
+}
+
+.pressedCard {
+  top: 8px;
+  box-shadow: 0 0 0 #E07E92, inset 0 0 16px rgba(113, 65, 183, 0.8);
+}
+
+.cardImage {
+  max-width: 96px;
+  max-height: 96px;
+
+  @include width-1280-L {
+    max-width: 80px;
+    max-height: 80px;
+  }
+  @include width-1280-P {
+    max-width: 80px;
+    max-height: 80px;
+  }
+
+  @include width-732-L {
+    max-width: 48px;
+    max-height: 48px;
+  }
+  @include width-412-P {
+    max-width: 48px;
+    max-height: 48px;
+  }
+}
+
+.letter {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  width: 112px;
+  height: 124px;
+
+  @include width-1280-L {
+    width: 80px;
+    height: 88px;
+  }
+  @include width-1280-P {
+    width: 80px;
+    height: 88px;
+  }
+
+  @include width-732-L {
+    width: 51px;
+    height: 57px;
+  }
+  @include width-412-P {
+    width: 51px;
+    height: 57px;
+  }
+
+  & > svg {
+    transform-origin: top left;
+
+    @include width-1280-L {
+      transform: scale(0.85);
+    }
+    @include width-1280-P {
+      transform: scale(0.85);
+    }
+
+    @include width-732-L {
+      transform: scale(0.75);
+    }
+    @include width-412-P {
+      transform: scale(0.75);
+    }
+  }
+
+  & > svg > path {
+    transform-origin: top left;
+
+    @include width-1280-L {
+      transform: scale(0.75);
+    }
+    @include width-1280-P {
+      transform: scale(0.75);
+    }
+
+    @include width-732-L {
+      transform: scale(0.45);
+    }
+    @include width-412-P {
+      transform: scale(0.45);
+    }
+  }
+}

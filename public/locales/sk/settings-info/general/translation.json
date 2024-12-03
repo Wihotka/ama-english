@@ -1,0 +1,569 @@
+﻿{
+  "level": "Pravidlá hry sa menia v závislosti od úrovne:",
+  "dataComplexity": "Výber náročnosti slov",
+  "answersQty": "Potrebný počet odpovedí na dokončenie hry",
+  "gameTime": "Celkové trvanie hry",
+  "maxLettersQty": "Maximálny počet písmen v slovách na hracom poli",
+  "test": "testovacie nastavenie",
+  "games": {
+    "someGameName": {
+      "level": {
+        "innerName": "Zobrazuje počet kombinácií písmen súčasne umiestnených na hracom poli",
+        "texts": [
+          "Treba nájsť rovnakú kombináciu písmen",
+          "Treba zbierať slovo po slabikách",
+          "Treba nájsť to isté slovo",
+          "Je potrebné nájsť identické slovo, pričom slová môžu byť invertované"
+        ]
+      },
+      "gameTime": {
+        "innerName": "Celkové trvanie hry"
+      }
+    },
+    "legoLetter": {
+      "level": {
+        "texts": [
+          "Vytvorte vetu z navrhovaných prvkov",
+          "Nájdite správnu zhodu pre písmeno"
+        ]
+      },
+      "letters": {
+        "innerName": "Typ písmen pre hru"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "buildMe": {
+      "level": {
+        "texts": [
+          "Skladajte slová pomocou obrázka, prepisu a hlasového prejavu",
+          "Skladajte slová pomocou prepisov a hlasových prejavov ",
+          "Vytvorte slová pomocou hlasového prejavu"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne štúdia"
+      },
+      "theme": {
+        "innerName": "Výber tematického slovníka"
+      },
+      "hint": {
+        "innerName": "Pri použití nápovedy sa automaticky doplní prvé a posledné písmeno"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "alphabet": {
+      "level": {
+        "texts": [
+          "Zostavte abecedu kliknutím na písmená v poradí",
+          "Kliknite na písmená, ktoré sú v nesprávnom abecednom poradí",
+          "Umiestnite písmená v správnom abecednom poradí"
+        ]
+      },
+      "letters": {
+        "innerName": "Vyberte typ písmen na dokončenie hry"
+      },
+      "mode": {
+        "innerName": "Čím je režim náročnejší, tým menej času je na hranie"
+      },
+      "speedInSeconds": {
+        "innerName": "Rýchlosť zmeny jedného písmena"
+      },
+      "lettersQty": {
+        "innerName": "Počet písmen v rade abecedy"
+      }
+    },
+    "guessTheSound": {
+      "level": {
+        "texts": [
+          "Vyberte prepis podľa zvuku, ktorý počujete",
+          "Vyberte zvuk, ktorý zobrazujú zvýraznené písmená v tvare slova.",
+          "Vyberte slovo, v ktorom zvýraznené písmená tvoria zvuk uvedený v strede"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne štúdia"
+      },
+      "complexity": {
+        "innerName": "Výber typu zvukov:",
+        "texts": [
+          "Jednoduché",
+          "Komplexné",
+          "Náhodné"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "itsMatch": {
+      "level": {
+        "texts": [
+          "Počúvajte zvuk a vyberte vhodný prepis",
+          "Prečítajte si prepis a vyberte vhodný zvuk"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "perfectPairs": {
+      "level": {
+        "texts": [
+          "Vyberte správne slovo pre obrázok",
+          "Vyberte vhodný prepis pre obrázok"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "levitation": {
+      "level": {
+        "texts": [
+          "Nájdi slovo pre daný obrázok",
+          "Nájdite zvuk, ktorý sa zhoduje so zvýraznenými písmenami v danom slove",
+          "Nájdi slovo, ktoré počuješ"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "speed": {
+        "innerName": "Rýchlosť lietajúceho peria"
+      },
+      "feathersQty": {
+        "innerName": "Počet lietajúcich pierok súčasne umiestnených na hracom poli"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "wordBox": {
+      "level": {
+        "texts": [
+          "Nájdite správny počet slov vo štvorci. Usporiadanie slov: vertikálne, horizontálne. Smer slov: ↓, →",
+          "Nájdite požadovaný počet slov vo štvorci. Usporiadanie slov: vertikálne, horizontálne. Smer slov: ↓, →, ↑ , ←",
+          "Nájdite správny počet slov vo štvorci. Usporiadanie slov: vertikálne, horizontálne, diagonálne. Smer slov: ↓, →, ↘",
+          "Nájdite správny počet slov vo štvorci. Usporiadanie slov: zvislo, vodorovne, uhlopriečne. Smer slov: ↓, →, ↑ , ←, ↘, ↙"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "complexity": {
+        "innerName": "K zoznamu slov, ktoré treba vyhľadať:",
+        "texts": [
+          "Zobrazí sa zoznam slov",
+          "Zoznam slov sa nezobrazí"
+        ]
+      },
+      "wordsQty": {
+        "innerName": "Počet slov, ktoré sa majú nájsť v poli"
+      }
+    },
+    "timeline": {
+      "level": {
+        "texts": [
+          "Vyberte obrázok, ktorý zodpovedá ponuke",
+          "Vyberte vetu, ktorá zodpovedá obrázku"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy gramatiky"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "worndNLetters": {
+      "level": {
+        "texts": [
+          "Umiestnite slová v abecednom poradí",
+          "Priraďte slová k obrázkom"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "complexity": {
+        "innerName": " ",
+        "texts": [          
+          "Slová začínajú rôznymi písmenami",
+          "Slová môžu začínať rovnakým písmenom"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "lostTwins": {
+      "level": {
+        "texts": [
+          "Nájdi dvojice kariet. Všetky karty sú odkryté",
+          "Nájdi dvojice kariet. Karty je potrebné odkrývať jednu po druhej",
+          "Nájdite dvojice kariet. Karty je potrebné odkrývať jednu po druhej, pričom obrázky je možné otočiť hore nohami"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "fieldSize": {
+        "innerName": "Výber veľkosti hracieho poľa"
+      },
+      "mode": {
+        "innerName": "Čím je režim náročnejší, tým menej času je na hranie"
+      },
+      "hint": {
+        "innerName": "Máte možnosť zapamätať si umiestnenie kariet počas 5 sekúnd, potom sa otočia lícom nadol"
+      }
+    },
+    "wordpad": {
+      "level": {
+        "texts": [
+          "Vypočujte si slovo a napíšte ho pomocou tlačidiel klávesnice",
+          "Vypočujte si slovo a napíšte ho pomocou tlačidiel klávesnice. Čas na vytvorenie jedného slova je obmedzený."
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "hint": {
+        "innerName": "Pri použití nápovedy si môžete vypočuť výslovnosť slova po písmenách"
+      },
+      "complexity": {
+        "innerName": "Obtiažnosť",
+        "texts": [
+          "Jedno slovo musí byť napísané za 1 minútu",
+          "Jedno slovo musí byť napísané za 45 sekúnd",
+          "Jedno slovo musí byť napísané za 30 sekúnd"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "fruitSmoothie": {
+      "level": {
+        "texts": [
+          "2 plody vyletia. Nájdite ovocie so správnou odpoveďou",
+          "3 plody vyletia. Nájdite ovocie so správnou odpoveďou",
+          "4 plody vyletia. Nájdite ovocie so správnou odpoveďou"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy gramatiky"
+      },
+      "complexity": {
+        "innerName": "Obtiažnosť",
+        "texts": [
+          "Koniec slovies 3. pádu jednotného čísla",
+          "Koncovky slovies po like",
+          "Oba druhy koncoviek"
+        ]
+      },
+      "speedInSeconds": {
+        "innerName": "Trvanie letu jedného ovocia"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "yesnt": {
+      "level": {
+        "texts": [
+          "Prečítajte si text a odpovedzte na otázky",
+          "Preštudujte si reklamu a odpovedzte na otázky"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "sortOut": {
+      "level": {
+        "texts": ["Usporiadajte ikony na obrazovke podľa úlohy"]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": ["Predložky right, left", "Predložky under, above, between", "Náhodou"]
+      },
+      "fieldSize": {
+        "innerName": "Výber veľkosti hracieho poľa"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "guessWhat": {
+      "level": {
+        "texts": [
+          "Prečítajte si popis a vyberte vhodný predmet. Existujú 4 možné odpovede",
+          "Prečítajte si popis a vyberte vhodnú položku. Existuje 6 možných odpovedí",
+          "Prečítajte si popis a vyberte vhodnú položku. Existuje 8 možných odpovedí"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Jednoduché popisy predmetov",
+          "Zložitejšie popisy predmetov"
+        ]
+      },
+      "hint": {
+        "innerName": "Nápoveda automaticky odstráni 2 nesprávne odpovede"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "clickItEasy": {
+      "level": {
+        "texts": [
+          "Vytvorte vety na základe obrázkov. Na zostavenie jednej vety nie je žiadny časový limit",
+          "Vytvorte vety na základe obrázkov. Čas na vytvorenie jednej vety je obmedzený."
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy gramatiky"
+      },
+      "sentenceType": {
+        "innerName": "Výber typu ponuky"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Jedna veta musí byť zložená za 90 sekúnd",
+          "Jedna veta musí byť zložená za 60 sekúnd",
+          "Jedna veta musí byť zložená za 45 sekúnd"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "breakTheSpell": {
+      "level": {
+        "texts": [
+          "Pozrite sa na prepis slova, počúvajte hlasovú nahrávku a napíšte slovo pomocou tlačidiel klávesnice",
+          "Pozrite sa na prepis slova a napíšte slovo pomocou tlačidiel klávesnice"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "grammarTime": {
+      "level": {
+        "texts": [
+          "Nájdite dva zhody",
+          "Nájdite tri zhody"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy gramatiky"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "grammarMix": {
+      "level": {
+        "texts": [
+          "Vyberte správnu odpoveď",
+          "Otvorte zátvorky a vyplňte medzery"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy gramatiky"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "phraseJumping": {
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy gramatiky"
+      },
+      "hint": {
+        "innerName": "Zobrazenie pravidla pre vytváranie návrhov"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "airWord": {
+      "level": {
+        "texts": [
+          "Nájdite slovo, ktoré zodpovedá zvolenej téme",
+          "Nájdite slovo, ktoré nesúvisí s vybranou témou"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "planesQty": {
+        "innerName": "Počet lietadiel na hracom poli"
+      },
+      "speedInSeconds": {
+        "innerName": "Trvanie letu jedného lietadla"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "colourfulPhonetics": {
+      "level": {
+        "texts": [
+          "Porovnajte výslovnosť zvuku s jeho prepisom a potom vyfarbite každú časť obrázka príslušnou farbou. Obrázok obsahuje 5 farieb",
+          "Porovnajte výslovnosť zvuku s jeho prepisom a potom vyfarbite každú časť obrázka príslušnou farbou. Obrázok obsahuje až 10 farieb."
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "picture": {
+        "innerName": "Výber obrázka na vyfarbenie"
+      },
+      "complexity": {
+        "innerName": "Výber typu zvukov:",
+        "texts": [
+          "Jednoduchý",
+          "Zložitý",
+          "Náhodne"
+        ]
+      }
+    },
+    "checkpoint": {
+      "level": {
+        "texts": [
+          "Opakovanie látky z prvej časti kurzu",
+          "Revízia materiálu druhej časti kurzu"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      }
+    },
+    "wordBuilder": {
+      "level": {
+        "texts": [
+          "Tvorte slová pomocou prepisov a nahrávky",
+          "Tvorte slová pomocou nahrávky"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "theme": {
+        "innerName": "Výber témy slovníka"
+      },
+      "hint": {
+        "innerName": "Pri použití nápovedy sa automaticky doplní prvé a posledné písmeno"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "textTeaser": {
+      "level": {
+        "texts": [
+          "Umiestnite fragmenty textu v správnom poradí. Musíte usporiadať 4 fragmenty",
+          "Umiestnite fragmenty textu v správnom poradí. Musíte usporiadať 5 fragmentov"
+        ]
+      },
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "hint": {
+        "innerName": "Prvá časť textu zapadne na svoje miesto"
+      }
+    },
+    "echoChamber": {
+      "course": {
+        "innerName": "Výber úrovne"
+      },
+      "answersQty": {
+        "innerName": "Celkový počet odpovedí v rámci jednej hry"
+      }
+    },
+    "navigation": {
+      "complexity": {
+        "innerName": "Obtiažnosť",
+        "texts": [
+          "Predložky: in, on, near, right, left",
+          "Predložky: under, above, behind, in front of, between"
+        ]
+      },
+      "location": {
+        "innerName": "Výber miesta"
+      }
+    }
+  }
+}

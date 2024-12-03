@@ -1,0 +1,150 @@
+@import 'src/scss/_mixins.scss';
+
+@keyframes effect_dylan {
+  70% {
+    box-shadow: 0 0 10px 15px rgb(10, 241, 33);
+    opacity: 0;
+  }
+  99% {
+    box-shadow: 0 0 5px 5px rgba(10, 241, 33, 0.56);
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes snake {
+  0%, to {
+    transform: translate(0)
+  }
+  10%, 40% {
+    transform: translateX(-4px)
+  }
+  25%, 55% {
+    transform: translateX(4px)
+  }
+}
+
+.answerVariantBlock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  height: 100px;
+  width: 202px;
+  border-radius: 32px;
+
+  position: relative;
+
+  background-color: rgba(255, 255, 255, 0.8);
+
+  z-index: 1;
+
+  @include width-1280-L() {
+    height: 88px;
+    width: 178px;
+    border-radius: 24px;
+  }
+  @include width-1280-P() {
+    height: 88px;
+    width: 178px;
+    border-radius: 24px;
+  }
+
+  @include width-854-L() {
+    width: 313px;
+    height: 88px;
+    padding: 16px 0px 24px;
+  }
+  @include width-534-P() {
+    flex: 1;
+  }
+
+  @include width-732-L() {
+    width: 221px;
+    height: 72px;
+    padding: 8px 0px 16px;
+    border-radius: 16px;
+  }
+  @include width-412-P() {
+    width: 182px;
+    height: 72px;
+    padding: 8px 0px 16px;
+    border-radius: 16px;
+  }
+}
+
+.success {
+  border: 1px solid #72FF80;
+  box-shadow: inset 0 0 24px rgba(10, 241, 33, 0.56);
+  pointer-events: none;
+}
+
+.success:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  border-radius: 32px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: scale(1.0001, 1.0001);
+  animation: effect_dylan 800ms ease-out;
+  animation-delay: 100ms;
+}
+
+.mistake {
+  border: 1px solid #FE3A3A;
+  box-shadow: inset 0 0 24px rgba(241, 9, 9, 0.56);
+  animation: snake 800ms ease-out;
+  pointer-events: none;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.btnSelectAnswer {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.ordinalNames {
+  color: #9066C6;
+
+  margin-right: 24px;
+
+  @include titleS;
+
+  @include width-732-L() {
+    margin-right: 16px;
+  }
+  @include width-412-P() {
+    margin-right: 16px;
+  }
+}
+
+.btnPlay {
+  width: 64px;
+  height: 64px;
+
+  @include width-1280-L() {
+    width: 48px;
+    height: 48px;
+  }
+  @include width-1280-P() {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+.btnOff {
+  pointer-events: none;
+}

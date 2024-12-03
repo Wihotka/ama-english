@@ -1,0 +1,132 @@
+@import 'src/scss/_mixins.scss';
+
+$innerShadow: 4px 8px 24px rgba(144, 102, 198, 0.16);
+
+.update {
+  opacity: 0;
+}
+
+.wrapper {
+  margin-top: 16px;
+
+  width: 624px;
+  max-width: 100%;
+  height: 64px;
+
+  background-color: #fff;
+  box-shadow: 2px 4px 8px rgba(56, 22, 109, 0.12);
+  border-radius: 16px;
+
+  @include width-1280-L {
+    width: 509px;
+    height: 53px;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    width: 509px;
+    height: 53px;
+    border-radius: 24px;
+  }
+
+  @include width-854-L {
+    width: 486px;
+    border-radius: 16px;
+  }
+  @include width-534-P {
+    width: 486px;
+    margin-top: 32px;
+    border-radius: 16px;
+  }
+
+  @include width-732-L {
+    width: 380px;
+    height: 46px;
+    margin-top: 8px;
+    border-radius: 8px;
+  }
+  @include width-412-P {
+    width: 380px;
+    height: 46px;
+    border-radius: 8px;
+  }
+
+  @include width-640-L {
+    width: 328px;
+    height: 38px;
+    margin-top: 6px;
+  }
+  @include width-360-P {
+    width: 328px;
+    height: 38px;
+  }
+}
+
+.inputField {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+
+  box-shadow: $innerShadow;
+
+  border-radius: inherit;
+
+  transition: opacity .5s, box-shadow .3s;
+
+  &_success {
+    box-shadow: $innerShadow, inset 0 0 24px rgba(10, 241, 33, 0.56);
+  }
+
+  &_error {
+    box-shadow: $innerShadow, inset 0 0 24px rgba(254, 58, 58, 0.56);
+  }
+}
+
+.inputCell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-left: 9px;
+
+  width: 23px;
+  height: 36px;
+
+  @include width-1280-L {
+    width: 18px;
+    height: 26px;
+    margin-left: 8px;
+  }
+  @include width-1280-P {
+    width: 18px;
+    height: 26px;
+    margin-left: 8px;
+  }
+
+  @include width-732-L {
+    width: 13px;
+    height: 20px;
+    margin-left: 7px;
+  }
+  @include width-412-P {
+    width: 13px;
+    height: 20px;
+    margin-left: 5px;
+  }
+
+  @include width-640-L {
+    margin-left: 5px;
+  }
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.inputLetter {
+  @include titleS;
+
+  text-transform: uppercase;
+}

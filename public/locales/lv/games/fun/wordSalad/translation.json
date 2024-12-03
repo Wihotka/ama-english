@@ -1,0 +1,4 @@
+{
+  "taskName1": "Izveidojiet pēc iespējas vairāk angļu vārdu no spēles laukumā norādītajiem burtiem. Katru burtu uz lauka var izmantot 1 reizi. Tiek ņemti vērā vārdi, kas satāv no 3 līdz 10 burtiem. Sastādot vārdus, pārbaudiet to pareizrakstību. Jo garāks ir vārds, jo vairāk punktu varat iegūt par spēli. Nedrīkst izmantot saīsinājumus, īpašvārdus vai vārdus, kas rakstīti ar defisi. Ja laukā vairs nesanāk atrast jaunu vārdu, varat izmantot pogu “Atjaunināt lauku” un turpināt spēli",
+  "check": "Pārbaudīt"
+}

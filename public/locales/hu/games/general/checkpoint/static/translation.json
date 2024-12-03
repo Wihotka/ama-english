@@ -1,0 +1,9 @@
+﻿{
+  "withImg": "Nézd meg a képet, és írd be a szót!",
+  "withVoice": "Hallgasd meg a szót, és írd le!",
+  "withTranscription": "Nézd meg fonetikai jeleket, és írd le a szót!",
+  "withVoiceTranscription": "Nézd meg a fonetikai jeleket, hallgasd meg a szót, azután írd le!",
+  "withSentenceFilling": "Válaszd ki a helyes választ a három javaslat közül, azután írd le!",
+  "withSentenceMaking": "Állítsd össze a mondatot! Ha szükséges, akkor változtasd meg az ige végződését, vagy használd a \"to be\" igét.",
+  "withExtraWordSearching": "Írd le azt a szót, amelyik NEM kapcsolódik a témához!"
+}

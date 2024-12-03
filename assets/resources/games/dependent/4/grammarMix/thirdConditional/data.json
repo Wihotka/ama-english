@@ -1,0 +1,206 @@
+{
+  "1": [
+    {
+      "question": "If you _____ me, I would have come .",
+      "correctAnswer": "had called",
+      "incorrectAnswers": "have called"
+    },
+    {
+      "question": "If I _____ that book, I would have known the answer .",
+      "correctAnswer": "had read",
+      "incorrectAnswers": "have read"
+    },
+    {
+      "question": "If we _____ him, we would have believed him .",
+      "correctAnswer": "hadn't known",
+      "incorrectAnswers": "haven't known"
+    },
+    {
+      "question": "If we _____ earlier, we would have caught a train .",
+      "correctAnswer": "had left",
+      "incorrectAnswers": "have left"
+    },
+    {
+      "question": "If he _____ better, he would have got a job .",
+      "correctAnswer": "had studied",
+      "incorrectAnswers": "has studied"
+    },
+    {
+      "question": "If I hadn't called you, you _____ the news .",
+      "correctAnswer": "wouldn't have known",
+      "incorrectAnswers": "won't have known"
+    },
+    {
+      "question": "If I had bought that watch yesterday, I _____ all my money .",
+      "correctAnswer": "would have spent",
+      "incorrectAnswers": "will have spend"
+    },
+    {
+      "question": "If I hadn't been so rude to him, we _____ .",
+      "correctAnswer": "wouldn't have argued",
+      "incorrectAnswers": "won't have argued"
+    },
+    {
+      "question": "If I had told her the way, she _____ lost .",
+      "correctAnswer": "wouldn't have got",
+      "incorrectAnswers": "won't have got"
+    },
+    {
+      "question": "If you had set up an alarm clock, you _____ late .",
+      "correctAnswer": "wouldn't have been",
+      "incorrectAnswers": "won't have been"
+    },
+    {
+      "question": "I _____ a coat if I had been cold .",
+      "correctAnswer": "would have worn",
+      "incorrectAnswers": "would had worn"
+    },
+    {
+      "question": "You _____ your exam if you had worked harder .",
+      "correctAnswer": "would have passed",
+      "incorrectAnswers": "would had passed"
+    },
+    {
+      "question": "I _____ a cake if I had known you were coming .",
+      "correctAnswer": "would have baked",
+      "incorrectAnswers": "would had baked"
+    },
+    {
+      "question": "I _____ to you if you had given me your e-mail .",
+      "correctAnswer": "would have written",
+      "incorrectAnswers": "would had written"
+    },
+    {
+      "question": "I _____ you a present if I had known it was your birthday .",
+      "correctAnswer": "would have bought",
+      "incorrectAnswers": "would had bought"
+    },
+    {
+      "question": "I would have met him if I _____ he was in town last week .",
+      "correctAnswer": "had known",
+      "incorrectAnswers": "have known"
+    },
+    {
+      "question": "I would have come yesterday if I _____ time .",
+      "correctAnswer": "had had",
+      "incorrectAnswers": "have had"
+    },
+    {
+      "question": "We would have watched the movie if they _____ earlier .",
+      "correctAnswer": "had come",
+      "incorrectAnswers": "have come"
+    },
+    {
+      "question": "They would have been happy if they _____ married .",
+      "correctAnswer": "had got",
+      "incorrectAnswers": "have got"
+    },
+    {
+      "question": "You might have liked this dish if you _____ it .",
+      "correctAnswer": "had tried",
+      "incorrectAnswers": "have tried"
+    }
+  ],
+  "2": [
+    {
+      "question": "If you _____ # me, I would have come .",
+      "correctAnswer": "had called",
+      "incorrectAnswers": "have called"
+    },
+    {
+      "question": "If I _____ # that book, I would have known the answer .",
+      "correctAnswer": "had read",
+      "incorrectAnswers": "have read"
+    },
+    {
+      "question": "If we _____ # him, we would have believed him .",
+      "correctAnswer": "hadn't known",
+      "incorrectAnswers": "haven't known"
+    },
+    {
+      "question": "If we _____ # earlier, we would have caught a train .",
+      "correctAnswer": "had left",
+      "incorrectAnswers": "have left"
+    },
+    {
+      "question": "If he _____ # better, he would have got a job .",
+      "correctAnswer": "had studied",
+      "incorrectAnswers": "has studied"
+    },
+    {
+      "question": "If I hadn't called you, you _____ # the news .",
+      "correctAnswer": "wouldn't have known",
+      "incorrectAnswers": "won't have known"
+    },
+    {
+      "question": "If I had bought that watch yesterday, I _____ # all my money .",
+      "correctAnswer": "would have spent",
+      "incorrectAnswers": "will have spend"
+    },
+    {
+      "question": "If I hadn't been so rude to him, we _____ # .",
+      "correctAnswer": "wouldn't have argued",
+      "incorrectAnswers": "won't have argued"
+    },
+    {
+      "question": "If I had told her the way, she _____ # lost .",
+      "correctAnswer": "wouldn't have got",
+      "incorrectAnswers": "won't have got"
+    },
+    {
+      "question": "If you had set up an alarm clock, you _____ # late .",
+      "correctAnswer": "wouldn't have been",
+      "incorrectAnswers": "won't have been"
+    },
+    {
+      "question": "I _____ # a coat if I had been cold .",
+      "correctAnswer": "would have worn",
+      "incorrectAnswers": "would had worn"
+    },
+    {
+      "question": "You _____ # your exam if you had worked harder .",
+      "correctAnswer": "would have passed",
+      "incorrectAnswers": "would had passed"
+    },
+    {
+      "question": "I _____ # a cake if I had known you were coming .",
+      "correctAnswer": "would have baked",
+      "incorrectAnswers": "would had baked"
+    },
+    {
+      "question": "I _____ # to you if you had given me your e-mail .",
+      "correctAnswer": "would have written",
+      "incorrectAnswers": "would had written"
+    },
+    {
+      "question": "I _____ # you a present if I had known it was your birthday .",
+      "correctAnswer": "would have bought",
+      "incorrectAnswers": "would had bought"
+    },
+    {
+      "question": "I would have met him if I _____ # he was in town last week .",
+      "correctAnswer": "had known",
+      "incorrectAnswers": "have known"
+    },
+    {
+      "question": "I would have come yesterday if I _____ # time .",
+      "correctAnswer": "had had",
+      "incorrectAnswers": "have had"
+    },
+    {
+      "question": "We would have watched the movie if they _____ # earlier .",
+      "correctAnswer": "had come",
+      "incorrectAnswers": "have come"
+    },
+    {
+      "question": "They would have been happy if they _____ # married .",
+      "correctAnswer": "had got",
+      "incorrectAnswers": "have got"
+    },
+    {
+      "question": "You might have liked this dish if you _____ # it .",
+      "correctAnswer": "had tried",
+      "incorrectAnswers": "have tried"
+    }
+  ]
+}

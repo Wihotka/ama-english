@@ -1,0 +1,306 @@
+[
+    {
+        "sentence": "What is your name?",
+        "variants": [
+            { "text": "I am %placeholder%." },
+            { "text": "My name is %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "Mike",
+            "Jake",
+            "Kevin",
+            "Robert",
+            "Steve",
+            "Eric",
+            "Ann",
+            "Caroline",
+            "Kate",
+            "Bonnie",
+            "Betty",
+            "Veronica",
+            "Jeremy",
+            "Damon",
+            "Klaus",
+            "Stan",
+            "Ella",
+            "Aria",
+            "Spenser",
+            "Hannah",
+            "Sam",
+            "Dean"
+        ]
+    },
+    {
+        "sentence": "How are you?",
+        "variants": [
+            { "text": "I am %placeholder%." },
+            { "text": "I'm %placeholder%." }
+        ],
+        "variantsPlaceholders": ["ok", "not ok", "fine", "not fine"]
+    },
+    {
+        "sentence": "Where are you from?",
+        "variants": [
+            { "text": "I am from %placeholder%." },
+            { "text": "I'm from %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "New York", "Mexico", "Cape Town", "Budapest", "Tokio", "Berlin", "Paris", "Madrid", "Helsinki", "Vienna", "Chicago", "Milan", "Washington", "London", "America", "France", "Germany", "Australia", "Italy", "Spain", "Brazil", "Kazakhstan"
+        ]
+    },
+    {
+        "sentence": "How old are you?",
+        "variants": [
+            { "text": "I am %placeholder% years old." },
+            { "text": "I'm %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "four",
+            "five",
+            "six",
+            "seven",
+            "eight",
+            "nine",
+            "ten",
+            "eleven",
+            "twelve",
+            "thirteen",
+            "fourteen",
+            "sixteen",
+            "seventeen",
+            "eighteen",
+            "nineteen",
+            "twenty"
+        ]
+    },
+    {
+        "sentence": "What colour is this?",
+        "variants": [
+            { "text": "It is %placeholder%." },
+            { "text": "It's %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "red",
+            "orange",
+            "yellow",
+            "green",
+            "blue",
+            "purple",
+            "white",
+            "black",
+            "brown",
+            "grey"
+        ]
+    },
+    {
+        "sentence": "What shape is this?",
+        "variants": [
+            { "text": "It is a %placeholder%." },
+            { "text": "It's a %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "triangle",
+            "square",
+            "rectangle",
+            "circle",
+            "star",
+            "heart"
+        ]
+    },
+    {
+        "sentence": [
+            "Where is my phone?",
+            "Where is my hat?",
+            "Where is my scarf?"
+        ],
+        "variants": [
+            { "text": "It is %placeholder%." },
+            { "text": "It's %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "on the table",
+            "on the chair",
+            "under the paper",
+            "near the computer",
+            "in the living room",
+            "in the bedroom",
+            "near the window",
+            "under the computer",
+            "on the bed",
+            "in the kitchen"
+        ]
+    },
+    {
+        "sentence": ["Where are my socks?", "Where are my gloves?"],
+        "variants": [
+            { "text": "They are %placeholder%." },
+            { "text": "They're %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "on the table",
+            "on the chair",
+            "under the paper",
+            "near the computer",
+            "in the living room",
+            "in the bedroom",
+            "near the window",
+            "under the computer",
+            "on the bed",
+            "in the kitchen"
+        ]
+    },
+    {
+        "sentence": "What is your favourite animal?",
+        "variants": [
+            {
+                "text": "My favourite animal is a %placeholder%.",
+                "placeholders": [
+                    "dog",
+                    "cat",
+                    "hamster",
+                    "parrot",
+                    "bear",
+                    "wolf",
+                    "fox",
+                    "hare",
+                    "monkey",
+                    "lion",
+                    "giraffe",
+                    "shark",
+                    "dolphin",
+                    "turtle"
+                ]
+            },
+            {
+                "text": "I like %placeholder%.",
+                "placeholders": [
+                    "dogs",
+                    "cats",
+                    "hamsters",
+                    "parrots",
+                    "bears",
+                    "wolves",
+                    "foxes",
+                    "hares",
+                    "monkeys",
+                    "lions",
+                    "giraffes",
+                    "sharks",
+                    "dolphins",
+                    "turtles"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Do you like %placeholder%?",
+        "variants": [{ "text": "Yes, I do." }, { "text": "No, I don't." }],
+        "sentencePlaceholders": [
+            "jumping",
+            "swimming",
+            "running",
+            "hugging",
+            "riding a bike",
+            "reading",
+            "listening to music"
+        ]
+    },
+    {
+        "sentence": "Can you %placeholder%?",
+        "variants": [{ "text": "Yes, I can." }, { "text": "No, I can't." }],
+        "sentencePlaceholders": ["jump", "swim", "run", "ride a bike", "read"]
+    },
+    {
+        "sentence": "What day is it today?",
+        "variants": [
+            { "text": "It is %placeholder%." },
+            { "text": "It's %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ]
+    },
+    {
+        "sentence": "What is the weather like today?",
+        "variants": [
+            { "text": "It is %placeholder%." },
+            { "text": "It's %placeholder%." }
+        ],
+        "variantsPlaceholders": [
+            "snowy",
+            "rainy",
+            "sunny",
+            "windy",
+            "stormy",
+            "cloudy",
+            "warm",
+            "cold",
+            "hot"
+        ]
+    },
+    {
+        "sentence": "Have you got a %placeholder%?",
+        "variants": [
+            { "text": "Yes, I have." },
+            { "text": "No, I have not." },
+            { "text": "No, I haven't." }
+        ],
+        "sentencePlaceholders": [
+            "hamster",
+            "pet",
+            "dog",
+            "cat",
+            "phone",
+            "parrot",
+            "ball",
+            "doll",
+            "car",
+            "robot",
+            "bike",
+            "scooter",
+            "computer",
+            "kite",
+            "pink skirt",
+            "big T-shirt",
+            "blue T-shirt",
+            "white hat",
+            "green skirt",
+            "black jacket",
+            "yellow scarf",
+            "brother",
+            "sister"
+        ]
+    },
+    {
+        "sentence": "What does he look like?",
+        "variants": [
+            {
+                "text": "He has %placeholder%.",
+                "placeholders": [
+                    "long hair and brown eyes",
+                    "short hair and green eyes",
+                    "red hair and green eyes",
+                    "short hair and blue eyes",
+                    "dark hair and blue eyes",
+                    "blond hair and brown eyes"
+                ]
+            },
+            {
+                "text": "He is %placeholder%",
+                "placeholders": [
+                    "tall, with dark hair and brown eyes.",
+                    "slim, with big blue eyes.",
+                    "short, with big nose and green eyes.",
+                    "plump, with blond hair and green eyes.",
+                    "tall, with short hair and big nose."
+                ]
+            }
+        ]
+    }
+]

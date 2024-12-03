@@ -1,0 +1,569 @@
+{
+  "level": "Spēles noteikumi mainās atkarībā no līmeņa:",
+  "dataComplexity": "Vārdu sarežģītības izvēle",
+  "answersQty": "Nepieciešamais atbilžu skaits, lai pabeigtu spēli",
+  "gameTime": "Kopējais spēles ilgums",
+  "maxLettersQty": "Maksimālais burtu skaits vārdos spēles laukumā",
+  "test": "daži testa iestatījumi",
+  "games": {
+    "someGameName": {
+      "level": {
+        "innerName": "Parāda burtu kombināciju skaitu, kas vienlaikus atrodas spēles laukumā",
+        "texts": [
+          "Jāatrod identiska burtu kombinācija",
+          "Vārds jāsaliek pa zilbēm",
+          "Jāatrod identisks vārds",
+          "Jāatrod identisks vārds, un vārdi var būt apgriezti otrādi"
+        ]
+      },
+      "gameTime": {
+        "innerName": "Kopējais spēles ilgums"
+      }
+    },
+    "legoLetter": {
+      "level": {
+        "texts": [
+          "Saliec burtu no dotajiem elementiem",
+          "Atrodiet burtam piemērotu pāri"
+        ]
+      },
+      "letters": {
+        "innerName": "Burtu veids spēles iziešanai"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "buildMe": {
+      "level": {
+        "texts": [
+          "Izveido vārdus, izmantojot attēlu, transkripciju un ieskaņojumu",
+          "Izveido vārdus, izmantojot transkripcijas un ieskaņojumu",
+          "Izveido vārdus, izmantojot ieskaņojumu"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "hint": {
+        "innerName": "Izmantojot padomu, pirmais un pēdējais burts tiek aizpildīts automātiski"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "alphabet": {
+      "level": {
+        "texts": [
+          "Izveido alfabētu, klikšķinot uz burtiem pēc kārtas",
+          "Klikšķini uz burtiem, kas ir nepareizā alfabēta secībā",
+          "Saliec burtus pareizā alfabēta secībā"
+        ]
+      },
+      "letters": {
+        "innerName": "Izvēlies burtu veidu, lai pabeigtu spēli"
+      },
+      "mode": {
+        "innerName": "Jo grūtāks režīms, jo mazāk laika tiek atvēlēts spēlēšanai"
+      },
+      "speedInSeconds": {
+        "innerName": "Viena burta maiņas ātrums"
+      },
+      "lettersQty": {
+        "innerName": "Burtu skaits alfabēta rindā"
+      }
+    },
+    "guessTheSound": {
+      "level": {
+        "texts": [
+          "Izvēlies transkripciju, kas parāda norādīto skaņu",
+          "Izvēlies skaņu, ko rada izceltie burti vārdā",
+          "Izvēlies vārdu, kurā izceltie burti veido vidū doto skaņu"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "complexity": {
+        "innerName": "Skaņu veida izvēle:",
+        "texts": [
+          "Parastie",
+          "Sarežģītie",
+          "Nejauši"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "itsMatch": {
+      "level": {
+        "texts": [
+          "Noklausies skaņu un izvēlies atbilstošo transkripciju",
+          "Izlasi transkripciju un izvēlies atbilstošo skaņu"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "perfectPairs": {
+      "level": {
+        "texts": [
+          "Izvēlies attēlam atbilstošu vārdu",
+          "Izvēlies attēlam atbilstošu transkripciju"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "levitation": {
+      "level": {
+        "texts": [
+          "Atrodi vārdu dotajam attēlam",
+          "Atrodi skaņu, kas atbilst izceltajiem burtiem dotajā vārdā",
+          "Atrodi vārdu, kurā ir sekojoša skaņa"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "speed": {
+        "innerName": "Lidojošo spalvu ātrums"
+      },
+      "feathersQty": {
+        "innerName": "Lidojošo spalvu skaits, kas vienlaikus atrodas spēles laukumā"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "wordBox": {
+      "level": {
+        "texts": [
+          "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli. Vārdu virziens: ↓, →",
+          "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli. Vārdu virziens: ↓, →, ↑ , ←",
+          "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli, pa diagonāli. Vārdu virziens:  ↓, →, ↘",
+          "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli, pa diagonāli. Vārdu virziens: ↓, →, ↑ , ←, ↘, ↙"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "complexity": {
+        "innerName": "Meklējamo vārdu saraksts:",
+        "texts": [
+          "Saraksts tiek rādīts",
+          "Vārdu saraksts netiek rādīts"
+        ]
+      },
+      "wordsQty": {
+        "innerName": "Laukā atrodamo vārdu skaits"
+      }
+    },
+    "timeline": {
+      "level": {
+        "texts": [
+          "Izvēlies attēlu, kas atbilst teikumam",
+          "Izvēlies teikumu, kas atbilst attēlam"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Gramatikas tēmas izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "worndNLetters": {
+      "level": {
+        "texts": [
+          "Izvieto vārdus alfabēta secībā",
+          "Savieno vārdus ar attēliem"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "complexity": {
+        "innerName": " ",
+        "texts": [
+          "Vārdi sākas ar dažādiem burtiem",
+          "Vārdi var sākties ar vienu un to pašu burtu"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "lostTwins": {
+      "level": {
+        "texts": [
+          "Atrodi kāršu pārus. Visas kārtis ir atvērtas",
+          "Atrodi kāršu pārus. Kārtis jāatver pa vienai",
+          "Atrodi kāršu pārus. Kārtis ir jāatver pa vienai, un attēli var būt apgriezti otrādi"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "fieldSize": {
+        "innerName": "Spēles laukuma lieluma izvēle"
+      },
+      "mode": {
+        "innerName": "Jo grūtāks režīms, jo mazāk laika tiek atvēlēts spēlēšanai"
+      },
+      "hint": {
+        "innerName": "Tev tiek dota iespēja atcerēties kāršu atrašanās vietu 5 sekundes, pēc tam tās tiek apgrieztas ar seju uz leju"
+      }
+    },
+    "wordpad": {
+      "level": {
+        "texts": [
+          "Noklausies vārdu un uzraksti to, izmantojot tastatūras pogas",
+          "Noklausies vārdu un uzraksti to, izmantojot tastatūras pogas. Laiks viena vārda sastādīšanai ir ierobežots"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "hint": {
+        "innerName": "Izmantojot uzvedni, vari noklausīties vārda izrunu pa burtiem"
+      },
+      "complexity": {
+        "innerName": "Sarežģītība",
+        "texts": [
+          "Viens vārds ir jāuzraksta 1 minūtes laikā",
+          "Viens vārds ir jāuzraksta 45 sekunžu laikā",
+          "Viens vārds ir jāuzraksta 30 sekunžu laikā"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "fruitSmoothie": {
+      "level": {
+        "texts": [
+          "Izlido 2 augļi. Atrodiet augļus ar pareizo atbildi",
+          "Izlido 3 augļi. Atrodiet augļus ar pareizo atbildi",
+          "Izlido 4 augļi. Atrodiet augļus ar pareizo atbildi"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Gramatikas tēmas izvēle"
+      },
+      "complexity": {
+        "innerName": "Sarežģītība",
+        "texts": [
+          "Darbības vārdu vienskaitļa trešās personas galotnes",
+          "Вarbības vārdu galotne pēc like",
+          "Abu veidu galotnes"
+        ]
+      },
+      "speedInSeconds": {
+        "innerName": "Viena augļa lidojuma ilgums"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "yesnt": {
+      "level": {
+        "texts": [
+          "Izlasi tekstu un atbildi uz jautājumiem",
+          "Izpēti sludinājumu un atbildi uz jautājumiem"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "sortOut": {
+      "level": {
+        "texts": ["Sakārto ikonas ekrānā atbilstoši uzdevumam"]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": ["Prievārdi right, left", "Prievārdi under, above, between", "Nejauši"]
+      },
+      "fieldSize": {
+        "innerName": "Spēles laukuma lieluma izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "guessWhat": {
+      "level": {
+        "texts": [
+          "Izlasi aprakstu un izvēlies atbilstošo priekšmetu. Tiek doti 4 atbilžu varianti",
+          "Izlasi aprakstu un izvēlies atbilstošo priekšmetu. Tiek doti 6 atbilžu varianti",
+          "Izlasi aprakstu un izvēlies atbilstošo priekšmetu. Tiek doti 8 atbilžu varianti"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Vienkārši priekšmetu apraksti",
+          "Sarežģītāki priekšmetu apraksti"
+        ]
+      },
+      "hint": {
+        "innerName": "Uzvedne automātiski noņem 2 nepareizas atbildes"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "clickItEasy": {
+      "level": {
+        "texts": [
+          "Veido teikumus, pamatojoties uz attēliem. Viena teikuma sastādīšanas laiks nav ierobežots",
+          "Veido teikumus, pamatojoties uz attēliem. Viena teikuma sastādīšanas laiks ir ierobežots"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Gramatikas tēmas izvēle"
+      },
+      "sentenceType": {
+        "innerName": "Teikuma veida izvēle"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Viens teikums jāsastāda 90 sekundēs",
+          "Viens teikums jāsastāda 60 sekundēs",
+          "Viens teikums jāsastāda 45 sekundēs"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "breakTheSpell": {
+      "level": {
+        "texts": [
+          "Apskati vārda transkripciju, noklausies tā ieskaņojumu un uzraksti vārdu, izmantojot tastatūras pogas",
+          "Apskati vārda transkripciju un uzraksti vārdu, izmantojot tastatūras pogas"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "grammarTime": {
+      "level": {
+        "texts": [
+          "Izveido divas atbilstības",
+          "Izveido trīs atbilstības"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Gramatikas tēmas izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "grammarMix": {
+      "level": {
+        "texts": [
+          "Izvēlies pareizo atbildi",
+          "Atver iekavas un aizpildi tukšās vietas"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Gramatikas tēmas izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "phraseJumping": {
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Gramatikas tēmas izvēle"
+      },
+      "hint": {
+        "innerName": "Teikumu veidošanas noteikumu parādīšana"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "airWord": {
+      "level": {
+        "texts": [
+          "Atrodi vārdu, kas atbilst izvēlētajai tēmai",
+          "Atrodiet vārdu, kas neatbilst izvēlētajai tēmai"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "planesQty": {
+        "innerName": "Lidmašīnu skaits spēles laukumā"
+      },
+      "speedInSeconds": {
+        "innerName": "Vienas lidmašīnas lidojuma ilgums"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "colourfulPhonetics": {
+      "level": {
+        "texts": [
+          "Savieno skaņas izrunu ar tās transkripciju un pēc tam izkrāso katru attēla daļu ar atbilstošu krāsu. Attēlā ir 5 krāsas",
+          "Savieno skaņas izrunu ar tās transkripciju un pēc tam izkrāso katru attēla daļu ar atbilstošu krāsu. Attēlā ir līdz 10 krāsām"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "picture": {
+        "innerName": "Krāsojamā attēla izvēle"
+      },
+      "complexity": {
+        "innerName": "Skaņu veida izvēle:",
+        "texts": [
+          "parastie",
+          "sarežģītie",
+          "nejauši"
+        ]
+      }
+    },
+    "checkpoint": {
+      "level": {
+        "texts": [
+          "Kursa pirmās daļas materiāla atkārtošana",
+          "Kursa otrās daļas materiāla atkārtošana"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      }
+    },
+    "wordBuilder": {
+      "level": {
+        "texts": [
+          "Izveido vārdus, izmantojot transkripcijas un ieskaņojumu",
+          "Izveido vārdus, izmantojot ieskaņojumu"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "theme": {
+        "innerName": "Tēmas vārdnīcas izvēle"
+      },
+      "hint": {
+        "innerName": "Izmantojot uzvedni, pirmais un pēdējais burts tiek aizpildīts automātiski"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "textTeaser": {
+      "level": {
+        "texts": [
+          "Izvieto teksta fragmentus pareizā secībā. Tev jāizvieto 4 fragmenti",
+          "Izvieto teksta fragmentus pareizā secībā. Tev jāizvieto 5 fragmenti"
+        ]
+      },
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "hint": {
+        "innerName": "Pirmā teksta daļa nostāsies savā vietā"
+      }
+    },
+    "echoChamber": {
+      "course": {
+        "innerName": "Apmācības līmeņa izvēle"
+      },
+      "answersQty": {
+        "innerName": "Kopējais atbilžu skaits vienas spēles ietvaros"
+      }
+    },
+    "navigation": {
+      "complexity": {
+        "innerName": "Sarežģītība",
+        "texts": [
+          "Prievārdi: in, on, near, right, left",
+          "Prievārdi: under, above, behind, in front of, between"
+        ]
+      },
+      "location": {
+        "innerName": "Lokācijas izvēle"
+      }
+    }
+  }
+}

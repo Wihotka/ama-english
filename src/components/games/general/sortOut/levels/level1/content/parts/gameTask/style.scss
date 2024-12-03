@@ -1,0 +1,80 @@
+@import 'src/scss/_mixins.scss';
+
+.gameTaskContainer {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    width: 322px;
+    height: 64px;
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid #FFFFFF;
+    box-shadow: 1px 2px 16px rgba(28, 6, 64, 0.24);
+    border-radius: 24px;
+    transition: border-color .1s ease-in, box-shadow .1s ease-in;
+    margin-top: 40px;
+
+    @include width-1280-L() {
+        margin-top: 32px;
+        width: 100%;
+        height: 48px;
+        padding: 4px;
+        border-radius: 8px;
+    }
+
+    @include width-1000-L() {
+        grid-row: 1 / 2;
+        grid-column: 1 / 2;
+        height: 100%;
+        padding: 8px 16px;
+        border-radius: 16px;
+        margin: 0;
+        border: 2px solid #FFFFFF;
+    }
+
+    @include width-732-L() {
+        border-radius: 8px;
+        box-shadow: 1px 2px 8px rgba(28, 6, 64, 0.24);
+        border: 1.25px solid #FFFFFF;
+    }
+
+    @include width-852-P() {
+        width: 100%;
+        height: 72px;
+        border-radius: 16px;
+        margin: 0;
+        border: 2px solid rgba(255, 255, 255, 0.48);
+    }
+
+    @include width-412-P() {
+        height: 64px;
+        border-radius: 8px;
+        border: 1.25px solid rgba(255, 255, 255, 0.48);
+        box-shadow: 1px 2px 8px rgba(28, 6, 64, 0.24);
+    }
+}
+
+.gameTaskText {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    @include bodyBoldFont();
+
+    @include width-1280-L() {
+        gap: 4px;
+        font-size: 14px;
+    }
+    @include width-1280-P() {
+        gap: 4px;
+        font-size: 14px;
+    }
+
+    @include width-1000-L() {
+        gap: 8px;
+    }
+}
+
+.highlight {
+    border: 1px solid rgba(254, 58, 58, 0.64);
+    box-shadow: 0px 0px 4px #FE3A3A, 0px 0px 32px #FE3A3A;
+}

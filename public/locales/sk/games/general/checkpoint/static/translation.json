@@ -1,0 +1,9 @@
+﻿{
+  "withImg": "Pozrite sa na obrázok a napíšte slovo",
+  "withVoice": "Vypočujte si slovo a napíšte ho",
+  "withTranscription": "Pozrite sa na prepis a napíšte slovo",
+  "withVoiceTranscription": "Pozrite sa na prepis slova, vypočujte si ho a napíšte ho",
+  "withSentenceFilling": "Vyberte správnu odpoveď z troch uvedených a napíšte ju",
+  "withSentenceMaking": "Vytvor vetu. Nezabudnite zmeniť koncovku slovesa alebo použiť sloveso 'to be'",
+  "withExtraWordSearching": "Napíšte slovo, ktoré NIE JE spojené s danou témou"
+}

@@ -1,0 +1,418 @@
+@import 'src/scss/_mixins.scss';
+
+@mixin transformButton() {
+  border-radius: 32px;
+
+  cursor: pointer;
+  will-change: transform;
+}
+
+// common animation
+@keyframes showing {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes hiding {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.showing {
+  animation: showing .6s forwards;
+}
+
+.hiding {
+  pointer-events: none;
+  animation: hiding .6s forwards;
+}
+
+// end animation
+
+.wrapper {
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 543px;
+  height: 291px;
+
+  background: #FFFFFF;
+  box-shadow: 4px 8px 24px rgba(144, 102, 198, 0.16);
+
+  border-radius: 32px;
+
+  @include width-1280-L {
+    position: static;
+
+    max-width: 275px;
+    height: 436px;
+
+    border-radius: 27px;
+  }
+  @include width-1280-P {
+    position: static;
+
+    max-width: 275px;
+    height: 436px;
+
+    border-radius: 27px;
+  }
+
+  @include width-1000-L {
+    max-width: 211px;
+    height: 328px;
+  }
+  @include width-768-P {
+    position: relative;
+    max-width: 100%;
+    height: 280px;
+  }
+
+  @include width-854-L {
+    max-width: 383px;
+    height: 159px;
+  }
+  @include width-534-P {
+    position: static;
+
+    width: 100%;
+    height: 274px;
+  }
+
+  @include width-732-L {
+    max-width: 286px;
+    height: 131px;
+  }
+  @include width-412-P {
+    height: 214px;
+  }
+
+  @include width-640-L {
+    max-width: 275px;
+    height: 96px;
+  }
+  @include width-360-P {
+    position: relative;
+
+    height: 191px;
+  }
+}
+
+.hint {
+  position: absolute;
+  top: 24px;
+  right: 32px;
+
+  width: 67px;
+  height: 43px;
+
+  @include width-1280-L {
+    top: 20px;
+    right: 50%;
+
+    transform: translateX(50%);
+  }
+  @include width-1280-P {
+    top: 20px;
+    right: 50%;
+
+    transform: translateX(50%);
+  }
+
+  @include width-768-P {
+    top: 16px;
+    right: 16px;
+
+    transform: none;
+  }
+
+  @include width-854-L {
+    top: 10px;
+    width: 90px;
+    height: 36px;
+  }
+  @include width-534-P {
+    top: 10px;
+    right: 50%;
+    transform: translateX(50%);
+
+    width: 90px;
+    height: 36px;
+  }
+
+  @include width-732-L {
+    top: 8px;
+    width: 84px;
+    height: 24px;
+    padding: 0 7px;
+  }
+  @include width-412-P {
+    top: 8px;
+    width: 84px;
+    height: 24px;
+    padding: 0 7px;
+  }
+
+  @include width-360-P {
+    top: 8px;
+    right: 8px;
+    transform: none;
+
+    width: 84px;
+    height: 24px;
+  }
+}
+
+.hiddenHint {
+  display: none;
+}
+
+.done {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+
+  user-select: none;
+
+  @include width-768-P {
+
+  }
+
+  @include width-854-L {
+    flex-direction: row;
+  }
+}
+
+// псведоэлемент, чтобы исключить drag по img
+.imgWrapper {
+  position: relative;
+
+  display: none;
+
+  height: 144px;
+
+  @include width-1000-L {
+    height: 112px;
+  }
+
+  @include width-640-L {
+    height: 80px;
+  }
+
+  @include width-768-P {
+    height: 155px;
+  }
+
+  @include width-534-P {
+    height: 152px;
+  }
+
+  @include width-412-P {
+    height: 118px;
+  }
+
+  @include width-360-P {
+    height: 106px;
+  }
+
+  &::after {
+    content: '';
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    display: block;
+
+    width: 100%;
+    height: 100%;
+  }
+
+  &L1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.img {
+  height: 100%;
+}
+
+.interactive {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+
+  @include width-1280-L {
+    flex-direction: column;
+  }
+  @include width-1280-P {
+    flex-direction: column;
+  }
+
+  @include width-768-P {
+    flex-direction: row;
+  }
+
+  &L1 {
+    gap: 16px;
+    margin-top: 24px;
+
+    @include width-1280-L {
+      gap: 24px;
+      margin-top: 45px;
+    }
+    @include width-1280-P {
+      gap: 24px;
+      margin-top: 45px;
+    }
+
+    @include width-1000-L {
+      gap: 16px;
+      margin-top: 16px;
+    }
+    @include width-768-P {
+      gap: 16px;
+      margin-top: 8px;
+    }
+
+    @include width-854-L {
+      margin-top: 0;
+      margin-left: 16px;
+    }
+    @include width-534-P {
+      margin-top: 3px;
+    }
+
+    @include width-732-L {
+      gap: 8px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+    @include width-412-P {
+      margin-top: 6px;
+    }
+
+    @include width-640-L {
+      flex-direction: row;
+
+      margin-left: 24px;
+    }
+    @include width-360-P {
+      margin-top: 2px;
+    }
+  }
+
+  &L2 {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  &L3 {
+    justify-content: center;
+  }
+}
+
+.transcription {
+  display: none;
+
+  white-space: nowrap;
+
+  color: #9066C6;
+
+  &L1 {
+    display: block;
+
+    @include titleS;
+  }
+
+  &L2 {
+    display: block;
+
+    @include titleM;
+  }
+}
+
+.voice {
+  width: 56px;
+  height: 56px;
+
+  &L1 {
+    @include width-854-L {
+      width: 40px;
+      height: 40px;
+    }
+
+    @include width-534-P {
+      width: 40px;
+      height: 40px;
+    }
+
+    @include width-412-P {
+      width: 42px;
+      height: 42px;
+    }
+
+    @include width-360-P {
+      width: 38px;
+      height: 38px;
+    }
+  }
+
+  &L2 {
+    margin-top: 8px;
+
+    @include width-1280-L {
+      margin-top: 24px;
+    }
+    @include width-1280-P {
+      margin-top: 24px;
+    }
+
+    @include width-1000-L {
+      margin-top: 8px;
+    }
+
+    width: 64px;
+    height: 64px;
+  }
+  &L3 {
+    width: 152px;
+    height: 152px;
+
+    @include width-1280-L {
+      width: 120px;
+      height: 120px;
+    }
+    @include width-1280-P {
+      width: 120px;
+      height: 120px;
+    }
+
+    @include width-1000-L {
+      width: 100px;
+      height: 100px;
+    }
+
+    @include width-640-L {
+      width: 80px;
+      height: 80px;
+    }
+  }
+}

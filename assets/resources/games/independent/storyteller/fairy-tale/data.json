@@ -1,0 +1,180 @@
+{
+    "storyText": "Once upon a time there was a king and a queen. They lived in a lovely golden a0 and had a beautiful daughter, a1. But a1 was very unhappy. She never laughed or smiled. 'We will give a2 to the person who can make a1 happy,' said the queen. A musician came and played the a3, a fairy said a magic spell and a joker came and told jokes, but a1 did not smile or laugh. A young a4 came to work at the queen's a0. He came with his little a5. The little a5 liked to play. One day, a1 saw the a5 and started to smile - then she laughed. The queen heard her daughter laughing and saw the a5. The a4 with his a5 was happy to get a2!",
+    "imageBg": "#C2ECF8CC",
+    "questions": [
+        {
+            "questionText": "This story is about a king and queen.\nWhere do they live?",
+            "answers": [
+                {
+                    "value": "villa",
+                    "imgPath": "fairy-tale/villa.png"
+                },
+                {
+                    "value": "castle",
+                    "imgPath": "fairy-tale/castle.png"
+                },
+                {
+                    "value": "house",
+                    "imgPath": "fairy-tale/house.png"
+                },
+                {
+                    "value": "hut",
+                    "imgPath": "fairy-tale/hut.png"
+                },
+                {
+                    "value": "tree house",
+                    "imgPath": "fairy-tale/tree-house.png"
+                },
+                {
+                    "value": "caravan",
+                    "imgPath": "fairy-tale/caravan.png"
+                }
+            ]
+        },
+        {
+            "questionText": "The king and queen have a daughter.\nWhat’s her name?",
+            "answers": [
+                {
+                    "value": "Serena",
+                    "imgPath": "fairy-tale/serena.png"
+                },
+                {
+                    "value": "Ariel",
+                    "imgPath": "fairy-tale/ariel.png"
+                },
+                {
+                    "value": "Jasmine",
+                    "imgPath": "fairy-tale/jasmine.png"
+                },
+                {
+                    "value": "Stella",
+                    "imgPath": "fairy-tale/stella.png"
+                },
+                {
+                    "value": "Amaira",
+                    "imgPath": "fairy-tale/amaira.png"
+                },
+                {
+                    "value": "Charita",
+                    "imgPath": "fairy-tale/charita.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What's the best prize to get?",
+            "answers": [
+                {
+                    "value": "a diamond",
+                    "imgPath": "fairy-tale/diamond.png"
+                },
+                {
+                    "value": "a magic sword",
+                    "imgPath": "fairy-tale/magic-sword.png"
+                },
+                {
+                    "value": "a ring",
+                    "imgPath": "fairy-tale/ring.png"
+                },
+                {
+                    "value": "a gold bullion",
+                    "imgPath": "fairy-tale/gold-bullion.png"
+                },
+                {
+                    "value": "a bracelet",
+                    "imgPath": "fairy-tale/bracelet.png"
+                },
+                {
+                    "value": "a wand",
+                    "imgPath": "fairy-tale/wand.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What's your favourite musical instrument?",
+            "answers": [
+                {
+                    "value": "guitar",
+                    "imgPath": "fairy-tale/guitar.png"
+                },
+                {
+                    "value": "violin",
+                    "imgPath": "fairy-tale/violin.png"
+                },
+                {
+                    "value": "harp",
+                    "imgPath": "fairy-tale/harp.png"
+                },
+                {
+                    "value": "clarinet",
+                    "imgPath": "fairy-tale/clarinet.png"
+                },
+                {
+                    "value": "piano",
+                    "imgPath": "fairy-tale/piano.png"
+                },
+                {
+                    "value": "drums",
+                    "imgPath": "fairy-tale/drums.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There's a boy in this story.\nWhat's his job?",
+            "answers": [
+                {
+                    "value": "builder",
+                    "imgPath": "fairy-tale/builder.png"
+                },
+                {
+                    "value": "gardener",
+                    "imgPath": "fairy-tale/gardener.png"
+                },
+                {
+                    "value": "cook",
+                    "imgPath": "fairy-tale/cook.png"
+                },
+                {
+                    "value": "cleaner",
+                    "imgPath": "fairy-tale/cleaner.png"
+                },
+                {
+                    "value": "butler",
+                    "imgPath": "fairy-tale/butler.png"
+                },
+                {
+                    "value": "farmer",
+                    "imgPath": "fairy-tale/farmer.png"
+                }
+            ]
+        },
+        {
+            "questionText": "The boy in the story has got a pet.\nWhat is it?",
+            "answers": [
+                {
+                    "value": "monkey",
+                    "imgPath": "fairy-tale/monkey.png"
+                },
+                {
+                    "value": "fish",
+                    "imgPath": "fairy-tale/fish.png"
+                },
+                {
+                    "value": "rabbit",
+                    "imgPath": "fairy-tale/rabbit.png"
+                },
+                {
+                    "value": "dog",
+                    "imgPath": "fairy-tale/dog.png"
+                },
+                {
+                    "value": "owl",
+                    "imgPath": "fairy-tale/owl.png"
+                },
+                {
+                    "value": "hamster",
+                    "imgPath": "fairy-tale/hamster.png"
+                }
+            ]
+        }
+    ]
+}

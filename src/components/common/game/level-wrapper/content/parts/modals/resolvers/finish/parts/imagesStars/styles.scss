@@ -1,0 +1,121 @@
+@import 'src/scss/_mixins';
+
+.stars{
+  position: absolute;
+  z-index: 3;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+  width: 100%;
+  top: 0;
+  max-width: 320px;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%);
+
+  @include width-1280-L {
+    top: 24px;
+    max-width: 240px;
+  }
+  @include width-1280-P {
+    top: 24px;
+    max-width: 240px;
+  }
+
+  @include width-854-L {
+    max-width: 160px;
+  }
+  @include width-534-P {
+    max-width: 160px;
+  }
+
+  @include width-732-L {
+    top: 32px;
+    max-width: 140px;
+  }
+  @include width-412-P {
+    top: 32px;
+    max-width: 140px;
+  }
+}
+
+.star1 {
+  width: 180px;
+
+  @include width-1280-L {
+    width: 128px;
+  }
+  @include width-1280-P {
+    width: 128px;
+  }
+
+  @include width-854-L {
+    width: 96px;
+  }
+  @include width-534-P {
+    width: 96px;
+  }
+
+  @include width-732-L {
+    width: 80px;
+  }
+  @include width-412-P {
+    width: 80px;
+  }
+}
+
+.star2 {
+  width: 135px;
+  transform: rotate(15deg);
+  position: absolute;
+  right: 0;
+
+  @include width-1280-L {
+    width: 96px;
+  }
+  @include width-1280-P {
+    width: 96px;
+  }
+
+  @include width-854-L {
+    width: 72px;
+  }
+  @include width-534-P {
+    width: 72px;
+  }
+
+  @include width-732-L {
+    width: 60px;
+  }
+  @include width-412-P {
+    width: 60px;
+  }
+}
+
+.star0 {
+  width: 135px;
+  transform: rotate(-15deg);
+  position: absolute;
+  left: 0;
+
+  @include width-1280-L {
+    width: 96px;
+  }
+  @include width-1280-P {
+    width: 96px;
+  }
+
+  @include width-854-L {
+    width: 72px;
+  }
+  @include width-534-P {
+    width: 72px;
+  }
+
+  @include width-732-L {
+    width: 60px;
+  }
+  @include width-412-P {
+    width: 60px;
+  }
+}

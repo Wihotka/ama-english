@@ -1,0 +1,740 @@
+[
+  {
+    "question": "A house - two _____ .",
+    "correctAnswer": "houses",
+    "incorrectAnswers": ["housez", "houzes"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A chair - two _____ .",
+    "correctAnswer": "chairs",
+    "incorrectAnswers": ["chaires", "chairz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A window - two _____ .",
+    "correctAnswer": "windows",
+    "incorrectAnswers": ["windowz", "windowes"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A table - two _____ .",
+    "correctAnswer": "tables",
+    "incorrectAnswers": ["tabls", "tablez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A door - two _____ .",
+    "correctAnswer": "doors",
+    "incorrectAnswers": ["doores", "doorez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A dog - two _____ .",
+    "correctAnswer": "dogs",
+    "incorrectAnswers": ["dogz", "doges"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A cat - two _____ .",
+    "correctAnswer": "cats",
+    "incorrectAnswers": ["cates", "catz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A rabbit - two _____ .",
+    "correctAnswer": "rabbits",
+    "incorrectAnswers": ["rabbites", "rabbities"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A hamster - two _____ .",
+    "correctAnswer": "hamsters",
+    "incorrectAnswers": ["hamsterz", "hamsteres"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A parrot - two _____ .",
+    "correctAnswer": "parrots",
+    "incorrectAnswers": ["parrotes", "parrotz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A bear - two _____ .",
+    "correctAnswer": "bears",
+    "incorrectAnswers": ["beares", "bearz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A wolf - two _____ .",
+    "correctAnswer": "wolves",
+    "incorrectAnswers": ["wolfs", "wolvez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A fox - two _____ .",
+    "correctAnswer": "foxes",
+    "incorrectAnswers": ["foxs", "foxez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A monkey - two _____ .",
+    "correctAnswer": "monkeys",
+    "incorrectAnswers": ["monkeis", "monkeyz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A lion - two _____ .",
+    "correctAnswer": "lions",
+    "incorrectAnswers": ["liones", "lionz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "An elephant - two _____ .",
+    "correctAnswer": "elephants",
+    "incorrectAnswers": ["a elephant", "elephantz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A giraffe - two _____ .",
+    "correctAnswer": "giraffes",
+    "incorrectAnswers": ["giraffs", "giraffez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A shark - two _____ .",
+    "correctAnswer": "sharks",
+    "incorrectAnswers": ["sharkis", "sharkies"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A dolphin - two _____ .",
+    "correctAnswer": "dolphins",
+    "incorrectAnswers": ["dolphines", "dolphinez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A turtle - two _____ .",
+    "correctAnswer": "turtles",
+    "incorrectAnswers": ["an turtle", "turtls"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A car - two _____ .",
+    "correctAnswer": "cars",
+    "incorrectAnswers": ["cares", "carz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A doll - two _____ .",
+    "correctAnswer": "dolls",
+    "incorrectAnswers": ["dolles", "dollz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A ball - two _____ .",
+    "correctAnswer": "balls",
+    "incorrectAnswers": ["balles", "ballz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A robot - two _____ .",
+    "correctAnswer": "robots",
+    "incorrectAnswers": ["roboties", "robotes"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A teddy - two _____ .",
+    "correctAnswer": "teddies",
+    "incorrectAnswers": ["teddys", "teddyz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A clown - two _____ .",
+    "correctAnswer": "clowns",
+    "incorrectAnswers": ["clownes", "clownez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A plane - two _____ .",
+    "correctAnswer": "planes",
+    "incorrectAnswers": ["planeis", "planez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A computer - two _____ .",
+    "correctAnswer": "computers",
+    "incorrectAnswers": ["computeres", "computerz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A balloon - two _____ .",
+    "correctAnswer": "balloons",
+    "incorrectAnswers": ["balloonz", "balloones"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A present - two _____ .",
+    "correctAnswer": "presents",
+    "incorrectAnswers": ["presentes", "presentz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A kite - two _____ .",
+    "correctAnswer": "kites",
+    "incorrectAnswers": ["kits", "kities"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A scooter - two _____ .",
+    "correctAnswer": "scooters",
+    "incorrectAnswers": ["scooteres", "scooterz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A train - two _____ .",
+    "correctAnswer": "trains",
+    "incorrectAnswers": ["traines", "trainez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A bike - two _____ .",
+    "correctAnswer": "bikes",
+    "incorrectAnswers": ["biks", "bikez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A head - two _____ .",
+    "correctAnswer": "heads",
+    "incorrectAnswers": ["heades", "headz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "An eye - two _____ .",
+    "correctAnswer": "eyes",
+    "incorrectAnswers": ["eyeis", "eyez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A nose - two _____ .",
+    "correctAnswer": "noses",
+    "incorrectAnswers": ["nosez", "nosies"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A mouth - two _____ .",
+    "correctAnswer": "mouths",
+    "incorrectAnswers": ["mouthes", "mouthez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "An ear - two _____ .",
+    "correctAnswer": "ears",
+    "incorrectAnswers": ["eares", "earz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A tooth - two _____ .",
+    "correctAnswer": "teeth",
+    "incorrectAnswers": ["toothes", "tooths"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A face - two _____ .",
+    "correctAnswer": "faces",
+    "incorrectAnswers": ["facez", "facies"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A snowman - two _____ .",
+    "correctAnswer": "snowmen",
+    "incorrectAnswers": ["snowmens", "snowsmen"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A snowball - two _____ .",
+    "correctAnswer": "snowballs",
+    "incorrectAnswers": ["snowsball", "snowballes"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A cloud - two _____ .",
+    "correctAnswer": "clouds",
+    "incorrectAnswers": ["cloudes", "cloudez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A star - two _____ .",
+    "correctAnswer": "stars",
+    "incorrectAnswers": ["starz", "staries"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A jacket - two _____ .",
+    "correctAnswer": "jackets",
+    "incorrectAnswers": ["jacketis", "jacketz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A T-shirt - two _____ .",
+    "correctAnswer": "T-shirts",
+    "incorrectAnswers": ["Tes-shirt", "T-shirties"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A sock - two _____ .",
+    "correctAnswer": "socks",
+    "incorrectAnswers": ["sockes", "sockz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A shoe - two _____ .",
+    "correctAnswer": "shoes",
+    "incorrectAnswers": ["shoees", "shoies"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A glove - two _____ .",
+    "correctAnswer": "gloves",
+    "incorrectAnswers": ["glovs", "glofes"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "An umbrella - two _____ .",
+    "correctAnswer": "umbrellas",
+    "incorrectAnswers": ["umbrellaes", "umbrellaz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A hat - two _____ .",
+    "correctAnswer": "hats",
+    "incorrectAnswers": ["hattes", "hatts"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A scarf - two _____ .",
+    "correctAnswer": "scarves",
+    "incorrectAnswers": ["scarffes", "scarfs"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "An apple - two _____ .",
+    "correctAnswer": "apples",
+    "incorrectAnswers": ["appls", "applez"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A banana - two _____ .",
+    "correctAnswer": "bananas",
+    "incorrectAnswers": ["bananaes", "bananaz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A lemon - two _____ .",
+    "correctAnswer": "lemons",
+    "incorrectAnswers": ["lemonz", "lemones"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "An orange - two _____ .",
+    "correctAnswer": "oranges",
+    "incorrectAnswers": ["orangees", "orangies"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "A pear - two _____ .",
+    "correctAnswer": "pears",
+    "incorrectAnswers": ["peares", "pearz"],
+    "typeAnswer": "plural"
+  },
+  {
+    "question": "Two cucumbers , one _____ .",
+    "correctAnswer": "cucumber",
+    "incorrectAnswers": ["cukumber", "cucumberes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two tomatoes , one _____ .",
+    "correctAnswer": "tomato",
+    "incorrectAnswers": ["tomatoe", "tomatos"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two potatoes , one _____ .",
+    "correctAnswer": "potato",
+    "incorrectAnswers": ["potatoe", "potatos"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two carrots , one _____ .",
+    "correctAnswer": "carrot",
+    "incorrectAnswers": ["carot", "carrotes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two cakes , one _____ .",
+    "correctAnswer": "cake",
+    "incorrectAnswers": ["kace", "caks"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two drinks , one _____ .",
+    "correctAnswer": "drink",
+    "incorrectAnswers": ["drinc", "drinkes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two biscuits , one _____ .",
+    "correctAnswer": "biscuit",
+    "incorrectAnswers": ["biskuit", "biscuitues"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two sandwiches , one _____ .",
+    "correctAnswer": "sandwich",
+    "incorrectAnswers": ["sandvich", "sandwichs"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two ice creams , one _____ .",
+    "correctAnswer": "ice cream",
+    "incorrectAnswers": ["ise cream", "ices cream"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two buses , one _____ .",
+    "correctAnswer": "bus",
+    "incorrectAnswers": ["bas", "buss"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two ships , one _____ .",
+    "correctAnswer": "ship",
+    "incorrectAnswers": ["shep", "shippes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two boats , one _____ .",
+    "correctAnswer": "boat",
+    "incorrectAnswers": ["bote", "boates"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two tickets , one _____ .",
+    "correctAnswer": "ticket",
+    "incorrectAnswers": ["tiket", "ticketz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two airports , one _____ .",
+    "correctAnswer": "airport",
+    "incorrectAnswers": ["airporte", "airporttes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two dresses , one _____ .",
+    "correctAnswer": "dress",
+    "incorrectAnswers": ["dres", "dressis"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two colours , one _____ .",
+    "correctAnswer": "colour",
+    "incorrectAnswers": ["kolour", "coloures"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two mothers , one _____ .",
+    "correctAnswer": "mother",
+    "incorrectAnswers": ["mather", "motheres"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two fathers , one _____ .",
+    "correctAnswer": "father",
+    "incorrectAnswers": ["fathe", "fatherz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two sisters , one _____ .",
+    "correctAnswer": "sister",
+    "incorrectAnswers": ["sester", "sisterz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two brothers , one _____ .",
+    "correctAnswer": "brother",
+    "incorrectAnswers": ["brather", "brotheres"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two daughters , one _____ .",
+    "correctAnswer": "daughter",
+    "incorrectAnswers": ["doghter", "daughteres"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two sons , one _____ .",
+    "correctAnswer": "son",
+    "incorrectAnswers": ["sun", "sonz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two parents , one _____ .",
+    "correctAnswer": "parent",
+    "incorrectAnswers": ["pearent", "parentes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two families , one _____ .",
+    "correctAnswer": "family",
+    "incorrectAnswers": ["famile", "familys"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two members , one _____ .",
+    "correctAnswer": "member",
+    "incorrectAnswers": ["membere", "memberes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two grandmothers , one _____ .",
+    "correctAnswer": "grandmother",
+    "incorrectAnswers": ["grandmather", "grandsmother"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two grandfathers , one _____ .",
+    "correctAnswer": "grandfather",
+    "incorrectAnswers": ["grandfathere", "grandfatheres"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two men , one _____ .",
+    "correctAnswer": "man",
+    "incorrectAnswers": ["mene", "mans"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two women , one _____ .",
+    "correctAnswer": "woman",
+    "incorrectAnswers": ["womane", "womans "],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two boys , one _____ .",
+    "correctAnswer": "boy",
+    "incorrectAnswers": ["boi", "boies "],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two girls , one _____ .",
+    "correctAnswer": "girl",
+    "incorrectAnswers": ["girle", "girlz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two flats , one _____ .",
+    "correctAnswer": "flat",
+    "incorrectAnswers": ["phlat", "flates"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two rooms , one _____ .",
+    "correctAnswer": "room",
+    "incorrectAnswers": ["roome", "romes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two floors , one _____ .",
+    "correctAnswer": "floor",
+    "incorrectAnswers": ["flor", "floores"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two bedrooms , one _____ .",
+    "correctAnswer": "bedroom",
+    "incorrectAnswers": ["badroom", "bedsrooms"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two bathrooms , one _____ .",
+    "correctAnswer": "bathroom",
+    "incorrectAnswers": ["bathrom", "bathroomes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two pets , one _____ .",
+    "correctAnswer": "pet",
+    "incorrectAnswers": ["pat", "pate"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two hares , one _____ .",
+    "correctAnswer": "hare",
+    "incorrectAnswers": ["hear", "harez"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two seas , one _____ .",
+    "correctAnswer": "sea",
+    "incorrectAnswers": ["see", "seaz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two rivers , one _____ .",
+    "correctAnswer": "river",
+    "incorrectAnswers": ["rever", "riveries"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two oceans , one _____ .",
+    "correctAnswer": "ocean",
+    "incorrectAnswers": ["oceane", "oceanz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two games , one _____ .",
+    "correctAnswer": "game",
+    "incorrectAnswers": ["geime", "gamies"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two toys , one _____ .",
+    "correctAnswer": "toy",
+    "incorrectAnswers": ["toi", "toies"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two puzzles , one _____ .",
+    "correctAnswer": "puzzle",
+    "incorrectAnswers": ["puzl", "puzzlez"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two mornings , one _____ .",
+    "correctAnswer": "morning",
+    "incorrectAnswers": ["morninge", "morningz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two days , one _____ .",
+    "correctAnswer": "day",
+    "incorrectAnswers": ["dai", "daies"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two evenings , one _____ .",
+    "correctAnswer": "evening",
+    "incorrectAnswers": ["evining", "eveningz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two nights , one _____ .",
+    "correctAnswer": "night",
+    "incorrectAnswers": ["nite", "nightz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two weeks , one _____ .",
+    "correctAnswer": "week",
+    "incorrectAnswers": ["wik", "weekz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two months , one _____ .",
+    "correctAnswer": "month",
+    "incorrectAnswers": ["manth", "monthes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two gardens , one _____ .",
+    "correctAnswer": "garden",
+    "incorrectAnswers": ["gardene", "gardenz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two breakfasts , one _____ .",
+    "correctAnswer": "breakfast",
+    "incorrectAnswers": ["brekfast", "breakfastz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two dinners , one _____ .",
+    "correctAnswer": "dinner",
+    "incorrectAnswers": ["diner", "dinneres"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two lunches , one _____ .",
+    "correctAnswer": "lunch",
+    "incorrectAnswers": ["lanch", "lunchez"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two snacks , one _____ .",
+    "correctAnswer": "snack",
+    "incorrectAnswers": ["snak", "snackes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two trips , one _____ .",
+    "correctAnswer": "trip",
+    "incorrectAnswers": ["tripe", "tripz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two holidays , one _____ .",
+    "correctAnswer": "holiday",
+    "incorrectAnswers": ["holidai", "holidaies"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two smiles , one _____ .",
+    "correctAnswer": "smile",
+    "incorrectAnswers": ["smale", "smils"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two hens , one _____ .",
+    "correctAnswer": "hen",
+    "incorrectAnswers": ["han", "henes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two caps , one _____ .",
+    "correctAnswer": "cap",
+    "incorrectAnswers": ["kap", "capes"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two ducks , one _____ .",
+    "correctAnswer": "duck",
+    "incorrectAnswers": ["duk", "duckz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two beds , one _____ .",
+    "correctAnswer": "bed",
+    "incorrectAnswers": ["bad", "bedz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two names , one _____ .",
+    "correctAnswer": "name",
+    "incorrectAnswers": ["neim", "namez"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two letters , one _____ .",
+    "correctAnswer": "letter",
+    "incorrectAnswers": ["leter", "letterz"],
+    "typeAnswer": "singular"
+  },
+  {
+    "question": "Two phones , one _____ .",
+    "correctAnswer": "phone",
+    "incorrectAnswers": ["fone", "phonez"],
+    "typeAnswer": "singular"
+  }
+]

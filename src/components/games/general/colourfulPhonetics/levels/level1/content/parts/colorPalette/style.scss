@@ -1,0 +1,89 @@
+@import 'src/scss/_mixins.scss';
+
+.colorPaletteContainer {
+    flex: 1;
+    box-shadow: -1px 0px 2px rgba(28, 6, 64, 0.16), -8px 0px 24px rgba(28, 6, 64, 0.16);
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @include width-1280-L {
+        padding: 150px 70px
+    }
+    @include width-1280-P {
+        padding: 150px 70px
+    }
+    @include width-852-P {
+        padding: 0 20px;
+        background: none;
+        margin: 0;
+        border-radius: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    @include width-1000-L {
+        flex-direction: row;
+        padding: 80px 30px 30px;
+    }
+
+    @include width-854-L {
+        width: fit-content;
+        padding: 0;
+        border-radius: 0;
+        box-shadow: none;
+    }
+    @include width-534-P {
+        padding: 0 10px;
+        box-shadow: none;
+    }
+
+    @include width-412-P {
+        padding: 0;
+    }
+}
+
+.colorPaletteContent {
+    @include width-852-P {
+        height: 492px;
+        overflow-y: auto;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+
+        &::-webkit-scrollbar {
+            width: 0;
+            height: 0;
+        }
+    }
+
+    @include width-854-L {
+        width: 100%;
+        max-width: 300px;
+        height: 296px;
+        padding: 0 10px;
+        overflow-x: auto;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+
+        &::-webkit-scrollbar {
+            width: 0;
+            height: 0;
+        }
+    }
+    @include width-534-P {
+        width: 428px;
+        height: auto;
+        overflow-y: initial;
+        overflow-x: auto;
+    }
+
+    @include width-732-L {
+        padding: 0 10px 0 18px;
+    }
+
+    @include width-640-L {
+        display: flex;
+        align-items: center;
+    }
+}

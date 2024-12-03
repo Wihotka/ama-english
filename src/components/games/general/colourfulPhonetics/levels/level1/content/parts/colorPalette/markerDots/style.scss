@@ -1,0 +1,120 @@
+@import 'src/scss/_mixins.scss';
+
+.markerDots {
+    padding-top: 80px;
+    height: 100%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 17px;
+
+    @include width-1280-L {
+        display: flex;
+        padding: 50px 0 0;
+    }
+    @include width-1280-P {
+        display: flex;
+        padding: 50px 0 0;
+    }
+    @include width-852-P {
+        display: flex;
+        flex-flow: column;
+        height: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+        gap: 10px;
+    }
+
+    @include width-1000-L {
+        padding: 0;
+    }
+
+    @include width-854-L {
+        display: grid;
+        grid-auto-flow: column;
+        grid-template-rows: repeat(2, 1fr);
+        padding: 0;
+        gap: 40px 32px;
+        justify-content: flex-start;
+    }
+    @include width-534-P {
+        flex-direction: row;
+        padding: 0;
+        height: fit-content;
+        margin-top: 24px;
+        gap: 32px;
+        justify-content: flex-start;
+    }
+
+    @include width-732-L {
+        gap: 32px 24px;
+        padding: 0;
+    }
+    @include width-412-P {
+        margin-top: 0;
+        gap: 24px;
+    }
+
+    @include width-640-L {
+        gap: 32px 28px;
+        height: auto;
+    }
+    @include width-360-P {
+        margin-top: 32px;
+    }
+}
+
+.markerDotContainer {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+    @include media-portrait(1000) {
+        flex-flow: row;
+    }
+
+    @include width-854-L {
+        margin-bottom: 0;
+    }
+    @include width-534-P {
+        flex-flow: column;
+    }
+}
+
+.btnContainer {
+    width: 44px;
+    height: 44px;
+    margin-top: 12px;
+
+    @include media-portrait(1000) {
+        margin-top: 0;
+        margin-left: 12px;
+    }
+
+    @include width-854-L {
+        margin-top: 16px;
+    }
+    @include width-534-P {
+        margin-top: 16px;
+        margin-left: 0;
+    }
+
+    @include width-732-L {
+        margin-top: 12px;
+    }
+    @include width-412-P {
+        margin-top: 12px;
+    }
+
+    @include width-640-L {
+        margin-top: 8px;
+    }
+}
+
+.playBtn {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,108 @@
+@import 'src/scss/_mixins.scss';
+
+.streak {
+    display: flex;
+    align-items: center;
+    height: 32px;
+    margin-top: 8px;
+    gap: 16px;
+    
+
+    @include width-1280-L() {
+        margin-top: 4px;
+        height: 24px;
+        gap: 14px;
+    }
+    @include width-1280-P() {
+        margin-top: 4px;
+        height: 24px;
+        gap: 14px;
+    }
+
+    @include width-854-L() {
+        margin: 0;
+        height: 100%;
+    }
+
+    @include width-732-L() {
+        gap: 10px;
+    }
+
+    @include width-768-P() {
+        margin-top: 4px;
+        height: 24px;
+        gap: 14px;
+    }
+
+    @include width-534-P() {
+        margin-top: 8px;
+    }
+}
+
+.checkPoint {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 12px;
+    position: relative;
+    border-width: 2px;
+    padding: 2px;
+
+    &::after {
+        content: '';
+        display: block;
+        width: 12px;
+        height: 2px;
+        background: #ED7A07;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 32px;
+    }
+
+    &:last-of-type::after {
+        content: none;
+    }
+
+    @include width-1280-L() {
+        width: 24px;
+        height: 24px;
+        border-radius: 6px;
+
+        &::after {
+            left: 23px;
+        }
+    }
+    @include width-1280-P() {
+        width: 24px;
+        height: 24px;
+        border-radius: 6px;
+
+        &::after {
+            left: 23px;
+        }
+    }
+
+    @include width-732-L() {
+        width: 16px;
+        height: 16px;
+        border-radius: 4px;
+
+        &::after {
+            width: 8px;
+            left: 15px;
+        }
+    }
+
+    @include width-768-P() {
+        width: 24px;
+        height: 24px;
+        border-radius: 6px;
+
+        &::after {
+            left: 23px;
+        }
+    }
+}

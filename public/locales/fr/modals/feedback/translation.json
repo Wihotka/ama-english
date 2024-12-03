@@ -1,0 +1,37 @@
+{
+  "message": {
+    "title": "Could you give a feedback?",
+    "text": "It won't take much time and will help us to improve our games",
+    "btnText": "Sure!"
+  },
+  "form": {
+    "titleGame": "Your feedback",
+    "titleCourse": "Rate the course",
+    "titleBad": "What do you dislike?",
+    "subtitleGame": "You will help us to improve the game",
+    "subtitleCourse": "You will help to improve the course",
+    "optionTitleGame": "I liked the game",
+    "optionTitleCourse": "I'm satisfied with the course 'English Language'",
+    "reason": {
+      "difficult": "Difficult",
+      "boring": "Boring",
+      "performance": "Doesn't work correctly",
+      "appearance": "How everything looks",
+      "orientation": "Hard to navigate",
+      "comment": "Describe in commentary"
+    },
+    "optionTitleTextarea": "Kami will be sad if you don't leave the comment",
+    "textareaPlaceholder": "Your comment",
+    "btnSubmit": "Send"
+  },
+  "messageStatus": {
+    "titleSuccess": "Thank you!",
+    "titleError": "Failure",
+    "textGoodResponse": "Your feedback has been sent",
+    "textBadResponse": "Your feedback has been sent. We will review your problem soon",
+    "textError": "Error, please try again.",
+    "btnTextSuccess": "Ok",
+    "btnTextError": "Try again",
+    "btnTextSupport": "Support team"
+  }
+}

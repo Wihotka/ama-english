@@ -1,0 +1,243 @@
+@import 'src/scss/_mixins.scss';
+
+@mixin transformButton() {
+  border-radius: 32px;
+
+  cursor: pointer;
+  will-change: transform;
+}
+
+// common animation
+@keyframes showing {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes hiding {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.showing {
+  animation: showing .6s forwards;
+}
+
+.hiding {
+  pointer-events: none;
+  animation: hiding .6s forwards;
+}
+
+// end animation
+
+.wrapper {
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 543px;
+  height: 288px;
+
+  background: #FFFFFF;
+  box-shadow: 4px 8px 24px rgba(144, 102, 198, 0.16);
+
+  border-radius: 32px;
+
+  @include width-1280-L {
+    width: 524px;
+    height: 188px;
+  }
+  @include width-1280-P {
+    width: 524px;
+    height: 188px;
+  }
+  @include width-852-P {
+    width: 466px;
+    height: 220px;
+  }
+
+  @include width-1000-L {
+    width: 590px;
+    height: 142px;
+  }
+
+  @include width-854-L {
+    width: 516px;
+    height: 173px;
+  }
+  @include width-534-P {
+    width: 422px;
+    height: 231px;
+  }
+
+  @include width-732-L {
+    width: 508px;
+    height: 132px;
+    border-radius: 16px;
+  }
+  @include width-412-P {
+    width: 100%;
+    height: 231px;
+    border-radius: 16px;
+  }
+
+  @include width-640-L {
+    width: 416px;
+    height: 114px;
+  }
+  @include width-360-P {
+    height: 216px;
+  }
+}
+
+.hint {
+  width: 67px;
+  height: 43px;
+  position: absolute;
+  top: 24px;
+  right: 32px;
+
+  @include width-1280-L {
+    width: 58px;
+    height: 37px;
+    top: 16px;
+    right: 16px;
+  }
+  @include width-1280-P {
+    width: 58px;
+    height: 37px;
+    top: 16px;
+    right: 16px;
+  }
+
+  @include width-732-L {
+    width: 52px;
+    height: 33px;
+  }
+  @include width-412-P {
+    width: 52px;
+    height: 33px;
+  }
+
+  @include width-640-L {
+    height: 27px;
+    padding: 0 4px;
+    top: 8px;
+    right: 8px;
+  }
+  @include width-360-P {
+    height: 27px;
+    padding: 0 4px;
+    top: 8px;
+    right: 8px;
+  }
+}
+
+.hiddenHint {
+  display: none;
+}
+
+.done {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+
+  user-select: none;
+}
+
+.interactive {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  &L1 {
+    flex-direction: column;
+
+    @include width-1280-L {
+      flex-direction: row;
+      gap: 16px;
+    }
+    @include width-1280-P {
+      flex-direction: row;
+      gap: 16px;
+    }
+    @include width-852-P {
+      flex-direction: column;
+      gap: 8px;
+    }
+  }
+}
+
+.transcription {
+  display: none;
+
+  white-space: nowrap;
+
+  &L1 {
+    display: block;
+
+    @include titleL;
+  }
+}
+
+.voice {
+  width: 64px;
+  height: 64px;
+
+  &L1 {
+    @include width-732-L {
+      width: 48px;
+      height: 48px;
+    }
+    @include width-412-P {
+      width: 48px;
+      height: 48px;
+    }
+  }
+  &L2 {
+    width: 152px;
+    height: 152px;
+
+    @include width-1280-L {
+      width: 112px;
+      height: 112px;
+    }
+    @include width-1280-P {
+      width: 112px;
+      height: 112px;
+    }
+    @include width-852-P {
+      width: 96px;
+      height: 96px;
+    }
+
+    @include width-1000-L {
+      width: 96px;
+      height: 96px;
+    }
+
+    @include width-732-L {
+      width: 80px;
+      height: 80px;
+    }
+    @include width-412-P {
+      width: 80px;
+      height: 80px;
+    }
+  }
+}

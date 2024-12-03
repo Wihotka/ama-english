@@ -1,0 +1,18 @@
+.marker {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: transform .1s ease-in;
+
+    &:hover {
+        transform: translateX(-16px);
+    }
+
+    & svg {
+        transition: filter .1s ease-in, stroke-width .1s ease-in, stroke .1s ease-in;
+    }
+}
+
+.wrong {
+    filter: drop-shadow(0px 0px 4px #FE3A3A) drop-shadow(0px 0px 32px #FE3A3A) drop-shadow(8px 16px 16px rgba(28, 6, 64, 0.08));
+}

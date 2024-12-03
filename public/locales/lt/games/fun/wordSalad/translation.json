@@ -1,0 +1,4 @@
+{
+  "taskName1": "Sudaryk kuo daugiau angliškų žodžių su žaidimo lauke pateiktomis raidėmis. Kiekvieną žaidimo lauke esančią raidę galima panaudoti 1 kartą. Užskaitomi žodžiai, kurių ilgis nuo 3 iki 10 raidžių. Sudarydamas žodžius, pasitikrink jų rašybą. Kuo ilgesnis žodis, tuo daugiau galima gauti žaidimo balų. Negalima naudoti santrumpų, tikrinių vardų, žodžių, kurie parašyti brūkšneliu. Jei lauke nėra naujų žodžių, galite naudoti mygtuką „Atnaujinti lauką“ ir tęsti žaidimą",
+  "check": "Tikrinti"
+}

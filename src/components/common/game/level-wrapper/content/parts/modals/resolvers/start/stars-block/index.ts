@@ -1,0 +1,1 @@
+export {StarsBlock} from './StarsBlock';

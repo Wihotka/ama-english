@@ -1,0 +1,18 @@
+﻿{
+  "challenge": "Výzva",
+  "completed": "Hotovo",
+  "completedRounds": "Ukončené kolá",
+  "complete_homework": "Ukončiť domáce zadanie",
+  "completed_homework": "Domáce zadanie ukončené",
+  "commentToTask": "Komentár",
+  "stage": "Etapa",
+  "task": "Zadanie",
+  "roundFinish" : {
+    "pushButton": "Klikni na tlačidlo",
+    "allowNewRound": "Dostupné je nové kolo",
+    "roundFinished": "Super!Kolo je ukončené!",
+    "youCanStartNewRound": "Môžeš pokračovať nasledujúcim kolom alebo sa k nemu vrátiš zajtra",
+    "newRoundTomorrow": "Nové kolo bude dostupné zajtra",
+    "forUnblockRound": "K odblokovaniu kola"
+  }
+}

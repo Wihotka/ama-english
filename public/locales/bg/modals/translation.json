@@ -1,0 +1,48 @@
+{
+  "gameStart": {
+    "youCanDo": "Имаш право на",
+    "textErrors": ["грешка", "грешки", "грешки"],
+    "noErrors": "Не допускай грешки",
+    "completeTaskFor": "Заверши играта за",
+    "give": "Дай",
+    "rightAnswers": "верни отговора",
+    "textAnswers": ["отговор", "отговори", "отговори"],
+    "textRight": ["верен", "верни", "верни"],
+    "right": "верни",
+    "min": "мин",
+    "sec": "сек"
+  },
+  "gameFinish": {
+    "successTrue": "Браво",
+    "successFalse": "Задачата не е изпълнена",
+    "successSmallTrue": "Задачата е изпълнена",
+    "successSmallFalse": "Опитай пак",
+    "saving": "Резултатът се запазва",
+    "failSave": "Резултатът не е запазен",
+    "successSave": "Резултатът е запазен",
+    "writeToHelp": "Обърнете се към техническа поддръжка",
+    "min": "мин",
+    "sec": "сек",
+    "indicators":{
+      "rightAnswersQty": "Брой верни отговори",
+      "wrongAnswersQty": "Брой неверни отговори",
+      "gameTime": "Време за игра",
+      "speed": "Скорост",
+      "readingSyllablesSpeed": "Скорост на четене (думи/мин)",
+      "readingWordsSpeed": "Скорост на четене (думи/мин)",
+      "pointsQty": "Брой точки"
+    }
+  },
+  "template": {
+    "settings": "Настройки",
+    "level": "Ниво",
+    "description": "Описание на играта",
+    "selectedSettings": "Избрани настройки",
+    "levelsNames": {
+      "marathon": "Маратон",
+      "faultless": "Безпогрешно",
+      "fittings": "Фитинги",
+      "free": "Свободно"
+    }
+  }
+}

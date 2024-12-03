@@ -1,0 +1,24 @@
+﻿{
+  "textbook": "Web-tankönyv",
+  "challenge": "Challenge",
+  "vocabulary": "Szótár",
+  "games": "Játékok",
+  "arena": "Aréna",
+  "fun": "Szórakozás",
+  "completed": "Kész",
+
+  "descriptions": {
+    "challenge": "Új ismeretek begyakorlása",
+    "vocabulary": "Új szavak tanulása, gyakorlása",
+    "games": "A már tanult anyagok ismétlése",
+    "arena": "Online játékok ellenféllel",
+    "fun": "Játékok mindenkinek",
+    "textbook": "Új ismeretek megszerzése"
+  },
+
+  "messages": {
+    "dueTo": "Határidő:"
+  },
+
+  "developing": "Hamarosan"
+}

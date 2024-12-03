@@ -1,0 +1,60 @@
+{
+  "level": "The game settings depend on the level of the game:",
+  "dataComplexity": "Выбор сложности слов",
+  "answersQty": "Необходимое количество ответов для завершения игры",
+  "gameTime": "Total duration of the game",
+  "maxLettersQty": "Максимальное количество букв в словах на игровом поле",
+  "complexity": "Game difficulty",
+  "mode": "Game mode",
+  "games": {
+    "secretCode": {
+      "level": {
+        "texts": [
+          "Numbers and Letters Cipher",
+          "Emoji Cipher",
+          "Think out of the Box Cipher"
+        ]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "The word contains from 4 to 5 letters",
+          "The word contains from 6 to 7 letters",
+          "The word contains from 8 to 10 letters"
+        ]
+      },
+      "mode": {
+        "innerName": "The form of the key to the ciphers depends on the selected mode:",
+        "texts": [
+          "The key to the cipher is fully seen",
+          "The key to the cipher should  be opened with the help of the special sign"
+        ]
+      }
+    },
+    "storyteller": {
+      "storyType": {
+        "innerName": "Choice of the story type"
+      }
+    },
+    "makeYourChoice": {
+      "level": {
+        "texts": [
+          "Look at the picture and find the correct translation of the word.",
+          "Find the correct translation of the word."
+        ]
+      }
+    },
+    "powerCouple": {
+      "theme": {
+        "innerName": "The choice of the theme will allow you to get acquainted with the following categories of words:",
+        "texts": [
+          "Homographs are spelled the same, but differ in meaning or pronunciation",
+          "Homophones are words that sound the same but are different in meaning or spelling"
+        ]
+      },
+      "map": {
+        "innerName": "The choice of the pattern in which the tiles will be organized"
+      }
+    }
+  }
+}

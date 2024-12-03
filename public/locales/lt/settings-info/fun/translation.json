@@ -1,0 +1,60 @@
+{
+  "level": "Pagal lygį keičiasi žaidimo taisyklės:",
+  "dataComplexity": "Pasirinkti žodžių sudėtingumą",
+  "answersQty": "Būtinas atsakymų, reikalingų norint baigti žaidimą, kiekis",
+  "gameTime": "Bendra žaidimo trukmė",
+  "maxLettersQty": "Didžiausias raidžių ir žodžių kiekis žaidimo lauke",
+  "complexity": "Žaidimo sudėtingumas",
+  "mode": "Žaidimo režimas",
+  "games": {
+    "secretCode": {
+      "level": {
+        "texts": [
+          "Šifras “Skaičiai ir Raidės”",
+          "Šifras “Emoji”",
+          "Šifras “Išeik iš rėmo”"
+        ]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Žodį sudaro 4 arba 5 raidės",
+          "Žodį sudaro 6 arba 7 raidės",
+          "Žodį sudaro 8-10 raidžių"
+        ]
+      },
+      "mode": {
+        "innerName": "Pakeitus režimą keičiasi žemėlapio su šifru išsidėstymas:",
+        "texts": [
+          "Šifro raktas iš karto atverstas žaidimo lauke",
+          "Šifro raktą reikia atversti panaudojant specialų ženklą"
+        ]
+      }
+    },
+    "storyteller": {
+      "storyType": {
+        "innerName": "Pasirinkti istorijos žanrą"
+      }
+    },
+    "makeYourChoice": {
+      "level": {
+        "texts": [
+          "Pažiūrėk į paveikslėlį ir susiek žodį su teisingu vertimu.",
+          "Susiek žodį su teisingu vertimu."
+        ]
+      }
+    },
+    "powerCouple": {
+      "theme": {
+        "innerName": "Pasirinkęs temą galėsi susipažinti su šiomis žodžių kategorijomis:",
+        "texts": [
+          "Homografai - žodžiai, kurie vienodai rašomi, bet skirtingai tariami",
+          "Homofonai - žodžiai, kurie vienodai tariami, bet skirtingai rašomi"
+        ]
+      },
+      "map": {
+        "innerName": "Pasirinkti piešinį, kuriame bus išdėstytos plytelės"
+      }
+    }
+  }
+}

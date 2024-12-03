@@ -1,0 +1,30 @@
+{
+  "rules": "Game rules",
+  "waiting": "Loading",
+  "finish": "Results",
+  "next": "Next",
+  "play": "Play",
+  "winner": "Winner",
+  "score": "Score",
+  "lostTime": "Time left",
+  "repeat": "Play again",
+  "stepBy": "Turn:",
+  "exit": "Exit",
+  "inputPlaceholder": "Player",
+  "nicknamesError": "Names of the players should be different",
+  "sec": "sec.",
+  "online": {
+    "name": "Online",
+    "desc": "Take on your rival in an online battle",
+    "inputLabel": "Enter name and choose avatar",
+    "findEnemy": "Find a rival",
+    "findingEnemy": "Searching for a rival...",
+    "foundEnemy": "Rival found",
+    "waitingEnemy": "Wainting for a rival to answer"
+  },
+  "offline": {
+    "name": "Offline",
+    "desc": "Play with your friends from the same device ",
+    "inputLabel": "Choose avatars and enter names"
+  }
+}

@@ -1,0 +1,94 @@
+@import 'src/scss/_mixins.scss';
+
+.correct, .wrong, .correctPosition {
+    height: 96px !important;
+    margin-bottom: -8px;
+
+    @include width-1280-L() {
+        height: 64px !important;
+        margin-bottom: -4px;
+    }
+    @include width-1280-P() {
+        height: 64px !important;
+        margin-bottom: -4px;
+    }
+
+    @include width-732-L() {
+        height: 54px !important;
+    }
+
+    @include width-640-L() {
+        height: 48px !important;
+    }
+
+    @include width-852-P() {
+        height: 86px !important;
+        margin-bottom: -4px;
+    }
+
+    @include width-534-P() {
+        height: 108px !important;
+    }
+
+    @include width-412-P() {
+        height: 105px !important;
+    }
+
+    @include width-360-P() {
+        height: 101px !important;
+    }
+}
+
+.correct {
+    border: 2px solid rgba(0, 255, 25, 0.64) !important;
+    box-shadow: 0 0 3px #00FF15, 0 0 32px #00FF19 !important;
+}
+
+.wrong {
+    border: 2px solid rgba(254, 58, 58, 0.64) !important;
+    box-shadow: 0 0 4px #FE3A3A, 0 0 32px #FE3A3A !important;
+}
+
+.correctPosition {
+    box-shadow: 2px 8px 24px rgba(56, 22, 109, 0.32);
+    cursor: default !important;
+
+    &::before {
+        content: '';
+        position: absolute;
+        left: -2px;
+        width: 32px;
+        height: 8px;
+        box-shadow: 2px 8px 24px rgba(56, 22, 109, 0.48);
+        transform: translate(-100%);
+    }
+
+    @include width-1280-L() {
+        &::before {
+            width: 16px;
+        }
+    }
+    @include width-1280-P() {
+        &::before {
+            width: 16px;
+        }
+    }
+
+    @include width-1000-L() {
+        &::before {
+            width: 8px;
+        }
+    }
+
+    @include width-852-P() {
+        &::before {
+            width: 16px;
+        }
+    }
+
+    @include width-412-P() {
+        &::before {
+            width: 8px;
+        }
+    }
+}

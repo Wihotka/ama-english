@@ -1,0 +1,20 @@
+@import 'src/scss/_mixins.scss';
+
+.person{
+  margin: 0 auto calc(var(--main-base-grid-gap)* 10);
+  filter: drop-shadow(4px 16px 0px #AE7DFE);
+  padding: 0 10px;
+
+  @include md-block() {
+    margin: 0 auto calc(var(--main-base-grid-gap)* 5);
+  }
+
+  @include sm-block() {
+    margin: 0 auto calc(var(--main-base-grid-gap)* 2);
+  }
+
+
+  &Wrap{
+    position: relative;
+  }
+}

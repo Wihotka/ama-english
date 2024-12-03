@@ -1,0 +1,60 @@
+{
+  "level": "Spēles noteikumi mainās atkarībā no līmeņa:",
+  "dataComplexity": "Vārdu sarežģītības izvēle",
+  "answersQty": "Nepieciešamais atbilžu skaits, lai pabeigtu spēli",
+  "gameTime": "Kopējais spēles ilgums",
+  "maxLettersQty": "Maksimālais burtu skaits vārdos spēles laukumā",
+  "complexity": "Spēles sarežģītība",
+  "mode": "Spēles režīms",
+  "games": {
+    "secretCode": {
+      "level": {
+        "texts": [
+          "Šifrs “Cipari un burti”",
+          "Šifrs “Emoji”",
+          "Šifrs “Iziet ārpus rāmjiem”"
+        ]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Vārds sastāv no 4 vai 5 burtiem",
+          "Vārds sastāv no 6 vai 7 burtiem",
+          "Vārds sastāv no 8-10 burtiem"
+        ]
+      },
+      "mode": {
+        "innerName": "Izvēloties režīmu, tiek mainīta šifra kartes atrašanās vieta:",
+        "texts": [
+          "Šifra atslēga uzreiz ir atvērta spēles logā",
+          "Šifra atslēga ir jāapgriež ar īpašu ikonu"
+        ]
+      }
+    },
+    "storyteller": {
+      "storyType": {
+        "innerName": "Stāsta žanra izvēle"
+      }
+    },
+    "makeYourChoice": {
+      "level": {
+        "texts": [
+          "Apskati attēlu un savieno vārdu ar pareizo tulkojumu.",
+          "Savieno vārdu ar pareizo tulkojumu."
+        ]
+      }
+    },
+    "powerCouple": {
+      "theme": {
+        "innerName": "Tēmas izvēle ļaus iepazīties ar šādām vārdu kategorijām:",
+        "texts": [
+          "Homogrāfi ir vārdi, kas tiek rakstīti vienādi, bet tiek izrunāti atšķirīgi",
+          "Homofoni ir vārdi, kurus izrunā vienādi, bet raksta atšķirīgi"
+        ]
+      },
+      "map": {
+        "innerName": "Attēla izvēle, kurā tiks novietoti kauliņi"
+      }
+    }
+  }
+}

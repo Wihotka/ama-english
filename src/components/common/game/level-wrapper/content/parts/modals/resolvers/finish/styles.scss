@@ -1,0 +1,108 @@
+@import '/src/scss/_mixins';
+
+.modal {
+  display: flex;
+  flex: 1 0 auto;
+  width: 100%;
+  max-width: 1110px;
+  min-height: 565px;
+  margin: 0 auto;
+  transform: skew(-4.5deg);
+  padding: 41px 50px;
+  overflow: visible;
+
+  @include md-block() {
+    padding: 15px 22px;
+  }
+  @include sm-block() {
+    min-height: initial;
+    padding: 10px;
+    transform: skew(0);
+  }
+}
+
+.outer {
+  width: 100%;
+  padding: 16px;
+  position: relative;
+}
+
+.inner {
+  flex: 1 0 auto;
+  max-width: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px;
+  background: #FFFFFF;
+  border-radius: 64px;
+}
+
+.gameFinish {
+  width: 751px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 0 auto;
+  position: relative;
+  padding-top: 48px;
+}
+
+.finishOuter {
+  position: relative;
+  width: calc(100% - 208px);
+  max-width: 543px;
+  margin: 0 auto;
+
+  @include md-block() {
+    width: initial;
+  }
+}
+
+.finishInner {
+  border-radius: 104px;
+  margin-top: 60px;
+
+  &>div{
+    border-radius: 88px;
+    padding-top: calc(var(--main-base-grid-gap) * 10);
+
+    @include width-1280-L {
+      padding-top: 72px;
+    }
+    @include width-1280-P {
+      padding-top: 72px;
+    }
+
+    @include width-854-L {
+      padding-top: 56px;
+    }
+    @include width-534-P {
+      padding-top: 56px;
+    }
+
+    @include width-732-L {
+      padding-top: 48px;
+    }
+    @include width-412-P {
+      padding-top: 48px;
+    }
+  }
+
+  @include md-block() {
+    border-radius: 16px;
+  }
+}
+
+.savingStatus {
+  max-width: 100%;
+  display: block;
+  color: var(--main-color-4);
+  margin: 0 auto;
+}
+
+.savingText{
+  font-weight: bold;
+  display: block;
+}

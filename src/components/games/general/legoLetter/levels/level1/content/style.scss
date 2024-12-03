@@ -1,0 +1,131 @@
+@import 'src/scss/_mixins.scss';
+
+.gameWrap {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.game {
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  overflow-x: auto;
+
+  @include width-1280-L {
+    flex-direction: row;
+    min-height: auto;
+    padding: 96px 0;
+  }
+  @include width-1280-P {
+    flex-direction: row;
+    min-height: auto;
+    padding: 96px 0;
+  }
+
+  @include width-1000-L {
+    padding: 63px 0;
+  }
+  @include width-768-P {
+    flex-direction: column;
+    padding: 83px 0 100px 0;
+  }
+
+  @include width-854-L {
+    padding: 0;
+  }
+  @include width-534-P {
+    padding: 0;
+  }
+}
+
+.parts {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-bottom: 24px;
+
+  @include width-1280-L {
+    margin-left: 32px;
+
+    row-gap: 24px;
+    column-gap: 24px;
+
+    padding-bottom: 8px;
+    width: 348px;
+  }
+  @include width-1280-P {
+    margin-left: 32px;
+
+    row-gap: 24px;
+    column-gap: 24px;
+
+    padding-bottom: 8px;
+    width: 348px;
+  }
+
+  @include width-768-P {
+    justify-content: center;
+    column-gap: 8px;
+    width: 100%;
+    padding-bottom: 8px;
+    margin-top: 32px;
+    margin-left: 0;
+  }
+
+  @include width-854-L {
+    margin-left: 40px;
+    row-gap: 28px;
+    column-gap: 16px;
+    width: 332px;
+  }
+  @include width-534-P {
+    margin-top: 40px;
+    column-gap: 24px;
+    row-gap: 24px;
+    width: 348px;
+  }
+
+  @include width-732-L {
+    margin-left: 32px;
+    column-gap: 16px;
+    row-gap: 16px;
+    width: 248px;
+  }
+  @include width-412-P {
+    margin-top: 32px;
+    width: 264px;
+  }
+}
+
+.fadeEnter.game {
+  opacity: 0;
+  transform: scale(0.5);
+}
+
+.fadeEnterActive.game {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.fadeExit.game {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.fadeExitActive.game {
+  opacity: 0;
+  transform: scale(0.5);
+}
+
+.fadeEnterActive.game,
+.fadeExitActive.game {
+  transition: opacity 150ms, transform 150ms;
+}

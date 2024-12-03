@@ -1,0 +1,37 @@
+﻿{
+  "message": {
+    "title": "Odoslať hodnotenie?",
+    "text": "Pomôže to zlepšiť hry a nezaberie Vám to veľa času",
+    "btnText": "Hotovo!"
+  },
+  "form": {
+    "titleGame": "Ohodnoťte hru",
+    "titleCourse": "Ohodnoťte kurz",
+    "titleBad": "Čo sa vám nepáčilo?",
+    "subtitleGame": "Pomôžete hru vylepšiť.",
+    "subtitleCourse": "Pomôžete zlepšiť kurz AMAenglish",
+    "optionTitleGame": "Hra sa mi páčila.",
+    "optionTitleCourse": "Vyhovuje mi kurz AMAenglish",
+    "reason": {
+      "difficult": "Ťažké",
+      "boring": "Nudné",
+      "performance": "Nefunguje dobre",
+      "appearance": "Grafika",
+      "orientation": "Ťažko sa orientuje",
+      "comment": "Opísať v komentári"
+    },
+    "optionTitleTextarea": "Zanechaj komentár, aby Kami nebol smutný",
+    "textareaPlaceholder": "Tvoj komentár",
+    "btnSubmit": "Odoslať"
+  },
+  "messageStatus": {
+    "titleSuccess": "Ďakujeme!",
+    "titleError": "Nepodarilo sa",
+    "textGoodResponse": "Hodnotenie odoslané",
+    "textBadResponse": "Spätná väzba odoslaná. Vašu spätnú väzbu čoskoro skontrolujeme",
+    "textError": "Chyba pri odosielaní spätnej väzby. Skúste to prosím znova.",
+    "btnTextSuccess": "ОK",
+    "btnTextError": "Skúste to znova.",
+    "btnTextSupport": "Napíšte technickej podpore"
+  }
+}

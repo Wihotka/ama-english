@@ -1,0 +1,18 @@
+﻿{
+  "challenge": "Challenge",
+  "completed": "Kész",
+  "completedRounds": "Teljesített forduló",
+  "complete_homework": "Challenge teljesítése",
+  "completed_homework": "Challenge teljesítve",
+  "commentToTask": "Az oktató üzenete",
+  "stage": "Kihívás",
+  "task": "Feladat",
+  "roundFinish" : {
+    "pushButton": "Kattints a gombra",
+    "allowNewRound": "Új forduló indítása",
+    "roundFinished": "Ügyes vagy! A forduló teljesítve",
+    "youCanStartNewRound": "Elkezdheted a következő fordulót most, vagy visszajöhetsz holnap",
+    "newRoundTomorrow": "Az új fordulót holnap tudod teljesíteni",
+    "forUnblockRound": "a forduló feloldásához"
+  }
+}

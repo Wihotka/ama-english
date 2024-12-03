@@ -1,0 +1,180 @@
+{
+    "storyText": "Lara and Marco were brave explorers. They were in the jungle, searching for a gold a0 that once belonged to an ancient king. The a0 had been lost for a thousand years. Lara and Marco had a1. They trekked through the jungle, across dangerous a2. 'Marco,' cried Lara, 'watch out for the a3!' They finally arrived at a lost city. 'Look, there's a a4,' said Marco. The a4 took them to a a5, deep under the city. In the middle of the a5 there was a stone with symbols on it. Marco and Lara pushed away the heavy stone and gasped as they saw the glittering, gold a0.",
+    "imageBg": "#DA43BCCC",
+    "questions": [
+        {
+            "questionText": "What are the characters searching for?",
+            "answers": [
+                {
+                    "value": "philosopher’s stone",
+                    "imgPath": "adventure/philosopher’s-stone.png"
+                },
+                {
+                    "value": "bracelet",
+                    "imgPath": "adventure/bracelet.png"
+                },
+                {
+                    "value": "cup",
+                    "imgPath": "adventure/cup.png"
+                },
+                {
+                    "value": "mask",
+                    "imgPath": "adventure/mask.png"
+                },
+                {
+                    "value": "ring",
+                    "imgPath": "adventure/ring.png"
+                },
+                {
+                    "value": "necklace",
+                    "imgPath": "adventure/necklace.png"
+                }
+            ]
+        },
+        {
+            "questionText": "The characters have something to help them.\nWhat is it?",
+            "answers": [
+                {
+                    "value": "an ancient manuscript",
+                    "imgPath": "adventure/ancient-manuscript.png"
+                },
+                {
+                    "value": "a letter",
+                    "imgPath": "adventure/letter.png"
+                },
+                {
+                    "value": "a map",
+                    "imgPath": "adventure/map.png"
+                },
+                {
+                    "value": "some secret symbols",
+                    "imgPath": "adventure/some-secret-symbols.png"
+                },
+                {
+                    "value": "a message in code",
+                    "imgPath": "adventure/message-in-code.png"
+                },
+                {
+                    "value": "a book",
+                    "imgPath": "adventure/book.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What do they have to cross in the jungle?",
+            "answers": [
+                {
+                    "value": "rivers",
+                    "imgPath": "adventure/rivers.png"
+                },
+                {
+                    "value": "volcanoes",
+                    "imgPath": "adventure/volcanoes.png"
+                },
+                {
+                    "value": "swamps",
+                    "imgPath": "adventure/swamps.png"
+                },
+                {
+                    "value": "waterfalls",
+                    "imgPath": "adventure/waterfalls.png"
+                },
+                {
+                    "value": "bridges",
+                    "imgPath": "adventure/bridges.png"
+                },
+                {
+                    "value": "rocks",
+                    "imgPath": "adventure/rocks.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What dangerous animal do they see?",
+            "answers": [
+                {
+                    "value": "leopard",
+                    "imgPath": "adventure/leopard.png"
+                },
+                {
+                    "value": "tiger",
+                    "imgPath": "adventure/tiger.png"
+                },
+                {
+                    "value": "poisonous spider",
+                    "imgPath": "adventure/poisonous-spider.png"
+                },
+                {
+                    "value": "crocodile",
+                    "imgPath": "adventure/crocodile.png"
+                },
+                {
+                    "value": "snake",
+                    "imgPath": "adventure/snake.png"
+                },
+                {
+                    "value": "poisonous frog",
+                    "imgPath": "adventure/poisonous-frog.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What do they see in the lost city?",
+            "answers": [
+                {
+                    "value": "maze",
+                    "imgPath": "adventure/maze.png"
+                },
+                {
+                    "value": "secret entrance",
+                    "imgPath": "adventure/secret-entrance.png"
+                },
+                {
+                    "value": "staircase",
+                    "imgPath": "adventure/staircase.png"
+                },
+                {
+                    "value": "tunnel",
+                    "imgPath": "adventure/tunnel.png"
+                },
+                {
+                    "value": "corridor",
+                    "imgPath": "adventure/corridor.png"
+                },
+                {
+                    "value": "door",
+                    "imgPath": "adventure/door.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What place do they find?",
+            "answers": [
+                {
+                    "value": "hall",
+                    "imgPath": "adventure/hall.png"
+                },
+                {
+                    "value": "basement",
+                    "imgPath": "adventure/basement.png"
+                },
+                {
+                    "value": "cave",
+                    "imgPath": "adventure/cave.png"
+                },
+                {
+                    "value": "dungeon",
+                    "imgPath": "adventure/dungeon.png"
+                },
+                {
+                    "value": "temple",
+                    "imgPath": "adventure/temple.png"
+                },
+                {
+                    "value": "palace",
+                    "imgPath": "adventure/palace.png"
+                }
+            ]
+        }
+    ]
+}

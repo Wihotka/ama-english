@@ -1,0 +1,110 @@
+@import 'src/scss/_mixins.scss';
+
+@mixin startedInputState {
+  border: 2px solid #AE7DFE;
+  box-shadow: 0 0 0 #fff0, 0 0 0 #fff0, 4px 8px 40px rgba(56, 22, 109, 0.16), inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+}
+
+@keyframes successInput {
+  0%{@include startedInputState}
+  50% {
+    border: 2px solid #72FF80;
+    box-shadow: 0 0 4px #72FF80, 0 0 32px #72FF80, 4px 8px 24px rgba(56, 22, 109, 0.4), inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+  }
+  100% {@include startedInputState}
+}
+
+@keyframes errorInput {
+  0%{@include startedInputState}
+  50% {
+    border: 2px solid #FE3A3A;
+    box-shadow: 0 0 4px #FE3A3A, 0 0 32px #FE3A3A, 4px 8px 24px rgba(56, 22, 109, 0.4), inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+  }
+  100% {@include startedInputState}
+}
+
+.input {
+  width: 100%;
+  height: 100%;
+
+  padding: 24px 40px;
+
+  @include titleS;
+  text-align: center;
+
+  transition: .3s;
+
+  cursor: text;
+
+  @include width-1280-L {
+    padding: 16px 24px;
+  }
+  @include width-1280-P {
+    padding: 16px 24px;
+  }
+
+  @include width-640-L {
+    padding: 8px 16px;
+  }
+
+  &Wrapper {
+    margin-top: 16px;
+
+    width: 100%;
+    height: 126px;
+
+    border: 2px solid #AE7DFE;
+    border-radius: 32px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 8px 40px rgba(56, 22, 109, 0.16), inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+
+    @include width-1280-L {
+      height: 90px;
+      margin-top: 8px;
+      border-radius: 24px;
+    }
+    @include width-1280-P {
+      height: 90px;
+      margin-top: 8px;
+      border-radius: 24px;
+    }
+
+    @include width-768-P {
+      min-height: 90px;
+      height: fit-content;
+    }
+
+    @include width-854-L {
+      max-height: 72px;
+    }
+    @include width-534-P {
+      margin-top: 16px;
+    }
+
+    @include width-732-L {
+      max-height: 64px;
+    }
+    @include width-412-P {
+      min-height: 66px;
+    }
+
+    @include width-640-L {
+      max-height: 50px;
+      margin-top: 4px;
+      border-radius: 16px;
+    }
+    @include width-360-P {
+      margin-top: 8px;
+      border-radius: 16px;
+    }
+
+    &__success {
+      animation: successInput 1s forwards;
+    }
+
+    &__error {
+      animation: errorInput 1s forwards;
+    }
+  }
+}

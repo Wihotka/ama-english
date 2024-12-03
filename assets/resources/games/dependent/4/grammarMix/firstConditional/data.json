@@ -1,0 +1,206 @@
+{
+  "1": [
+    {
+      "question": "If you _____ plants, they will grow faster .",
+      "correctAnswer": "water",
+      "incorrectAnswers": "will water"
+    },
+    {
+      "question": "If it _____ tomorrow, I'll take the car .",
+      "correctAnswer": "rains",
+      "incorrectAnswers": "will rain"
+    },
+    {
+      "question": "If you _____ hard, you will pass your exams .",
+      "correctAnswer": "study",
+      "incorrectAnswers": "will study"
+    },
+    {
+      "question": "If I _____ too much coffee, I will not sleep at night .",
+      "correctAnswer": "drink",
+      "incorrectAnswers": "will drink"
+    },
+    {
+      "question": "When I _____ work, I'll call you .",
+      "correctAnswer": "finish",
+      "incorrectAnswers": "will finish"
+    },
+    {
+      "question": "We will go to the restaurant if the babysitter _____ .",
+      "correctAnswer": "arrives",
+      "incorrectAnswers": "will arrive"
+    },
+    {
+      "question": "I will stay in London if I _____ a job .",
+      "correctAnswer": "get",
+      "incorrectAnswers": "will get"
+    },
+    {
+      "question": "I will give you a key if I _____ at home .",
+      "correctAnswer": "am not",
+      "incorrectAnswers": "will not be"
+    },
+    {
+      "question": "You will go to the party if you _____ homework .",
+      "correctAnswer": "finish",
+      "incorrectAnswers": "will finish"
+    },
+    {
+      "question": "I will take a cat if I _____ a flat .",
+      "correctAnswer": "buy",
+      "incorrectAnswers": "will buy"
+    },
+    {
+      "question": "If the weather is fine, we _____ for a walk .",
+      "correctAnswer": "will go",
+      "incorrectAnswers": "go"
+    },
+    {
+      "question": "If I get this job, I _____ a lot of money .",
+      "correctAnswer": "will earn",
+      "incorrectAnswers": "earn"
+    },
+    {
+      "question": "If I go to London, I _____ the Tower of London .",
+      "correctAnswer": "will see",
+      "incorrectAnswers": "see"
+    },
+    {
+      "question": "If you don’t hurry, we _____ the train .",
+      "correctAnswer": "will miss",
+      "incorrectAnswers": "miss"
+    },
+    {
+      "question": "If he is having a meeting at the moment, I _____ him later .",
+      "correctAnswer": "will call",
+      "incorrectAnswers": "call"
+    },
+    {
+      "question": "She _____ a university if she passes her test .",
+      "correctAnswer": "will enter",
+      "incorrectAnswers": "enters"
+    },
+    {
+      "question": "You _____ learn English if you want to live abroad .",
+      "correctAnswer": "will have to",
+      "incorrectAnswers": "have to"
+    },
+    {
+      "question": "I _____ her everything if she calls .",
+      "correctAnswer": "will tell",
+      "incorrectAnswers": "tell"
+    },
+    {
+      "question": "You _____ a cold if you don't wear a scarf .",
+      "correctAnswer": "will catch",
+      "incorrectAnswers": "catch"
+    },
+    {
+      "question": "She _____ happy if you give her flowers .",
+      "correctAnswer": "will be",
+      "incorrectAnswers": "is"
+    }
+  ],
+  "2": [
+    {
+      "question": "If you _____ # plants, they will grow faster .",
+      "correctAnswer": "water",
+      "incorrectAnswers": "will water"
+    },
+    {
+      "question": "If it _____ # tomorrow, I'll take the car .",
+      "correctAnswer": "rains",
+      "incorrectAnswers": "will rain"
+    },
+    {
+      "question": "If you _____ # hard, you will pass your exams .",
+      "correctAnswer": "study",
+      "incorrectAnswers": "will study"
+    },
+    {
+      "question": "If I _____ # too much coffee, I will not sleep at night .",
+      "correctAnswer": "drink",
+      "incorrectAnswers": "will drink"
+    },
+    {
+      "question": "When I _____ # work, I'll call you .",
+      "correctAnswer": "finish",
+      "incorrectAnswers": "will finish"
+    },
+    {
+      "question": "We will go to the restaurant if the babysitter _____ # .",
+      "correctAnswer": "arrives",
+      "incorrectAnswers": "will arrive"
+    },
+    {
+      "question": "I will stay in London if I _____ # a job .",
+      "correctAnswer": "get",
+      "incorrectAnswers": "will get"
+    },
+    {
+      "question": "I will give you a key if I _____ # at home .",
+      "correctAnswer": "am not",
+      "incorrectAnswers": "will not be"
+    },
+    {
+      "question": "You will go to the party if you _____ # homework .",
+      "correctAnswer": "finish",
+      "incorrectAnswers": "will finish"
+    },
+    {
+      "question": "I will take a cat if I _____ # a flat .",
+      "correctAnswer": "buy",
+      "incorrectAnswers": "will buy"
+    },
+    {
+      "question": "If the weather is fine, we _____ # for a walk .",
+      "correctAnswer": "will go",
+      "incorrectAnswers": "go"
+    },
+    {
+      "question": "If I get this job, I _____ # a lot of money .",
+      "correctAnswer": "will earn",
+      "incorrectAnswers": "earn"
+    },
+    {
+      "question": "If I go to London, I _____ # the Tower of London .",
+      "correctAnswer": "will see",
+      "incorrectAnswers": "see"
+    },
+    {
+      "question": "If you don’t hurry, we _____ # the train .",
+      "correctAnswer": "will miss",
+      "incorrectAnswers": "miss"
+    },
+    {
+      "question": "If he is having a meeting at the moment, I _____ # him later .",
+      "correctAnswer": "will call",
+      "incorrectAnswers": "call"
+    },
+    {
+      "question": "She _____ # a university if she passes her test .",
+      "correctAnswer": "will enter",
+      "incorrectAnswers": "enters"
+    },
+    {
+      "question": "You _____ # learn English if you want to live abroad .",
+      "correctAnswer": "will have to",
+      "incorrectAnswers": "have to"
+    },
+    {
+      "question": "I _____ # her everything if she calls .",
+      "correctAnswer": "will tell",
+      "incorrectAnswers": "tell"
+    },
+    {
+      "question": "You _____ # a cold if you don't wear a scarf .",
+      "correctAnswer": "will catch",
+      "incorrectAnswers": "catch"
+    },
+    {
+      "question": "She _____ # happy if you give her flowers .",
+      "correctAnswer": "will be",
+      "incorrectAnswers": "is"
+    }
+  ]
+}

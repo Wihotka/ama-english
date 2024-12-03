@@ -1,0 +1,138 @@
+@import 'src/scss/_mixins.scss';
+
+$timeLineInsetShadow: inset 0 2px 2px rgba(255, 255, 255, 0.32);
+
+@keyframes redFlashing {
+  0% {
+    color: #FE3A3A;
+  }
+
+  100% {
+    color: #FE3A3AB8;
+  }
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+
+  width: 624px;
+  height: 42px;
+
+  margin-top: 24px;
+
+  @include width-1280-L {
+    width: 100%;
+    margin-top: 0;
+  }
+  @include width-1280-P {
+    width: 100%;
+    margin-top: 0;
+  }
+  @include width-852-P {
+    width: 100%;
+    margin-top: 0;
+  }
+
+  @include width-854-L {
+    height: 39px;
+  }
+  @include width-534-P {
+    height: 39px;
+  }
+
+  @include width-732-L {
+    height: 35px;
+  }
+  @include width-412-P {
+    height: 35px;
+  }
+}
+
+.value {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-width: 83px;
+  height: 100%;
+
+  border-radius: 8px;
+
+  background: #FFFFFF;
+  box-shadow: 2px 6px 16px rgba(144, 102, 198, 0.32);
+
+  @include buttonFont;
+
+  @include width-854-L {
+    min-width: 87px;
+    height: 39px;
+  }
+  @include width-534-P {
+    min-width: 87px;
+    height: 39px;
+  }
+
+  @include width-732-L {
+    min-width: 80px;
+    height: 35px;
+  }
+  @include width-412-P {
+    min-width: 80px;
+    height: 35px;
+  }
+  &_red {
+    color: #FE3A3A;
+
+    animation: redFlashing .5s alternate infinite;
+  }
+}
+
+.outerLine {
+  width: 100%;
+  height: 30px;
+
+  padding: 6px 6px 6px 0;
+
+  border-radius: 0 16px 16px 0;
+
+  background: #FFFFFF;
+  box-shadow: 2px 4px 8px rgba(56, 22, 109, 0.24), inset -1px -2px 4px rgba(188, 215, 255, 0.88);
+
+  overflow: hidden;
+
+  z-index: -1;
+
+  @include width-732-L {
+    height: 24px;
+  }
+  @include width-412-P {
+    height: 24px;
+  }
+}
+
+.innerLine {
+  width: 100%;
+  height: 100%;
+
+  border-radius: inherit;
+
+  opacity: 0.82;
+
+  transition: 1s;
+
+  &_green {
+    background: #72FF80;
+    box-shadow: inset 0 -2px 2px #00A910, $timeLineInsetShadow;
+  }
+
+  &_yellow {
+    background: #FFB800;
+    box-shadow: inset 0 -2px 2px #AE7E00, $timeLineInsetShadow;
+  }
+
+  &_red {
+    background: #FE3A3A;
+    box-shadow: inset 0 -2px 2px #9A0000, $timeLineInsetShadow;
+  }
+}

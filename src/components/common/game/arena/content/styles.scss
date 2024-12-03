@@ -1,0 +1,46 @@
+@import "/src/scss/mixins";
+
+.gameContent {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  width: 100%;
+
+  @include width-852-P {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    justify-items: center;
+  }
+
+  @include width-1000-L {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    justify-items: center;
+  }
+
+  @include width-854-L {
+    gap: 12px;
+    top: 40px;
+    margin-bottom: 40px;
+  }
+  @include width-534-P {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, minmax(min-content, max-content));
+    gap: 12px;
+    top: 40px;
+    margin-bottom: 40px;
+  }
+
+  @include width-732-L {
+    top: 0;
+  }
+  @include width-412-P {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    top: 40px;
+  }
+}

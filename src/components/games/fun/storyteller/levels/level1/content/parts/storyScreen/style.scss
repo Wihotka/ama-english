@@ -1,0 +1,233 @@
+@import 'src/scss/_mixins.scss';
+
+.storyScreenContainer {
+    background: linear-gradient(0deg, rgba(255, 214, 0, 0.06), rgba(255, 214, 0, 0.06)), #FFFFFF;
+    box-shadow: 1px 2px 12px rgba(20, 20, 20, 0.48);
+    border-radius: 24px;
+    width: 848px;
+    height: 572px;
+    padding: 24px 8px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    margin: 32px auto 43px;
+    gap: 32px;
+
+    @include width-1280-L() {
+        height: 429px;
+        gap: 24px;
+        margin: 0 auto 20px;
+    }
+    @include width-1280-P() {
+        height: 429px;
+        gap: 24px;
+        margin: 0 auto 20px;
+    }
+
+    @include width-1000-L() {
+        width: 648px;
+        height: 403px;
+        gap: 16px;
+        margin-bottom: 4px;
+    }
+
+    @include width-732-L() {
+        width: 608px;
+        height: 296px;
+        gap: 8px;
+    }
+
+    @include width-854-L() {
+        margin-top: 8px;
+    }
+
+    @include width-852-P() {
+        margin: 0 auto 134px;
+        width: 648px;
+        height: 403px;
+        gap: 16px;
+    }
+
+    @include width-534-P() {
+        width: 486px;
+        height: 595px;
+        margin-bottom: 110px;
+    }
+
+    @include width-412-P() {
+        width: 380px;
+        height: 514px;
+        margin-bottom: 100px;
+    }
+
+    @include width-360-P() {
+        width: 328px;
+        height: 562px;
+        margin: -16px auto 12px;
+    }
+}
+
+.storyTextScroll {
+    overflow: auto;
+    scrollbar-width: thin;
+    display: flex;
+    flex-flow: column;
+    gap: 14px;
+    width: 688px;
+
+    &::-webkit-scrollbar {
+        border-radius: 8px;
+        border: none;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        border: none;
+    }
+
+    @include width-1280-L() {
+        gap: 24px;
+    }
+    @include width-1280-P() {
+        gap: 24px;
+    }
+    
+    @include width-1000-L() {
+        gap: 16px;
+        width: 616px;
+    }
+
+    @include width-732-L() {
+        width: 592px;
+        gap: 4px;
+    }
+
+    @include width-852-P() {
+        gap: 16px;
+        width: 616px;
+    }
+
+    @include width-534-P() {
+        width: 438px;
+    }
+
+    @include width-412-P() {
+        width: 332px;
+        gap: 8px;
+    }
+
+    @include width-360-P() {
+        width: 296px;
+        gap: 16px;
+    }
+}
+
+.storyTextTitle {
+    width: 100%;
+    text-align: center;
+
+    @include titleS();
+}
+
+.storyText {
+    height: 280px;
+    text-align: center;
+    padding-right: 10px;
+
+    @include bodyRegular140Font();
+
+    @include width-1280-L() {
+        height: 176px;
+    }
+    @include width-1280-P() {
+        height: 176px;
+    }
+
+    @include width-1000-L() {
+        height: 198px;
+    }
+
+    @include width-732-L() {
+        height: 180px;
+    }
+
+    @include width-852-P() {
+        height: 198px;
+    }
+
+    @include width-534-P() {
+        height: 286px;
+    }
+
+    @include width-412-P() {
+        height: 300px;
+    }
+
+    @include width-360-P() {
+        height: 340px;
+    }
+}
+
+.storyUserAnswers {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+
+    @include width-1000-L() {
+        gap: 8px;
+    }
+
+    @include width-852-P() {
+        gap: 8px;
+    }
+
+    @include width-534-P() {
+        display: grid;
+        grid-template-columns: repeat(3, 96px);
+        grid-template-rows: repeat(2, 96px);
+    }
+
+    @include width-412-P() {
+        display: grid;
+        grid-template-columns: repeat(3, 56px);
+        grid-template-rows: repeat(2, 56px);
+    }
+}
+
+.storyAnswerItem {
+    display: flex;
+    width: 120px;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+
+    & img {
+        filter: drop-shadow(1px 2px 4px rgba(39, 33, 72, 0.55));
+    }
+
+    @include width-1280-L() {
+        width: 96px;
+        height: 96px;
+    }
+    @include width-1280-P() {
+        width: 96px;
+        height: 96px;
+    }
+
+    @include width-732-L() {
+        width: 56px;
+        height: 56px;
+    }
+
+    @include width-852-P() {
+        width: 96px;
+        height: 96px;
+    }
+
+    @include width-412-P() {
+        width: 56px;
+        height: 56px
+    }
+}

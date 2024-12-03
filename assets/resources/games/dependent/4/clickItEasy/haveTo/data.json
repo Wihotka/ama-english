@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "I have to finish my homework this evening.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/1.png"
+  },
+  {
+    "sentence": "I do not have to finish my homework this evening.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/1.png"
+  },
+  {
+    "sentence": "Do I have to finish my homework this evening?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/1.png"
+  },
+  {
+    "sentence": "He has to wake up early to go to school.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/2.svg"
+  },
+  {
+    "sentence": "He doesn't have to wake up early to go to school.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/2.svg"
+  },
+  {
+    "sentence": "Does he have to wake up early to go to school?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/2.svg"
+  },
+  {
+    "sentence": "He has to wear a uniform.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/3.png"
+  },
+  {
+    "sentence": "He does not have to wear a uniform.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/3.png"
+  },
+  {
+    "sentence": "Does he have to wear a uniform?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/3.png"
+  },
+  {
+    "sentence": "He has to be kind and clever.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/4.png"
+  },
+  {
+    "sentence": "He doesn't have to be kind and clever.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/4.png"
+  },
+  {
+    "sentence": "Does he have to be kind and clever?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/4.png"
+  },
+  {
+    "sentence": "She has to work in an office.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/5.png"
+  },
+  {
+    "sentence": "She doesn’t have to work in an office.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/5.png"
+  },
+  {
+    "sentence": "Does she have to work in an office?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/5.png"
+  },
+  {
+    "sentence": "She has to work on the computer.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/6.png"
+  },
+  {
+    "sentence": "She doesn't have to work on the computer.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/6.png"
+  },
+  {
+    "sentence": "Does she have to work on the computer?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/6.png"
+  },
+  {
+    "sentence": "She has to be creative.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/7.png"
+  },
+  {
+    "sentence": "She doesn't have to be creative.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/7.png"
+  },
+  {
+    "sentence": "Does she have to be creative?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/7.png"
+  },
+  {
+    "sentence": "She has to write texts and post it on the internet.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/8.png"
+  },
+  {
+    "sentence": "She doesn't have to write texts and post it on the internet.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/8.png"
+  },
+  {
+    "sentence": "Does she have to write texts and post it on the internet?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/8.png"
+  },
+  {
+    "sentence": "She has to travel a lot.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/9.png"
+  },
+  {
+    "sentence": "She doesn't have to travel a lot.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/9.png"
+  },
+  {
+    "sentence": "Does she have to travel a lot?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/9.png"
+  },
+  {
+    "sentence": "He has to study at this university.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/10.png"
+  },
+  {
+    "sentence": "He doesn't have to study at this university.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/10.png"
+  },
+  {
+    "sentence": "Does he have to study at this university?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/10.png"
+  },
+  {
+    "sentence": "He has to know how to work with transport.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/11.png"
+  },
+  {
+    "sentence": "He doesn't have to know how to work with transport.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/11.png"
+  },
+  {
+    "sentence": "Does he have to know how to work with transport?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/11.png"
+  },
+  {
+    "sentence": "You have to eat many fruit to feel healthy.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/12.svg"
+  },
+  {
+    "sentence": "You don't have to eat many fruit to feel healthy.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/12.svg"
+  },
+  {
+    "sentence": "Do you have to eat many fruit to feel healthy?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/12.svg"
+  },
+  {
+    "sentence": "You have to read a lot.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/13.svg"
+  },
+  {
+    "sentence": "You don't have to read a lot.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/13.svg"
+  },
+  {
+    "sentence": "Do you have to read a lot?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/13.svg"
+  },
+  {
+    "sentence": "You have to eat your breakfast.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/14.svg"
+  },
+  {
+    "sentence": "You don't have to eat your breakfast.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/14.svg"
+  },
+  {
+    "sentence": "Do you have to eat your breakfast?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/14.svg"
+  },
+  {
+    "sentence": "They have to cook dinner.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/15.png"
+  },
+  {
+    "sentence": "They don't have to cook dinner.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/15.png"
+  },
+  {
+    "sentence": "Do they have to cook dinner?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/15.png"
+  },
+  {
+    "sentence": "They have to go to school every day.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/16.svg"
+  },
+  {
+    "sentence": "They don't have to go to school every day.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/16.svg"
+  },
+  {
+    "sentence": "Do they have to go to school every day?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/16.svg"
+  },
+  {
+    "sentence": "They have to meet with a headmaster.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/17.png"
+  },
+  {
+    "sentence": "They do not have to meet with a headmaster.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/17.png"
+  },
+  {
+    "sentence": "Do they have to meet with a headmaster?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/17.png"
+  },
+  {
+    "sentence": "They have to go swimming on Wednesdays.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/18.png"
+  },
+  {
+    "sentence": "They do not have to go swimming on Wednesdays.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/18.png"
+  },
+  {
+    "sentence": "Do they have to go swimming on Wednesdays?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/18.png"
+  },
+  {
+    "sentence": "You have to wear a coat because it's cold.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/19.svg"
+  },
+  {
+    "sentence": "You don't have to wear a coat because it isn't cold.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/19.svg"
+  },
+  {
+    "sentence": "Do you have to wear a coat?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/19.svg"
+  },
+  {
+    "sentence": "They have to clean their room.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/20.png"
+  },
+  {
+    "sentence": "They don't have to clean their room.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/20.png"
+  },
+  {
+    "sentence": "Do they have to clean their room?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/20.png"
+  },
+  {
+    "sentence": "They have to learn English.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/21.png"
+  },
+  {
+    "sentence": "They do not have to learn English.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/21.png"
+  },
+  {
+    "sentence": "Do they have to learn English?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/21.png"
+  },
+  {
+    "sentence": "They have to wash their hands before dinner.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/22.svg"
+  },
+  {
+    "sentence": "They don't have to wash their hands before dinner.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/22.svg"
+  },
+  {
+    "sentence": "Do they have to wash their hands before dinner?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/22.svg"
+  },
+  {
+    "sentence": "We have to throw away trash in the trash bins.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/23.svg"
+  },
+  {
+    "sentence": "Do we have to throw away trash in the trash bins?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/23.svg"
+  },
+  {
+    "sentence": "We have to go to the library at weekends.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/24.png"
+  },
+  {
+    "sentence": "We don't have to go to the library at weekends.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/24.png"
+  },
+  {
+    "sentence": "Do we have to go to the library at weekends?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/24.png"
+  },
+  {
+    "sentence": "She has to water the plants every day.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/25.svg"
+  },
+  {
+    "sentence": "She does not have to water the plants every day.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/25.svg"
+  },
+  {
+    "sentence": "Does she have to water the plants every day?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/25.svg"
+  },
+  {
+    "sentence": "I have to wake up early tomorrow for the flight.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/26.svg"
+  },
+  {
+    "sentence": "I don't have to wake up early tomorrow for the flight.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/26.svg"
+  },
+  {
+    "sentence": "Do I have to wake up early tomorrow for the flight?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/26.svg"
+  },
+  {
+    "sentence": "I have to go to the dentist tomorrow morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/27.png"
+  },
+  {
+    "sentence": "I do not have to go to the dentist tomorrow morning.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/27.png"
+  },
+  {
+    "sentence": "Do I have to go to the dentist tomorrow morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/27.png"
+  },
+  {
+    "sentence": "I have to take a driving test this afternoon.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/28.png"
+  },
+  {
+    "sentence": "I don't have to take a driving test this afternoon.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/28.png"
+  },
+  {
+    "sentence": "Do I have to take a driving test this afternoon?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/28.png"
+  },
+  {
+    "sentence": "We have to buy the tickets for the hockey match.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/29.png"
+  },
+  {
+    "sentence": "We don't have to buy the tickets for the hockey match.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/29.png"
+  },
+  {
+    "sentence": "Do we have to buy the tickets for the hockey match?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/29.png"
+  },
+  {
+    "sentence": "You have to go to the meeting at 10 AM.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/30.png"
+  },
+  {
+    "sentence": "You don't have to go to the meeting at 10 AM.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/30.png"
+  },
+  {
+    "sentence": "Do you have to go to the meeting at 10 AM?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/30.png"
+  },
+  {
+    "sentence": "I have to wear a swimsuit in the pool.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/31.png"
+  },
+  {
+    "sentence": "Kevin has to help his mother in the kitchen.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/32.png"
+  },
+  {
+    "sentence": "Kevin doesn't have to help his mother in the kitchen.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/32.png"
+  },
+  {
+    "sentence": "Does Kevin have to help his mother in the kitchen?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/32.png"
+  },
+  {
+    "sentence": "My mom and dad have to work this weekend.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/30.png"
+  },
+  {
+    "sentence": "My mom and dad don't have to work this weekend.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/haveTo/30.png"
+  },
+  {
+    "sentence": "Do my mom and dad have to work this weekend?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/30.png"
+  },
+  {
+    "sentence": "We have to stay at the hotel for two weeks.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/33.png"
+  },
+  {
+    "sentence": "Doctors have to help people in the hospital.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/haveTo/34.png"
+  },
+  {
+    "sentence": "Do doctors have to help people in the hospital?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/haveTo/34.png"
+  }
+]

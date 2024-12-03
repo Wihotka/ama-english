@@ -1,0 +1,438 @@
+[
+  {
+    "id": "1",
+    "text": "A circle is yellow."
+  },
+  {
+    "id": "2",
+    "text": "A dog runs."
+  },
+  {
+    "id": "3",
+    "text": "A heart is red."
+  },
+  {
+    "id": "4",
+    "text": "A large lark sings its part in the park."
+  },
+  {
+    "id": "5",
+    "text": "A large part of the park was dark."
+  },
+  {
+    "id": "6",
+    "text": "A monkey eats bananas."
+  },
+  {
+    "id": "7",
+    "text": "A rectangle is orange."
+  },
+  {
+    "id": "8",
+    "text": "A square is blue."
+  },
+  {
+    "id": "9",
+    "text": "A star is purple."
+  },
+  {
+    "id": "10",
+    "text": "A triangle is pink."
+  },
+  {
+    "id": "11",
+    "text": "After the market I go to the spa to take a bath."
+  },
+  {
+    "id": "12",
+    "text": "Blue like a sky."
+  },
+  {
+    "id": "13",
+    "text": "Can you hug?"
+  },
+  {
+    "id": "14",
+    "text": "Can you jump?"
+  },
+  {
+    "id": "15",
+    "text": "Can you read a book?"
+  },
+  {
+    "id": "16",
+    "text": "Can you ride a bike?"
+  },
+  {
+    "id": "17",
+    "text": "Close your eyes."
+  },
+  {
+    "id": "19",
+    "text": "Good afternoon, everyone!"
+  },
+  {
+    "id": "20",
+    "text": "Green like a tree."
+  },
+  {
+    "id": "21",
+    "text": "Have a nice day!"
+  },
+  {
+    "id": "22",
+    "text": "Have a nice day! Bye!"
+  },
+  {
+    "id": "23",
+    "text": "He has got a plump face and slim body."
+  },
+  {
+    "id": "24",
+    "text": "He has short dark hair and blue eyes."
+  },
+  {
+    "id": "25",
+    "text": "He is even tall than his father."
+  },
+  {
+    "id": "26",
+    "text": "He is very tall."
+  },
+  {
+    "id": "27",
+    "text": "He’s wearing a yellow T-shirt, blue trousers and red shoes."
+  },
+  {
+    "id": "28",
+    "text": "Hello everyone!"
+  },
+  {
+    "id": "29",
+    "text": "Hello, what is your name?"
+  },
+  {
+    "id": "30",
+    "text": "Hello! I'm Sam. This is my family."
+  },
+  {
+    "id": "31",
+    "text": "Hi, I'm great! And you?"
+  },
+  {
+    "id": "32",
+    "text": "Hi! I'm fine today."
+  },
+  {
+    "id": "33",
+    "text": "His arms and legs are long."
+  },
+  {
+    "id": "34",
+    "text": "His hair is also long and dark."
+  },
+  {
+    "id": "35",
+    "text": "His legs and arms are very long."
+  },
+  {
+    "id": "36",
+    "text": "How are you today?"
+  },
+  {
+    "id": "37",
+    "text": "How are you?"
+  },
+  {
+    "id": "38",
+    "text": "How old are you?"
+  },
+  {
+    "id": "39",
+    "text": "I go to bed at about 11 p.m. at night."
+  },
+  {
+    "id": "40",
+    "text": "I have got a mother, a father, a sister and a brother."
+  },
+  {
+    "id": "41",
+    "text": "I have got a sister Jill."
+  },
+  {
+    "id": "42",
+    "text": "I like a purple jacket and green shoes."
+  },
+  {
+    "id": "44",
+    "text": "I like to have a picnic in a park and swim in the sea."
+  },
+  {
+    "id": "45",
+    "text": "I'm from America."
+  },
+  {
+    "id": "46",
+    "text": "I'm from England."
+  },
+  {
+    "id": "47",
+    "text": "I'm not fine."
+  },
+  {
+    "id": "49",
+    "text": "I’m wearing a pink T-shirt, a blue skirt, and pink shoes."
+  },
+  {
+    "id": "50",
+    "text": "In Summer, we don’t go to school and can play every day."
+  },
+  {
+    "id": "51",
+    "text": "In the evening I usually watch TV with my parents."
+  },
+  {
+    "id": "52",
+    "text": "It’s super cold!"
+  },
+  {
+    "id": "54",
+    "text": "Let’s look out the window."
+  },
+  {
+    "id": "55",
+    "text": "Look at my new photo."
+  },
+  {
+    "id": "56",
+    "text": "My day starts early in the morning."
+  },
+  {
+    "id": "57",
+    "text": "My father has an alarm clock."
+  },
+  {
+    "id": "58",
+    "text": "My favourite animal is a rabbit!"
+  },
+  {
+    "id": "59",
+    "text": "My favourite animal is a turtle."
+  },
+  {
+    "id": "60",
+    "text": "My favourite colour is pink!"
+  },
+  {
+    "id": "61",
+    "text": "My favourite toy is a black scooter."
+  },
+  {
+    "id": "62",
+    "text": "My favourite toy is a blue kite."
+  },
+  {
+    "id": "63",
+    "text": "My favourite toy is a red balloon."
+  },
+  {
+    "id": "64",
+    "text": "My favourite toy is a yellow bike."
+  },
+  {
+    "id": "65",
+    "text": "My friend Will is tall."
+  },
+  {
+    "id": "66",
+    "text": "Nice to meet you all."
+  },
+  {
+    "id": "67",
+    "text": "Nice to meet you too."
+  },
+  {
+    "id": "68",
+    "text": "Nice to meet you."
+  },
+  {
+    "id": "69",
+    "text": "Nice to see you."
+  },
+  {
+    "id": "70",
+    "text": "Open your eyes."
+  },
+  {
+    "id": "71",
+    "text": "Orange like a carrot."
+  },
+  {
+    "id": "72",
+    "text": "Purple like grape."
+  },
+  {
+    "id": "73",
+    "text": "Raise your hand."
+  },
+  {
+    "id": "74",
+    "text": "Red like an apple."
+  },
+  {
+    "id": "75",
+    "text": "Rub your eye."
+  },
+  {
+    "id": "76",
+    "text": "Scratch your head."
+  },
+  {
+    "id": "77",
+    "text": "See you next time!"
+  },
+  {
+    "id": "78",
+    "text": "She asked in class to mark the start."
+  },
+  {
+    "id": "79",
+    "text": "She has very long blond hair and big green eyes."
+  },
+  {
+    "id": "80",
+    "text": "She is fifteen."
+  },
+  {
+    "id": "81",
+    "text": "There are five members in my family."
+  },
+  {
+    "id": "82",
+    "text": "There are me and my friends."
+  },
+  {
+    "id": "83",
+    "text": "There are three months in Autumn: September, October and November."
+  },
+  {
+    "id": "84",
+    "text": "There are three months in Spring: March, April and May."
+  },
+  {
+    "id": "85",
+    "text": "There is a cat on the table."
+  },
+  {
+    "id": "86",
+    "text": "These are big dogs."
+  },
+  {
+    "id": "87",
+    "text": "These are big elephants."
+  },
+  {
+    "id": "88",
+    "text": "These are dolphins."
+  },
+  {
+    "id": "89",
+    "text": "These are my parents."
+  },
+  {
+    "id": "90",
+    "text": "These are parrots."
+  },
+  {
+    "id": "91",
+    "text": "This is a black and white rabbit."
+  },
+  {
+    "id": "92",
+    "text": "They are in the sea."
+  },
+  {
+    "id": "93",
+    "text": "This is a river."
+  },
+  {
+    "id": "94",
+    "text": "This is a shark."
+  },
+  {
+    "id": "95",
+    "text": "This is a small hamster."
+  },
+  {
+    "id": "96",
+    "text": "This is an orange cat."
+  },
+  {
+    "id": "97",
+    "text": "Touch your face."
+  },
+  {
+    "id": "98",
+    "text": "Touch your toes."
+  },
+  {
+    "id": "99",
+    "text": "What are you wearing today?"
+  },
+  {
+    "id": "100",
+    "text": "What colour is it?"
+  },
+  {
+    "id": "101",
+    "text": "What do you like to wear?"
+  },
+  {
+    "id": "102",
+    "text": "What does he look like?"
+  },
+  {
+    "id": "103",
+    "text": "What is the weather like today?"
+  },
+  {
+    "id": "104",
+    "text": "What is there?"
+  },
+  {
+    "id": "106",
+    "text": "What is your favourite animal?"
+  },
+  {
+    "id": "107",
+    "text": "What is your favourite colour?"
+  },
+  {
+    "id": "108",
+    "text": "What is your favourite toy?"
+  },
+  {
+    "id": "109",
+    "text": "What is your name?"
+  },
+  {
+    "id": "110",
+    "text": "What’s up?"
+  },
+  {
+    "id": "111",
+    "text": "Where are they?"
+  },
+  {
+    "id": "112",
+    "text": "Where are you from?"
+  },
+  {
+    "id": "113",
+    "text": "Who are these?"
+  },
+  {
+    "id": "115",
+    "text": "Yellow like a lemon."
+  }
+]

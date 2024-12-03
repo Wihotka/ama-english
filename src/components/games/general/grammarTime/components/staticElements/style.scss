@@ -1,0 +1,82 @@
+@import 'src/scss/_mixins.scss';
+
+.staticElementsContainer {
+    display: flex;
+    flex-flow: column;
+    gap: 16px;
+
+    @include width-640-L() {
+        gap: 8px;
+    }
+
+    @include width-852-P() {
+        gap: 8px;
+    }
+}
+
+.staticItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 8px 24px rgba(56, 22, 109, 0.32);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 32px;
+    height: 94px;
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    padding: 16px;
+
+    &::after {
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        transform: translateY(-50%);
+        width: 20px;
+        height: 8px;
+        box-shadow: 2px 8px 24px rgba(56, 22, 109, 0.48);
+        z-index: -1;
+    }
+
+    @include bodyBoldFont();
+
+    @include width-1280-L() {
+        height: 96px;
+    }
+
+    @include width-732-L() {
+        height: 80px;
+        border-radius: 16px;
+    }
+
+    @include width-640-L() {
+        &::after {
+            width: 12px;
+            height: 4px;
+        }
+
+        height: 67px;
+        padding: 8px;
+    }
+    
+    @include width-852-P() {
+        height: 96px
+    }
+
+    @include width-412-P() {
+        height: 80px;
+        border-radius: 16px;
+    }
+
+    @include width-360-P() {
+        &::after {
+            width: 12px;
+            height: 4px;
+        }
+
+        height: 67px;
+        padding: 8px;
+    }
+}

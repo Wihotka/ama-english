@@ -1,0 +1,126 @@
+@import 'src/scss/_mixins.scss';
+
+.content {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 656px;
+  position: relative;
+  margin: 8px 0;
+
+  @include width-1280-L() {
+    height: 457px;
+  }
+  @include width-1280-P() {
+    height: 457px;
+  }
+
+  @include width-1000-L() {
+    height: auto;
+    margin: 24px 0 29px;
+  }
+
+  @include width-854-L() {
+    margin: 40px 0 34px;
+  }
+
+  @include width-640-L() {
+    margin: 8px 0 0;
+  }
+
+  @include width-852-P() {
+    height: auto;
+  }
+
+  @include width-534-P() {
+    margin: 56px 0; 
+  }
+
+  @include width-360-P() {
+    margin: 8px 0;
+  }
+}
+
+.image {
+  position: absolute;
+  left: 50%;
+  z-index: -1;
+  top: -16px;
+  transform: translateX(calc(-50% + 4px));
+
+  @include width-1280-L() {
+    height: 489px;
+    top: -10px;
+    transform: translateX(calc(-50% + 3px));
+  }
+  @include width-1280-P() {
+    height: 489px;
+    top: -10px;
+    transform: translateX(calc(-50% + 3px));
+  }
+
+  @include width-1000-L() {
+    display: none;
+  }
+
+  @include width-852-P() {
+    display: none;
+  }
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  width: 368px;
+  flex-flow: column;
+  gap: 16px;
+
+  @include width-1280-L() {
+    width: 232px;
+    gap: 8px;
+  }
+  @include width-1280-P() {
+    width: 232px;
+    gap: 8px;
+  }
+  @include width-852-P {
+    gap: 16px;
+    width: 368px;
+  }
+
+  @include width-1000-L() {
+    display: grid;
+    grid-template-columns: 368px 104px;
+    grid-template-rows: 72px 272px;
+    gap: 16px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  @include width-732-L() {
+    grid-template-columns: 304px 88px;
+    grid-template-rows: 64px 224px;
+    gap: 8px;
+  }
+  @include width-412-P() {
+    width: 304px;
+  }
+}
+
+.enter {
+  opacity: 0;
+}
+
+.enterActive {
+  opacity: 1;
+  transition: opacity 200ms ease-in;
+}
+
+.exit {
+  opacity: 1;
+}
+
+.exitActive {
+  opacity: 0;
+  transition: opacity 200ms ease-in;
+}

@@ -1,0 +1,9 @@
+{
+  "withImg": "Write down the word that is shown in the picture",
+  "withVoice": "Listen to the pronunciation of the word and then write it down",
+  "withTranscription": "Look at the transcription and write down the word",
+  "withVoiceTranscription": "Look at the transcription of the word, listen to its pronunciation and write it down",
+  "withSentenceFilling": "Choose the correct answer and fill in the gap",
+  "withSentenceMaking": "Make up a sentence. Change the ending of the verb or use the verb 'to be' if needed",
+  "withExtraWordSearching": "Write down the word that is NOT related to the given theme"
+}

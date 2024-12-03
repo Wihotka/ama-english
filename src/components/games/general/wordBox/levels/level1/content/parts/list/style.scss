@@ -1,0 +1,180 @@
+@import 'src/scss/_mixins.scss';
+
+
+.list {
+  position: relative;
+  max-width: 284px;
+  min-width: 284px;
+  margin-right: 20px;
+  padding: 10px 24px 0;
+  color: var(--static-main-color1);
+
+  @include width-1280-L {
+    max-width: 202px;
+    min-width: 202px;
+    padding: 10px 16px 0;
+  }
+  @include width-1280-P {
+    max-width: 202px;
+    min-width: 202px;
+    padding: 10px 16px 0;
+  }
+
+  @include width-854-L {
+    justify-content: center;
+    flex-shrink: 0;
+    max-width: 261px;
+    height: initial;
+    margin-right: 16px;
+    padding: 16px 24px 0;
+    border-radius: 16px;
+    background: #FFFFFF;
+    box-shadow: 2px 4px 16px rgba(28, 6, 64, 0.24);
+  }
+  @include width-534-P {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    max-width: 100%;
+    height: auto;
+    min-height: 117px;
+    max-height: fit-content;
+    margin-right: 0;
+    margin-bottom: 16px;
+    padding: 6px 16px;
+    border-radius: 16px;
+    background: #FFFFFF;
+    box-shadow: 2px 4px 16px rgba(28, 6, 64, 0.24);
+  }
+
+  @include width-732-L {
+    width: 222px;
+    min-height: 286px;
+    height: auto;
+    max-height: fit-content;
+    padding: 12px 18px;
+  }
+  @include width-412-P {
+    min-height: 110px;
+    height: auto;
+    max-height: fit-content;
+  }
+
+  @include width-640-L {
+    min-height: 235px;
+    height: auto;
+    max-height: fit-content;
+  }
+}
+
+.lines {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 63px 24px;
+
+  @include width-1280-L {
+    padding: 42px 16px;
+  }
+  @include width-1280-P {
+    padding: 42px 16px;
+  }
+
+  @include width-854-L {
+    display: none;
+  }
+  @include width-534-P {
+    display: none;
+  }
+
+  & > div {
+    width: 100%;
+    height: 1px;
+    margin-bottom: 42px;
+
+    @include width-1280-L {
+      margin-bottom: 28px;
+    }
+    @include width-1280-P {
+      margin-bottom: 28px;
+    }
+
+    &:nth-last-child(1) {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.sheets {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+
+  @include width-854-L() {
+    display: none;
+  }
+  @include width-534-P() {
+    display: none;
+  }
+}
+
+.paper {
+  position: absolute;
+  filter: drop-shadow(1px 2px 2px rgba(56, 22, 109, 0.16));
+  border-radius: 15px;
+  width: 284px;
+  height: 100%;
+}
+
+.staples{
+  display: flex;
+  justify-content: center;
+  gap: 68px;
+  width: 100%;
+  margin-top: -18px;
+  margin-bottom: 20px;
+  padding-left: 4px;
+
+  @include width-1280-L {
+    gap: 50px;
+    margin-top: -14px;
+    margin-bottom: 12px;
+  }
+  @include width-1280-P {
+    gap: 50px;
+    margin-top: -14px;
+    margin-bottom: 12px;
+  }
+
+  @include width-854-L {
+    display: none;
+  }
+  @include width-534-P {
+    display: none;
+  }
+}
+
+.staple {
+  width: 16px;
+  height: 48px;
+  border-radius: 32px;
+  box-shadow: inset 0px -4px 4px rgba(138, 69, 169, 0.32), inset 0px 4px 4px rgba(255, 255, 255, 0.48);
+  transform: rotateZ(12deg);
+
+  @include width-1280-L {
+    width: 10px;
+    height: 32px;
+  }
+  @include width-1280-P {
+    width: 10px;
+    height: 32px;
+  }
+}

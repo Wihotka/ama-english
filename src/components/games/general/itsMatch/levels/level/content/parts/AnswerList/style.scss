@@ -1,0 +1,63 @@
+@import 'src/scss/_mixins.scss';
+
+@keyframes showing {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@keyframes hiding {
+  0% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
+.answerList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 23px;
+
+  @include width-1280-L {
+    gap: 24px;
+  }
+  @include width-1280-P {
+    gap: 24px;
+  }
+
+  @include width-768-P {
+    gap: 24px;
+  }
+
+  @include width-534-P {
+    flex-direction: column;
+
+    width: 100%;
+
+    & > span {
+      width: 100%;
+    }
+  }
+
+  @include width-640-L {
+    gap: 8px;
+  }
+  @include width-360-P {
+    gap: 16px;
+  }
+}
+
+.answersListL2 {
+  flex-direction: row !important;
+
+  @include width-732-L() {
+    margin-top: -8px;
+  }
+}
+
+.showing {
+  animation: showing .9s forwards;
+}
+
+.hiding {
+  pointer-events: none;
+  animation: hiding .9s forwards;
+}

@@ -1,0 +1,398 @@
+@import "/src/scss/mixins";
+
+.sidePanel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 260px;
+  height: fit-content;
+  padding: 24px;
+  border-radius: 20px;
+  opacity: 1;
+  transition: .2s ease;
+
+  @include width-852-P {
+    grid-row: 1 / span 1;
+    flex-direction: row;
+    width: 100%;
+    padding: 6px 12px;
+    border-radius: 24px;
+  }
+
+  @include width-1000-L {
+    grid-row: 1 / span 1;
+    flex-direction: row;
+    width: 100%;
+    padding: 6px 12px;
+    border-radius: 24px;
+  }
+
+  @include width-854-L {
+    grid-column: 1 / span 1;
+    max-width: 640px;
+  }
+  @include width-534-P {
+    grid-column: 1 / span 1;
+    max-width: 420px;
+  }
+
+  @include width-732-L {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(min-content, max-content));
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    justify-content: space-between;
+    gap: 4px 8px;
+    max-width: 160px;
+    padding: 4px 12px 6px;
+    border-radius: 16px;
+  }
+  @include width-412-P {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(min-content, max-content));
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    justify-content: space-between;
+    gap: 4px 8px;
+    max-width: 160px;
+    padding: 4px 12px 6px;
+    border-radius: 16px;
+  }
+
+  &First {
+    background: #36C1FC;
+    box-shadow: 6px 6px 10px 0px #89D4FF inset, -6px -6px 8px 0px rgba(15, 75, 108, 0.30) inset, 0px 4px 10px 0px rgba(39, 7, 51, 0.30);
+
+    @include width-854-L {
+      grid-column: 1 / span 1;
+      grid-row: 1 / span 1;
+    }
+    @include width-534-P {
+      grid-row: 1 / span 1;
+    }
+
+    @include width-412-P {
+      grid-column: 1 / span 1;
+      grid-row: 1 / span 1;
+    }
+  }
+
+  &Second {
+    background: #D55EFF;
+    box-shadow: 6px 6px 10px 0px #E5A0FD inset, -6px -6px 8px 0px rgba(15, 75, 108, 0.30) inset, 0px 4px 10px 0px rgba(39, 7, 51, 0.30);
+
+    @include width-854-L {
+      grid-column: 2 / span 1;
+      grid-row: 1 / span 1;
+      position: relative;
+    }
+    @include width-534-P {
+      grid-row: 2 / span 1;
+      position: relative;
+      top: -4px;
+    }
+
+    @include width-412-P {
+      grid-column: 2 / span 1;
+      grid-row: 1 / span 1;
+      top: 0;
+    }
+  }
+
+  &Disabled {
+    opacity: 0.5;
+  }
+
+  .playerWrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    margin-bottom: 12px;
+
+    @include width-852-P {
+      flex-direction: row;
+      justify-content: flex-start;
+      margin-bottom: 0;
+    }
+
+    @include width-1000-L {
+      flex-direction: row;
+      justify-content: flex-start;
+      margin-bottom: 0;
+    }
+
+    @include width-732-L {
+      grid-column: 1 / span 2;
+    }
+    @include width-412-P {
+      grid-column: 1 / span 2;
+    }
+
+    &Second {
+      @include width-732-L {
+        flex-direction: row-reverse;
+      }
+      @include width-412-P {
+        flex-direction: row-reverse;
+      }
+    }
+
+    & > img {
+      width: 48px;
+      height: 48px;
+
+      @include width-852-P {
+        width: 36px;
+        height: 36px;
+      }
+
+      @include width-1000-L {
+        width: 36px;
+        height: 36px;
+      }
+
+      @include width-732-L {
+        width: 24px;
+        height: 24px;
+      }
+      @include width-412-P {
+        width: 24px;
+        height: 24px;
+      }
+    }
+
+    .name {
+      color: #fff;
+      font-weight: 800;
+      font-size: 20px;
+      line-height: 120%;
+      text-shadow: -1px 0 #101127, 0 1px #101127, 1px 0 #101127, 0 -1px #101127;
+      text-align: center;
+
+      @include width-852-P {
+        font-size: 16px;
+      }
+
+      @include width-1000-L {
+        font-size: 16px;
+      }
+
+      @include width-732-L {
+        font-size: 12px;
+      }
+      @include width-412-P {
+        font-size: 12px;
+      }
+    }
+  }
+
+  .timeWrap {
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    margin-bottom: 12px;
+
+    @include width-852-P {
+      margin-bottom: 0;
+    }
+
+    @include width-1000-L {
+      margin-bottom: 0;
+    }
+
+    @include width-732-L {
+      grid-column: 2 / span 1;
+      grid-row: 2 / span 1;
+    }
+    @include width-412-P {
+      grid-column: 2 / span 1;
+      grid-row: 2 / span 1;
+    }
+
+    &Second {
+      @include width-732-L {
+        grid-column: 1 / span 1;
+        padding-right: 12px;
+      }
+      @include width-412-P {
+        grid-column: 1 / span 1;
+        padding-right: 12px;
+      }
+    }
+
+    & > span {
+      color: #fff;
+      font-weight: 800;
+      font-size: 24px;
+      white-space: nowrap;
+
+      @include width-852-P {
+        margin-right: 8px;
+        margin-bottom: 2px;
+        font-size: 20px;
+      }
+
+      @include width-1000-L {
+        margin-right: 8px;
+        margin-bottom: 2px;
+        font-size: 20px;
+      }
+
+      @include width-732-L {
+        font-size: 14px;
+      }
+      @include width-412-P {
+        font-size: 14px;
+      }
+    }
+  }
+
+  .scoreWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    padding: 6px;
+    border-radius: 16px;
+    color: #101127;
+    background: #fff;
+
+    @include width-852-P {
+      gap: 4px;
+      margin-bottom: 2px;
+      padding: 4px;
+    }
+
+    @include width-1000-L {
+      gap: 4px;
+      margin-bottom: 2px;
+      padding: 4px;
+    }
+
+    @include width-732-L {
+      padding: 4px 8px;
+    }
+    @include width-412-P {
+      padding: 4px 8px;
+    }
+
+    .caption {
+      font-size: 16px;
+      line-height: 140%;
+
+      @include width-852-P {
+        font-size: 14px;
+        line-height: 110%;
+      }
+
+      @include width-1000-L {
+        font-size: 14px;
+        line-height: 110%;
+      }
+
+      @include width-732-L {
+        font-size: 10px;
+      }
+      @include width-412-P {
+        font-size: 10px;
+      }
+    }
+
+    .score {
+      font-weight: 800;
+      font-size: 20px;
+
+      @include width-852-P {
+        font-size: 16px;
+      }
+
+      @include width-1000-L {
+        font-size: 16px;
+      }
+
+      @include width-732-L {
+        font-size: 12px;
+        line-height: 100%;
+      }
+      @include width-412-P {
+        font-size: 12px;
+        line-height: 100%;
+      }
+    }
+  }
+
+  .switcher {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+
+    &Background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(104.86% 79.09% at 50.00% 48.57%, #12D4DB 0%, #FF4FC4 100%);
+      opacity: 0;
+      transition: .2s ease-in-out;
+      visibility: hidden;
+    }
+
+    & > span {
+      position: relative;
+      z-index: 1;
+      color: #fff;
+      font-weight: 800;
+      font-size: 48px;
+      opacity: 0;
+      transition: .2s ease;
+      visibility: hidden;
+
+      @include width-1000-L {
+        font-size: 40px;
+      }
+      @include width-768-P {
+        font-size: 40px;
+      }
+
+      @include width-732-L {
+        font-size: 32px;
+      }
+      @include width-412-P {
+        font-size: 32px;
+      }
+
+      @include width-640-L {
+        font-size: 24px;
+      }
+      @include width-360-P {
+        font-size: 24px;
+      }
+    }
+
+    &Active {
+      pointer-events: all;
+
+      & .switcherBackground {
+        opacity: 0.8;
+        visibility: visible;
+      }
+
+      & > span {
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+  }
+}

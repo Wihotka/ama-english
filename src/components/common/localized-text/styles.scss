@@ -1,0 +1,28 @@
+.localizedText{
+  font-size: inherit;
+  font-weight: inherit;
+  position: relative;
+
+  &_hover{
+    &:hover{
+      background: #0048ff;
+      color: #fff;
+    }
+  }
+
+  &_active{
+    background: #0048ff;
+    color: #fff;
+  }
+}
+
+.modal{
+  //width: 100px;
+  //height: 100px;
+  opacity: 1!important;
+  max-width: 500px;
+
+  div[class*='rc-tooltip-arrow'] {
+    border-top-color: #fff;
+  }
+}

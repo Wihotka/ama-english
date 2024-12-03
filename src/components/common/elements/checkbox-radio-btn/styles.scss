@@ -1,0 +1,67 @@
+@import '/src/scss/_mixins';
+@import '/src/scss/_game-settings';
+
+.group {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.btn {
+  width: 24px;
+  height: 24px;
+  background: $gs-bgColor;
+  border: 2px solid $gs-normal-border-color;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 0px $gs-box-shadow ;
+
+  &_active{
+    background: $gs-bgColor-active;
+    border: 2px solid $gs-normal-border-color-active;
+  }
+
+  &_rd {
+    border-radius: 16px;
+  }
+
+  &_cb {
+    border-radius: 4px;
+  }
+
+  @include normalButtonTransition();
+
+  &Wrap {
+    display: flex;
+    align-items: center;
+    //margin-bottom: 8px;
+    margin: 0 5px 8px;
+
+    &:hover {
+      .btn {
+        box-shadow: 0px 2px 8px rgba(13, 92, 214, 0.72), 0px 2px 0px $gs-box-active;
+      }
+    }
+
+    &:disabled {
+      //filter: grayscale(.7);
+      //background: $gs-bgColor-disabled;
+      //border: 2px solid $gs-normal-border-color-disabled;
+      //box-shadow: 0px 2px 0px $gs-box-shadow-disabled ;
+    }
+
+    .text {
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 120%;
+      letter-spacing: 0.03em;
+      //color: #7141B7;
+      margin-left: 4px;
+
+      &:disabled {
+        //filter: grayscale(.7);
+        color: #D3BBFF;
+      }
+  }
+}
+
+}

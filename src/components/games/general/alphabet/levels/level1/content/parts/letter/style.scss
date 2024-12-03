@@ -1,0 +1,152 @@
+@import '/src/scss/_mixins';
+
+@mixin coloredWrapper() {
+  height: 72px;
+  width: 72px;
+  background: rgba(211, 187, 255, 0.32);
+  border-radius: 8px;
+  margin: 0 6px;
+  transition: background 0.1s;
+}
+
+.wrapper {
+  position: relative;
+  top: 0;
+  height: 111px;
+  width: 96px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 12px;
+  transition: opacity 0.3s, top 0.3s;
+  
+  @include width-1280-L {
+    width: 80px;
+    height: 85px;
+  }
+  @include width-1280-P {
+    width: 80px;
+    height: 85px;
+  }
+
+  @include width-1000-L {
+    @include coloredWrapper();
+  }
+
+  @include width-768-P {
+    @include coloredWrapper();
+  }
+
+  @include width-854-L {
+    margin: 0 12px;
+  }
+  @include width-534-P {
+    margin: 0 8px;
+  }
+
+  @include width-732-L {
+    width: 64px;
+    height: 64px;
+    margin: 0 6px;
+  }
+  @include width-412-P {
+    width: 64px;
+    height: 64px;
+    margin: 0 6px;
+  }
+
+  @include width-640-L {
+    margin: 0 4px;
+  }
+  @include width-360-P {
+    width: 56px;
+    height: 56px;
+    margin: 0 4px;
+  }
+}
+
+.wrapper:hover .fruitImg {
+  filter: drop-shadow(0px 0px 9px #AE7DFE);
+}
+
+.inactiveWrapper {
+  opacity: 0;
+  top: -15px;
+}
+
+.mistakeWrapper {
+  animation: shake 1s infinite;
+
+  @include lg-block() {
+    background: rgba(254, 58, 58, 0.48);
+  }
+}
+
+.fruitImg {
+  transition: filter 0.2s;
+  position: absolute;
+  bottom: 0;
+  filter: drop-shadow(0px 0px 5px #AE7DFE);
+
+  @include width-1000-L {
+    height: 100%;
+  }
+
+  @include width-768-P {
+    height: 100%;
+  }
+}
+
+.letter {
+  position: relative;
+  z-index: 2;
+  margin-top: 36px;
+  color: #FFFFFF;
+  box-sizing: border-box;
+  font-weight: 500 !important;
+
+  @include titleL();
+
+  @include width-1280-L {
+    margin-top: 20px;
+  }
+  @include width-1280-P {
+    margin-top: 20px;
+  }
+
+  @include width-1000-L {
+    margin-top: 10px;
+  }
+
+  @include width-768-P {
+    margin-top: 10px;
+  }
+
+  @media screen and (max-width: 731px) and (orientation: landscape) {
+    font-size: 28px;
+  }
+
+  @media screen and (max-height: 731px) and (orientation: portrait) {
+    font-size: 28px;
+  }
+
+  @include xs-block() {
+    font-size: 28px;
+  }
+
+  @media screen and (max-height: 411px) {
+    font-size: 28px;
+  }
+}
+
+@keyframes shake {
+  0%, to {
+    transform: translateZ(0)
+  }
+  10%, 30%, 50%, 70%, 90% {
+    transform: translate3d(-2px, 0, 0)
+  }
+  20%, 40%, 60%, 80% {
+    transform: translate3d(2px, 0, 0)
+  }
+}

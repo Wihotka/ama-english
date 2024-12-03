@@ -1,0 +1,166 @@
+@import 'src/scss/_mixins.scss';
+
+.contentContainer {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 74px auto 4px;
+
+  @include width-1280-L() {
+    margin: 80px auto 0;
+  }
+
+  @include width-1000-L() {
+    margin-top: 56px;
+  }
+
+  @include width-854-L() {
+    margin-bottom: 4px;
+  }
+
+  @include width-732-L() {
+    margin-top: 48px;
+  }
+
+  @include width-640-L() {
+    margin-top: 40px;
+  }
+
+  @include width-852-P() {
+    margin: 96px auto 0;
+  }
+
+  @include width-534-P() {
+    margin: 88px auto 4px;
+  }
+
+  @include width-360-P() {
+    margin-top: 80px;
+  }
+}
+
+.contentMain {
+  display: flex;
+  flex-flow: column;
+  gap: 73px;
+
+  @include width-1280-L() {
+    flex-flow: row;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  @include width-854-L() {
+    gap: 8px;
+  }
+
+  @include width-732-L() {
+    gap: 16px;
+  }
+
+  @include width-852-P() {
+    gap: 24px;
+  }
+}
+
+.mainContainer {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 541px 479px;
+  gap: 16px;
+
+  @include width-1280-L() {
+    grid-template-columns: 256px 280px;
+  }
+
+  @include width-854-L() {
+    grid-template-columns: 190px 280px;
+  }
+
+  @include width-732-L() {
+    grid-template-columns: 126px 238px;
+  }
+
+  @include width-640-L() {
+    grid-template-columns: 104px 216px;
+    gap: 8px;
+  }
+
+  @include width-852-P() {
+    grid-template-columns: repeat(2, 280px);
+    justify-content: center;
+  }
+
+  @include width-534-P() {
+    grid-template-columns: 190px 280px;
+  }
+
+  @include width-412-P() {
+    grid-template-columns: 126px 238px;
+  }
+
+  @include width-360-P() {
+    grid-template-columns: 104px 216px;
+    gap: 8px;
+  }
+}
+
+.userElementsContainer {
+  display: flex;
+  flex-flow: column;
+  gap: 16px;
+
+  @include width-640-L() {
+    gap: 8px;
+  }
+
+  @include width-852-P() {
+    gap: 8px;
+  }
+}
+
+.btnWrapper {
+  width: 100%;
+  margin-top: 32px;
+
+  @include width-1280-L() {
+    margin-top: 97px;
+  }
+
+  @include width-1000-L() {
+    margin-top: 71px;
+  }
+
+  @include width-854-L() {
+    margin-top: 98px;
+  }
+
+  @include width-732-L() {
+    margin-top: 72px;
+  }
+
+  @include width-640-L() {
+    margin-top: 62px;
+  }
+
+  @include width-852-P() {
+    margin-top: 122px;
+  }
+  
+  @include width-534-P() {
+    margin-top: 162px;
+  }
+
+  @include width-412-P() {
+    margin-top: 144px;
+  }
+
+  @include width-360-P() {
+    margin-top: 112px;
+  }
+
+  & > div {
+    margin: 0;
+  }
+}

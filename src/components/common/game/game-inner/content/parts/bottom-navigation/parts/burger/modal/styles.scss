@@ -1,0 +1,48 @@
+.modal{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  //background: linear-gradient(0deg, rgba(56, 22, 109, 0.48), rgba(56, 22, 109, 0.48));
+  z-index: 3;
+  padding: calc(var(--main-base-grid-gap) * 2);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &Overlay{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(0deg, rgba(56, 22, 109, 0.48), rgba(56, 22, 109, 0.48));
+    transition: all .3s;
+  }
+
+  &Inner{
+    background: #fff;
+    position: relative;
+    transition: all .3s;
+
+    padding: calc(var(--main-base-grid-gap) * 2);
+    border-radius: 16px;
+    //display: flex;
+    //flex-direction: column;
+    //justify-content: center;
+    //align-items: center;
+  }
+
+  &Buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: var(--main-base-grid-gap);
+  }
+
+  &Title{
+    text-align: center;
+    margin-bottom: var(--main-base-grid-gap);
+  }
+}

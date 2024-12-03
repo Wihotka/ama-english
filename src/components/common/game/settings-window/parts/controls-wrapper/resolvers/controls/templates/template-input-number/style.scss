@@ -1,0 +1,25 @@
+@import '/src/scss/_mixins';
+@import '/src/scss/_game-settings';
+
+.input {
+  overflow: hidden;
+
+  background: $gs-bgColor;
+  border: 5px solid $gs-normal-border-color;
+  box-sizing: border-box;
+  //box-shadow: inset 1px 2px 4px #A0A1A9, inset 0px -3px 4px #222328;
+  border-radius: 10px;
+  box-shadow: rgb(187, 187, 187) 0px 3px 6px -5px;
+  //height: 59px;
+  display: inline-flex;
+  width: 200px;
+  margin: 0 auto;
+
+  &_disabled{
+    filter:grayscale(1);
+  }
+
+  &:hover{
+    border-color: $gs-active-color;
+  }
+}

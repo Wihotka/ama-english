@@ -1,0 +1,73 @@
+@import 'src/scss/_mixins.scss';
+
+@mixin commonBtnStyles {
+  cursor: pointer;
+  will-change: transform;
+
+  @include normalButtonTransition;
+}
+
+@mixin btnSize($value) {
+  width: #{$value}px;
+  height: #{$value}px;
+}
+
+.playBtn {
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 50%;
+
+  @include commonBtnStyles;
+}
+
+.helpBtn {
+  padding: 6px 7px;
+
+  border-radius: 32px;
+
+  @include commonBtnStyles;
+
+  @include buttonFont {
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(78, 24, 168, 0.4);
+  }
+}
+
+.mark {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  display: block;
+
+  width: 40%;
+  height: 45%;
+  left: 35%;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(assets/img/sections/play.svg);
+
+  filter: drop-shadow(1px 1px 2px rgba(78, 24, 168, 0.4));
+  
+  &__slow {
+    left: 24%;
+
+    width: 56%;
+    height: 38%;
+
+    background-image: url(assets/img/sections/slow.svg);
+  }
+}
+
+.disabled {
+  pointer-events: none;
+  cursor: auto;
+
+  //opacity: 0.32;
+}

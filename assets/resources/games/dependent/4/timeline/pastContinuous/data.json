@@ -1,0 +1,462 @@
+{
+  "1": [
+    {
+      "sentence": ["They were singing when I entered the room."],
+      "imagePath": "/themes-tenses/01.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I was reading a comic book at 9 p.m. last night."],
+      "imagePath": "/themes-tenses/02.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We were watching a TV show at 6 p.m. last night."],
+      "imagePath": "/themes-tenses/03.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He was driving home when I saw him."],
+      "imagePath": "/themes-tenses/04.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I took a photo when she was playing the guitar."],
+      "imagePath": "/themes-tenses/05.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["This time last year, he was living in London."],
+      "imagePath": "/themes-tenses/06.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It was snowing when we left the building."],
+      "imagePath": "/themes-tenses/07.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["At 7 a.m. yesterday I was sleeping on the sofa."],
+      "imagePath": "/themes-tenses/08.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My dad was washing his car at 8 p.m. yesterday."],
+      "imagePath": "/themes-tenses/09.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were looking at the clock during the test."],
+      "imagePath": "/themes-tenses/010.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We were playing golf at 3 p.m. yesterday."],
+      "imagePath": "/themes-tenses/011.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She was cooking fish when I called her."],
+      "imagePath": "/themes-tenses/012.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My sister was wearing a purple coat when I saw her."],
+      "imagePath": "/themes-tenses/013.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were studying when I came to visit them."],
+      "imagePath": "/themes-tenses/014.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She was playing volleyball when she hurt her knee."],
+      "imagePath": "/themes-tenses/015.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were still working at 10 p.m. last night."],
+      "imagePath": "/themes-tenses/016.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were watching a football match that evening."],
+      "imagePath": "/themes-tenses/017.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were running in the park when he fell."],
+      "imagePath": "/themes-tenses/018.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were crossing the road when the car appeared."],
+      "imagePath": "/themes-tenses/019.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I was cooking dinner when my grandson came to help me."],
+      "imagePath": "/themes-tenses/020.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My husband was reading in the living room this morning."],
+      "imagePath": "/themes-tenses/021.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were playing a concert when the lights turned off."],
+      "imagePath": "/themes-tenses/022.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They were washing the dishes when dad came home."],
+      "imagePath": "/themes-tenses/023.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We were eating pizza when the doorbell rang."],
+      "imagePath": "/themes-tenses/024.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We were having a picnic when it started to rain."],
+      "imagePath": "/themes-tenses/025.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He was waiting for us at the bus stop."],
+      "imagePath": "/themes-tenses/026.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["The birds were singing when I woke up this morning."],
+      "imagePath": "/themes-tenses/027.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["The student was drawing a beautiful picture when the teacher entered the classroom."],
+      "imagePath": "/themes-tenses/028.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He was eating breakfast when his brother entered the kitchen."],
+      "imagePath": "/themes-tenses/029.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I was cleaning my flat when my son called me."],
+      "imagePath": "/themes-tenses/030.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I was having a vacation in France this time last year."],
+      "imagePath": "/themes-tenses/031.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He was sleeping when the alarm clock rang."],
+      "imagePath": "/themes-tenses/032.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We were sitting in the restaurant when we saw our friend."],
+      "imagePath": "/themes-tenses/033.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She was swimming in the pool until 9 p.m. yesterday."],
+      "imagePath": "/themes-tenses/034.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I was working on my science project in the morning."],
+      "imagePath": "/themes-tenses/035.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She was wearing a nice green dress at the party."],
+      "imagePath": "/themes-tenses/036.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We were walking in the zoo when our mother called."],
+      "imagePath": "/themes-tenses/037.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We were eating burgers when she came in."],
+      "imagePath": "/themes-tenses/038.png",
+      "disabledImg": [
+        " "
+      ]
+    }
+  ],
+  "2": [
+    {
+      "correctVersion": "They were singing when I entered the room.",
+      "incorrectVersion": "They sang when I entered the room.",
+      "imagePath": "/themes-tenses/01.png"
+    },
+    {
+      "correctVersion": "I was reading a comic book at 9 p.m. last night.",
+      "incorrectVersion": "I was read a comic book at 9 p.m. last night.",
+      "imagePath": "/themes-tenses/02.png"
+    },
+    {
+      "correctVersion": "We were watching a TV show at 6 p.m. last night.",
+      "incorrectVersion": "We were watch a TV show at 6 p.m. last night.",
+      "imagePath": "/themes-tenses/03.png"
+    },
+    {
+      "correctVersion": "He was driving home when I saw him.",
+      "incorrectVersion": "He drove home when I saw him.",
+      "imagePath": "/themes-tenses/04.png"
+    },
+    {
+      "correctVersion": "I took a photo when she was playing the guitar.",
+      "incorrectVersion": "I took a photo when she played the guitar.",
+      "imagePath": "/themes-tenses/05.png"
+    },
+    {
+      "correctVersion": "This time last year, he was living in London.",
+      "incorrectVersion": "This time last year, he lived in London.",
+      "imagePath": "/themes-tenses/06.png"
+    },
+    {
+      "correctVersion": "It was snowing when we left the building.",
+      "incorrectVersion": "It was snowing when we were living the building.",
+      "imagePath": "/themes-tenses/07.png"
+    },
+    {
+      "correctVersion": "At 7 a.m. yesterday I was sleeping on the sofa.",
+      "incorrectVersion": "At 7 a.m. yesterday I was sleep on the sofa.",
+      "imagePath": "/themes-tenses/08.png"
+    },
+    {
+      "correctVersion": "My dad was washing his car at 8 p.m. yesterday.",
+      "incorrectVersion": "My dad was wash his car at 8 p.m. yesterday.",
+      "imagePath": "/themes-tenses/09.png"
+    },
+    {
+      "correctVersion": "They were looking at the clock during the test.",
+      "incorrectVersion": "They were look at the clock during the test.",
+      "imagePath": "/themes-tenses/010.png"
+    },
+    {
+      "correctVersion": "We were playing golf at 3 p.m. yesterday.",
+      "incorrectVersion": "We were play golf at 3 p.m. yesterday.",
+      "imagePath": "/themes-tenses/011.png"
+    },
+    {
+      "correctVersion": "She was cooking fish when I called her.",
+      "incorrectVersion": "She cooked fish when I called her.",
+      "imagePath": "/themes-tenses/012.png"
+    },
+    {
+      "correctVersion": "My sister was wearing a purple coat when I saw her.",
+      "incorrectVersion": "My sister wore a purple coat when I saw her.",
+      "imagePath": "/themes-tenses/013.png"
+    },
+    {
+      "correctVersion": "They were studying when I came to visit them.",
+      "incorrectVersion": "They studied when I came to visit them.",
+      "imagePath": "/themes-tenses/014.png"
+    },
+    {
+      "correctVersion": "She was playing volleyball when she hurt her knee.",
+      "incorrectVersion": "She played volleyball when she hurt her knee.",
+      "imagePath": "/themes-tenses/015.png"
+    },
+    {
+      "correctVersion": "They were still working at 10 p.m. last night.",
+      "incorrectVersion": "They were still work at 10 p.m. last night.",
+      "imagePath": "/themes-tenses/016.png"
+    },
+    {
+      "correctVersion": "They were watching a football match that evening.",
+      "incorrectVersion": "They were watch a football match that evening.",
+      "imagePath": "/themes-tenses/017.png"
+    },
+    {
+      "correctVersion": "They were running in the park when he fell.",
+      "incorrectVersion": "They ran in the park when he fell.",
+      "imagePath": "/themes-tenses/018.png"
+    },
+    {
+      "correctVersion": "They were crossing the road when the car appeared.",
+      "incorrectVersion": "They crossed the road when the car appeared.",
+      "imagePath": "/themes-tenses/019.png"
+    },
+    {
+      "correctVersion": "I was cooking dinner when my grandson came to help me.",
+      "incorrectVersion": "I was cook dinner when my grandson come to help me.",
+      "imagePath": "/themes-tenses/020.png"
+    },
+    {
+      "correctVersion": "My husband was reading in the living room this morning.",
+      "incorrectVersion": "My husband was read in the living room this morning.",
+      "imagePath": "/themes-tenses/021.png"
+    },
+    {
+      "correctVersion": "They were playing a concert when the lights turned off.",
+      "incorrectVersion": "They played a concert when the lights turned off.",
+      "imagePath": "/themes-tenses/022.png"
+    },
+    {
+      "correctVersion": "They were washing the dishes when dad came home.",
+      "incorrectVersion": "They washed the dishes when dad came home.",
+      "imagePath": "/themes-tenses/023.png"
+    },
+    {
+      "correctVersion": "We were eating pizza when the doorbell rang.",
+      "incorrectVersion": "We ate pizza when the doorbell rang.",
+      "imagePath": "/themes-tenses/024.png"
+    },
+    {
+      "correctVersion": "We were having a picnic when it started to rain.",
+      "incorrectVersion": "We had a picnic when it started to rain.",
+      "imagePath": "/themes-tenses/025.png"
+    },
+    {
+      "correctVersion": "He was waiting for us at the bus stop.",
+      "incorrectVersion": "He was wait for us at the bus stop.",
+      "imagePath": "/themes-tenses/026.png"
+    },
+    {
+      "correctVersion": "The birds were singing when I woke up this morning.",
+      "incorrectVersion": "The birds sang when I woke up this morning.",
+      "imagePath": "/themes-tenses/027.png"
+    },
+    {
+      "correctVersion": "The student was drawing a beautiful picture when the teacher entered the classroom.",
+      "incorrectVersion": "The student draw a beautiful picture when the teacher entered the classroom.",
+      "imagePath": "/themes-tenses/028.png"
+    },
+    {
+      "correctVersion": "He was eating breakfast when his brother entered the kitchen.",
+      "incorrectVersion": "He ate breakfast when his brother entered the kitchen.",
+      "imagePath": "/themes-tenses/029.svg"
+    },
+    {
+      "correctVersion": "I was cleaning my flat when my son called me.",
+      "incorrectVersion": "I cleaned my flat when my son called me.",
+      "imagePath": "/themes-tenses/030.png"
+    },
+    {
+      "correctVersion": "I was having a vacation in France this time last year.",
+      "incorrectVersion": "I had a vacation in France this time last year.",
+      "imagePath": "/themes-tenses/031.png"
+    },
+    {
+      "correctVersion": "He was sleeping when the alarm clock rang.",
+      "incorrectVersion": "He slept when the alarm clock rang.",
+      "imagePath": "/themes-tenses/032.png"
+    },
+    {
+      "correctVersion": "We were sitting in the restaurant when we saw our friend.",
+      "incorrectVersion": "We sat in the restaurant when we saw our friend.",
+      "imagePath": "/themes-tenses/033.png"
+    },
+    {
+      "correctVersion": "She was swimming in the pool until 9 p.m. yesterday.",
+      "incorrectVersion": "She was swim in the pool until 9 p.m. yesterday.",
+      "imagePath": "/themes-tenses/034.png"
+    },
+    {
+      "correctVersion": "I was working on my science project in the morning.",
+      "incorrectVersion": "I was work on my science project in the morning.",
+      "imagePath": "/themes-tenses/035.png"
+    },
+    {
+      "correctVersion": "She was wearing a nice green dress at the party.",
+      "incorrectVersion": "She was wear a nice green dress at the party.",
+      "imagePath": "/themes-tenses/036.png"
+    },
+    {
+      "correctVersion": "We were walking in the zoo when our mother called.",
+      "incorrectVersion": "We walked in the zoo when our mother called.",
+      "imagePath": "/themes-tenses/037.png"
+    },
+    {
+      "correctVersion": "We were eating burgers when she came in.",
+      "incorrectVersion": "We ate burgers when she came in.",
+      "imagePath": "/themes-tenses/038.png"
+    }
+  ]
+}

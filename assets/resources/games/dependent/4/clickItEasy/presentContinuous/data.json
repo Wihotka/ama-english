@@ -1,0 +1,672 @@
+[
+  {
+    "sentence": "She is playing a video game.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/1.png"
+  },
+  {
+    "sentence": "She is not playing a video game.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/1.png"
+  },
+  {
+    "sentence": "Is she playing a video game?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/1.png"
+  },
+  {
+    "sentence": "They're playing basketball.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/2.svg"
+  },
+  {
+    "sentence": "They aren't playing basketball.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/2.svg"
+  },
+  {
+    "sentence": "Are they playing basketball?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/2.svg"
+  },
+  {
+    "sentence": "The girl's reading a fairy tale.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/3.svg"
+  },
+  {
+    "sentence": "The girl isn't reading a fairy tale.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/3.svg"
+  },
+  {
+    "sentence": "Is the girl reading a fairy tale?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/3.svg"
+  },
+  {
+    "sentence": "I am riding a horse now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/4.svg"
+  },
+  {
+    "sentence": "I am not riding a horse now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/4.svg"
+  },
+  {
+    "sentence": "Am I riding a horse now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/4.svg"
+  },
+  {
+    "sentence": "They are running a marathon now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/5.svg"
+  },
+  {
+    "sentence": "They are not running a marathon now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/5.svg"
+  },
+  {
+    "sentence": "Are they running a marathon now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/5.svg"
+  },
+  {
+    "sentence": "She is swimming in the swimming pool at the moment.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/6.png"
+  },
+  {
+    "sentence": "She is not swimming in the river at the moment.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/6.png"
+  },
+  {
+    "sentence": "Is she swimming in the swimming pool at the moment?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/6.png"
+  },
+  {
+    "sentence": "She is wearing a scarf.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/7.svg"
+  },
+  {
+    "sentence": "She is not wearing scarf.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/7.svg"
+  },
+  {
+    "sentence": "Is she wearing a scarf?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/7.svg"
+  },
+  {
+    "sentence": "He's drinking juice.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/8.svg"
+  },
+  {
+    "sentence": "He isn't drinking juice.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/8.svg"
+  },
+  {
+    "sentence": "Is he drinking juice?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/8.svg"
+  },
+  {
+    "sentence": "The boy is eating breakfast.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/9.svg"
+  },
+  {
+    "sentence": "The boy is not eating breakfast.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/9.svg"
+  },
+  {
+    "sentence": "Is the boy eating breakfast?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/9.svg"
+  },
+  {
+    "sentence": "I am driving a car.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/10.png"
+  },
+  {
+    "sentence": "I am not driving a car.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/10.png"
+  },
+  {
+    "sentence": "Am I driving a car?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/10.png"
+  },
+  {
+    "sentence": "He is drawing a picture now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/11.png"
+  },
+  {
+    "sentence": "He is not drawing a picture now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/11.png"
+  },
+  {
+    "sentence": "Is he drawing a picture now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/11.png"
+  },
+  {
+    "sentence": "She's climbing a rock now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/12.png"
+  },
+  {
+    "sentence": "She isn't climbing a rock now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/12.png"
+  },
+  {
+    "sentence": "Is she climbing a rock now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/12.png"
+  },
+  {
+    "sentence": "The sun is shining at the moment.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/13.png"
+  },
+  {
+    "sentence": "The sun is not shining at the moment.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/13.png"
+  },
+  {
+    "sentence": "Is the sun shining at the moment?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/13.png"
+  },
+  {
+    "sentence": "The man is singing at the moment.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/14.png"
+  },
+  {
+    "sentence": "The man is not singing at the moment.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/14.png"
+  },
+  {
+    "sentence": "Is the man singing at the moment?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/14.png"
+  },
+  {
+    "sentence": "The girl is watching TV now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/15.svg"
+  },
+  {
+    "sentence": "The girl is not watching TV now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/15.svg"
+  },
+  {
+    "sentence": "Is the girl watching TV now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/15.svg"
+  },
+  {
+    "sentence": "The boy is washing hands.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/16.svg"
+  },
+  {
+    "sentence": "The boy is not washing his hands.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/16.svg"
+  },
+  {
+    "sentence": "Is the boy washing hands?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/16.svg"
+  },
+  {
+    "sentence": "He's playing with cars now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/17.svg"
+  },
+  {
+    "sentence": "He isn't playing with toys now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/17.svg"
+  },
+  {
+    "sentence": "Is he playing with cars now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/17.svg"
+  },
+  {
+    "sentence": "I'm spending time with my pet.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/18.svg"
+  },
+  {
+    "sentence": "I'm not spending time with my pet.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/18.svg"
+  },
+  {
+    "sentence": "Am I spending time with my pet?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/18.svg"
+  },
+  {
+    "sentence": "They are learning English.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/19.png"
+  },
+  {
+    "sentence": "They are not learning English.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/19.png"
+  },
+  {
+    "sentence": "Are they learning English?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/19.png"
+  },
+  {
+    "sentence": "They're dancing at the moment.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/20.svg"
+  },
+  {
+    "sentence": "They aren't dancing at the moment.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/20.svg"
+  },
+  {
+    "sentence": "Are they dancing at the moment?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/20.svg"
+  },
+  {
+    "sentence": "He is dreaming about being a blogger.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/21.png"
+  },
+  {
+    "sentence": "He is not dreaming about being a blogger.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/21.png"
+  },
+  {
+    "sentence": "Is he dreaming about being a blogger?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/21.png"
+  },
+  {
+    "sentence": "The student is doing his homework now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/22.png"
+  },
+  {
+    "sentence": "The student is not doing his homework now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/22.png"
+  },
+  {
+    "sentence": "Is the student doing his homework now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/22.png"
+  },
+  {
+    "sentence": "My parents are making a pie at the moment.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/23.png"
+  },
+  {
+    "sentence": "My parents are not making a pie at the moment.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/23.png"
+  },
+  {
+    "sentence": "Are my parents making a pie at the moment?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/23.png"
+  },
+  {
+    "sentence": "We're travelling by plane.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/24.svg"
+  },
+  {
+    "sentence": "We aren't travelling by plane.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/24.svg"
+  },
+  {
+    "sentence": "Are we travelling by plane?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/24.svg"
+  },
+  {
+    "sentence": "He is sleeping now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/25.png"
+  },
+  {
+    "sentence": "He is not sleeping now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/25.png"
+  },
+  {
+    "sentence": "Is he sleeping now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/25.png"
+  },
+  {
+    "sentence": "They are cleaning a room.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/26.png"
+  },
+  {
+    "sentence": "They are not cleaning a room.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/26.png"
+  },
+  {
+    "sentence": "Are they cleaning a room?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/26.png"
+  },
+  {
+    "sentence": "It’s raining now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/27.png"
+  },
+  {
+    "sentence": "It’s not raining now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/27.png"
+  },
+  {
+    "sentence": "Is it raining now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/27.png"
+  },
+  {
+    "sentence": "I'm living in a house now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/28.svg"
+  },
+  {
+    "sentence": "I'm not living in a house now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/28.svg"
+  },
+  {
+    "sentence": "Am I living in a house now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/28.svg"
+  },
+  {
+    "sentence": "I'm working as a doctor.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/29.svg"
+  },
+  {
+    "sentence": "I'm not working as a doctor.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/29.svg"
+  },
+  {
+    "sentence": "Am I working as a doctor?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/29.svg"
+  },
+  {
+    "sentence": "I am going to the cinema with my friends now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/30.svg"
+  },
+  {
+    "sentence": "I am not going to the cinema with my friends now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/30.svg"
+  },
+  {
+    "sentence": "Am I going to the cinema with my friends?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/30.svg"
+  },
+  {
+    "sentence": "This plant is growing up.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/31.svg"
+  },
+  {
+    "sentence": "This plant is not growing up.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/31.svg"
+  },
+  {
+    "sentence": "Is this plant growing up?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/31.svg"
+  },
+  {
+    "sentence": "The teacher is writing notes in the notebook now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/32.svg"
+  },
+  {
+    "sentence": "The teacher is not writing notes in the notebook now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/32.svg"
+  },
+  {
+    "sentence": "Is the teacher writing notes in the notebook now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/32.svg"
+  },
+  {
+    "sentence": "Max is cooking fish for dinner at the moment.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/33.png"
+  },
+  {
+    "sentence": "Max isn't cooking fish for dinner at the moment.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/33.png"
+  },
+  {
+    "sentence": "Is Max cooking fish for dinner at the moment?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/33.png"
+  },
+  {
+    "sentence": "They are watching a TV show right now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/34.png"
+  },
+  {
+    "sentence": "They are not watching a TV show right now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/34.png"
+  },
+  {
+    "sentence": "Are they watching a TV show right now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/34.png"
+  },
+  {
+    "sentence": "We are having a picnic in the park.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/35.png"
+  },
+  {
+    "sentence": "We are not having a picnic in the park.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/35.png"
+  },
+  {
+    "sentence": "Are we having a picnic in the park?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/35.png"
+  },
+  {
+    "sentence": "My wife is wearing a green dress tonight.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/36.png"
+  },
+  {
+    "sentence": "Is my wife wearing a green dress tonight?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/36.png"
+  },
+  {
+    "sentence": "He is studying at the library right now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/37.png"
+  },
+  {
+    "sentence": "He isn't studying at the library right now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/37.png"
+  },
+  {
+    "sentence": "Is he studying at the library right now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/37.png"
+  },
+  {
+    "sentence": "He is playing basketball with his friends today.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/38.png"
+  },
+  {
+    "sentence": "He isn't playing basketball with his friends today.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/38.png"
+  },
+  {
+    "sentence": "Is he playing basketball with his friends today?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/38.png"
+  },
+  {
+    "sentence": "It’s sunny today and I’m wearing my sunglasses.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/39.png"
+  },
+  {
+    "sentence": "He is sleeping on the sofa in our living room.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/40.png"
+  },
+  {
+    "sentence": "He isn't sleeping on the sofa in our living room.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/40.png"
+  },
+  {
+    "sentence": "Is he sleeping on the sofa in the living room.",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/40.png"
+  },
+  {
+    "sentence": "My brother is reading comics in his bedroom right now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/41.png"
+  },
+  {
+    "sentence": "My brother isn't reading comics in his bedroom right now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/41.png"
+  },
+  {
+    "sentence": "Is my brother reading comics in his bedroom right now.",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/41.png"
+  },
+  {
+    "sentence": "I am doing a Chemistry project now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/42.png"
+  },
+  {
+    "sentence": "I'm not doing a Chemistry project now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/42.png"
+  },
+  {
+    "sentence": "Am I doing a Chemistry project now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/42.png"
+  },
+  {
+    "sentence": "We are doing gymnastics at the sport center right now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/43.png"
+  },
+  {
+    "sentence": "We aren't doing gymnastics at the sport center right now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/43.png"
+  },
+  {
+    "sentence": "Are we doing gymnastics at the sport center right now.",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/43.png"
+  },
+  {
+    "sentence": "They are watching a football match in a sports cafe.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/44.png"
+  },
+  {
+    "sentence": "They aren't watching a football match in a sports cafe.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/44.png"
+  },
+  {
+    "sentence": "Are they watching a football match in a sports cafe?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/44.png"
+  },
+  {
+    "sentence": "I am helping my mom to clean the kitchen.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/45.png"
+  },
+  {
+    "sentence": "Am I helping my mom to clean the kitchen?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/45.png"
+  },
+  {
+    "sentence": "His sister is playing on the playground now.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/46.png"
+  },
+  {
+    "sentence": "His sister isn't  playing on the playground now.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/46.png"
+  },
+  {
+    "sentence": "Is my sister  playing on the playground now?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentContinuous/46.png"
+  }
+]

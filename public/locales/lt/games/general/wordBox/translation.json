@@ -1,0 +1,13 @@
+{
+  "taskName1": "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai. Žodžių kryptis: ↓, →",
+  "taskName2": "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai. Žodžių kryptis: ↓, →, ↑ , ←",
+  "taskName3": "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai, skersai. Žodžių kryptis: ↓, →, ↘",
+  "taskName4": "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai, skersai. Žodžių kryptis: ↓, →, ↑ , ←, ↘, ↙",
+  "leftToFind": "Liko rasti",
+  "moreToFind": "dar rasti",
+  "words0": "žodžių",
+  "words1": "žodį",
+  "words2": "žodžius",
+  "found": "Rasta",
+  "direction": "Kryptis"
+}

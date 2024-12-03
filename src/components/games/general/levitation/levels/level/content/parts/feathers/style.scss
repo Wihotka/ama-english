@@ -1,0 +1,118 @@
+@import 'src/scss/_mixins.scss';
+
+.field {
+  position: relative;
+
+  width: 100%;
+  height: 100%;
+
+  transition: .5s;
+
+  &Hidden {
+    opacity: 0;
+    visibility: hidden;
+
+    z-index: -1;
+  }
+}
+
+.feather {
+  position: absolute;
+
+  // todo для норм бразуеров
+  //display: flex;
+  //justify-content: center;
+  //align-items: flex-end;
+
+  // todo для сафари < 13.0 не должно быть флекса
+
+  width: 223px;
+  height: 93px;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  will-change: transform;
+
+  filter: drop-shadow(0px 12px 16px rgba(28, 6, 64, 0.3));
+
+  @include width-1280-L {
+    width: 184px;
+    height: 80px;
+  }
+  @include width-1280-P {
+    width: 184px;
+    height: 80px;
+  }
+
+  @include width-768-P {
+    width: 184px;
+    height: 80px;
+  }
+
+  @include width-732-L {
+    width: 127px;
+    height: 56px;
+  }
+  @include width-412-P {
+    width: 127px;
+    height: 56px;
+  }
+  
+  &:first-child {z-index: 9}
+
+  &::after {
+    content: '';
+
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    width: 100%;
+    height: 100%;
+
+    z-index: 9;
+  }
+
+  &Text {
+    // todo для сафари < 13.0
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    // todo для норм бразуеров
+    //margin: 100px 0 14px 12px;
+    padding: 8px 16px;
+
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 6px 8px rgba(28, 6, 64, 0.24);
+
+    border-radius: 16px;
+
+    transition: .3s;
+
+    white-space: nowrap;
+    @include titleS;
+
+    @include width-1280-L {
+      border-radius: 8px;
+    }
+    @include width-1280-P {
+      border-radius: 8px;
+    }
+
+    @include width-732-L {
+      padding: 4px 8px;
+    }
+    @include width-412-P {
+      padding: 4px 8px;
+    }
+  }
+
+  &:hover {
+    .featherText {
+      box-shadow: 0 12px 24px rgba(28, 6, 64, 0.22);
+    }
+  }
+}

@@ -1,0 +1,61 @@
+@import 'src/scss/_mixins.scss';
+
+.wordDescriptionContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+    border-radius: 32px;
+    padding: 32px 114px;
+    height: fit-content;
+    min-height: 136px;
+    width: 100%;
+    position: relative;
+
+    @include width-1280-L {
+        padding: 16px 40px;
+        width: 808px;
+        min-height: 90px;
+        border-radius: 24px;
+    }
+    @include width-1280-P {
+        padding: 16px 40px;
+        width: 808px;
+        min-height: 90px;
+        border-radius: 24px;
+    }
+    @include width-852-P {
+        width: 100%;
+        padding: 16px;
+    }
+
+    @include width-854-L {
+        width: 100%;
+        border-radius: 16px;
+    }
+    @include width-534-P {
+        min-height: 119px;
+    }
+
+    @include width-732-L {
+        flex: 248px 0 0;
+        min-height: 224px;
+        padding: 16px;
+        box-shadow: none;
+    }
+    @include width-412-P {
+        min-height: 98px;
+    }
+}
+
+.wordDescriptionText {
+    text-align: center;
+
+    @include titleS();
+}
+
+.highlight {
+    border: 1px solid #72FF80;
+    box-shadow: 0px 0px 16px rgba(114, 255, 128, 0.88), 0px 0px 80px #72FF80;
+}

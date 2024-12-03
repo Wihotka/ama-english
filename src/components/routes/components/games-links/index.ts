@@ -1,0 +1,1 @@
+export {GamesLinks} from './GamesLinks';

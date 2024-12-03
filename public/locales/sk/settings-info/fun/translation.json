@@ -1,0 +1,60 @@
+﻿{
+  "level": "Pravidlá hry sa menia v závislosti od úrovne:",
+  "dataComplexity": "Výber náročnosti slov",
+  "answersQty": "Potrebný počet odpovedí na dokončenie hry",
+  "gameTime": "Celkové trvanie hry",
+  "maxLettersQty": "Maximálny počet písmen v slovách na hracom poli",
+  "complexity": "Obtiažnosť hry",
+  "mode": "Hrací mód",
+  "games": {
+    "secretCode": {
+      "level": {
+        "texts": [
+          "Šifra “Čísla a písmená”",
+          "Šifra “Emoji”",
+          "Šifra “Vyjdi z rámiku”"
+        ]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Slovo sa skladá zo 4 alebo 5 písmen",
+          "Slovo pozostáva zo 6 alebo 7 písmen",
+          "Slovo pozostáva zo 8 až 10 písmen"
+        ]
+      },
+      "mode": {
+        "innerName": "Výberom režimu sa zmení umiestnenie šifrovacej karty:",
+        "texts": [
+          "Kľúč k šifre sa okamžite otvorí v okne hry",
+          "Kľúč k šifre je potrebné rozbaliť pomocou špeciálnej ikony"
+        ]
+      }
+    },
+    "storyteller": {
+      "storyType": {
+        "innerName": "Výber žánru príbehu"
+      }
+    },
+    "makeYourChoice": {
+      "level": {
+        "texts": [
+          "Pozrite sa na obrázok a spojte slovo so správnym prekladom.",
+          "Spojte slovo so správnym prekladom."
+        ]
+      }
+    },
+    "powerCouple": {
+      "theme": {
+        "innerName": "Výber témy vám umožní zoznámiť sa s nasledujúcimi kategóriami slov:",
+        "texts": [
+          "Homografy sú slová, ktoré sa píšu rovnako, ale inak sa vyslovujú",
+          "Homofóny sú slová, ktoré sa vyslovujú rovnako, ale inak sa píšu"
+        ]
+      },
+      "map": {
+        "innerName": "Výber vzoru, v ktorom budú dlaždice umiestnené"
+      }
+    }
+  }
+}

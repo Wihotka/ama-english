@@ -1,0 +1,6 @@
+@import '/src/scss/_mixins';
+
+.starBlock {
+  margin-top: 16px;
+  @include captionS();
+}

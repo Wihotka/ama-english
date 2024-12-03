@@ -1,0 +1,6 @@
+﻿{
+  "taskName1": "Találd meg minél gyorsabban az összes párt. A játék akkor ér véget, amikor nem marad a játékterületen egyetlen kártya sem.",
+  "taskName2": "Találd meg minél gyorsabban az összes párt úgy, hogy sorban egymás után megfordítod a kártyákat. A játék akkor ér véget, amikor nem marad a játékterületen egyetlen kártya sem.",
+  "taskName3": "Találd meg minél gyorsabban az összes párt úgy, hogy sorban egymás után megfordítod a kártyákat. A játék akkor ér véget, amikor nem marad a játékterületen egyetlen kártya sem. Nagyon figyelj! A kártyákon lévő képek fejjel lefelé is lehetnek."
+,  "chooseCard": "Válassz kártyát!"
+}

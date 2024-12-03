@@ -1,0 +1,18 @@
+{
+  "challenge": "Iššūkis",
+  "completed": "Praeita",
+  "completedRounds": "Baigta raundų",
+  "complete_homework": "Įveik Iššūkį",
+  "completed_homework": "Iššūkis įveiktas",
+  "commentToTask": "Mokytojo komentaras",
+  "stage": "Etapas",
+  "task": "Užduotis",
+  "roundFinish" : {
+    "pushButton": "Paspausk mygtuką",
+    "allowNewRound": "Pasiekiamas naujas raundas",
+    "roundFinished": "Šaunuolis! Raundas baigtas",
+    "youCanStartNewRound": "Tu gali pradėti naują raundą arba atlikti jį rytoj",
+    "newRoundTomorrow": "Naujas raundas bus pasiekiamas rytoj",
+    "forUnblockRound": "norint atblokuoti raundą"
+  }
+}

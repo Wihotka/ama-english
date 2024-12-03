@@ -1,0 +1,120 @@
+@import 'src/scss/_mixins.scss';
+
+.card {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex: none;
+  width: 401px;
+  height: 324px;
+  padding: 16px;
+  border: 0;
+  border-radius: 32px;
+  color: #9066C6;
+  box-shadow: 4px 8px 24px rgba(144, 102, 198, 0.16);
+  text-shadow: 1px 2px 0 #38166D;
+  font-size: 190px;
+  line-height: 190px;
+
+  @include width-1280-L {
+    width: 344px;
+    height: 288px;
+    padding: 24px;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    width: 344px;
+    height: 288px;
+    padding: 24px;
+    border-radius: 24px;
+  }
+
+  @include width-768-P {
+    width: 344px;
+    height: 288px;
+    border-radius: 24px;
+  }
+
+  @include width-732-L {
+    width: 281px;
+    height: 208px;
+    padding: 16px;
+    border-radius: 16px;
+  }
+  @include width-412-P {
+    width: 266px;
+    height: 192px;
+    padding: 16px;
+    border-radius: 16px;
+  }
+}
+
+.cardImage {
+  align-self: flex-end;
+  max-width: 152px;
+  max-height: 152px;
+
+  @include width-1280-L {
+    max-width: 122px;
+    max-height: 122px;
+  }
+  @include width-1280-P {
+    max-width: 122px;
+    max-height: 122px;
+  }
+
+  @include width-732-L {
+    max-width: 88px;
+    max-height: 88px;
+  }
+  @include width-412-P {
+    max-width: 88px;
+    max-height: 88px;
+  }
+}
+
+.letter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 221px;
+  height: 227px;
+
+  @include width-1280-L {
+    width: 174px;
+    height: 179px;
+  }
+  @include width-1280-P {
+    width: 174px;
+    height: 179px;
+  }
+
+  @include width-732-L {
+    width: 136px;
+    height: 136px;
+  }
+  @include width-412-P {
+    width: 136px;
+    height: 136px;
+  }
+
+  & > svg {
+    transform: scale(2);
+
+    @include width-1280-L {
+      transform: scale(1.5);
+    }
+    @include width-1280-P {
+      transform: scale(1.5);
+    }
+
+    @include width-732-L {
+      transform: scale(1);
+    }
+    @include width-412-P {
+      transform: scale(1);
+    }
+  }
+}

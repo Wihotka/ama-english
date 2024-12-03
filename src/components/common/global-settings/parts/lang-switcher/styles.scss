@@ -1,0 +1,34 @@
+@import "src/scss/mixins";
+
+.btn{
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  padding: 4px;
+
+  @include normalButtonTransition();
+
+  img{
+    border-radius: 50%;
+    box-shadow: 0px 0px 8px rgba(138, 69, 169, 0.4);
+  }
+
+  &_active{
+    background: #21DBC5;
+    box-shadow: inset 0px 0px 4px #00AD99;
+
+    img{
+      box-shadow: none;
+    }
+  }
+}
+
+.title{
+  margin-bottom: 4px;
+}
+
+.buttons{
+  display: grid;
+  margin: -4px;
+  grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+}

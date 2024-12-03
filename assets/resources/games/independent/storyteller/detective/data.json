@@ -1,0 +1,180 @@
+{
+    "storyText": "I'm a0, a top detective. Last week, the police asked me to help them investigate a robbery. 'Someone has stolen a very expensive a1 from a billionaire's house. We need your help!' I took my a2, went by a3, and hurried to the house. I looked for clues and found a4 'Who's in the house?' I asked the billionaire. 'My manager, my cook, my waiter, my gardener, my chauffeur, and my cleaner,' replied the billionaire. I questioned the suspects, then I searched the house. 'I know who the robber is,' I said. 'I've found the stolen a1! It's the a5!",
+    "imageBg": "#AD2929CC",
+    "questions": [
+        {
+            "questionText": "There is a detective in the story.\nWhat's his/her name?",
+            "answers": [
+                {
+                    "value": "Miss Maypole",
+                    "imgPath": "detective/miss-maypole.png"
+                },
+                {
+                    "value": "Sheila Holmes",
+                    "imgPath": "detective/sheila-holmes.png"
+                },
+                {
+                    "value": "Inspector Indigo",
+                    "imgPath": "detective/inspector-indigo.png"
+                },
+                {
+                    "value": "Doctor Wilson",
+                    "imgPath": "detective/doctor-wilson.png"
+                },
+                {
+                    "value": "Professor Snoop",
+                    "imgPath": "detective/professor-snoop.png"
+                },
+                {
+                    "value": "Colin Columbo",
+                    "imgPath": "detective/colin-columbo.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There is a robbery in the story.\nWhat is stolen?",
+            "answers": [
+                {
+                    "value": "painting",
+                    "imgPath": "detective/painting.png"
+                },
+                {
+                    "value": "ring",
+                    "imgPath": "detective/ring.png"
+                },
+                {
+                    "value": "necklace",
+                    "imgPath": "detective/necklace.png"
+                },
+                {
+                    "value": "diamond",
+                    "imgPath": "detective/diamond.png"
+                },
+                {
+                    "value": "bracelet",
+                    "imgPath": "detective/bracelet.png"
+                },
+                {
+                    "value": "watch",
+                    "imgPath": "detective/watch.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What does the detective take?",
+            "answers": [
+                {
+                    "value": "bag",
+                    "imgPath": "detective/bag.png"
+                },
+                {
+                    "value": "magnifying glass",
+                    "imgPath": "detective/magnifying-glass.png"
+                },
+                {
+                    "value": "gloves",
+                    "imgPath": "detective/gloves.png"
+                },
+                {
+                    "value": "notebook",
+                    "imgPath": "detective/notebook.png"
+                },
+                {
+                    "value": "torch",
+                    "imgPath": "detective/torch.png"
+                },
+                {
+                    "value": "camera ",
+                    "imgPath": "detective/camera.png"
+                }
+            ]
+        },
+        {
+            "questionText": "How does the detective travel?",
+            "answers": [
+                {
+                    "value": "motorbike",
+                    "imgPath": "detective/motorbike.png"
+                },
+                {
+                    "value": "car",
+                    "imgPath": "detective/car.png"
+                },
+                {
+                    "value": "bike",
+                    "imgPath": "detective/bike.png"
+                },
+                {
+                    "value": "segway",
+                    "imgPath": "detective/segway.png"
+                },
+                {
+                    "value": "skateboard",
+                    "imgPath": "detective/skateboard.png"
+                },
+                {
+                    "value": "scooter",
+                    "imgPath": "detective/scooter.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What clues does the detective find?",
+            "answers": [
+                {
+                    "value": "some fingerprints",
+                    "imgPath": "detective/fingerprints.png"
+                },
+                {
+                    "value": "some footprints",
+                    "imgPath": "detective/footprints.png"
+                },
+                {
+                    "value": "a credit card",
+                    "imgPath": "detective/credit-card.png"
+                },
+                {
+                    "value": "a hat",
+                    "imgPath": "detective/hat.png"
+                },
+                {
+                    "value": "a glove",
+                    "imgPath": "detective/glove.png"
+                },
+                {
+                    "value": "a pen",
+                    "imgPath": "detective/pen.png"
+                }
+            ]
+        },
+        {
+            "questionText": "Who's the robber?",
+            "answers": [
+                {
+                    "value": "gardener",
+                    "imgPath": "detective/gardener.png"
+                },
+                {
+                    "value": "manager",
+                    "imgPath": "detective/manager.png"
+                },
+                {
+                    "value": "chauffeur",
+                    "imgPath": "detective/chauffeur.png"
+                },
+                {
+                    "value": "cleaner",
+                    "imgPath": "detective/cleaner.png"
+                },
+                {
+                    "value": "waiter",
+                    "imgPath": "detective/waiter.png"
+                },
+                {
+                    "value": "cook ",
+                    "imgPath": "detective/cook.png"
+                }
+            ]
+        }
+    ]
+}

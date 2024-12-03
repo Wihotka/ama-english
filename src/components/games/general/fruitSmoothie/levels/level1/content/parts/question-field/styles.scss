@@ -1,0 +1,100 @@
+@import 'src/scss/_mixins.scss';
+
+.field {
+  min-width: 630px;
+  margin: 0 auto;
+
+  height: 120px;
+
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  background-color: #fff;
+
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+  border-radius: 32px;
+
+  transition: all 500ms ease-out;
+
+  @include width-1280-L {
+    min-width: 552px;
+    height: 93px;
+  }
+  @include width-1280-P {
+    min-width: 552px;
+    height: 93px;
+  }
+
+  @include width-768-P {
+    min-width: 440px;
+    width: calc(100% - 96px);
+  }
+
+  @include width-854-L {
+    min-width: 100%;
+  }
+  @include width-534-P {
+    min-width: 100%;
+    height: 130px;
+  }
+
+  @include width-732-L {
+    height: 70px;
+    border-radius: 16px;
+  }
+  @include width-412-P {
+    height: 100px;
+    border-radius: 16px;
+  }
+}
+
+.successField {
+  box-shadow: 0 0 16px rgba(114, 255, 128, 0.88), 0 0 80px #72FF80;
+}
+
+.question {
+  width: 100%;
+  text-align: center;
+  margin: 0 32px;
+
+  @include width-732-L {
+    margin: 0 16px;
+  }
+  @include width-412-P {
+    margin: 0 16px;
+  }
+}
+
+.view {
+  opacity: 1;
+}
+
+.word {
+  display: inline-block;
+  @include titleM;
+  margin-top: 5px;
+  margin-left: 8px;
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-left: 0;
+  }
+}
+
+.underlining {
+  display: inline-block;
+  @include titleM;
+  width: 80px;
+
+  margin-left: 8px;
+}
+
+.mark {
+  display: inline-block;
+  @include titleM;
+  margin-right: 8px;
+}

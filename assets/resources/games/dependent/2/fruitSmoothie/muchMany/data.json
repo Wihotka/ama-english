@@ -1,0 +1,162 @@
+[
+  {
+    "question": "There are MANY _____ in the cake .",
+    "correctAnswer": "berries",
+    "incorrectAnswers": ["jam", "honey", "sugar"]
+  },
+  {
+    "question": "We have MANY _____ in the fridge .",
+    "correctAnswer": "eggs",
+    "incorrectAnswers": ["cheese", "water", "milk"]
+  },
+  {
+    "question": "I eat MANY _____ every day .",
+    "correctAnswer": "nuts",
+    "incorrectAnswers": ["salt", "rice", "buckwheat"]
+  },
+  {
+    "question": "In summer I eat MANY _____ .",
+    "correctAnswer": "peaches",
+    "incorrectAnswers": ["butter", "sugar", "jam"]
+  },
+  {
+    "question": "My grandmother is cooking MANY small _____ .",
+    "correctAnswer": "pies",
+    "incorrectAnswers": ["jam", "honey", "cheese"]
+  },
+  {
+    "question": "My dad makes MANY _____ for breakfast .",
+    "correctAnswer": "pancakes",
+    "incorrectAnswers": ["rice", "coffee", "tea"]
+  },
+  {
+    "question": "There are MANY _____ in this bakery .",
+    "correctAnswer": "cakes",
+    "incorrectAnswers": ["butter", "cheese", "honey"]
+  },
+  {
+    "question": "There are MANY tasty _____ in this cafe .",
+    "correctAnswer": "desserts",
+    "incorrectAnswers": ["meat", "coffee", "buckwheat"]
+  },
+  {
+    "question": "You put too MANY _____ in the salad .",
+    "correctAnswer": "onions",
+    "incorrectAnswers": ["salt", "cheese", "rice"]
+  },
+  {
+    "question": "I eat MANY _____ .",
+    "correctAnswer": "apples",
+    "incorrectAnswers": ["meat", "butter", "honey"]
+  },
+  {
+    "question": "Monkeys eat MANY _____ .",
+    "correctAnswer": "bananas",
+    "incorrectAnswers": ["sugar", "jam", "salt"]
+  },
+  {
+    "question": "Children like eating MANY _____ .",
+    "correctAnswer": "biscuits",
+    "incorrectAnswers": ["honey", "sugar", "jam"]
+  },
+  {
+    "question": "Don't eat too MANY _____ .",
+    "correctAnswer": "oranges",
+    "incorrectAnswers": ["salt", "buckwheat", "rice"]
+  },
+  {
+    "question": "There are MANY _____ on the table .",
+    "correctAnswer": "pears",
+    "incorrectAnswers": ["coffee", "tea", "milk"]
+  },
+  {
+    "question": "We need MANY _____ for lunch .",
+    "correctAnswer": "potatoes",
+    "incorrectAnswers": ["salt", "milk", "butter"]
+  },
+  {
+    "question": "We need MANY _____ for the dessert .",
+    "correctAnswer": "lemons",
+    "incorrectAnswers": ["sugar", "coffee", "milk"]
+  },
+  {
+    "question": "There are MANY _____ in the fridge .",
+    "correctAnswer": "tomatoes",
+    "incorrectAnswers": ["cheese", "milk", "water"]
+  },
+  {
+    "question": "Don't put MANY _____ in the salad .",
+    "correctAnswer": "cucumbers",
+    "incorrectAnswers": ["salt", "rice", "butter"]
+  },
+  {
+    "question": "Rabbits eat MANY _____ .",
+    "correctAnswer": "carrots",
+    "incorrectAnswers": ["buckwheat", "jam", "cheese"]
+  },
+  {
+    "question": "There is MUCH _____ in your garden .",
+    "correctAnswer": "grass",
+    "incorrectAnswers": ["berries", "carrots", "lemons"]
+  },
+  {
+    "question": "We throw away too MUCH _____ .",
+    "correctAnswer": "plastic",
+    "incorrectAnswers": ["eggs", "nuts", "oranges"]
+  },
+  {
+    "question": "We need to eat MUCH _____ to feel ok .",
+    "correctAnswer": "buckwheat",
+    "incorrectAnswers": ["onions", "peaches", "cakes"]
+  },
+  {
+    "question": "Do we have MUCH _____ ?",
+    "correctAnswer": "honey",
+    "incorrectAnswers": ["biscuits", "pears", "potatoes"]
+  },
+  {
+    "question": "Don't eat too MUCH _____ .",
+    "correctAnswer": "meat",
+    "incorrectAnswers": ["tomatoes", "apples", "bananas"]
+  },
+  {
+    "question": "I eat MUCH _____ for lunch .",
+    "correctAnswer": "rice",
+    "incorrectAnswers": ["cucumbers", "pancakes", "pies"]
+  },
+  {
+    "question": "You put MUCH _____ in the salad .",
+    "correctAnswer": "salt",
+    "incorrectAnswers": ["carrots", "tomatoes", "potatoes"]
+  },
+  {
+    "question": "Do you take MUCH _____ with your coffee ?",
+    "correctAnswer": "sugar",
+    "incorrectAnswers": ["biscuits", "desserts", "pancakes"]
+  },
+  {
+    "question": "There is MUCH _____ in my room .",
+    "correctAnswer": "furniture",
+    "incorrectAnswers": ["desserts", "berries", "cakes"]
+  },
+  {
+    "question": "How MUCH _____ is there in the fridge ?",
+    "correctAnswer": "milk",
+    "incorrectAnswers": ["pancakes", "bananas", "peaches"]
+  },
+  {
+    "question": "How MUCH _____ do we have ?",
+    "correctAnswer": "cheese",
+    "incorrectAnswers": ["oranges", "eggs", "pears"]
+  },
+  {
+    "question": "Is there MUCH _____ in the fridge ?",
+    "correctAnswer": "butter",
+    "incorrectAnswers": ["lemons", "pies", "carrots"]
+  },
+  {
+    "question": "We have MUCH _____ for the dessert .",
+    "correctAnswer": "jam",
+    "incorrectAnswers": ["oranges", "berries", "pears"]
+  }
+]

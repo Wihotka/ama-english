@@ -1,0 +1,50 @@
+@import '/src/scss/_mixins';
+
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  //flex: 1 0 auto;
+  position: relative;
+  padding: 8px;
+
+  &:after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    content: '';
+    z-index: -1;
+    box-shadow: 4px 4px 24px rgba(28, 6, 64, 0.4), inset -3px -3px 10px #BBD6FF;
+    //filter: drop-shadow(4px 4px 24px rgba(28, 6, 64, 0.4));
+    border-radius: 88px;
+    opacity: 0.48;
+
+    @include md-block() {
+      border-radius: 16px;
+    }
+  }
+}
+
+//.fadeEnter.content {
+//  opacity: 0;
+//  transform: scale(0.5);
+//}
+//.fadeEnterActive.content {
+//  opacity: 1;
+//  transform: scale(1);
+//}
+//.fadeExit.content {
+//  opacity: 1;
+//  transform: scale(1);
+//}
+//.fadeExitActive.content {
+//  opacity: 0;
+//  transform: scale(0.5);
+//}
+//.fadeEnterActive.content,
+//.fadeExitActive.content {
+//  transition: opacity 150ms, transform 150ms;
+//}

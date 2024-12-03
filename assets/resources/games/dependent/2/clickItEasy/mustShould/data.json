@@ -1,0 +1,417 @@
+[
+  {
+    "sentence": "You should put on a jacket.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/1.png"
+  },
+  {
+    "sentence": "You should not put on a jacket.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/1.png"
+  },
+  {
+    "sentence": "Should you put on a jacket?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/1.png"
+  },
+  {
+    "sentence": "I should give him a present.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/2.png"
+  },
+  {
+    "sentence": "I should not give him a present.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/2.png"
+  },
+  {
+    "sentence": "Should I give him a present?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/2.png"
+  },
+  {
+    "sentence": "She should learn English.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/3.png"
+  },
+  {
+    "sentence": "She shouldn't learn English.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/3.png"
+  },
+  {
+    "sentence": "Should she learn English?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/3.png"
+  },
+  {
+    "sentence": "We should clean the room.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/4.png"
+  },
+  {
+    "sentence": "We shouldn't clean the room.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/4.png"
+  },
+  {
+    "sentence": "Should we clean the room?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/4.png"
+  },
+  {
+    "sentence": "They should run faster.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/5.svg"
+  },
+  {
+    "sentence": "They should not run faster.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/5.svg"
+  },
+  {
+    "sentence": "Should they run faster?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/5.svg"
+  },
+  {
+    "sentence": "You should drink more water.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/6.svg"
+  },
+  {
+    "sentence": "You should not drink more water.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/6.svg"
+  },
+  {
+    "sentence": "Should you drink more water?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/6.svg"
+  },
+  {
+    "sentence": "We should eat more fruit.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/7.svg"
+  },
+  {
+    "sentence": "We should not eat more fruit.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/7.svg"
+  },
+  {
+    "sentence": "Should we eat more fruit?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/7.svg"
+  },
+  {
+    "sentence": "I should meet with my friends.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/8.svg"
+  },
+  {
+    "sentence": "I shouldn't meet with my friends.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/8.svg"
+  },
+  {
+    "sentence": "Should I meet with my friends?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/8.svg"
+  },
+  {
+    "sentence": "My sister should water flowers.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/9.png"
+  },
+  {
+    "sentence": "My sister shouldn't water flowers.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/9.png"
+  },
+  {
+    "sentence": "Should my sister water flowers?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/9.png"
+  },
+  {
+    "sentence": "My brother should sleep more.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/10.png"
+  },
+  {
+    "sentence": "My brother should not sleep more.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/10.png"
+  },
+  {
+    "sentence": "Should my brother sleep more?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/10.png"
+  },
+  {
+    "sentence": "We should visit grandparents more often.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/11.svg"
+  },
+  {
+    "sentence": "Should we visit grandparents more often?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/11.svg"
+  },
+  {
+    "sentence": "I should see this film.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/12.svg"
+  },
+  {
+    "sentence": "I shouldn't see this film.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/12.svg"
+  },
+  {
+    "sentence": "Should I see this film?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/12.svg"
+  },
+  {
+    "sentence": "She must finish a painting.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/13.png"
+  },
+  {
+    "sentence": "She mustn't finish a painting.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/13.png"
+  },
+  {
+    "sentence": "Must she finish a painting?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/13.png"
+  },
+  {
+    "sentence": "You must help your parents.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/14.png"
+  },
+  {
+    "sentence": "Must you help your parents?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/14.png"
+  },
+  {
+    "sentence": "The boy must do his homework.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/15.png"
+  },
+  {
+    "sentence": "The boy mustn't do his homework.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/15.png"
+  },
+  {
+    "sentence": "Must the boy do his homework?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/15.png"
+  },
+  {
+    "sentence": "You should have breakfast before school.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/16.svg"
+  },
+  {
+    "sentence": "You shouldn't have breakfast before school.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/16.svg"
+  },
+  {
+    "sentence": "Should you have breakfast before school?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/16.svg"
+  },
+  {
+    "sentence": "We must spend time with the cat.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/17.svg"
+  },
+  {
+    "sentence": "Must we spend time with the cat?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/17.svg"
+  },
+  {
+    "sentence": "He must wash his hands before eating.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/18.svg"
+  },
+  {
+    "sentence": "Must he wash his hands before eating?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/18.svg"
+  },
+  {
+    "sentence": "You must read this book.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/19.svg"
+  },
+  {
+    "sentence": "You mustn't read this book.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/19.svg"
+  },
+  {
+    "sentence": "Must you read this book?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/19.svg"
+  },
+  {
+    "sentence": "You must feed your cat every day.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/20.svg"
+  },
+  {
+    "sentence": "Must you feed your cat every day?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/20.svg"
+  },
+  {
+    "sentence": "You must visit the doctor.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/21.svg"
+  },
+  {
+    "sentence": "You must not visit the doctor.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/21.svg"
+  },
+  {
+    "sentence": "Must you visit the doctor?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/21.svg"
+  },
+  {
+    "sentence": "You must listen to your teacher.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/22.png"
+  },
+  {
+    "sentence": "Must you listen to your teacher?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/22.png"
+  },
+  {
+    "sentence": "You must wear a hat when it's sunny.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/23.png"
+  },
+  {
+    "sentence": "Must you wear a hat when it's sunny?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/23.png"
+  },
+  {
+    "sentence": "You must cross the road at a green traffic light.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/24.svg"
+  },
+  {
+    "sentence": "You must not cross the road at a red traffic light.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/24.svg"
+  },
+  {
+    "sentence": "Must you cross the road at a green traffic light?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/24.svg"
+  },
+  {
+    "sentence": "You must eat berries to be healthy.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/25.svg"
+  },
+  {
+    "sentence": "Must you eat berries to be healthy?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/25.svg"
+  },
+  {
+    "sentence": "You must walk with your dog every day.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/mustShould/26.svg"
+  },
+  {
+    "sentence": "Must you walk with your dog every day?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/26.svg"
+  },
+  {
+    "sentence": "You must not run here.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/27.png"
+  },
+  {
+    "sentence": "Must you run here?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/27.png"
+  },
+  {
+    "sentence": "You must not lean on the glass.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/28.png"
+  },
+  {
+    "sentence": "Must you lean on the glass?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/28.png"
+  },
+  {
+    "sentence": "You must not walk here.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/29.png"
+  },
+  {
+    "sentence": "Must you walk here?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/29.png"
+  },
+  {
+    "sentence": "You must not dive here.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/30.png"
+  },
+  {
+    "sentence": "Must you dive here?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/30.png"
+  },
+  {
+    "sentence": "You mustn't eat here.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/31.png"
+  },
+  {
+    "sentence": "Must you eat here?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/31.png"
+  },
+  {
+    "sentence": "You must not sit here.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/32.png"
+  },
+  {
+    "sentence": "Must you sit here?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/32.png"
+  },
+  {
+    "sentence": "You mustn't eat in the pool.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/mustShould/33.png"
+  },
+  {
+    "sentence": "Must you eat or drink in the pool?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/mustShould/33.png"
+  }
+]

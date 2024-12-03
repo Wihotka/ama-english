@@ -1,0 +1,16 @@
+@import 'src/scss/_mixins.scss';
+
+.layerDragitem {
+    animation: tilt .1s ease-in forwards;
+    box-shadow: none;
+
+    @keyframes tilt {
+        from {
+            transform: rotate(0deg);
+        }
+
+        to {
+            transform: rotate(2deg);
+        }
+    }
+}

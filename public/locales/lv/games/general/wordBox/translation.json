@@ -1,0 +1,13 @@
+{
+  "taskName1": "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli. Vārdu virziens: ↓, →",
+  "taskName2": "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli. Vārdu virziens: ↓, →, ↑ , ←",
+  "taskName3": "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli, pa diagonāli. Vārdu virziens: ↓, →, ↘",
+  "taskName4": "Atrodi kvadrātā vajadzīgo vārdu skaitu. Vārdu izkārtojums: vertikāli, horizontāli, pa diagonāli. Vārdu virziens: ↓, →, ↑ , ←, ↘, ↙",
+  "leftToFind": "Atliek tikai atrast",
+  "moreToFind": "Atrast",
+  "words0": "vārdu",
+  "words1": "vārdu",
+  "words2": "vārdus",
+  "found": "Atrasts",
+  "direction": "Virziens"
+}

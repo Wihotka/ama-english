@@ -1,0 +1,97 @@
+@import 'src/scss/_mixins.scss';
+
+.details {
+  margin-top: 64px;
+
+  max-height: 30px;
+
+  transition: .5s;
+
+  will-change: max-height;
+
+  overflow: hidden;
+
+  @include width-1280-L {
+    margin-top: 48px;
+  }
+  @include width-1280-P {
+    margin-top: 48px;
+  }
+
+  @include width-854-L {
+    margin-top: auto;
+  }
+
+  @include width-412-P {
+    margin-top: 32px;
+  }
+
+  &__showed {
+    max-height: 100px;
+
+    .summary {
+      &::after {
+        transform: rotate(90deg);
+      }
+    }
+  }
+}
+
+.summary {
+  position: relative;
+
+  font-weight: 500;
+  font-size: 22px;
+
+  cursor: pointer;
+
+  @include width-1280-L {
+    font-size: 16px;
+  }
+  @include width-1280-P {
+    font-size: 16px;
+  }
+
+  @include width-732-L {
+    font-size: 14px;
+  }
+  @include width-412-P {
+    font-size: 14px;
+  }
+
+  &::after {
+    content: '‹';
+
+    position: absolute;
+    top: -2px;
+    right: -24px;
+    transform: rotate(-90deg);
+
+    display: block;
+
+    font-size: 30px;
+
+    will-change: transform;
+  }
+}
+
+.sentence {
+  margin-top: 16px;
+  font-size: 20px;
+
+  @include width-1280-L {
+    margin-top: 8px;
+    font-size: 16px;
+  }
+  @include width-1280-P {
+    margin-top: 8px;
+    font-size: 16px;
+  }
+
+  @include width-732-L {
+    font-size: 14px;
+  }
+  @include width-412-P {
+    font-size: 14px;
+  }
+}

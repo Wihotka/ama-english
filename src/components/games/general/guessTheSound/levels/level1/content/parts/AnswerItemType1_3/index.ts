@@ -1,0 +1,1 @@
+export {AnswerItemType1_3} from './AnswerItemType1_3';

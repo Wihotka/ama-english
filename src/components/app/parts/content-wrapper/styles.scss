@@ -1,0 +1,52 @@
+@import "/src/scss/mixins";
+
+.homeworkBtn{
+  display: flex;
+  justify-content: center;
+
+  i{
+    margin-left: 10px;
+  }
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+}
+
+.top{
+  padding-bottom: var(--gridGap9);
+
+  @include width-1280-L {
+    padding-bottom: var(--gridGap4);
+  }
+  @include width-1000-L {
+    padding-bottom: var(--gridGap3);
+  }
+
+  @include width-854-L {
+    padding: calc(2 * var(--main-base-grid-gap)) 0;
+    overflow: hidden;
+  }
+  @include  width-534-P {
+    padding: calc(2 * var(--main-base-grid-gap)) 0;
+    overflow: hidden;
+  }
+
+  @include width-732-L {
+    padding: var(--main-base-grid-gap) 0;
+  }
+  @include width-412-P {
+    padding: var(--main-base-grid-gap) 0;
+  }
+}
+
+.topBlock{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  overflow: hidden;
+}

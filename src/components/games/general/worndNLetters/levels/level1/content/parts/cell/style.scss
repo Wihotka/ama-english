@@ -1,0 +1,130 @@
+@import 'src/scss/_mixins.scss';
+
+.cell {
+  background: #FFFFFF;
+  box-shadow: 0 6px 8px rgba(28, 6, 64, 0.24);
+  border-radius: 32px;
+  width: 100%;
+  max-width: 232px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: box-shadow 0.1s;
+
+  @include width-852-P {
+    max-width: 176px;
+    height: 56px !important;
+  }
+
+  @include width-1000-L {
+    max-width: 176px;
+    height: 56px !important;
+  }
+
+  @include width-732-L {
+    max-width: 144px;
+    height: 40px !important;
+  }
+  @include width-412-P {
+    max-width: 144px;
+    height: 40px !important;
+  }
+
+  &Answer {
+    height: 64px;
+
+    @include width-852-P {
+      height: 56px;
+    }
+
+    @include width-1000-L {
+      height: 56px;
+    }
+
+    @include width-732-L {
+      height: 40px;
+    }
+    @include width-412-P {
+      height: 40px;
+    }
+  }
+
+  &Word {
+    height: 72px;
+
+    @include width-852-P {
+      height: 56px;
+    }
+
+    @include width-1000-L {
+      height: 56px;
+    }
+
+    @include width-732-L {
+      height: 40px;
+    }
+    @include width-412-P {
+      height: 40px;
+    }
+  }
+}
+
+.cell:hover {
+  box-shadow: 0 8px 24px rgba(28, 6, 64, 0.24);
+}
+
+.inactiveCell {
+  cursor: auto;
+  box-shadow: none;
+}
+
+.disabledCell {
+  background: rgba(255, 255, 255, 0.32);
+  border: 1px solid rgba(255, 255, 255, 0.56) !important;
+  box-shadow: none;
+}
+
+.disabledCell:hover, .inactiveCell:hover {
+  box-shadow: none;
+}
+
+.selectedAnswer {
+  background: #FFFFFF;
+  border: 2px solid rgba(174, 125, 254, 0.48);
+}
+
+.cellValue {
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: 0.03em;
+
+  @include width-1280-L {
+    font-weight: 500;
+  }
+  @include width-1280-P {
+    font-weight: 500;
+  }
+  @include width-852-P {
+    font-size: 16px;
+  }
+
+  @include width-1000-L {
+    font-size: 16px;
+  }
+
+  @include width-732-L {
+    font-size: 14px;
+  }
+  @include width-412-P {
+    font-size: 14px;
+  }
+}
+
+.correct {
+  box-shadow: 0 0 3px #00FF15, 0 0 32px #00FF19;
+}
+
+.wrong {
+  box-shadow: 0 0 4px #FE3A3A, 0 0 32px #FE3A3A;
+}

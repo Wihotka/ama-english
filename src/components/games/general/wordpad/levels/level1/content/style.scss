@@ -1,0 +1,151 @@
+@import 'src/scss/_mixins.scss';
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+
+  padding: 16px 0 72px;
+
+  @include width-1280-L {
+    flex-direction: row;
+    align-items: flex-start;
+
+    padding-top: 44px;
+    padding-bottom: 92px;
+  }
+  @include width-1280-P {
+    flex-direction: row;
+    align-items: flex-start;
+
+    padding-top: 44px;
+    padding-bottom: 92px;
+  }
+  @include width-852-P {
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 90px;
+  }
+
+  @include width-1000-L {
+    padding-top: 40px;
+    padding-bottom: 80px;
+  }
+
+  @include width-854-L {
+    padding-top: 72px;
+    padding-bottom: 0;
+  }
+  @include width-534-P {
+    padding-top: 96px;
+    padding-bottom: 0;
+    justify-content: flex-start;
+  }
+
+  @include width-732-L {
+    padding-top: 48px;
+  }
+  @include width-412-P {
+    padding-top: 72px;
+  }
+
+  @include  width-640-L {
+    padding-top: 32px;
+  }
+  @include width-360-P {
+    padding-top: 64px;
+  }
+
+  &__second {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    @include width-1280-L {
+      position: relative;
+      justify-content: flex-start;
+
+      margin-left: 16px;
+
+      height: 100%;
+    }
+    @include width-1280-P {
+      position: relative;
+      justify-content: flex-start;
+
+      margin-left: 16px;
+
+      height: 100%;
+    }
+    @include width-852-P {
+      margin-top: 24px;
+      margin-left: 0;
+    }
+
+    @include width-732-L {
+      margin-left: 8px;
+    }
+    @include width-412-P {
+      margin-top: 32px;
+    }
+
+    @include width-360-P {
+      margin-top: 24px;
+    }
+  }
+}
+
+.checkBtn {
+  position: absolute;
+  right: 24px;
+  bottom: 24px;
+  height: 56px;
+  padding: 0;
+
+  &[disabled] {
+    background: linear-gradient(180deg, #BAE3C6 0%, #DFF5E6 100%);
+    box-shadow: 0 4px 0 #95CB95, 0 6px 16px rgba(149, 203, 149, 0.72);
+    opacity: 0.4;
+  }
+
+  @include width-1280-L {
+    right: 20px;
+    bottom: 20px;
+    height: 48px;
+  }
+  @include width-1280-P {
+    right: 20px;
+    bottom: 20px;
+    height: 48px;
+  }
+
+  @include width-854-L {
+    right: 8px;
+    bottom: 12px;
+  }
+  @include width-534-P {
+    right: 8px;
+    bottom: 12px;
+    min-width: 260px;
+  }
+
+  @include width-732-L {
+    bottom: 8px;
+    height: 40px;
+    padding-bottom: 4px;
+  }
+  @include width-412-P {
+    bottom: 8px;
+    min-width: fit-content;
+    width: 100%;
+    max-width: 260px;
+    height: 40px;
+    padding-bottom: 4px;
+  }
+}

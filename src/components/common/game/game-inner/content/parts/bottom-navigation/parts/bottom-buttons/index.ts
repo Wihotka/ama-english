@@ -1,0 +1,1 @@
+export {BottomButtonsM as BottomButtons} from './BottomButtons';

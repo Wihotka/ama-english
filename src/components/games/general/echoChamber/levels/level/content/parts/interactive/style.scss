@@ -1,0 +1,118 @@
+@import 'src/scss/_mixins.scss';
+
+@keyframes nextAnimation {
+  0% {opacity: 1}
+  50% {opacity: 0}
+  100% {opacity: 1}
+}
+
+.nextSentence {
+  animation: nextAnimation 1s ease-in-out;
+}
+
+.wrapper {
+  position: absolute;
+  top: 104px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 40px;
+
+  width: 559px;
+  min-height: 325px;
+
+  border-radius: 32px;
+
+  background: #FFFFFF;
+  box-shadow: 4px 8px 40px rgba(28, 6, 64, 0.32);
+
+  @include width-1280-L {
+    top: 34px;
+    width: 543px;
+    min-height: 340px;
+    padding: 32px;
+  }
+  @include width-1280-P {
+    top: 34px;
+    width: 543px;
+    min-height: 340px;
+    padding: 32px;
+  }
+
+  @include width-1000-L {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-top: 10px;
+    transform: none;
+  }
+  @include width-768-P {
+    position: relative;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    margin-top: 106px;
+    transform: none;
+  }
+
+  @include width-854-L {
+    width: 555px;
+    min-height: 230px;
+    padding: 16px 32px;
+  }
+  @include width-534-P {
+    width: 100%;
+    min-height: 292px;
+    margin-top: 160px;
+    padding: 24px 16px;
+  }
+
+  @include width-732-L {
+    width: 380px;
+    padding: 16px;
+  }
+  @include width-412-P {
+    min-height: 233px;
+    padding: 16px;
+  }
+
+  @include width-640-L {
+    width: 328px;
+    min-height: 200px;
+  }
+  @include width-360-P {
+    min-height: 200px;
+  }
+
+  &__top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+
+    @include width-768-P {
+      flex-wrap: wrap;
+    }
+
+    @include width-854-L {
+      gap: 8px 40px;
+    }
+    @include width-534-P {
+      gap: 8px 16px;
+    }
+
+    @include width-732-L {
+      gap: 8px 16px;
+    }
+    @include width-412-P {
+      gap: 8px;
+    }
+
+    @include width-640-L {
+      gap: 8px;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "taskName1": "Find the words in the square. The words can be arranged vertically and horizontally. Direction of the words:  ↓, →",
+  "taskName2": "Find the words in the square. The words can be arranged vertically and horizontally. Direction of the words: ↓, →, ↑ , ←",
+  "taskName3": "Find the words in the square. The words can be arranged vertically, horizontally and diagonally. Direction of the words: ↓, →, ↘",
+  "taskName4": "Find the words in the square. The words can be arranged vertically, horizontally and diagonally. Direction of the words: ↓, →, ↑ , ←, ↘, ↙",
+  "leftToFind": "Left to find",
+  "moreToFind": "Find",
+  "words0": "words",
+  "words1": "words",
+  "words2": "words",
+  "found": "Found",
+  "direction": "Direction"
+}

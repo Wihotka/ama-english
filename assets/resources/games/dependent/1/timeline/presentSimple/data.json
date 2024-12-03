@@ -1,0 +1,388 @@
+{
+  "1": [
+    {
+      "sentence": [
+        "I like cakes.",
+        "You like cakes.",
+        "We like cakes.",
+        "They like cakes.",
+        "He likes cakes.",
+        "She likes cakes."
+      ],
+      "imagePath": "/themes-tenses/cake.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I usually have breakfast at 9 o'clock.",
+        "You usually have breakfast at 9 o'clock.",
+        "We usually have breakfast at 9 o'clock.",
+        "They usually have breakfast at 9 o'clock.",
+        "He usually has breakfast at 9 o'clock.",
+        "She usually has breakfast at 9 o'clock."
+      ],
+      "imagePath": "/themes-tenses/bacon-gac.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I wake up at 7 o'clock.",
+        "You wake up at 7 o'clock.",
+        "We wake up at 7 o'clock.",
+        "They wake up at 7 o'clock.",
+        "He wakes up at 7 o'clock."
+      ],
+      "imagePath": "/themes-tenses/51.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I do not like bees.",
+        "You do not like bees.",
+        "We do not like bees.",
+        "They do not like bees.",
+        "He does not like bees.",
+        "She does not like bees."
+      ],
+      "imagePath": "/themes-tenses/2.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I have got a sweet.",
+        "You have got a sweet.",
+        "We have got a sweet.",
+        "They have got a sweet.",
+        "He has got a sweet.",
+        "She has got a sweet."
+      ],
+      "imagePath": "/themes-tenses/candy-g.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I brush teeth every morning.",
+        "You brush teeth every morning.",
+        "We brush teeth every morning.",
+        "They brush teeth every morning.",
+        "He brushes teeth every morning.",
+        "She brushes teeth every morning."
+      ],
+      "imagePath": "/themes-tenses/161.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I like reading.",
+        "You like reading.",
+        "We like reading.",
+        "They like reading.",
+        "He likes reading.",
+        "She likes reading."
+      ],
+      "imagePath": "/themes-tenses/reading.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I like swimming.",
+        "You like swimming.",
+        "We like swimming.",
+        "They like swimming.",
+        "He likes swimming.",
+        "She likes swimming."
+      ],
+      "imagePath": "/themes-tenses/216.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I live in a big house.",
+        "You live in a big house.",
+        "We live in a big house.",
+        "They live in a big house.",
+        "He lives in a big house.",
+        "She lives in a big house."
+      ],
+      "imagePath": "/themes-tenses/283.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I have got a hamster.",
+        "You have got a hamster.",
+        "We have got a hamster.",
+        "They have got a hamster."
+      ],
+      "imagePath": "/themes-tenses/341.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I drink water every day.",
+        "You drink water every day.",
+        "We drink water every day.",
+        "They drink water every day.",
+        "He drinks water every day.",
+        "She drinks water every day."
+      ],
+      "imagePath": "/themes-tenses/distilled-water.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I play with the dog every day.",
+        "You play with the dog every day.",
+        "We play with the dog every day.",
+        "They play with the dog every day.",
+        "She plays with the dog every day."
+      ],
+      "imagePath": "/themes-tenses/11.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I usually eat ice cream on Sundays.",
+        "You usually eat ice cream on Sundays.",
+        "We usually eat ice cream on Sundays.",
+        "They usually eat ice cream on Sundays.",
+        "He usually eats ice cream on Sundays.",
+        "She usually eats ice cream on Sundays."
+      ],
+      "imagePath": "/themes-tenses/ice-cream.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I play with my cat every day.",
+        "You play with your cat every day.",
+        "He plays with his cat every day."
+      ],
+      "imagePath": "/themes-tenses/137.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is purple."],
+      "imagePath": "/themes-tenses/146.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["A cat is on the sofa."],
+      "imagePath": "/themes-tenses/192.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is hot."],
+      "imagePath": "/themes-tenses/hot.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is fast."],
+      "imagePath": "/themes-tenses/train.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is winter."],
+      "imagePath": "/themes-tenses/winter.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It lives in Africa and runs fast."],
+      "imagePath": "/themes-tenses/lion.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It likes bananas."],
+      "imagePath": "/themes-tenses/monkey.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It lives in the forest."],
+      "imagePath": "/themes-tenses/fox.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is blue."],
+      "imagePath": "/themes-tenses/blue.png",
+      "disabledImg": [
+        " "
+      ]
+    }
+  ],
+  "2": [
+    {
+      "correctVersion": "He has got a pet.",
+      "incorrectVersion": "He have not got a pet.",
+      "imagePath": "/association-tenses/137.svg"
+    },
+    {
+      "correctVersion": "She usually has breakfast at 9 o'clock.",
+      "incorrectVersion": "She usually have breakfast at 9 o'clock.",
+      "imagePath": "/association-tenses/17.svg"
+    },
+    {
+      "correctVersion": "I like ice cream.",
+      "incorrectVersion": "I likes ice cream.",
+      "imagePath": "/association-tenses/50.svg"
+    },
+    {
+      "correctVersion": "He gets up at 7 o'clock.",
+      "incorrectVersion": "He get up at 7 o'clock.",
+      "imagePath": "/association-tenses/51.svg"
+    },
+    {
+      "correctVersion": "They run every day.",
+      "incorrectVersion": "They runs every day.",
+      "imagePath": "/association-tenses/218.svg"
+    },
+    {
+      "correctVersion": "I drink water every day.",
+      "incorrectVersion": "I drinks water every day.",
+      "imagePath": "/association-tenses/10.svg"
+    },
+    {
+      "correctVersion": "We like apples.",
+      "incorrectVersion": "We likes apples.",
+      "imagePath": "/association-tenses/38.svg"
+    },
+    {
+      "correctVersion": "New Year is my favourite holiday.",
+      "incorrectVersion": "New Year are my favourite holiday.",
+      "imagePath": "/association-tenses/39.svg"
+    },
+    {
+      "correctVersion": "He plays with his cars on weekends.",
+      "incorrectVersion": "He play with his cars on weekends.",
+      "imagePath": "/association-tenses/48.svg"
+    },
+    {
+      "correctVersion": "They play together on Fridays.",
+      "incorrectVersion": "They plays together on Fridays.",
+      "imagePath": "/association-tenses/79.svg"
+    },
+    {
+      "correctVersion": "I have a kite.",
+      "incorrectVersion": "I has a kite.",
+      "imagePath": "/association-tenses/96.svg"
+    },
+    {
+      "correctVersion": "He swims very fast.",
+      "incorrectVersion": "He swim very fast.",
+      "imagePath": "/association-tenses/216.svg"
+    },
+    {
+      "correctVersion": "She has three balloons.",
+      "incorrectVersion": "She have three balloon.",
+      "imagePath": "/association-tenses/171.svg"
+    },
+    {
+      "correctVersion": "It is brown.",
+      "incorrectVersion": "It are brown.",
+      "imagePath": "/association-tenses/monkey.svg"
+    },
+    {
+      "correctVersion": "It lives in forests.",
+      "incorrectVersion": "It live in forests.",
+      "imagePath": "/association-tenses/102.svg"
+    },
+    {
+      "correctVersion": "He is not ok.",
+      "incorrectVersion": "He are not ok.",
+      "imagePath": "/association-tenses/106.svg"
+    },
+    {
+      "correctVersion": "I am fine.",
+      "incorrectVersion": "I is fine.",
+      "imagePath": "/association-tenses/134.svg"
+    },
+    {
+      "correctVersion": "They like winter.",
+      "incorrectVersion": "They likes winter.",
+      "imagePath": "/association-tenses/174.svg"
+    },
+    {
+      "correctVersion": "My family is big.",
+      "incorrectVersion": "My family are big.",
+      "imagePath": "/association-tenses/family.png"
+    },
+    {
+      "correctVersion": "Do you like winter?",
+      "incorrectVersion": "Are you like winter?",
+      "imagePath": "/association-tenses/winter.png"
+    },
+    {
+      "correctVersion": "I do not like summer.",
+      "incorrectVersion": "I does not like summer.",
+      "imagePath": "/association-tenses/summer.png"
+    },
+    {
+      "correctVersion": "She does not like spring.",
+      "incorrectVersion": "She do not like spring.",
+      "imagePath": "/association-tenses/spring.png"
+    },
+    {
+      "correctVersion": "We like autumn.",
+      "incorrectVersion": "We does like autumn.",
+      "imagePath": "/association-tenses/autumn.png"
+    },
+    {
+      "correctVersion": "It eats vegetables.",
+      "incorrectVersion": "It eat vegetables.",
+      "imagePath": "/association-tenses/hamster.png"
+    },
+    {
+      "correctVersion": "It is on the sofa.",
+      "incorrectVersion": "It am on the sofa.",
+      "imagePath": "/association-tenses/192.svg"
+    },
+    {
+      "correctVersion": "We live in a big house.",
+      "incorrectVersion": "We lives in a big house.",
+      "imagePath": "/association-tenses/283.svg"
+    }
+  ]
+}

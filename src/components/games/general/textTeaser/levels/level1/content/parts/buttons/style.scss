@@ -1,0 +1,81 @@
+@import 'src/scss/_mixins.scss';
+
+.checkBtnContainer {
+    width: 100%;
+    display: flex;
+}
+
+.checkBtn {
+    width: 258px;
+    height: 56px;
+    margin-left: auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &[disabled] {
+        background: linear-gradient(180deg, #BAE3C6 0%, #DFF5E6 100%);
+        box-shadow: 0 4px 0 #95CB95, 0 6px 16px rgba(149, 203, 149, 0.72);
+        opacity: 0.4;
+    }
+
+    @include width-1280-L() {
+        height: 48px;
+    }
+    @include width-1280-P() {
+        height: 48px;
+    }
+
+    @include width-732-L() {
+        height: 40px;
+    }
+
+    @include width-852-P() {
+        height: 48px;
+    }
+
+    @include width-412-P() {
+        height: 40px;
+    }
+}
+
+.hintContainer {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -100%);
+}
+
+.hintBtn {
+    width: 194px;
+    height: 64px;
+
+    @include titleS();
+
+    @include width-1280-L() {
+        width: 145px;
+        height: 40px;
+    }
+    @include width-1280-P() {
+        width: 145px;
+        height: 40px;
+    }
+
+    @include width-732-L() {
+        width: 96px;
+        height: 24px;
+        padding: 0;
+    }
+
+    @include width-852-P() {
+        width: 145px;
+        height: 40px;
+    }
+
+    @include width-412-P() {
+        width: 96px;
+        height: 24px;
+        padding: 0;
+    }
+}

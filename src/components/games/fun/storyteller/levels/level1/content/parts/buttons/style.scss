@@ -1,0 +1,114 @@
+@import 'src/scss/_mixins.scss';
+
+.buttonsContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 78px;
+  margin-top: 30px;
+  position: relative;
+
+  @include width-1280-L() {
+    margin-top: 25px;
+    height: 56px;
+  }
+  @include width-1280-P() {
+    margin-top: 25px;
+    height: 56px;
+  }
+
+  @include width-1000-L() {
+    margin-top: 10px;
+  }
+
+  @include width-854-L() {
+    width: 568px;
+    align-self: center;
+    margin-top: 16px;
+  }
+
+  @include width-732-L() {
+    display: none;
+  }
+
+  @include width-852-P() {
+    margin-top: 77px;
+  }
+
+  @include width-534-P() {
+    width: 392px;
+    margin-top: 40px;
+    align-self: center;
+  }
+
+  @include width-412-P() {
+    display: none;
+  }
+}
+
+.smallBtns {
+  display: none;
+
+  @include width-732-L() {
+    display: block;
+  }
+
+  @include width-412-P() {
+    display: block;
+    margin-top: 18px;
+  }
+}
+
+.btn {
+  position: absolute;
+
+  @include width-1280-L() {
+    width: 117px;
+  }
+  @include width-1280-P() {
+    width: 117px;
+  }
+
+  @include width-732-L() {
+    width: auto;
+    top: 50%;
+  }
+
+  @include width-852-P() {
+    width: 117px;
+  }
+
+  @include width-412-P() {
+    width: auto;
+  }
+}
+
+.prevBtn {
+  left: -6px;
+
+  @include width-732-L() {
+    left: 0;
+  }
+
+  @include width-640-L() {
+    left: -10px;
+  }
+}
+
+.nextBtn {
+  transition: filter 0.3s ease-in;
+  margin-left: auto;
+  right: -8px;
+
+  &:disabled {
+    filter: grayscale(100%);
+  }
+
+  @include width-732-L() {
+    right: 0;
+  }
+
+  @include width-640-L() {
+    right: -15px;
+  }
+}

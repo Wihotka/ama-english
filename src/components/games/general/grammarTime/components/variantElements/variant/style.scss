@@ -1,0 +1,43 @@
+@import 'src/scss/_mixins.scss';
+
+.emptyVariant {
+    border-width: 2px;
+    border-style: solid;
+    cursor: not-allowed;
+    width: 479px;
+    height: 94px;
+    border-radius: 32px;
+    transition: all .1s ease-in;
+
+    @include width-1280-L() {
+        width: 280px;
+        height: 96px;
+    }
+
+    @include width-732-L() {
+        width: 238px;
+        height: 80px;
+        border-radius: 16px;
+    }
+
+    @include width-640-L() {
+        width: 216px;
+        height: 67px;
+    }
+
+    @include width-852-P() {
+        width: 280px;
+        height: 96px
+    }
+
+    @include width-412-P() {
+        width: 238px;
+        height: 80px;
+        border-radius: 16px;
+    }
+
+    @include width-360-P() {
+        width: 216px;
+        height: 67px;
+    }
+}

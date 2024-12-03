@@ -1,0 +1,273 @@
+@import 'src/scss/_mixins';
+
+.img {
+  position: absolute;
+  top: 76px;
+  width: 168px;
+  height: 168px;
+
+  @include width-1280-L {
+    width: 148px;
+    height: 148px;
+  }
+  @include width-1280-P {
+    width: 148px;
+    height: 148px;
+  }
+
+  @include width-854-L {
+    width: 114px;
+    height: 114px;
+  }
+  @include width-534-P {
+    width: 80px;
+    height: 80px;
+  }
+
+  @include width-732-L {
+    width: 80px;
+    height: 80px;
+  }
+  @include width-412-P {
+    display: none;
+  }
+}
+
+.tubesWrap{
+  position: relative;
+}
+
+.tubes {
+  left: -100px;
+  z-index: -1;
+
+  @include width-1280-L {
+    left: -80px;
+  }
+  @include width-1280-P {
+    left: -80px;
+  }
+
+  @include width-854-L {
+    left: -64px;
+  }
+  @include width-534-P {
+    left: -48px;
+  }
+
+  @include width-732-L {
+    left: -48px;
+  }
+}
+
+.rightTubes {
+  right: -100px;
+  z-index: -1;
+  transform: scale(-1, 1);
+
+  @include width-1280-L {
+    right: -80px;
+  }
+  @include width-1280-P {
+    right: -80px;
+  }
+
+  @include width-854-L {
+    right: -64px;
+  }
+  @include width-534-P {
+    right: -48px;
+  }
+
+  @include width-732-L {
+    right: -48px;
+  }
+}
+
+.raysWrap {
+  position: absolute;
+  top: 75px;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  max-height: 169px;
+  opacity: 0.24;
+  overflow: hidden;
+
+  @include width-1280-L {
+    max-height: 140px;
+  }
+  @include width-1280-P {
+    max-height: 140px;
+  }
+
+  @include width-854-L {
+    top: 61px;
+    max-height: 108px;
+  }
+  @include width-534-P {
+    top: 61px;
+    max-height: 108px;
+  }
+
+  @include width-732-L {
+    top: 60px;
+    gap: 6px;
+  }
+  @include width-412-P {
+    gap: 6px;
+  }
+
+  & > div {
+    width: 32px;
+    height: 136px;
+    transform-origin: top;
+
+    @include width-1280-L {
+      width: 28px;
+      height: 100px;
+    }
+    @include width-1280-P {
+      width: 28px;
+      height: 100px;
+    }
+
+    @include width-854-L {
+      width: 22px;
+      height: 80px;
+    }
+    @include width-534-P {
+      width: 22px;
+      height: 80px;
+    }
+
+    @include width-732-L {
+      width: 18px;
+    }
+    @include width-412-P {
+      width: 18px;
+    }
+
+    &:nth-child(1) {
+      transform: translateY(-8px) perspective(169px) rotateX(30deg) rotateZ(45deg);
+
+      @include width-1280-L {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(45deg);
+      }
+      @include width-1280-P {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(45deg);
+      }
+
+      @include width-854-L {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(45deg);
+      }
+      @include width-534-P {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(45deg);
+      }
+    }
+    &:nth-child(2) {
+      transform: translateY(-8px) perspective(169px) rotateX(30deg) rotateZ(30deg);
+
+      @include width-1280-L {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(30deg);
+      }
+      @include width-1280-P {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(30deg);
+      }
+
+      @include width-854-L {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(30deg);
+      }
+      @include width-534-P {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(30deg);
+      }
+    }
+    &:nth-child(3) {
+      transform: translateY(-8px) perspective(169px) rotateX(30deg) rotateZ(15deg);
+
+      @include width-1280-L {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(15deg);
+      }
+      @include width-1280-P {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(15deg);
+      }
+
+      @include width-854-L {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(15deg);
+      }
+      @include width-534-P {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(15deg);
+      }
+    }
+    &:nth-child(4) {
+      transform: translateY(-8px) perspective(169px) rotateX(30deg) rotateZ(0);
+
+      @include width-1280-L {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(0);
+      }
+      @include width-1280-P {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(0);
+      }
+
+      @include width-854-L {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(0);
+      }
+      @include width-534-P {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(0);
+      }
+    }
+    &:nth-child(5) {
+      transform: translateY(-8px) perspective(169px) rotateX(30deg) rotateZ(-15deg);
+
+      @include width-1280-L {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(-15deg);
+      }
+      @include width-1280-P {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(-15deg);
+      }
+
+      @include width-854-L {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(-15deg);
+      }
+      @include width-534-P {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(-15deg);
+      }
+    }
+    &:nth-child(6) {
+      transform: translateY(-8px) perspective(169px) rotateX(30deg) rotateZ(-30deg);
+
+      @include width-1280-L {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(-30deg);
+      }
+      @include width-1280-P {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(-30deg);
+      }
+
+      @include width-854-L {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(-30deg);
+      }
+      @include width-534-P {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(-30deg);
+      }
+    }
+    &:nth-child(7) {
+      transform: translateY(-8px) perspective(169px) rotateX(30deg) rotateZ(-45deg);
+
+      @include width-1280-L {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(-45deg);
+      }
+      @include width-1280-P {
+        transform: translateY(-8px) perspective(140px) rotateX(30deg) rotateZ(-45deg);
+      }
+
+      @include width-854-L {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(-45deg);
+      }
+      @include width-534-P {
+        transform: translateY(-8px) perspective(108px) rotateX(30deg) rotateZ(-45deg);
+      }
+    }
+  }
+}

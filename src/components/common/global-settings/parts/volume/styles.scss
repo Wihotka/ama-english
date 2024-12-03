@@ -1,0 +1,33 @@
+@import "src/scss/mixins";
+
+.btn{
+  width: 40px;
+  height: 40px;
+  margin-right: var(--main-base-grid-gap);
+}
+
+.title{
+  margin-bottom: 4px;
+}
+
+.buttons{
+  width: 100%;
+  display: flex;
+  margin: 0 -4px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mark{
+  background: linear-gradient(180deg, #69A5FF 0%, #3685FD 100%);
+  border-radius: 32px;
+  width: 8px;
+  height: 12px;
+  display: none;
+}
+
+.soundSlider{
+  @include md-block() {
+    display: none;
+  }
+}

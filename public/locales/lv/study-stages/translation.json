@@ -1,0 +1,24 @@
+{
+  "textbook": "Web mācību grāmata",
+  "challenge": "Čelendžs",
+  "vocabulary": "Vārdnīca",
+  "games": "Spēles",
+  "arena": "Arēna",
+  "fun": "Izklaide",
+  "completed": "Pabeigts",
+
+  "descriptions": {
+    "challenge": "Jaunu zināšanu nostiprināšana",
+    "vocabulary": "Jaunu vārdu apgūšana, trenēšana",
+    "games": "Apgūtā materiāla atkārtošana",
+    "arena": "Online spēles ar sāncensi",
+    "fun": "Spēles visiem",
+    "textbook": "Jaunu zināšanu iegūšana"
+  },
+
+  "messages": {
+    "dueTo": "Izdarīt līdz"
+  },
+
+  "developing": "Sadaļa izstrādes stadijā"
+}

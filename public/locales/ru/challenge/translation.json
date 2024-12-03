@@ -1,0 +1,18 @@
+{
+  "challenge": "Челлендж",
+  "completed": "Пройдено",
+  "completedRounds": "Завершено раундов",
+  "complete_homework": "Выполни челлендж",
+  "completed_homework": "Челлендж выполнен",
+  "commentToTask": "Комментарий от преподавателя",
+  "stage": "Этап",
+  "task": "Задание",
+  "roundFinish" : {
+    "pushButton": "Нажми кнопку",
+    "allowNewRound": "Доступен новый раунд",
+    "roundFinished": "Молодец! Раунд завершен",
+    "youCanStartNewRound": "Ты можешь приступить к выполнению следующего раунда либо приступить к нему завтра",
+    "newRoundTomorrow": "Новый раунд будет доступен завтра",
+    "forUnblockRound": "для разблокировки раунда"
+  }
+}

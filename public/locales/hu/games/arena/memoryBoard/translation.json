@@ -1,0 +1,10 @@
+﻿{
+  "taskName": {
+    "online": "Find all the matching pairs as fast as you can. The cards must be opened one by one. You can get 2 points for each correct pair. You have to finish the game faster than your rival to win the game. The game will be finished when there are no cards left on the playing field.",
+    "offline": "Find all the matching pairs of cards. The cards must be opened one by one. Each player is given 10 seconds to take a turn. You can get 2 points and additional time for each correct pair. To win the game you have to find more correct pairs and get more points than your rival. The game will be finished when there are no cards left on the playing field."
+  },
+  "time": {
+    "online": "",
+    "offline": "Total game time: 5 min."
+  }
+}

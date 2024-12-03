@@ -1,0 +1,1 @@
+export {AlphabetImage} from './AlphabetImage';

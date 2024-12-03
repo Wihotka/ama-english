@@ -1,0 +1,11 @@
+{
+  "somethingWrong": "Kažkas ne taip",
+  "platformError": "Atsiprašome, įvyko platformos darbo klaida",
+  "tryReloadPage": "Pabandyk perkrauti puslapį arba susisiekite su techninės pagalbos skyriumi",
+  "ifReloadNotHelpWriteTo": "Jei perkrovimas nepadėjo, susisiekite su techninės pagalbos skyriumi",
+  "gameNotAllow": "Žaidimas nepasiekiamas",
+  "gameNotAllowMessage": "Atsiprašome, žaidimas nepasiekiamas, pabandykite perkrauti. Jei tai nepadėjo, susisiekite su techninės pagalbos skyriumi",
+  "whenGameBroke": "Kol žaidimas tvarkomas, gali pažaisti kitus žaidimus",
+  "pageNotFound": "Puslapis nerastas",
+  "pageMoved": "Atsiprašome, puslapis perkeltas arba dingo"
+}

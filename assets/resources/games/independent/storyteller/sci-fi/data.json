@@ -1,0 +1,180 @@
+{
+    "storyText": "It is the year 3034. We are on our way to visit a0, a planet in a faraway galaxy. Our a1 spaceship flies for months past planets, stars and galaxies, then we arrive. We open the door and look out. a0 is very a2. There is an alien behind a rock. It is a3 and a4. 'Help me!' shouts the a3 a4 alien. 'Some a5 from another planet have killed everybody but me. I need to escape!' Suddenly we see the a5. We all run to the a1 spaceship and jump in. We pull the a3 a4 alien into the ship and quickly fly away. The a5 are below. Now, we are flying back to Earth and the a3 a4 alien is telling about a0 and the faraway galaxy.",
+    "imageBg": "linear-gradient(30.98deg, #3B406A 53869.38%, #504884 60167.32%, #5F4D98 66465.26%, #6850A3 73025.61%, #6B51A7 79848.38%)",
+    "questions": [
+        {
+            "questionText": "There's a planet in this story.\nWhat's the planet's name?",
+            "answers": [
+                {
+                    "value": "Smooz 22",
+                    "imgPath": "sci-fi/smooz-22.png"
+                },
+                {
+                    "value": "Bibblebop",
+                    "imgPath": "sci-fi/bibblebop.png"
+                },
+                {
+                    "value": "Moop",
+                    "imgPath": "sci-fi/moop.png"
+                },
+                {
+                    "value": "Scoopeter 14",
+                    "imgPath": "sci-fi/scoopeter-14.png"
+                },
+                {
+                    "value": "Mishmash",
+                    "imgPath": "sci-fi/mishmash.png"
+                },
+                {
+                    "value": "Cheesenpeas",
+                    "imgPath": "sci-fi/cheesenpeas.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There's a spaceship in this story.\nWhat's it like?",
+            "answers": [
+                {
+                    "value": "dirty",
+                    "imgPath": "sci-fi/dirty.png"
+                },
+                {
+                    "value": "tiny",
+                    "imgPath": "sci-fi/tiny-spaceship.png"
+                },
+                {
+                    "value": "huge",
+                    "imgPath": "sci-fi/huge-spaceship.png"
+                },
+                {
+                    "value": "invisible",
+                    "imgPath": "sci-fi/invisible.png"
+                },
+                {
+                    "value": "gold",
+                    "imgPath": "sci-fi/gold.png"
+                },
+                {
+                    "value": "silver",
+                    "imgPath": "sci-fi/silver.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What's the planet like?",
+            "answers": [
+                {
+                    "value": "wet",
+                    "imgPath": "sci-fi/wet.png"
+                },
+                {
+                    "value": "windy",
+                    "imgPath": "sci-fi/windy.png"
+                },
+                {
+                    "value": "rocky",
+                    "imgPath": "sci-fi/rocky.png"
+                },
+                {
+                    "value": "snowy",
+                    "imgPath": "sci-fi/snowy.png"
+                },
+                {
+                    "value": "hot",
+                    "imgPath": "sci-fi/hot.png"
+                },
+                {
+                    "value": "empty",
+                    "imgPath": "sci-fi/empty.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There's an alien in this story.\nWhat's it like?",
+            "answers": [
+                {
+                    "value": "ugly",
+                    "imgPath": "sci-fi/ugly.png"
+                },
+                {
+                    "value": "tiny",
+                    "imgPath": "sci-fi/tiny-alien.png"
+                },
+                {
+                    "value": "huge",
+                    "imgPath": "sci-fi/huge-alien.png"
+                },
+                {
+                    "value": "strange",
+                    "imgPath": "sci-fi/strange.png"
+                },
+                {
+                    "value": "hairy",
+                    "imgPath": "sci-fi/hairy.png"
+                },
+                {
+                    "value": "slimy",
+                    "imgPath": "sci-fi/slimy.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What colour is the alien?",
+            "answers": [
+                {
+                    "value": "green",
+                    "imgPath": "sci-fi/green.png"
+                },
+                {
+                    "value": "white",
+                    "imgPath": "sci-fi/white.png"
+                },
+                {
+                    "value": "blue",
+                    "imgPath": "sci-fi/blue.png"
+                },
+                {
+                    "value": "purple",
+                    "imgPath": "sci-fi/purple.png"
+                },
+                {
+                    "value": "red",
+                    "imgPath": "sci-fi/red.png"
+                },
+                {
+                    "value": "orange",
+                    "imgPath": "sci-fi/orange.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There are some dangerous people or creatures in this story.\nWhat are they?",
+            "answers": [
+                {
+                    "value": "robots",
+                    "imgPath": "sci-fi/robots.png"
+                },
+                {
+                    "value": "aliens",
+                    "imgPath": "sci-fi/aliens.png"
+                },
+                {
+                    "value": "monsters",
+                    "imgPath": "sci-fi/monsters.png"
+                },
+                {
+                    "value": "dinosaurs",
+                    "imgPath": "sci-fi/dinosaurs.png"
+                },
+                {
+                    "value": "plants",
+                    "imgPath": "sci-fi/plants.png"
+                },
+                {
+                    "value": "astronauts ",
+                    "imgPath": "sci-fi/astronauts.png"
+                }
+            ]
+        }
+    ]
+}

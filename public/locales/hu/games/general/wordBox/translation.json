@@ -1,0 +1,13 @@
+﻿{
+  "taskName1": "Keresd meg a megfelelő számú szót a négyzetben. A szavak elrendezése: függőleges, vízszintes. A szavak iránya: ↓, →",
+  "taskName2": "Keresd meg a megfelelő számú szót a négyzetben. A szavak elrendezése: függőleges, vízszintes. A szavak iránya: ↓, →, ↑ , ←",
+  "taskName3": "Keresd meg a megfelelő számú szót a négyzetben. A szavak elrendezése: függőleges, vízszintes és átlós. A szavak iránya: ↓, →, ↘",
+  "taskName4": "Keresd meg a megfelelő számú szót a négyzetben. A szavak elrendezése: függőleges, vízszintes és átlós. A szavak iránya: ↓, →, ↑ , ←, ↘, ↙",
+  "leftToFind": "Maradt még",
+  "moreToFind": "Kell még",
+  "words0": "szó",
+  "words1": "szó",
+  "words2": "szó",
+  "found": "Megtalált",
+  "direction": "Irány"
+}

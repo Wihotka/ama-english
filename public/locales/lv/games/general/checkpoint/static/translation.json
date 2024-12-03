@@ -1,0 +1,9 @@
+{
+  "withImg": "Apskati attēlu un uzraksti vārdu",
+  "withVoice": "Noklausies vārdu un uzraksti to",
+  "withTranscription": "Apskati transkripciju un uzraksti vārdu",
+  "withVoiceTranscription": "Apskati vārda transkripciju, noklausies tā ieskaņojumu un uzraksti to",
+  "withSentenceFilling": "Izvēlies pareizo atbildi no trim piedāvātajām atbildēm un uzraksti to",
+  "withSentenceMaking": "Izveido teikumu. Ja nepieciešams, izmaini darbības vārda galotni vai izmanto darbības vārdu to be",
+  "withExtraWordSearching": "Uzrakstiet vārdu, kas NAV saistīts ar doto tēmu"
+}

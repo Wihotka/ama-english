@@ -1,0 +1,127 @@
+@import 'src/scss/_mixins.scss';
+
+.contentContainer {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 21px auto 4px;
+
+  @include width-1280-L() {
+    margin: 34px auto 0;
+  }
+
+  @include width-1000-L() {
+    margin-top: 8px;
+  }
+
+  @include width-854-L() {
+    margin: 16px auto 4px;
+  }
+
+  @include width-732-L() {
+    margin-top: 8px;
+  }
+
+  @include width-852-P() {
+    margin: 8px auto 0;
+  }
+
+  @include width-534-P() {
+    margin: 24px auto 4px;
+  }
+
+  @include width-360-P() {
+    margin-top: 16px;
+  }
+}
+
+.contentMain {
+  display: flex;
+  flex-flow: column;
+  gap: 16px;
+
+  @include width-1280-L() {
+    flex-flow: row;
+    align-items: center;
+  }
+  
+  @include width-854-L() {
+    gap: 8px;
+  }
+
+  @include width-732-L() {
+    gap: 16px;
+  }
+
+  @include width-852-P() {
+    gap: 8px;
+  }
+
+  @include width-534-P() {
+    gap: 16px; 
+  }
+}
+
+.mainContainer {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 541px 479px;
+  height: 314px;
+  gap: 16px;
+
+  @include width-1280-L() {
+    height: 320px;
+    grid-template-columns: 256px 280px;
+  }
+
+  @include width-854-L() {
+    grid-template-columns: 190px 280px;
+  }
+
+  @include width-732-L() {
+    height: 272px;
+    grid-template-columns: 126px 238px;
+  }
+
+  @include width-640-L() {
+    height: 217px;
+    grid-template-columns: 104px 216px;
+    gap: 8px;
+  }
+
+  @include width-852-P() {
+    height: 304px;
+    grid-template-columns: repeat(2, 280px);
+    justify-content: center;
+  }
+
+  @include width-534-P() {
+    grid-template-columns: 190px 280px;
+  }
+
+  @include width-412-P() {
+    height: 256px;
+    grid-template-columns: 126px 238px;
+  }
+
+  @include width-360-P() {
+    height: 217px;
+    grid-template-columns: 104px 216px;
+    gap: 8px;
+  }
+}
+
+.userElementsContainer {
+  display: flex;
+  flex-flow: column;
+  gap: 16px;
+
+  @include width-640-L() {
+    gap: 8px;
+  }
+
+  @include width-852-P() {
+    gap: 8px;
+  }
+}

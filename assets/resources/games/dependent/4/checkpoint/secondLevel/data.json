@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "theme": "clothesWeather",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "school",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "few": [
+        ["There", "are", "a", "", "ducks", "on", "the", "lake."],
+        ["I", "need", "to", "buy", "a", "", "bottles", "of", "water."],
+        ["I", "have", "a", "", "questions", "for", "my", "teacher."],
+        ["There", "are", "a", "", "people", "in", "the", "museum."],
+        ["I", "have", "a", "", "sports", "magazines", "at", "home."]
+      ],
+      "any": [],
+      "little": [
+        ["There", "is", "a", "", "snow", "on", "the", "streets."],
+        ["There", "is", "a", "", "meat", "in", "your", "burger."],
+        ["I", "ate", "a", "", "ice", "cream", "before", "dinner."],
+        ["I", "need", "a", "", "milk", "for", "my", "cake."],
+        ["There", "is", "a", "", "salad", "on", "the", "plate."]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "shopping",
+    "wrongTheme": "school",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "shopping",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "travel",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/141.png",
+        "words": ["He", "have", "to", "finish", "his", "homework", "this", "evening."],
+        "answer": "He has to finish his homework this evening."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/142.png",
+        "words": ["I", "have", "to", "go", "to", "the", "dentist", "tomorrow", "morning."],
+        "answer": "I have to go to the dentist tomorrow morning."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/143.png",
+        "words": ["My", "mom", "have", "to", "go", "to", "the", "meeting", "at", "10", "AM."],
+        "answer": "My mom has to go to the meeting at 10 AM."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/143.png",
+        "words": ["You", "must", "help", "your", "parents."],
+        "answer": "You must help your parents."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/145.png",
+        "words": ["You", "must", "be", "polite", "in", "the", "library."],
+        "answer": "You must be polite in the library."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "food",
+    "wrongTheme": "clothesWeather",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/146.png",
+        "words": ["We", "need", "many", "bananas", "for", "the", "milkshake."],
+        "answer": "We need many bananas for the milkshake."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/147.png",
+        "words": ["How", "much", "cheese", "do", "we", "have?"],
+        "answer": "How much cheese do we have?"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/148.png",
+        "words": ["I", "have", "a", "few", "jackets", "in", "my", "wardrobe."],
+        "answer": "I have a few jackets in my wardrobe."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/149.svg",
+        "words": ["These", "plants", "need", "a", "little", "water", "every", "day."],
+        "answer": "These plants need a little water every day."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/150.png",
+        "words": ["I", "have", "a", "little", "money", "in", "my", "wallet."],
+        "answer": "I have a little money in my wallet."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "cook": [
+        ["If", "you", "", "dinner", "I", "will", "wash", "the", "dishes."],
+        ["If", "I", "", "only", "one", "salad", "he", "will", "stay", "hungry."],
+        ["Sorry", "but", "I", "won't", "eat", "if", "you", "", "lunch."],
+        ["We", "will", "chat", "a", "lot", "when", "we", "", "dinner."],
+        ["They", "will", "laugh", "a", "lot", "if", "they", "", "breakfast", "together."]
+      ],
+      "would cook": [
+        ["If", "I", "were", "you", "I", "", "much", "more", "pudding."],
+        ["If", "I", "invited", "a", "lot", "of", "people", "I", "", "my", "favourite", "dishes."],
+        ["If", "I", "organized", "a", "party", "you", "", "many", "small", "sandwiches."],
+        ["I", "", "a", "delicious", "cake", "for", "you", "if", "you", "invited", "me", "on", "your", "wedding."],
+        ["I", "", "pancakes", "If", "I", "had", "time", "for", "breakfast."]
+      ],
+      "will cook": [
+        ["I", "", "lunch", "if", "he", "cooks", "dinner."],
+        ["They", "", "breakfast", "together", "if", "they", "get", "up", "early."],
+        ["He", "", "dinner", "if", "you", "buy", "vegetables."],
+        ["If", "you", "tell", "me", "your", "favourite", "dish", "I", "", "it", "for", "you."],
+        ["If", "we", "buy", "some", "flour", "we", "", "biscuits."]
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "theme": "cityLife",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "feelings",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "have washed": [
+        ["I", "", "my", "car", "already."],
+        ["My", "sisters", "", "the", "windows", "already."],
+        ["My", "cousins", "", "their", "faces", "already."],
+        ["Dean", "and", "Mary", "", "their", "car", "already."],
+        ["They", "", "the", "dishes", "already."]
+      ],
+      "had washed": [
+        ["I", "", "my", "car", "before", "the", "rain", "started."],
+        ["We", "", "our", "hands", "before", "we", "started", "eating."],
+        ["They", "", "the", "windows", "before", "they", "cleaned", "the", "floor."],
+        ["We", "", "faces", "before", "we", "went", "to", "bed."],
+        ["Dean", "and", "Sam", "", "their", "car", "before", "the", "storm", "began."]
+      ],
+      "have been washing": [
+        ["You", "", "your", "car", "for", "three", "hours!"],
+        ["Kate", "and", "Dan", "", "the", "dishes", "for", "two", "hours."],
+        ["I", "", "my", "hands", "for", "5", "minutes", "but", "they", "are", "still", "dirty!"],
+        ["We", "", "the", "windows", "for", "an", "hour."],
+        ["They", "", "their", "car", "for", "several", "hours."]
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "theme": "feelings",
+    "wrongTheme": "food",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/151.png",
+        "words": ["He", "had", "read", "his", "favourite", "comic", "book", "before", "going", "to", "school."],
+        "answer": "He had read his favourite comic book before going to school."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/152.png",
+        "words": ["They", "had", "cleaned", "the", "house", "before", "the", "guests", "arrived."],
+        "answer": "They had cleaned the house before the guests arrived."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/153.png",
+        "answer": "I had seen jaguars in the zoo before I went to Africa.",
+        "words": ["I", "had", "seen", "jaguars", "in", "the", "zoo", "before", "I", "went", "to", "Africa."]
+      },
+      {
+        "imgUrl": "sentences/checkpoint/154.png",
+        "words": ["Mom", "had", "made", "an", "apple", "pie", "before", "we", "returned", "from", "camping."],
+        "answer": "Mom had made an apple pie before we returned from camping."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/155.png",
+        "words": ["I", "had", "fallen", "asleep", "before", "ten", "o'clock."],
+        "answer": "I had fallen asleep before ten o’clock."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "feelings",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "school",
+    "wrongTheme": "shopping",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "food",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "brave": [
+        ["My", "dog", "is", "very", "", "."],
+        ["She", "has", "a", "", "friend."],
+        ["Sam", "and", "Dean", "are", "", "people."],
+        ["Pam", "is", "a", "", "girl."],
+        ["Ann's", "brothers", "are", "very", "", "."]
+      ],
+      "braver": [
+        ["Tim", "is", "", "than", "Tom."],
+        ["Dogs", "are", "", "than", "rabbits."],
+        ["I", "am", "", "than", "Max."],
+        ["Steve", "is", "not", "", "than", "Kate."],
+        ["Vicky", "is", "", "than", "Mary."]
+      ],
+      "bravest": [
+        ["My", "dog", "is", "the", "", "pet", "in", "the", "world!"],
+        ["His", "sister", "is", "the", "", "girl", "in", "our", "class."],
+        ["My", "father", "is", "the", "", "man", "in", "the", "world!"],
+        ["Dan", "is", "not", "the", "", "boy", "in", "our", "school."],
+        ["The", "", "girl", "in", "our", "school", "is", "Betty."]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/156.png",
+        "words": ["He", "have", "been", "waiting", "for", "the", "bus", "for", "40", "minutes."],
+        "answer": "He has been waiting for the bus for 40 minutes."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/157.png",
+        "words": ["She", "have", "been", "working", "as", "a", "doctor", "for", "seven", "years."],
+        "answer": "She has been working as a doctor for seven years."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/158.png",
+        "words": ["My", "father", "have", "been", "decorating", "the", "house", "for", "Christmas", "for", "three", "hours."],
+        "answer": "My father has been decorating the house for Christmas for three hours."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/159.png",
+        "words": ["They", "have", "been", "running", "in", "the", "park", "for", "two", "hours."],
+        "answer": "They have been running in the park for two hours."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/160.png",
+        "words": ["My", "grandma", "have", "been", "writing", "this", "story", "since", "early", "morning."],
+        "answer": "My grandma has been writing this story since early morning."
+      }
+    ]
+  }
+]

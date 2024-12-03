@@ -1,0 +1,135 @@
+@import 'src/scss/_mixins.scss';
+
+.imagesFieldContainer {
+    display: grid;
+    grid-template-rows: repeat(2, 176px);
+    justify-content: center;
+    gap: 24px;
+    width: 100%;
+
+    @include width-1280-L {
+        grid-template-rows: repeat(2, 112px);
+        gap: 12px;
+    }
+    @include width-1280-P {
+        grid-template-rows: repeat(2, 112px);
+        gap: 12px;
+    }
+
+    @include width-854-L {
+        gap: 24px;
+    }
+
+    @include width-732-L {
+        grid-template-rows: repeat(2, 104px);
+        gap: 16px;
+        justify-content: flex-start;
+        overflow: auto;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+
+        &::-webkit-scrollbar {
+            width: 0;
+            height: 0;
+        }
+    }
+
+    @include width-768-P {
+        grid-template-rows: repeat(2, 112px);
+        gap: 12px;
+        overflow: auto;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+
+        &::-webkit-scrollbar {
+            width: 0;
+            height: 0;
+        }
+    }
+
+    @include width-534-P {
+        gap: 24px;
+        justify-content: flex-start;
+        max-width: fit-content;
+    }
+
+    @include width-412-P {
+        grid-template-rows: repeat(2, 104px);
+        gap: 16px;
+    }
+
+    @include width-360-P {
+        width: 328px;
+    }
+}
+
+.imageItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 8px;
+    background: #FFFFFF;
+    box-shadow: 4px 6px 24px rgba(56, 22, 109, 0.32);
+    border-radius: 32px;
+    border-style: solid;
+    border-width: 8px;
+    transition: box-shadow .1s ease-in, border-color .1s ease-in;
+    cursor: pointer;
+    width: 240px;
+
+    &:hover {
+        box-shadow: 8px 12px 34px rgba(56, 22, 109, 0.4);
+    }
+
+    @include width-1280-L {
+        padding: 8px;
+        border-radius: 16px;
+        width: 152px;
+    }
+    @include width-1280-P {
+        padding: 8px;
+        border-radius: 16px;
+        width: 152px;
+    }
+
+    @include width-768-P {
+        padding: 8px;
+        width: 152px;
+        border-radius: 16px;
+        box-shadow: none;
+
+        &:hover {
+            box-shadow: none;
+        }
+    }
+
+    @include width-732-L {
+        width: 144px;
+        padding: 4px;
+        box-shadow: none;
+
+        &:hover {
+            box-shadow: none;
+        }
+    }
+    @include width-412-P {
+        width: 144px;
+        padding: 4px;
+    }
+}
+
+.img {
+    height: 100%;
+}
+
+.correct {
+    border: 8px solid #72FF80;
+    /* padding: 12px 8px; */
+    box-shadow: 0px 0px 16px rgba(114, 255, 128, 0.88), 0px 0px 80px #72FF80 !important;
+}
+
+.wrong {
+    border: 8px solid #FE3A3A;
+    /* padding: 12px 8px; */
+    box-shadow: 0px 0px 16px rgba(254, 58, 58, 0.64), 0px 0px 80px rgba(254, 58, 58, 0.64) !important;
+}

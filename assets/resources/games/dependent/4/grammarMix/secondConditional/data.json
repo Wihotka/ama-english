@@ -1,0 +1,206 @@
+{
+  "1": [
+    {
+      "question": "If I _____ near the sea, I would sunbathe every day .",
+      "correctAnswer": "lived",
+      "incorrectAnswers": "live"
+    },
+    {
+      "question": "If we _____ a million, we would help the poor .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "If he _____ English, he would find a good job .",
+      "correctAnswer": "knew",
+      "incorrectAnswers": "knows"
+    },
+    {
+      "question": "If I _____ very rich, I would buy what I want .",
+      "correctAnswer": "was",
+      "incorrectAnswers": "am"
+    },
+    {
+      "question": "If he _____ strong, he would lift this box .",
+      "correctAnswer": "was",
+      "incorrectAnswers": "is"
+    },
+    {
+      "question": "If she was here, she _____ us .",
+      "correctAnswer": "would help",
+      "incorrectAnswers": "will help"
+    },
+    {
+      "question": "If she was in the shop now, she _____ you some sweets .",
+      "correctAnswer": "would buy",
+      "incorrectAnswers": "will buy"
+    },
+    {
+      "question": "If I were you, I _____ my hair .",
+      "correctAnswer": "would comb",
+      "incorrectAnswers": "will comb"
+    },
+    {
+      "question": "If I were him, I _____ the truth .",
+      "correctAnswer": "would tell",
+      "incorrectAnswers": "will tell"
+    },
+    {
+      "question": "If it rained, you _____ wet .",
+      "correctAnswer": "would get",
+      "incorrectAnswers": "will get"
+    },
+    {
+      "question": "You _____ so tired if you went to bed earlier .",
+      "correctAnswer": "wouldn't be",
+      "incorrectAnswers": "won't be"
+    },
+    {
+      "question": "She _____ herself if she fell .",
+      "correctAnswer": "would hurt",
+      "incorrectAnswers": "will hurt"
+    },
+    {
+      "question": "We _____ to the park if the weather wasn't so bad .",
+      "correctAnswer": "would go",
+      "incorrectAnswers": "will go"
+    },
+    {
+      "question": "I _____ and see her if I knew where she lived .",
+      "correctAnswer": "would go",
+      "incorrectAnswers": "will go"
+    },
+    {
+      "question": "I _____ this dress if I were taller .",
+      "correctAnswer": "would buy",
+      "incorrectAnswers": "will buy"
+    },
+    {
+      "question": "I would travel the world if I _____ 20 .",
+      "correctAnswer": "was",
+      "incorrectAnswers": "am"
+    },
+    {
+      "question": "I would be very happy if I _____ a good job .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "He would buy a car if he _____ the lottery .",
+      "correctAnswer": "won",
+      "incorrectAnswers": "wins"
+    },
+    {
+      "question": "They would call you if they _____ a phone .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "She would cook dinner if she _____ enough time .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "has"
+    }
+  ],
+  "2": [
+    {
+      "question": "If I _____ # near the sea, I would sunbathe every day .",
+      "correctAnswer": "lived",
+      "incorrectAnswers": "live"
+    },
+    {
+      "question": "If we _____ # a million, we would help the poor .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "If he _____ # English, he would find a good job .",
+      "correctAnswer": "knew",
+      "incorrectAnswers": "knows"
+    },
+    {
+      "question": "If I _____ # very rich, I would buy what I want .",
+      "correctAnswer": "was",
+      "incorrectAnswers": "am"
+    },
+    {
+      "question": "If he _____ # strong, he would lift this box .",
+      "correctAnswer": "was",
+      "incorrectAnswers": "is"
+    },
+    {
+      "question": "If she was here, she _____ # us .",
+      "correctAnswer": "would help",
+      "incorrectAnswers": "will help"
+    },
+    {
+      "question": "If she was in the shop now, she _____ # you some sweets .",
+      "correctAnswer": "would buy",
+      "incorrectAnswers": "will buy"
+    },
+    {
+      "question": "If I were you, I _____ # my hair .",
+      "correctAnswer": "would comb",
+      "incorrectAnswers": "will comb"
+    },
+    {
+      "question": "If I were him, I _____ # the truth .",
+      "correctAnswer": "would tell",
+      "incorrectAnswers": "will tell"
+    },
+    {
+      "question": "If it rained, you _____ # wet .",
+      "correctAnswer": "would get",
+      "incorrectAnswers": "will get"
+    },
+    {
+      "question": "You _____ # so tired if you went to bed earlier .",
+      "correctAnswer": "wouldn't be",
+      "incorrectAnswers": "won't be"
+    },
+    {
+      "question": "She _____ # herself if she fell .",
+      "correctAnswer": "would hurt",
+      "incorrectAnswers": "will hurt"
+    },
+    {
+      "question": "We _____ # to the park if the weather wasn't so bad .",
+      "correctAnswer": "would go",
+      "incorrectAnswers": "will go"
+    },
+    {
+      "question": "I _____ # and see her if I knew where she lived .",
+      "correctAnswer": "would go",
+      "incorrectAnswers": "will go"
+    },
+    {
+      "question": "I _____ # this dress if I were taller .",
+      "correctAnswer": "would buy",
+      "incorrectAnswers": "will buy"
+    },
+    {
+      "question": "I would travel the world if I _____ # 20 .",
+      "correctAnswer": "was",
+      "incorrectAnswers": "am"
+    },
+    {
+      "question": "I would be very happy if I _____ # a good job .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "He would buy a car if he _____ # the lottery .",
+      "correctAnswer": "won",
+      "incorrectAnswers": "wins"
+    },
+    {
+      "question": "They would call you if they _____ # a phone .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "She would cook dinner if she _____ # enough time .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "has"
+    }
+  ]
+}

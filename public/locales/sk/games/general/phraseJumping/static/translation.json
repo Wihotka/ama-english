@@ -1,0 +1,15 @@
+﻿{
+  "presentSimpleAffirmativeContent3part1": "He/She/It: Nezabudni ukončenie '",
+  "presentSimpleAffirmativeContent3part2": "' pri slovesách",
+  "themeTask": {
+    "presentSimple": "Zostav vetu a použi v nej Present Simple",
+    "toBe": "Zostav vetu, použi sloveso 'to be' v správnej forme",
+    "thereIsAre": "Zostav vetu, použi sloveso 'to be' v správnej forme",
+    "verbHave": "Zostav vetu a ak treba, zmeň tvar slovesa",
+    "formsOfAdjectives": "Zostav vetu, daj prídavné meno do správneho tvaru",
+    "fewLittle": "Zostav vetu, vyber správnu príslovku",
+    "futureContinuous": "Zostav vetu, treba brať do úvahy pravidlá času Future Continuous",
+    "presentPerfectContinuous": "Zostav vetu, treba brať do úvahy pravidlá času Present Perfect Continuous",
+    "pastPerfect": "Zostav vetu, treba brať do úvahy pravidlá času Past Perfect"
+  }
+}

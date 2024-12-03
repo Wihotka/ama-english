@@ -1,0 +1,42 @@
+@import 'src/scss/_mixins.scss';
+
+.content {
+  min-width: 100%;
+  height: 665px;
+  padding-top: 24px;
+  padding-bottom: 20px;
+
+  text-align: center;
+
+  @include width-1280-L {
+    height: 480px;
+    padding-top: 10px;
+  }
+  @include width-1280-P {
+    height: 480px;
+    padding-top: 10px;
+  }
+
+  @include width-1000-L {
+    height: 430px;
+  }
+  @include width-768-P {
+    height: 630px;
+    padding-top: 24px;
+  }
+
+  @include width-854-L {
+    height: 100%;
+  }
+  @include width-534-P {
+    height: 100%;
+    padding-top: 18px;
+  }
+
+  @include width-732-L {
+    padding-top: 8px;
+  }
+  @include width-412-P {
+    padding-top: 8px;
+  }
+}

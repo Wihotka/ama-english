@@ -1,0 +1,556 @@
+{
+  "level": "Pagal lygį keičiasi žaidimo taisyklės:",
+  "dataComplexity": "Pasirinkti žodžių sudėtingumą",
+  "answersQty": "Būtinas atsakymų, reikalingų norint baigti žaidimą, kiekis",
+  "gameTime": "Bendra žaidimo trukmė",
+  "maxLettersQty": "Didžiausias raidžių ir žodžių kiekis žaidimo lauke",
+  "test": "some test setting",
+  "games": {
+    "someGameName": {
+      "level": {
+        "innerName": "Raidžių junginių, vienu metu išdėstytų žaidimo lauke, kiekis",
+        "texts": [
+          "Būtina rasti identiškus raidžių junginius",
+          "Būtina sudėti žodį skiemenimis",
+          "Būtina rasti identišką žodį",
+          "Būtina rasti identišką žodį, žodžiai gali būti apversti"
+        ]
+      },
+      "gameTime": {
+        "innerName": "Bendra žaidimo trukmė"
+      }
+    },
+    "legoLetter": {
+      "level": {
+        "texts": [
+          "Sudėk raides iš pateiktų elementų",
+          "Sudaryk tinkamas raidžių poras"
+        ]
+      },
+      "letters": {
+        "innerName": "Raidžių tipas žaidime"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "buildMe": {
+      "level": {
+        "texts": [
+          "Sudaryk žodį, pažiūrėjęs į paveikslėlį bei transkripciją ir išklausęs jo tarimo",
+          "Sudaryk žodį, pažiūrėjęs į transkripciją ir išklausęs jo tarimo",
+          "Sudaryk žodį, išklausęs jo tarimo"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "hint": {
+        "innerName": "Pasinaudojus užuomina automatiškai užpildoma pirmoji ir paskutinioji raidės"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "alphabet": {
+      "level": {
+        "texts": [
+          "Spausk raides iš eilės ir surink abėcėlę",
+          "Spausk raides, kurios yra netinkamoje abėcėlės vietoje",
+          "Išdėstyk teisingai raides pagal abėcėlę"
+        ]
+      },
+      "letters": {
+        "innerName": "Raidžių tipas žaidime"
+      },
+      "mode": {
+        "innerName": "Kuo sudėtingesnis režimas, tuo mažiau laiko skiriama žaidimui"
+      },
+      "speedInSeconds": {
+        "innerName": "Vienos raidės pasikeitimo greitis"
+      },
+      "lettersQty": {
+        "innerName": "Raidžių kiekis abėcėlės eilėje"
+      }
+    },
+    "guessTheSound": {
+      "level": {
+        "texts": [
+          "Nurodyk, kuri transkripcija atitinka pateiktą garsą",
+          "Nurodyk, kurį garsą žymi pažymėtos žodyje raidės",
+          "Nurodyk žodį, kuriame pažymėtos raidės žymi garsą, esantį viduryje"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "complexity": {
+        "innerName": "Pasirinkti garsų tipą:",
+        "texts": [
+          "Paprasti",
+          "Sudėtingi",
+          "Atsitiktiniai"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "itsMatch": {
+      "level": {
+        "texts": [
+          "Paklausyk garso tarimo ir nurodyk jį atitinkančią transkripciją",
+          "Perskaityk transkripciją ir nurodyk ją atitinkantį garsą"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "perfectPairs": {
+      "level": {
+        "texts": [
+          "Rask žodį, kuris atitinka paveikslėlį",
+          "Rask transkripciją, kuri atitinka paveikslėlį"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "levitation": {
+      "level": {
+        "texts": [
+          "Rask žodį pagal pateiktą paveikslėlį",
+          "Rask garsą, kuris atitinka pažymėtas raides pateiktame žodyje",
+          "Rask žodį, kuriame yra pateiktas garsas"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "speed": {
+        "innerName": "Skraidančių plunksnų greitis"
+      },
+      "feathersQty": {
+        "innerName": "Skraidančių plunksnų, vienu metu esančių žaidimo lauke, kiekis"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "wordBox": {
+      "level": {
+        "texts": [
+          "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai. Žodžių kryptis: ↓, →",
+  	  "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai. Žodžių kryptis: ↓, →, ↑ , ←",
+          "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai, skersai. Žodžių kryptis: ↓, →, ↘",
+          "Rask kvadrate reikiamą kiekį žodžių. Žodžių išsidėstymas: vertikaliai, horizontaliai, skersai. Žodžių kryptis: ↓, →, ↑ , ←, ↘, ↙"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "complexity": {
+        "innerName": "Žodžių, kuriuos reikia rasti, sąrašas:",
+        "texts": [
+          "Rodyti sąrašą",
+          "Nerodyti sąrašo"
+        ]
+      },
+      "wordsQty": {
+        "innerName": "Žodžių, kuriuos reikia rasti žaidimo lauke, kiekis"
+      }
+    },
+    "timeline": {
+      "level": {
+        "texts": [
+          "Pasirink paveikslėlį, kuris tinka pateiktam sakiniui",
+          "Pasirink sakinį, kuris tinka pateiktam paveikslėliui. "
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "worndNLetters": {
+      "level": {
+        "texts": [
+          "Sudėliok žodžius abėcėlės tvarka",
+          "Susiek žodžius su paveikslėliais"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "complexity": {
+        "innerName": " ",
+        "texts": [
+          "Žodžiai prasideda skirtingomis raidėmis",
+          "Žodžiai gali prasidėti tomis pačiomis raidėmis"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "lostTwins": {
+      "level": {
+        "texts": [
+          "Rask kortelių poras. Visos kortelės atverstos",
+          "Rask kortelių poras. Reikia iš eilės atversti korteles",
+          "Rask kortelių poras. Reikia iš eilės atversti korteles, paveikslėliai gali būti apversti"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "fieldSize": {
+        "innerName": "Pasirinkti žaidimo lauko dydį"
+      },
+      "mode": {
+        "innerName": "Kuo sudėtingesnis režimas, tuo mažiau laiko skiriama žaidimui"
+      },
+      "hint": {
+        "innerName": "Duodama galimybė 5 sekundes žiūrėti į korteles ir  įsidėmėti jų išdėstymą, po to kortelės apverčiamos nugarėle aukštyn"
+      }
+    },
+    "wordpad": {
+      "level": {
+        "texts": [
+          "Paklausyk žodžio tarimo ir užrašyk žodį pasinaudodamas kompiuterio klaviatūra",
+          "Paklausyk žodžio tarimo ir užrašyk žodį pasinaudodamas kompiuterio klaviatūra. Laikas, skirtas vienam žodžiui, ribotas"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "hint": {
+        "innerName": "Pasinaudojus užuomina galima paklausyti žodžio tarimo paraidžiui"
+      },
+      "complexity": {
+        "innerName": "Sudėtingumas",
+        "texts": [
+          "Vieną žodį reikia parašyti per vieną minutę",
+          "Vieną žodį reikia parašyti per 45 sekundes",
+          "Vieną žodį reikia parašyti per 30 sekundžių"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "fruitSmoothie": {
+      "level": {
+        "texts": [
+          "Atskrenda 2 vaisiai. Rask vaisių su teisingu atsakymu",
+          "Atskrenda 3 vaisiai. Rask vaisių su teisingu atsakymu",
+          "Atskrenda 4 vaisiai. Rask vaisių su teisingu atsakymu"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti gramatikos temą"
+      },
+      "complexity": {
+        "innerName": "Sudėtingumas",
+        "texts": [
+          "3 asm. vns. veiksmažodžių galūnės",
+          "Veiksmažodžių galūnės po like",
+          "Abi galūnių rūšys"
+        ]
+      },
+      "speedInSeconds": {
+        "innerName": "Vieno vaisiaus skrydžio trukmė"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "yesnt": {
+      "level": {
+        "texts": [
+          "Perskaityk tekstą ir atsakyk į klausimus",
+          "Atidžiai pažiūrėk į paveikslėlį ir atsakyk į klausimus"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "sortOut": {
+      "level": {
+        "texts": ["Sudėliok ikonėles ekrane taip, kaip nurodyta užduotyje"]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": ["Prielinksniai right, left", "Prielinksniai under, above, between", "Atsitiktinai"]
+      },
+      "fieldSize": {
+        "innerName": "Pasirinkti žaidimo lauko dydį"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "navigation": {
+      "complexity": {
+        "innerName": "Sudėtingumas",
+        "texts": [
+          "Prielinksniai: in, on, near, right, left",
+          "Prielinksniai: under, above, behind, in front of, between"
+        ]
+      },
+      "location": {
+        "innerName": "Pasirinkti lokaciją"
+      }
+    },
+    "guessWhat": {
+      "level": {
+        "texts": [
+          "Perskaityk aprašymą ir nurodyk jį atitinkantį daiktą. Duodami 4 atsakymo variantai",
+          "Perskaityk aprašymą ir nurodyk jį atitinkantį daiktą. Duodami 6 atsakymo variantai",
+          "Perskaityk aprašymą ir nurodyk jį atitinkantį daiktą. Duodami 8 atsakymo variantai"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Paprasti daiktų apibūdinimai",
+          "Sudėtingesni daiktų apibūdinimai"
+        ]
+      },
+      "hint": {
+        "innerName": "pasinaudojus užuomina automatiškai pašalinami 2 neteisingi atsakymai"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "clickItEasy": {
+      "level": {
+        "texts": [
+          "Sudaryk sakinius pagal pateiktus paveikslėlius. Laikas, skiriamas vienam sakiniui sudaryti, neribotas",
+          "Sudaryk sakinius pagal pateiktus paveikslėlius. Laikas, skiriamas vienam sakiniui sudaryti, ribotas"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti gramatikos temą"
+      },
+      "sentenceType": {
+        "innerName": "Pasirinkti sakinio tipą"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Vieną sakinį reikia sudaryti per 90 sekundžių",
+          "Vieną sakinį reikia sudaryti per 60 sekundžių",
+          "Vieną sakinį reikia sudaryti per 45 sekundes"
+        ]
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "breakTheSpell": {
+      "level": {
+        "texts": [
+          "Pažiūrėk į žodžio transkripciją, paklausyk, kaip jis tariamas, ir užrašyk žodį pasinaudodamas klaviatūra",
+          "Pažiūrėk į žodžio transkripciją ir užrašyk žodį pasinaudodamas klaviatūra"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "grammarTime": {
+      "level": {
+        "texts": [
+          "Rask dvi atitiktis",
+          "Rask tris atitiktis"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti gramatikos temą"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "grammarMix": {
+      "level": {
+        "texts": [
+          "Pasirink teisingą atsakymą",
+          "Atidaryk skliaustelius ir užpildyk praleistas vietas"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti gramatikos temą"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "phraseJumping": {
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti gramatikos temą"
+      },
+      "hint": {
+        "innerName": "Sakinių darybos taisyklė"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "airWord": {
+      "level": {
+        "texts": [
+          "Rask žodį tinkamą pasirinktai temai",
+          "Rask žodį netinkamą pasirinktai temai"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "planesQty": {
+        "innerName": "Lėktuvų kiekis žaidimo lauke"
+      },
+      "speedInSeconds": {
+        "innerName": "Vieno lėktuvo skrydžio trukmė"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "colourfulPhonetics": {
+      "level": {
+        "texts": [
+          "Susiek garso tarimą su jo transkripcija, o po to nuspalvok kiekvieną paveikslėlio plotą atitinkama spalva. Paveikslėlyje yra 5 spalvos",
+          "Susiek garso tarimą su jo transkripcija, o po to nuspalvok kiekvieną paveikslėlio plotą atitinkama spalva. Paveikslėlyje yra iki 10 spalvų"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "picture": {
+        "innerName": "Pasirinkti spalvojimo paveikslėlį"
+      },
+      "complexity": {
+         "innerName": "Pasirinkti garsų tipą:",
+        "texts": [
+          "paprasti",
+          "sudėtingi",
+          "atsitiktiniai"
+        ]
+      }
+    },
+    "checkpoint": {
+      "revision": {
+        "innerName": "Kartojimas",
+        "texts": [
+          "Pirmos kurso dalies medžiagos kartojimas",
+          "Antros kurso dalies medžiagos kartojimas"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      }
+    },
+    "wordBuilder": {
+      "level": {
+        "texts": [
+          "Sudaryk žodį, pažiūrėjęs į transkripciją ir išklausęs jo tarimo",
+          "Sudaryk žodį, išklausęs jo tarimo"
+        ]
+      },
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "theme": {
+        "innerName": "Pasirinkti teminį žodyną"
+      },
+      "hint": {
+        "innerName": "Pasinaudojus užuomina automatiškai užpildoma pirmoji ir paskutinioji raidės"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    },
+    "echoChamber": {
+      "course": {
+        "innerName": "Pasirinkti mokymosi lygį"
+      },
+      "answersQty": {
+        "innerName": "Bendras atsakymų kiekis viename žaidime"
+      }
+    }
+  }
+}

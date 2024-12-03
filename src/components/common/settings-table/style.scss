@@ -1,0 +1,108 @@
+@import 'src/scss/_mixins';
+
+.settings {
+  display: flex;
+  flex-direction: row;
+  background: #ffffff;
+  padding: calc(var(--main-base-grid-gap) * 2);
+  border-radius: 20px;
+
+  @include md-block() {
+    padding: 10px 15px;
+  }
+
+  &__item {
+    flex: 1 0 100%;
+    display: flex;
+    align-items: flex-end;
+    gap: 7px;
+    text-align: left;
+
+    &:not(&:last-child) {
+      padding-bottom: 8px;
+    }
+
+    &Name {
+      @include captionMBold();
+
+      @include width-360-P {
+        letter-spacing: 0.01em;
+      }
+    }
+
+    &Value {
+      @include captionMRegular;
+      line-height: 120%;
+    }
+  }
+}
+
+.settings__group {
+  &:not(&:first-child) {
+    padding-left: 8px;
+    margin-left: 18px;
+  }
+}
+
+.indicators {
+  padding: 0 17px;
+  width: 100%;
+  margin-top: calc(var(--main-base-grid-gap) * 2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  @include md-block() {
+    padding: 10px 15px;
+  }
+
+
+  &__item {
+    position: relative;
+    flex: 1 0 100%;
+    border-radius: 0 24px 24px 0;
+    height: 48px;
+    flex-basis: 48px;
+    padding: 0 16px 0 26px;
+
+    --outerMargin: 4px;
+
+    margin: var(--outerMargin) 0 calc(var(--main-base-grid-gap) + var(--outerMargin)) 28px;
+    display: inline-flex;
+    text-align: left;
+    align-items: center;
+
+    &:last-child{
+      margin-bottom: var(--outerMargin);
+    }
+
+    &Icon {
+      position: absolute;
+      top: -5.5px;
+      left: -40px;
+      background: #FFF;
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    &Name {
+      @include bodyRegular140Font();
+      color: var(--main-color-4);
+    }
+
+    &Value {
+      margin-left: 7px;
+      color: var(--main-color-2);
+      @include bodyRegular140Font();
+    }
+  }
+}
+
+.timeParam {
+  font-weight: 600;
+  margin: 0 5px;
+}

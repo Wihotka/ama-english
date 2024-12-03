@@ -1,0 +1,117 @@
+@import 'src/scss/_mixins.scss';
+
+.field {
+  width: 543px;
+  height: 288px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 32px;
+  background: #FFFFFF;
+  box-shadow: 4px 8px 24px rgba(144, 102, 198, 0.16);
+
+  @include width-1280-L {
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    border-radius: 24px;
+  }
+}
+
+.adaptiveFieldL1_3 {
+  @include width-1280-L {
+    width: 412px;
+    height: 192px;
+  }
+  @include width-1280-P {
+    width: 412px;
+    height: 192px;
+  }
+
+  @include width-1000-L {
+    width: 346px;
+    height: 164px;
+  }
+  @include width-768-P {
+    width: 404px;
+    height: 160px;
+    border-radius: 24px;
+  }
+
+  @include width-854-L {
+    width: 362px;
+  }
+  @include width-534-P {
+    width: 100%;
+    height: 148px;
+  }
+
+  @include width-732-L {
+    width: 392px;
+    height: 124px;
+  }
+  @include  width-412-P {
+    height: 124px;
+  }
+
+  @include width-640-L {
+    width: 300px;
+  }
+}
+
+.adaptiveFieldL2 {
+  @include width-1340-L {
+    width: 364px;
+    height: 192px;
+  }
+
+  @include width-854-L {
+    width: calc(50% - 16px);
+    height: 100%;
+  }
+
+  @include width-768-P {
+    width: 370px;
+    height: 192px;
+  }
+
+  @include width-534-P {
+    width: 100%;
+    height: 144px;
+  }
+}
+
+
+.fieldRows {
+  flex-direction: row;
+}
+
+.fieldColumn {
+  gap: 8px;
+  flex-direction: column;
+}
+
+.voiceBtn {
+  width: 152px;
+  height: 152px;
+
+  @include width-1340-L {
+    width: 96px;
+    height: 96px;
+  }
+
+  @include width-768-P {
+    width: 96px;
+    height: 96px;
+  }
+
+  @include width-732-L {
+    width: 72px;
+    height: 72px;
+  }
+
+  @include width-412-P {
+    width: 72px;
+    height: 72px;
+  }
+}

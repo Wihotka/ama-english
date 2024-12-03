@@ -1,0 +1,30 @@
+@import "/src/scss/_mixins";
+
+.withBorGrad{
+  position: relative;
+  background: #fff;
+  border-radius: 10px;
+  background-clip: padding-box!important;
+  border: solid 10px transparent;
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    z-index: -1;
+    margin: -10px;
+    border-radius: inherit;
+    background: red;
+  }
+  //
+  //&:after{
+  //  content: '';
+  //  position: absolute;
+  //  top: 0; right: 0; bottom: 0; left: 0;
+  //  background: #fff;
+  //  border-radius: inherit;
+  //  z-index: -1;
+  //}
+
+  //@include border-gradient(5px, 40px, linear-gradient(138.55deg, #D3BBFF 23.45%, #FFA0B3 98.05%));
+}

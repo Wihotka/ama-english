@@ -1,0 +1,50 @@
+{
+  "gameStart": {
+    "youCanDo": "Tev ir tiesības uz",
+    "textErrors": ["kļūdu", "kļūdām", "kļūdām"],
+    "noErrors": "Nepieļauj kļūdas",
+    "completeTaskFor": "Pabeidz spēli ...  minūšu laikā",
+    "give": "Iedod",
+    "rightAnswers": "pareizas atbildes",
+    "textAnswers": ["atbilde", "atbildes", "atbildes"],
+    "textRight": ["pareizs", "pareizu", "pareizu"],
+    "right": "pareizu",
+    "min": "min.",
+    "sec": "sek.",
+    "collectItems": "Izvieto",
+    "items": ["priekšmetus", "priekšmetus", "priekšmetus"]
+  },
+  "gameFinish": {
+    "successTrue": "Malacis",
+    "successFalse": "Uzdevums nav izpildīts",
+    "successSmallTrue": "Uzdevums ir izpildīts",
+    "successSmallFalse": "Mēģini vēlreiz",
+    "saving": "Rezultāts tiek saglabāts",
+    "failSave": "Rezultāts nav saglabāts",
+    "successSave": "Rezultāts ir saglabāts",
+    "writeToHelp": "Sazinies ar tehnisko atbalstu",
+    "min": "min.",
+    "sec": "sek.",
+    "indicators":{
+      "rightAnswersQty": "Pareizo atbilžu skaits",
+      "wrongAnswersQty": "Nepareizo atbilžu skaits",
+      "gameTime": "Spēles laiks",
+      "speed": "Ātrums",
+      "readingSyllablesSpeed": "Lasīšanas ātrums (zilbju/min.)",
+      "readingWordsSpeed": "Lasīšanas ātrums (vārdu/min.)",
+      "pointsQty": "Punktu skaits"
+    }
+  },
+  "template": {
+    "settings": "Iestatījumi",
+    "level": "Līmenis",
+    "description": "Spēles apraksts",
+    "selectedSettings": "Atlasītie iestatījumi",
+    "levelsNames": {
+      "marathon": "Maratons",
+      "faultless": "Nekļūdīgs",
+      "fittings": "Pielāgojumi",
+      "free": "Brīvs"
+    }
+  }
+}

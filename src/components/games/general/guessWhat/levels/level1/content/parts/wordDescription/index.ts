@@ -1,0 +1,1 @@
+export {WordDescription} from './WordDescription';

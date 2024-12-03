@@ -1,0 +1,178 @@
+@import 'src/scss/_mixins.scss';
+
+.field {
+  height: 560px;
+  width: 560px;
+  display: flex;
+  margin-right: auto;
+  flex-wrap: wrap;
+  justify-content: stretch;
+  align-items: stretch;
+  flex-direction: column;
+  overflow-x: auto;
+  border-radius: 16px;
+  margin-left: -8px;
+  box-shadow: 2px 4px 0 #E07E92, 4px 8px 24px rgba(144, 102, 198, 0.16);
+  flex-shrink: 0;
+
+  @include firstPoint(){
+    height: 391px;
+    width: 391px;
+  }
+
+  @include width-768-P {
+    width: 100%;
+  }
+
+  @include width-854-L {
+    height: 362px;
+    width: 380px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  @include width-534-P {
+    height: 462px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+  }
+
+  @include width-732-L {
+    width: 300px;
+    height: 282px;
+  }
+  @include width-412-P {
+    height: 362px;
+  }
+
+  @include width-640-L {
+    width: 240px;
+    height: 235px;
+  }
+
+  @include width-360-P {
+    height: 282px;
+  }
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+}
+
+.row:first-child {
+  .cell:first-child {
+    border-radius: 15px 0 0 0;
+  }
+
+  .cell:last-child {
+    border-radius: 0 15px 0 0;
+  }
+}
+
+.row:last-child {
+  .cell:first-child {
+    border-radius: 0 0 0 15px;
+  }
+
+  .cell:last-child {
+    border-radius: 0 0 15px 0;
+  }
+}
+
+.cell {
+  position: relative;
+  cursor: pointer;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.2s, color 0.3s;
+  color: #9066C6;
+
+  @media(hover: hover) {
+    &:hover {
+      .cellCover {
+        opacity: 0.56;
+      }
+    }
+  }
+}
+
+.cellCover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 0;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.letter {
+  position: relative;
+  z-index: 1;
+  text-shadow: 1px 1px 2px rgba(78, 24, 168, 0.4);
+
+  @include titleS();
+}
+
+.selectedLetter {
+  opacity: 0.58;
+}
+
+.activeLetter {
+  animation: blur 1.1s ease-out;
+  text-shadow: 0 0 1px #fff, 0 0 1px #fff;
+}
+
+.correctCell {
+  color: #72FF80;
+  box-shadow: inset 2px -6px 8px rgba(94, 173, 94, 0.16), inset -2px 6px 6px rgba(94, 173, 94, 0.16);
+  animation: bgReset 0.3s ease-out forwards;
+  animation-delay: 0.7s;
+}
+
+.wrongCell {
+  color: #FE3A3A;
+  box-shadow: inset 2px -6px 8px rgba(56, 22, 109, 0.16), inset -2px 6px 6px rgba(56, 22, 109, 0.16);
+  animation: bgReset 0.3s ease-out forwards;
+  animation-delay: 0.7s;
+}
+
+.selectedCell {
+  color: #FFFFFF;
+  box-shadow: inset 6px -10px 12px rgba(56, 22, 109, 0.16), inset -6px 10px 12px rgba(56, 22, 109, 0.16);
+}
+
+@keyframes blur {
+  from {
+    text-shadow: 0 0 3px #fff,
+    0 0 3px #fff,
+    0 0 7px #fff,
+    0 0 7px #fff,
+    0 0 7px #fff,
+    0 0 7px #fff,
+    0 0 7px #fff,
+    0 0 7px #fff,
+    0 0 14px #fff,
+    0 0 14px #fff,
+    0 0 14px #7B96B8,
+    0 0 42px #7B96B8,
+    0 3px 28px #7B96B8,
+    0 3px 28px #7B96B8,
+    0 3px 28px #7B96B8,
+    0 3px 28px #7B96B8,
+    0px -3px 28px #7B96B8,
+    0px -3px 28px #7B96B8;
+  }
+}
+
+@keyframes bgReset {
+  to {
+    background-color: #FFFFFF
+  }
+}
+

@@ -1,0 +1,569 @@
+﻿{
+  "level": "A szabályok a játék szintjétől függően változnak:",
+  "dataComplexity": "A szavak nehézségi szintjének kiválasztása",
+  "answersQty": "A játék befejezéséhez szükséges válaszok száma",
+  "gameTime": "Játék időtartama",
+  "maxLettersQty": "A betűk maximális száma a szavakban a játékterületen",
+  "test": "some test setting",
+  "games": {
+    "someGameName": {
+      "level": {
+        "innerName": "Megjeleníti a játékterületen megtalálható betűkombinációk számát",
+        "texts": [
+          "Meg kell találni az azonos betűkombinációt",
+          "Össze kell gyűjteni a szótagokat az adott szóhoz",
+          "Meg kell találni az azonos szavakat",
+          "Meg kell találni az azonos szavakat, a szavak megfordítva is szerepelhetnek"
+        ]
+      },
+      "gameTime": {
+        "innerName": "A játék időtartama"
+      }
+    },
+    "legoLetter": {
+      "level": {
+        "texts": [
+          "Állítsd össze a betűt az elemeiből!",
+          "Találd meg a betű párját!"
+        ]
+      },
+      "letters": {
+        "innerName": "A játék teljesítéséhez szükséges betűk"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "buildMe": {
+      "level": {
+        "texts": [
+          "Írj szavakat a képek, fonetikai jelek és hanganyagok segítségével!",
+          "Írj szavakat a fonetikai jelek és hanganyagok segítségével!",
+          "Írj szavakat a hanganyagok segítségével!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "hint": {
+        "innerName": "Segítség funkció használatakor az első és az utolsó betű automatikusan kitöltődik"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "alphabet": {
+      "level": {
+        "texts": [
+          "Gyűjtsd össze az ábécé betűit! Kattints a betűkre az ábécé szerinti helyes sorrendben!",
+          "Kattints azokra a betűkre, amelyek nem a helyükön vannak az ábécé-ben!",
+          "Tedd a betűket az ábécé szerinti helyes sorrendbe!"
+        ]
+      },
+      "letters": {
+        "innerName": "Válaszd ki a betűk típusát a játék teljesítéséhez!"
+      },
+      "mode": {
+        "innerName": "Minél nehezebb a játékmód, annál kevesebb időd van a játékra"
+      },
+      "speedInSeconds": {
+        "innerName": "A betű kicserélésének sebessége"
+      },
+      "lettersQty": {
+        "innerName": "A betűk száma"
+      }
+    },
+    "guessTheSound": {
+      "level": {
+        "texts": [
+          "Válaszd ki a fonetikai jelet, amely az adott hangot jelöli!",
+          "Válaszd ki a hangot, amely a kiemelt betűknek megfelel!",
+          "Válaszd ki a szót, amelyben a hangnak megfelelnek a kiemelt betűk!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "complexity": {
+        "innerName": "A hangok fajtájának kiválasztása:",
+        "texts": [
+          "Könnyű",
+          "Nehéz",
+          "Véletlenszerű"
+        ]
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "itsMatch": {
+      "level": {
+        "texts": [
+          "Hallgasd meg a hangot, és válaszd ki hozzá a megfelelő fonetikai jelet!",
+          "Nézd meg a fonetikai jelet, és válaszd ki hozzá a megfelelő hangot!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "perfectPairs": {
+      "level": {
+        "texts": [
+          "Válaszd ki a képhez a megfelelő szót!",
+          "Válaszd ki a képhez a megfelelő fonetikai jelet!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "levitation": {
+      "level": {
+        "texts": [
+          "Találd meg a képhez a megfelelő szót!",
+          "Találd meg a hangot, amelyik megfelel a kiemelt betűknek a szóban!",
+          "Keresd meg a szót, amelyikben megtalálható az adott hang!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "speed": {
+        "innerName": "Repülő tollak sebessége"
+      },
+      "feathersQty": {
+        "innerName": "Repülő tollak száma, amelyek egyszerre vannak a játékterületen"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "wordBox": {
+      "level": {
+        "texts": [
+          "Keresd meg a szükséges mennyiségű szót a négyzetben! A szavak elhelyezkedése lehet: függőleges vagy vízszintes. A szavak iránya: ↓, →",
+          "Keresd meg a szükséges mennyiségű szót a négyzetben! A szavak elhelyezkedése lehet: függőleges vagy vízszintes. A szavak iránya: ↓, →, ↑ , ←",
+          " Keresd meg a szükséges mennyiségű szót a négyzetben! A szavak elhelyezkedése lehet: függőleges, vízszintes, vagy átlós. A szavak iránya: ↓, →, ↘",
+          "Keresd meg a szükséges mennyiségű szót a négyzetben! A szavak elhelyezkedése lehet: függőleges, vízszintes, vagy átlós. A szavak iránya: ↓, →, ↑ , ←, ↘, ↙"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "complexity": {
+        "innerName": "A szavak listája, amiket meg kell keresned:",
+        "texts": [
+          "A lista megjelenítése",
+          "A szavak listája nem jelenik meg"
+        ]
+      },
+      "wordsQty": {
+        "innerName": "A szavak száma, amiket meg kell keresned a játékterületen"
+      }
+    },
+    "timeline": {
+      "level": {
+        "texts": [
+          "Válaszd ki a megfelelő képet a mondathoz!",
+          "Válaszd ki a képhez a megfelelő mondatot!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Nyelvtani téma kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "worndNLetters": {
+      "level": {
+        "texts": [
+          "Rendezd a szavakat az ábécé szerinti sorrendbe!",
+          "Párosítsd össze a szavakat képekkel!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "complexity": {
+        "innerName": " ",
+        "texts": [
+          "A szavak különböző betűkkel kezdődnek",
+          "A szavak kezdődhetnek ugyanazzal a betűvel"
+        ]
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "lostTwins": {
+      "level": {
+        "texts": [
+          "Keresd meg a kártyák párját! Minden kártya látható.",
+          "Keresd meg a kártyák párját! A kártyákat sorban kell megnézni.",
+          "Keresd meg a kártyák párját! A kártyákat sorban kell megnézni, a képek fordítva is lehetnek."
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "fieldSize": {
+        "innerName": "A játékterület méretének kiválasztása"
+      },
+      "mode": {
+        "innerName": "Minél nehezebb a játékmód, annál kevesebb időd van a játékra"
+      },
+      "hint": {
+        "innerName": "5 másodperced van megjegyezni a kártyák helyét, azután megfordulnak."
+      }
+    },
+    "wordpad": {
+      "level": {
+        "texts": [
+          "Hallgasd meg a szót, és írd le a billentyűzet segítségével!",
+          "Hallgasd meg a szót, és írd le a billentyűzet segítségével! A rendelkezésedre álló idő korlátozott."
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "hint": {
+        "innerName": "A segítség funkció használatával meghallgathatod a szó kiejtését betűnként."
+      },
+      "complexity": {
+        "innerName": "Nehézségi szint",
+        "texts": [
+          "Egy szó leírására 1 perced van.",
+          "Egy szó leírására 45 másodperced van.",
+          "Egy szó leírására 30 másodperced van."
+        ]
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "fruitSmoothie": {
+      "level": {
+        "texts": [
+          "2 gyümölcsöt látsz repülni. Válaszd ki azt, amelyiken a helyes választ látod.",
+          "3 gyümölcsöt látsz repülni. Válaszd ki azt, amelyiken a helyes választ látod.",
+          "4 gyümölcsöt látsz repülni. Válaszd ki azt, amelyiken a helyes választ látod."
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Nyelvtani téma kiválasztása"
+      },
+      "complexity": {
+        "innerName": "Nehézségi szint",
+        "texts": [
+          "Igék végződése egyes szám harmadik személyben",
+          "Igék végződése 'like' után",
+          "Mindkét fajta végződés"
+        ]
+      },
+      "speedInSeconds": {
+        "innerName": "Egy-egy gyümölcs repülési ideje"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "yesnt": {
+      "level": {
+        "texts": [
+          "Olvasd el a szöveget és válaszolj a kérdésekre!",
+          "Tanulmányozd a feliratot és válaszolj a kérdésekre!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "sortOut": {
+      "level": {
+        "texts": ["Rendezd el az ikonokat a feladatnak megfelelően!"]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": ["Right, left", "Under, above, between", "Véletlenszerű"]
+      },
+      "fieldSize": {
+        "innerName": "A játékterület méretének kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "guessWhat": {
+      "level": {
+        "texts": [
+          "Olvasd el a leírást és válaszd ki 4 válaszból a megfelelőt!",
+          "Olvasd el a leírást és válaszd ki 6 válaszból a megfelelőt!",
+          "Olvasd el a leírást és válaszd ki 8 válaszból a megfelelőt!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Egyszerű leírás",
+          "Nehezebb leírás"
+        ]
+      },
+      "hint": {
+        "innerName": "A Segítség funkció automatikusan eltávolít 2 helytelen választ."
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "clickItEasy": {
+      "level": {
+        "texts": [
+          "Alkoss mondatokat a képek alapján! A megoldásnak nincs időkorlátja.",
+          "Alkoss mondatokat a képek alapján! A rendelkezésre álló idő korlátozott."
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Nyelvtani téma kiválasztása"
+      },
+      "sentenceType": {
+        "innerName": "A mondat fajtájának kiválasztása"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Egy mondat összeállítására 90 másodperc áll rendelkezésre.",
+          "Egy mondat összeállítására 60 másodperc áll rendelkezésre.",
+          "Egy mondat összeállítására 45 másodperc áll rendelkezésre."
+        ]
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "breakTheSpell": {
+      "level": {
+        "texts": [
+          "Nézd meg a fonetikai jelet, hallgasd meg a hanganyagot és írd be a szót a billentyűzet segítségével!",
+          "Nézd meg a fonetikai jelet, és írd be a szót a billentyűzet segítségével!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "grammarTime": {
+      "level": {
+        "texts": [
+          "Két összetartozó",
+          "Három összetartozó"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Nyelvtani téma kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "grammarMix": {
+      "level": {
+        "texts": [
+          "Válaszd ki a helyes választ!",
+          "Válaszd ki és írd be a helyes választ!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Nyelvtani téma kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "phraseJumping": {
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Nyelvtani téma kiválasztása"
+      },
+      "hint": {
+        "innerName": "Mondatalkotás szabályának megmutatása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "airWord": {
+      "level": {
+        "texts": [
+          "Találd meg azt a szót, amelyik a kiválasztott témára vonatkozik!",
+          "Találd meg azt a szót, amelyik nem vonatkozik a kiválasztott témára!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "planesQty": {
+        "innerName": "Repülők száma a játékterületen"
+      },
+      "speedInSeconds": {
+        "innerName": "Egy-egy repülő repülési ideje"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "colourfulPhonetics": {
+      "level": {
+        "texts": [
+          "Párosítsd össze a hangokat a fonetikai jelekkel, azután színezd ki a kép minden részét a megfelelő színnel! A kép 5 színt tartalmaz.",
+          "Párosítsd össze a hangokat a fonetikai jelekkel, azután színezd ki a kép minden részét a megfelelő színnel! A kép 10 színt tartalmaz."
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "picture": {
+        "innerName": "Kép kiválasztása a színezéshez"
+      },
+      "complexity": {
+        "innerName": "A hangok fajtájának kiválasztása:",
+        "texts": [
+          "könnyű",
+          "nehéz",
+          "véletlenszerű"
+        ]
+      }
+    },
+    "checkpoint": {
+      "level": {
+        "texts": [
+          "A tanfolyam első részének ismétlése",
+          "A tanfolyam második részének ismétlése"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      }
+    },
+    "wordBuilder": {
+      "level": {
+        "texts": [
+          "Találd ki a szavakat a fonetikai jelek és hanganyagok segítségével!",
+          "Találd ki a szavakat a hanganyagok segítségével!"
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "theme": {
+        "innerName": "Tematikus szótár kiválasztása"
+      },
+      "hint": {
+        "innerName": "Segítség funkció használatakor az első és az utolsó betű automatikusan kitöltődik."
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "textTeaser": {
+      "level": {
+        "texts": [
+          "Tedd a szövegrészeket a megfelelő sorrendbe! 4 szövegrészt kell sorrendbe raknod.",
+          "Tedd a szövegrészeket a megfelelő sorrendbe! 5 szövegrészt kell sorrendbe raknod."
+        ]
+      },
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "hint": {
+        "innerName": "A szöveg első része a helyére kerül."
+      }
+    },
+    "echoChamber": {
+      "course": {
+        "innerName": "Tanfolyam szakaszának kiválasztása"
+      },
+      "answersQty": {
+        "innerName": "A válaszok száma egy játékon belül"
+      }
+    },
+    "navigation": {
+      "complexity": {
+        "innerName": "Nehézségi szint",
+        "texts": [
+          "Elöljárószavak: in, on, near, right, left",
+          "Elöljárószavak: under, above, behind, in front of, between"
+        ]
+      },
+      "location": {
+        "innerName": "Hely kiválasztása"
+      }
+    }
+  }
+}

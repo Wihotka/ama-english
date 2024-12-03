@@ -1,0 +1,59 @@
+@import "/src/scss/mixins";
+
+.gameContent {
+  position: relative;
+  padding: 24px;
+  border-radius: 32px;
+  background: rgba(179, 191, 221, 0.6);
+
+  @include width-852-P {
+    grid-column: 1 / span 2;
+    max-width: 558px;
+  }
+
+  @include width-1000-L {
+    grid-column: 1 / span 2;
+  }
+
+  @include width-732-L {
+    padding: 16px;
+    border-radius: 16px;
+  }
+  @include width-412-P {
+    padding: 16px;
+    border-radius: 16px;
+  }
+
+  @include width-360-P {
+    width: 100%;
+  }
+
+  .cardList {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 4px;
+
+    @include width-1000-L {
+      grid-template-columns: repeat(6, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+      gap: 2px;
+    }
+    @include width-768-P {
+      gap: 2px;
+    }
+
+    @include width-854-L {
+      gap: 1px;
+      border-radius: 24px;
+    }
+    @include width-534-P {
+      gap: 1px;
+      border-radius: 24px;
+    }
+
+    @include width-360-P {
+      width: 100%;
+    }
+  }
+}

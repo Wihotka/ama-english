@@ -1,0 +1,97 @@
+@import "/src/scss/_mixins";
+
+.levelInner{
+  position: relative;
+  display: flex;
+  flex: 1 0 100%;
+  width: 100%;
+  margin: 0 auto;
+  flex-direction: column;
+  border-radius: 56px;
+  z-index: 1;
+  padding: 20px;
+  box-shadow: 0 0 10px 4px #bbd6ff;
+  background-size: cover !important;
+  background-position-y: center !important;
+
+  @include width-768-P {
+    border-radius: 32px;
+  }
+
+  @include width-1000-L {
+    border-radius: 32px;
+  }
+
+  @include width-534-P {
+    height: calc(100vh - 4 * var(--main-base-grid-gap));
+    padding: 10px;
+  }
+
+  @include width-854-L {
+    height: calc(100vh - 4 *var(--main-base-grid-gap));
+    padding: 10px;
+  }
+
+  @include width-732-L {
+    height: calc(100vh - 2 *var(--main-base-grid-gap));
+    padding: 8px;
+  }
+
+  @include width-412-P {
+    height: calc(100vh - 2 * var(--main-base-grid-gap));
+    padding: 8px;
+  }
+
+
+  @include md-block() {
+    border-radius: 32px;
+    border-width: 5px;
+    min-height: initial;
+    padding: calc(var(--main-base-grid-gap) * 2);
+    box-shadow: none;
+  }
+
+  &>div:last-child {
+    width: 100%;
+    height: 100%;
+
+    //TODO overflow-x level field:
+    //overflow-x: auto;
+  }
+
+  @include smWH-block() {
+    box-shadow: none;
+    border-radius: 16px;
+    padding: var(--main-base-grid-gap);
+  }
+
+  @include xsWH-block() {
+    box-shadow: none;
+    border-radius: 16px;
+    padding: var(--main-base-grid-gap);
+  }
+}
+
+.outerCN{
+  @include smWH-block() {
+    padding: 0;
+    border: 0;
+    box-shadow: 2px 2px 16px rgba(28, 6, 64, 0.4);
+    border-radius: 16px;
+
+    &:before{
+      content: none;
+    }
+  }
+}
+
+.gameContent{
+  display: flex;
+
+  &_center{
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+}

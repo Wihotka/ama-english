@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "theme": "shopping",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "travel",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "many": [
+        ["My", "dad", "makes", "", "pancakes", "for", "breakfast."],
+        ["Children", "like", "eating", "", "biscuits."],
+        ["There", "are", "", "berries", "in", "the", "yoghurt."],
+        ["There", "are", "", "dishes", "in", "traditional", "English", "dinner."],
+        ["We", "ordered", "", "burgers."]
+      ],
+      "any": [],
+      "much": [
+        ["There", "is", "", "grass", "in", "your", "garden."],
+        ["I", "eat", "", "rice", "for", "lunch."],
+        ["You", "put", "", "salt", "in", "the", "salad."],
+        ["We", "have", "", "jam", "for", "the", "dessert."],
+        ["We", "need", "to", "buy", "", "bread."]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "cityLife",
+    "wrongTheme": "food",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "food",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "professions",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/101.png",
+        "words": ["My", "brother", "will", "study", "Geography", "at", "the", "university."],
+        "answer": "My brother will study Geography at the university."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/102.png",
+        "words": ["Her", "son", "will", "be", "a", "great", "lawyer", "in", "the", "future."],
+        "answer": "Her son will be a great lawyer in the future."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/103.png",
+        "words": ["I", "will", "wait", "for", "you", "at", "the", "bus", "stop."],
+        "answer": "I will wait for you at the bus stop."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/104.png",
+        "words": ["I", "will", "help", "my", "friends", "with", "their", "homework."],
+        "answer": "I will help my friends with their homework."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/105.png",
+        "words": ["I", "will", "take", "a", "photo", "of", "you", "near", "the", "castle."],
+        "answer": "I will take a photo of you near the castle."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "cityLife",
+    "wrongTheme": "food",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/106.png",
+        "words": ["Kevin", "have", "to", "take", "a", "driving", "test", "this", "afternoon."],
+        "answer": "Kevin has to take a driving test this afternoon."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/107.png",
+        "words": ["We", "have", "to", "buy", "the", "tickets", "for", "the", "hockey", "match."],
+        "answer": "We have to buy the tickets for the hockey match."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/108.png",
+        "words": ["My", "sister", "have", "to", "stay", "at", "the", "hotel", "for", "two", "weeks."],
+        "answer": "My sister has to stay at the hotel for two weeks."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/109.png",
+        "words": ["We", "have", "to", "go", "to", "the", "library", "at", "weekends."],
+        "answer": "We have to go to the library at weekends."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/110.png",
+        "words": ["She", "have", "to", "go", "to", "the", "dentist."],
+        "answer": "She has to go to the dentist."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "went": [
+        ["I", "", "to", "school", "yesterday."],
+        ["I", "", "to", "the", "park", "last", "weekend."],
+        ["She", "", "swimming", "last", "Sunday."],
+        ["He", "", "climbing", "last", "week."],
+        ["We", "", "to", "France", "last", "summer."]
+      ],
+      "go": [
+        ["Does", "he", "", "to", "school", "every", "day?"],
+        ["Do", "they", "", "to", "England", "every", "year?"],
+        ["We", "often", "", "sightseeing", "in", "new", "countries."],
+        ["They", "", "to", "the", "park", "together", "every", "day."],
+        ["I", "", "to", "volleyball", "classes", "every", "Wednesday."]
+      ],
+      "have gone": [
+        ["They", "", "to", "the", "sports", "center", "already."],
+        ["Your", "friends", "", "to", "the", "party", "already."],
+        ["My", "parents", "", "to", "work", "already."],
+        ["My", "aunt", "and", "uncle", "", "to", "the", "concert", "already."],
+        ["My", "grandparents", "", "to", "Paris."]
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "theme": "holidays",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "rules",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "will eat": [
+        ["If", "you", "peel", "the", "orange", "I", "", "it."],
+        ["If", "he", "cooks", "the", "dinner", "we", "", "together."],
+        ["If", "he", "gets", "a", "salary", "today", "they", "", "in", "a", "restaurant."],
+        ["I", "", "my", "breakfast", "when", "I", "come", "to", "school."],
+        ["She", "", "her", "lunch", "when", "she", "comes", "home."]
+      ],
+      "eat": [
+        ["You", "will", "not", "be", "hungry", "if", "you", "", "your", "breakfast."],
+        ["Don't", "talk", "when", "you", "", "."],
+        ["You", "will", "feel", "the", "sour", "taste", "when", "you", "", "a", "lemon."],
+        ["If", "you", "", "too", "fast", "you", "will", "feel", "sick."],
+        ["If", "she", "", "more", "sweets", "her", "teeth", "will", "ache."]
+      ],
+      "ate": [
+        ["We", "", "pizza", "with", "my", "best", "friend", "yesterday."],
+        ["I", "", "meat", "for", "dinner", "last", "evening."],
+        ["Maria", "", "the", "last", "sweet", "in", "the", "morning."],
+        ["Tommy", "", "all", "apples", "yesterday."],
+        ["We", "", "french", "fries", "in", "the", "afternoon", "yesterday."]
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "theme": "food",
+    "wrongTheme": "professions",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/111.png",
+        "words": ["He", "is", "going", "to", "take", "photos", "of", "our", "family."],
+        "answer": "He is going to take photos of our family."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/112.png",
+        "words": ["She", "is", "going", "to", "cook", "burgers", "tomorrow."],
+        "answer": "She is going to cook burgers tomorrow."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/113.png",
+        "words": ["We", "are", "going", "to", "have", "a", "barbecue", "tomorrow."],
+        "answer": "We are going to have a barbecue tomorrow."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/114.png",
+        "words": ["I", "am", "going", "to", "the", "rock", "concert", "with", "my", "friends", "tonight."],
+        "answer": "I am going to the rock concert with my friends tonight."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/115.png",
+        "words": ["I", "am", "going", "to", "slice", "some", "cheese", "for", "the", "sandwich."],
+        "answer": "I am going to slice some cheese for the sandwich."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "shopping",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "professions",
+    "wrongTheme": "shopping",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "school",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "little": [
+        ["I", "always", "have", "a", "", "orange", "juice", "in", "the", "fridge."],
+        ["I", "have", "a", "", "money", "in", "my", "wallet."],
+        ["These", "plants", "need", "a", "", "water", "every", "day."],
+        ["Add", "a", "", "salt", "and", "mix", "the", "ingredients."],
+        ["I", "ate", "a", "", "ice", "cream", "before", "dinner."]
+      ],
+      "any": [],
+      "few": [
+        ["I", "have", "a", "", "questions", "for", "my", "teacher."],
+        ["There", "are", "always", "a", "", "flowers", "in", "the", "vase."],
+        ["There", "are", "a", "", "good", "hotels", "in", "this", "city."],
+        ["I", "saw", "a", "", "cows", "in", "the", "field", "yesterday."],
+        ["I", "have", "a", "", "jackets", "in", "my", "wardrobe."]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/116.png",
+        "words": ["You", "should", "stay", "at", "home", "when", "you", "are", "ill."],
+        "answer": "You should stay at home when you are ill."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/117.png",
+        "words": ["You", "should", "smile", "when", "you", "meet", "new", "people."],
+        "answer": "You should smile when you meet new people."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/118.png",
+        "words": ["I", "should", "buy", "some", "souvenirs", "for", "my", "family."],
+        "answer": "I should buy some souvenirs for my family."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/119.png",
+        "words": ["Should", "I", "take", "my", "dog", "to", "the", "vet?"],
+        "answer": "Should I take my dog to the vet?"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/120.png",
+        "words": ["Should", "we", "take", "a", "walk", "around", "the", "city?"],
+        "answer": "Should we take a walk around the city?"
+      }
+    ]
+  }
+]

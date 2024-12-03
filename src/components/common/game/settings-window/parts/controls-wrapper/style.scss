@@ -1,0 +1,36 @@
+@import '/src/scss/_mixins';
+
+//ці стилі використовуються для враппера карточок налаштувань так і карточок інфо
+.settings{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  //min-width: 550px;
+  margin: 0 -12px;
+  position: relative;
+  padding: 48px 49px 23px;
+  border: 8px solid #fff;
+  border-radius: 80px;
+  width: 100%;
+
+  @include md-block() {
+    padding: 0;
+    border: 0;
+  }
+
+  &:after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    content: '';
+    box-shadow: 0 0 10px 4px #bbd6ff;
+    border-radius: 72px;
+    pointer-events: none;
+
+    @include md-block() {
+      content: none;
+    }
+  }
+}

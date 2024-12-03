@@ -1,0 +1,15 @@
+{
+  "presentSimpleAffirmativeContent3part1": "He/She/It: Не забудь про закінчення '",
+  "presentSimpleAffirmativeContent3part2": "' у дієслів",
+  "themeTask": {
+    "presentSimple": "Склади речення, враховуючи правила утворення Present Simple",
+    "toBe": "Склади речення, встав дієслово 'to be' в правильній формі",
+    "thereIsAre": "Склади речення, встав дієслово 'to be' у правильній формі",
+    "verbHave": "Склади речення, зміни форму дієслова, якщо необхідно",
+    "formsOfAdjectives": "Склади речення, постав прикметник у правильну форму",
+    "fewLittle": "Склади речення, вибери правильний прислівник",
+    "futureContinuous": "Склади речення, враховуючи правила утворення Future Continuous",
+    "presentPerfectContinuous": "Склади речення, враховуй правила утворення Present Perfect Continuous",
+    "pastPerfect": "Склади речення, враховуючи правила утворення Past Perfect"
+  }
+}

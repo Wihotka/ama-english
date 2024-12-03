@@ -1,0 +1,315 @@
+[
+  {
+    "id": 1,
+    "theme": "animals",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "acquaintanceNumbers",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "I": [
+        ["", "am", "Betty."],
+        ["", "am", "seven", "years", "old."],
+        ["", "am", "from", "Madrid."],
+        ["Am", "", "from", "England?"],
+        ["Am", "", "short?"]
+      ],
+      "her": [
+        ["This", "is", "", "ball."],
+        ["What", "is", "", "name?"],
+        ["Are", "these", "", "toys?"],
+        ["Is", "this", "", "mother?"],
+        ["", "name", "is", "Erica."]
+      ],
+      "we": [
+        ["", "are", "from", "France."],
+        ["", "are", "brothers."],
+        ["Are", "", "eleven", "years", "old?"],
+        ["Are", "", "from", "Paris?"],
+        ["Are", "", "playing", "with", "our", "dog", "now?"]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "coloursShapes",
+    "wrongTheme": "animals",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "animals",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "human",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/1.png",
+        "words": ["he", "like", "listening", "to", "music."],
+        "answer": "He likes listening to music."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/2.svg",
+        "words": ["it", "like", "playing."],
+        "answer": "It likes playing."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/3.svg",
+        "words": ["she", "like", "reading."],
+        "answer": "She likes reading."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/4.svg",
+        "words": ["it", "a", "big", "house."],
+        "answer": "It is a big house."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/5.svg",
+        "words": ["he", "wash", "his", "hands", "every", "day."],
+        "answer": "He washes his hands every day."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "gamesHobbies",
+    "wrongTheme": "animals",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/6.svg",
+        "words": ["she", "watch", "TV."],
+        "answer": "She watches TV."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/7.svg",
+        "words": ["it", "sweet."],
+        "answer": "It is sweet."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/8.svg",
+        "words": ["he", "have", "got", "a", "fish."],
+        "answer": "He has got a fish."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/9.png",
+        "words": ["it", "pink."],
+        "answer": "It is pink."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/10.png",
+        "words": ["it", "blue."],
+        "answer": "It is blue."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "am": [
+        ["I", "", "Victor."],
+        ["I", "", "from", "America."],
+        ["I", "", "twelve", "years", "old."],
+        ["", "I", "tall?"],
+        ["", "I", "from", "London?"],
+        ["", "I", "plump?"]
+      ],
+      "is": [
+        ["She", "", "Kate."],
+        ["He", "", "nine", "years", "old."],
+        ["It", "", "a", "triangle."],
+        ["", "it", "a", "heart?"],
+        ["", "she", "slim?"]
+      ],
+      "are": [
+        ["We", "", "sisters."],
+        ["They", "", "brothers."],
+        ["", "they", "tall?"],
+        ["", "these", "her", "toys?"],
+        ["", "you", "from", "Spain?"]
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "theme": "familyHome",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "human",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "going": [
+        ["We", "like", "", "to", "school."],
+        ["I", "like", "", "to", "the", "park."],
+        ["She", "likes", "", "to", "school", "with", "her", "sister."],
+        ["He", "does", "not", "like", "", "to", "school."],
+        ["Do", "they", "like", "", "to", "the", "park?"]
+      ],
+      "go": [
+        ["They", "", "to", "the", "park", "on", "weekends."],
+        ["I", "", "to", "school", "every", "day."],
+        ["We", "", "to", "our", "grandparents", "every", "summer."],
+        ["I", "do", "not", "", "to", "school."],
+        ["Do", "they", "", "with", "our", "family?"]
+      ],
+      "goes": [
+        ["She", "", "to", "the", "park", "every", "day."],
+        ["She", "usually", "", "to", "her", "parents", "on", "holidays."],
+        ["He", "", "to", "school."],
+        ["He", "", "to", "his", "grandmother", "on", "weekends."],
+        ["She", "", "to", "the", "park", "with", "his", "brother."]
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "theme": "coloursShapes",
+    "wrongTheme": "animals",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/11.png",
+        "words": ["it", "a", "triangle."],
+        "answer": "It is a triangle."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/12.png",
+        "words": ["it", "a", "star."],
+        "answer": "It is a star."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/13.svg",
+        "words": ["she", "have", "a", "brother."],
+        "answer": "She has a brother."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/14.png",
+        "words": ["my", "bedroom", "small."],
+        "answer": "My bedroom is small."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/15.png",
+        "words": ["she", "have", "a", "big", "window", "in", "her", "room."],
+        "answer": "She has a big window in her room."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "human",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "gamesHobbies",
+    "wrongTheme": "animals",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "familyHome",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "they": [
+        ["", "are", "from", "Africa."],
+        ["", "like", "reading."],
+        ["", "do", "not", "like", "playing."],
+        ["Are", "", "short?"],
+        ["Are", "", "plump?"]
+      ],
+      "our": [
+        ["This", "is", "", "car."],
+        ["These", "are", "", "toys."],
+        ["This", "is", "not", "", "father."],
+        ["Is", "this", "", "sister?"],
+        ["Are", "these", "", "dolls."]
+      ],
+      "he": [
+        ["", "is", "eleven", "years", "old."],
+        ["", "is", "tall."],
+        ["", "does", "not", "have", "a", "cat."],
+        ["Is", "", "from", "America?"],
+        ["Does", "", "have", "a", "pet?"]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/16.png",
+        "words": ["she", "like", "playing", "video", "games."],
+        "answer": "She likes playing video games."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/17.svg",
+        "words": ["he", "have", "got", "many", "toys."],
+        "answer": "He has got many toys."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/18.svg",
+        "words": ["her", "eyes", "brown."],
+        "answer": "Her eyes are brown."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/19.png",
+        "words": ["it", "grey."],
+        "answer": "It is grey."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/20.png",
+        "words": ["it", "number", "two."],
+        "answer": "It is number two."
+      }
+    ]
+  }
+]

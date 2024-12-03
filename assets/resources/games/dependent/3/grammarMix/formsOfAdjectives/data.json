@@ -1,0 +1,538 @@
+{
+  "1": [
+    {
+      "question": "Ann's room is _____ than Dan's .",
+      "correctAnswer": "cleaner",
+      "incorrectAnswers": "more clean"
+    },
+    {
+      "question": "Kim's dress is _____ than Emma's . ",
+      "correctAnswer": "dirtier",
+      "incorrectAnswers": "more dirty"
+    },
+    {
+      "question": "A cake is _____ than an orange .",
+      "correctAnswer": "sweeter",
+      "incorrectAnswers": "more sweet"
+    },
+    {
+      "question": "A cat is _____ than a crocodile .",
+      "correctAnswer": "nicer",
+      "incorrectAnswers": "more nice"
+    },
+    {
+      "question": "Jill is _____ than Max .",
+      "correctAnswer": "more active",
+      "incorrectAnswers": "activer"
+    },
+    {
+      "question": "Sam is _____ than Ken .",
+      "correctAnswer": "braver",
+      "incorrectAnswers": "more brave"
+    },
+    {
+      "question": "She is _____ than her father .",
+      "correctAnswer": "calmer",
+      "incorrectAnswers": "more calm"
+    },
+    {
+      "question": "My book is _____ than his book .",
+      "correctAnswer": "more interesting",
+      "incorrectAnswers": "interestinger"
+    },
+    {
+      "question": "Juice is _____ than water .",
+      "correctAnswer": "tastier",
+      "incorrectAnswers": "more tasty"
+    },
+    {
+      "question": "My car is _____ than your car .",
+      "correctAnswer": "slower",
+      "incorrectAnswers": "more slow"
+    },
+    {
+      "question": "He is _____ than his brother .",
+      "correctAnswer": "greedier",
+      "incorrectAnswers": "more greedy"
+    },
+    {
+      "question": "Tim is _____ than Tom .",
+      "correctAnswer": "taller",
+      "incorrectAnswers": "more tall"
+    },
+    {
+      "question": "My room is _____ than my parents' room .",
+      "correctAnswer": "smaller",
+      "incorrectAnswers": "more small"
+    },
+    {
+      "question": "Mary is _____ than Dina .",
+      "correctAnswer": "plumper",
+      "incorrectAnswers": "more plump"
+    },
+    {
+      "question": "My brother is _____ than her brother .",
+      "correctAnswer": "more handsome",
+      "incorrectAnswers": "handsomer"
+    },
+    {
+      "question": "This book is _____ than that one . ",
+      "correctAnswer": "thinner",
+      "incorrectAnswers": "more thin"
+    },
+    {
+      "question": "Our teacher is the _____ teacher in our school .",
+      "correctAnswer": "kindest",
+      "incorrectAnswers": "most kind"
+    },
+    {
+      "question": "She is the _____ girl in our class .",
+      "correctAnswer": "prettiest",
+      "incorrectAnswers": "most pretty"
+    },
+    {
+      "question": "He is the _____ boy in our school !",
+      "correctAnswer": "rudest",
+      "incorrectAnswers": "most rude"
+    },
+    {
+      "question": "My mum is the _____ woman in our family .",
+      "correctAnswer": "most serious",
+      "incorrectAnswers": "seriousnest"
+    },
+    {
+      "question": "I have many books and this is the _____ one .",
+      "correctAnswer": "thickest",
+      "incorrectAnswers": "most thick"
+    },
+    {
+      "question": "July is the _____ month .",
+      "correctAnswer": "hottest",
+      "incorrectAnswers": "most hot"
+    },
+    {
+      "question": "January is the _____ month .",
+      "correctAnswer": "coldest",
+      "incorrectAnswers": "most cold"
+    },
+    {
+      "question": "Our house is the _____ one on our street .",
+      "correctAnswer": "biggest",
+      "incorrectAnswers": "most big"
+    },
+    {
+      "question": "My room is the _____ one in our flat .",
+      "correctAnswer": "smallest",
+      "incorrectAnswers": "most small"
+    },
+    {
+      "question": "My sister is the _____ girl in our school .",
+      "correctAnswer": "most beautiful",
+      "incorrectAnswers": "beautifulest"
+    },
+    {
+      "question": "She has the _____ hair in our family .",
+      "correctAnswer": "longest",
+      "incorrectAnswers": "most long"
+    },
+    {
+      "question": "This exercise is the _____ one .",
+      "correctAnswer": "easiest",
+      "incorrectAnswers": "most easy"
+    },
+    {
+      "question": "She is the _____ girl in the class .",
+      "correctAnswer": "cleverest",
+      "incorrectAnswers": "most clever"
+    },
+
+
+
+    {
+      "question": "Ann is _____ than her brother .",
+      "correctAnswer": "younger",
+      "incorrectAnswers": "more young"
+    },
+    {
+      "question": "Jane's hair is _____ than Kate's hair .",
+      "correctAnswer": "curlier",
+      "incorrectAnswers": "more curly"
+    },
+    {
+      "question": "Victor is _____ than Sam .",
+      "correctAnswer": "more creative",
+      "incorrectAnswers": "creativer"
+    },
+    {
+      "question": "For me, Physics is _____ than Literature .",
+      "correctAnswer": "more boring",
+      "incorrectAnswers": "boringer"
+    },
+    {
+      "question": "Dan is _____ than Emma .",
+      "correctAnswer": "more hard-working",
+      "incorrectAnswers": "harder-working"
+    },
+    {
+      "question": "Max is _____ than Bill .",
+      "correctAnswer": "lazier",
+      "incorrectAnswers": "more lazy"
+    },
+    {
+      "question": "Nancy is _____ than Robin .",
+      "correctAnswer": "cleverer",
+      "incorrectAnswers": "more clever"
+    },
+    {
+      "question": "This sofa is _____ than that armchair .",
+      "correctAnswer": "more comfortable",
+      "incorrectAnswers": "comfortabler"
+    },
+    {
+      "question": "Mike's flat is _____ than Will's flat .",
+      "correctAnswer": "more modern",
+      "incorrectAnswers": "moderner"
+    },
+    {
+      "question": "The weather today is _____ than yesterday .",
+      "correctAnswer": "gloomier",
+      "incorrectAnswers": "more gloomy"
+    },
+    {
+      "question": "Steve's room is _____ than Dustine's room .",
+      "correctAnswer": "more stylish",
+      "incorrectAnswers": "stylisher"
+    },
+    {
+      "question": "Will is _____ than Lucas .",
+      "correctAnswer": "more polite",
+      "incorrectAnswers": "politer"
+    },
+    {
+      "question": "Will is the _____ boy in our company .",
+      "correctAnswer": "youngest",
+      "incorrectAnswers": "more young"
+    },
+    {
+      "question": "Steve is the _____ boy in his class .",
+      "correctAnswer": "oldest",
+      "incorrectAnswers": "more old"
+    },
+    {
+      "question": "Dustine is the _____ person in our class .",
+      "correctAnswer": "most creative",
+      "incorrectAnswers": "creativest"
+    },
+    {
+      "question": "Physics is the _____ school subject .",
+      "correctAnswer": "most boring",
+      "incorrectAnswers": "boringest"
+    },
+    {
+      "question": "Jonathan is the _____ boy in our school .",
+      "correctAnswer": "most hard-working",
+      "incorrectAnswers": "hardest-working"
+    },
+    {
+      "question": "Lucas is the _____ person I know .",
+      "correctAnswer": "laziest",
+      "incorrectAnswers": "most lazy"
+    },
+    {
+      "question": "This bed is the _____ one .",
+      "correctAnswer": "most uncomfortable",
+      "incorrectAnswers": "uncomfortablest"
+    },
+    {
+      "question": "Nancy's room is the _____ one in our house .",
+      "correctAnswer": "most stylish",
+      "incorrectAnswers": "stylishest"
+    },
+    {
+      "question": "His father is the _____ person in our family .",
+      "correctAnswer": "most modern",
+      "incorrectAnswers": "modernest"
+    },
+    {
+      "question": "Today is the _____ day of this week .",
+      "correctAnswer": "brightest",
+      "incorrectAnswers": "most bright"
+    },
+    {
+      "question": "He is the _____ person in our class .",
+      "correctAnswer": "gloomiest",
+      "incorrectAnswers": "most gloomy"
+    },
+    {
+      "question": "This sofa is the _____ one .",
+      "correctAnswer": "most comfortable",
+      "incorrectAnswers": "comfortablest"
+    }
+  ],
+  "2": [
+    {
+      "question": "Your room is _____ # than my room .",
+      "correctAnswer": "cleaner",
+      "incorrectAnswers": "most cleaner"
+    },
+    {
+      "question": "Kim's socks are _____ # than Sam's socks .",
+      "correctAnswer": "dirtier",
+      "incorrectAnswers": "dirtiest"
+    },
+    {
+      "question": "A pie is _____ # than an apple .",
+      "correctAnswer": "sweeter",
+      "incorrectAnswers": "sweetest"
+    },
+    {
+      "question": "A rabbit is _____ # than a frog .",
+      "correctAnswer": "nicer",
+      "incorrectAnswers": "nicest"
+    },
+    {
+      "question": "Sam is the _____ # boy in my class .",
+      "correctAnswer": "most active",
+      "incorrectAnswers": "more active"
+    },
+    {
+      "question": "My dog is the _____ # animal in the world !",
+      "correctAnswer": "bravest",
+      "incorrectAnswers": "most brave"
+    },
+    {
+      "question": "She is _____ # than her brother .",
+      "correctAnswer": "calmer",
+      "incorrectAnswers": "calmest"
+    },
+    {
+      "question": "Victor is _____ # than Emma .",
+      "correctAnswer": "friendlier",
+      "incorrectAnswers": "more friendly"
+    },
+    {
+      "question": "This book is _____ # than that one .",
+      "correctAnswer": "more interesting",
+      "incorrectAnswers": "most interesting"
+    },
+    {
+      "question": "A banana is _____ # than a lemon .",
+      "correctAnswer": "tastier",
+      "incorrectAnswers": "tastiest"
+    },
+    {
+      "question": "A car is _____ # than a plane .",
+      "correctAnswer": "slower",
+      "incorrectAnswers": "slowest"
+    },
+    {
+      "question": "Max is the _____ # boy in our class .",
+      "correctAnswer": "tallest",
+      "incorrectAnswers": "taller"
+    },
+    {
+      "question": "Pam is the _____ # boy in our school .",
+      "correctAnswer": "greediest",
+      "incorrectAnswers": "greedier"
+    },
+    {
+      "question": "A mouse is _____ # than an elephant .",
+      "correctAnswer": "smaller",
+      "incorrectAnswers": "smallest"
+    },
+    {
+      "question": "Betty is _____ # than Veronica .",
+      "correctAnswer": "plumper",
+      "incorrectAnswers": "plumpest"
+    },
+    {
+      "question": "Ken is the _____ # boy in our class .",
+      "correctAnswer": "most handsome",
+      "incorrectAnswers": "more handsome"
+    },
+    {
+      "question": "My book is _____ # than her book .",
+      "correctAnswer": "thinner",
+      "incorrectAnswers": "thinnest"
+    },
+    {
+      "question": "My teacher is the _____ # teacher in our school .",
+      "correctAnswer": "kindest",
+      "incorrectAnswers": "kinder"
+    },
+    {
+      "question": "Ella is the _____ # girl in my class .",
+      "correctAnswer": "prettiest",
+      "incorrectAnswers": "prettier"
+    },
+    {
+      "question": "Luc is _____ # than Alex .",
+      "correctAnswer": "ruder",
+      "incorrectAnswers": "rudest"
+    },
+    {
+      "question": "My grandfather is the _____ # man in our family .",
+      "correctAnswer": "most serious",
+      "incorrectAnswers": "more serious"
+    },
+    {
+      "question": "Today is the _____ # day of the year .",
+      "correctAnswer": "hottest",
+      "incorrectAnswers": "hotter"
+    },
+    {
+      "question": "His book is _____ # than my book .",
+      "correctAnswer": "thicker",
+      "incorrectAnswers": "thickest"
+    },
+    {
+      "question": "September is not the _____ # month of the year .",
+      "correctAnswer": "coldest",
+      "incorrectAnswers": "colder"
+    },
+    {
+      "question": "Her backpack is _____ # than my backpack .",
+      "correctAnswer": "bigger",
+      "incorrectAnswers": "biggest"
+    },
+    {
+      "question": "My mum is the _____ # woman in the world !",
+      "correctAnswer": "most beautiful",
+      "incorrectAnswers": "more beautiful"
+    },
+    {
+      "question": "Her hair is _____ # than Pam's hair .",
+      "correctAnswer": "longer",
+      "incorrectAnswers": "longest"
+    },
+    {
+      "question": "This task is the _____ # one .",
+      "correctAnswer": "easiest",
+      "incorrectAnswers": "easier"
+    },
+
+
+
+
+    {
+      "question": "Ann is ___ # than her brother .",
+      "correctAnswer": "younger",
+      "incorrectAnswers": "youngest"
+    },
+    {
+      "question": "Jane's hair is _____ # than Kate's hair .",
+      "correctAnswer": "curlier",
+      "incorrectAnswers": "curliest"
+    },
+    {
+      "question": "Victor is _____ # than Sam .",
+      "correctAnswer": "more creative",
+      "incorrectAnswers": "most creative"
+    },
+    {
+      "question": "For me, Physics is _____ # than Literature .",
+      "correctAnswer": "more boring",
+      "incorrectAnswers": "most boring"
+    },
+    {
+      "question": "Dan is _____ # than Emma .",
+      "correctAnswer": "more hard-working",
+      "incorrectAnswers": "most hard-working"
+    },
+    {
+      "question": "Max is _____ # than Bill .",
+      "correctAnswer": "lazier",
+      "incorrectAnswers": "laziest"
+    },
+    {
+      "question": "Nancy is _____ # than Robin .",
+      "correctAnswer": "cleverer",
+      "incorrectAnswers": "cleverest"
+    },
+    {
+      "question": "This sofa is _____ # than that armchair .",
+      "correctAnswer": "more comfortable",
+      "incorrectAnswers": "most comfortable"
+    },
+    {
+      "question": "Mike's flat is _____ # than Will's flat .",
+      "correctAnswer": "more modern",
+      "incorrectAnswers": "most modern"
+    },
+    {
+      "question": "The weather today is _____ # than yesterday .",
+      "correctAnswer": "gloomier",
+      "incorrectAnswers": "gloomiest"
+    },
+    {
+      "question": "Steve's room is _____ # than Dustine's room .",
+      "correctAnswer": "more stylish",
+      "incorrectAnswers": "most stylish"
+    },
+    {
+      "question": "Will is _____ # than Lucas .",
+      "correctAnswer": "more polite",
+      "incorrectAnswers": "most polite"
+    },
+    {
+      "question": "Will is the _____ # boy in our company .",
+      "correctAnswer": "youngest",
+      "incorrectAnswers": "younger"
+    },
+    {
+      "question": "Steve is the _____ # boy in his class .",
+      "correctAnswer": "oldest",
+      "incorrectAnswers": "older"
+    },
+    {
+      "question": "Dustine is the _____ # person in our class .",
+      "correctAnswer": "most creative",
+      "incorrectAnswers": "more creative"
+    },
+    {
+      "question": "Physics is the _____ # school subject .",
+      "correctAnswer": "most boring",
+      "incorrectAnswers": "more boring"
+    },
+    {
+      "question": "Jonathan is the _____ # boy in our school .",
+      "correctAnswer": "most hard-working",
+      "incorrectAnswers": "more hard-working"
+    },
+    {
+      "question": "Lucas is the _____ # person I know .",
+      "correctAnswer": "laziest",
+      "incorrectAnswers": "lazier"
+    },
+    {
+      "question": "This bed is the _____ # one .",
+      "correctAnswer": "most uncomfortable",
+      "incorrectAnswers": "more uncomfortable"
+    },
+    {
+      "question": "Nancy's room is the _____ # one in our house .",
+      "correctAnswer": "most stylish",
+      "incorrectAnswers": "more stylish"
+    },
+    {
+      "question": "His father is the _____ # person in our family .",
+      "correctAnswer": "most modern",
+      "incorrectAnswers": "more modern"
+    },
+    {
+      "question": "Today is the _____ # day of this week .",
+      "correctAnswer": "brightest",
+      "incorrectAnswers": "brighter"
+    },
+    {
+      "question": "He is the _____ # person in our class .",
+      "correctAnswer": "gloomiest",
+      "incorrectAnswers": "gloomier"
+    },
+    {
+      "question": "This sofa is the _____ # one .",
+      "correctAnswer": "most comfortable",
+      "incorrectAnswers": "more comfortable"
+    }
+  ]
+}

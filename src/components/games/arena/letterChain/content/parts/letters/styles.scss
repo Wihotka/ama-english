@@ -1,0 +1,154 @@
+@import '/src/scss/_mixins';
+
+.lettersWrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  padding-bottom: 4px;
+  margin: 0 auto;
+}
+
+.letters {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 24px;
+
+  @include width-1280-L {
+    width: 260px;
+    height: 260px;
+  }
+  @include width-1280-P {
+    width: 260px;
+    height: 260px;
+  }
+
+  @include width-534-P {
+    width: 272px;
+    height: 272px;
+  }
+
+  @include width-732-L {
+    width: 272px;
+    height: 272px;
+  }
+
+  @include width-640-L {
+    width: 248px;
+    height: 248px;
+  }
+  @include width-360-P {
+    width: 260px;
+    height: 260px;
+  }
+}
+
+.letter {
+  top: 0;
+  position: relative;
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  padding-top: 4px;
+  border-radius: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+  text-shadow: 1px 1px 2px rgba(113, 65, 183, 0.40);
+  user-select: none;
+  transition: .2s ease-in-out;
+  background: linear-gradient(180deg, #BB6BD9 0%, #9B51E0 100%);
+  border: 1px solid rgba(92, 54, 192, 0.64);
+  box-shadow: 0px 0px 10px 0px rgba(155, 81, 224, 0.40) inset, 0px 3px 0px 0px #7141B7;
+  cursor: pointer;
+
+  @include titleM();
+
+  @include width-1280-L {
+    width: 56px;
+    height: 56px;
+    margin: 2px;
+  }
+  @include width-1280-P {
+    width: 56px;
+    height: 56px;
+    margin: 2px;
+  }
+}
+
+.letter:hover {
+  background: linear-gradient(180deg, #DAAEEA 0%, #BB6BD9 100%);
+  box-shadow: 0px 0px 10px 0px rgba(155, 81, 224, 0.65) inset, 0px 3px 0px 0px #7141B7;
+}
+
+.letter:active {
+  box-shadow: 0px 0px 10px 0px rgba(155, 81, 224, 0.4) inset, 0px 3px 0px 0px #7141B7;
+}
+
+.activeLetter {
+  background: #FFFFFF;
+  top: 4px;
+  box-shadow: 0px 0px 10px 0px rgba(155, 81, 224, 0.60) inset;
+  color: #714ECC;
+}
+
+.activeLetter:hover {
+  background: #FFFFFF;
+  box-shadow: 0 0 0 rgba(155, 81, 224, 0.65), inset 0 0 8px #7141B7;
+}
+
+.checkBtn {
+  position: relative;
+  top: 0;
+  margin-top: 5px;
+  height: 54px;
+  width: 100%;
+  background: #FFFFFF;
+  border: 1px solid #BB6BD9;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 16px 0px rgba(155, 81, 224, 0.40) inset, 0px 4px 0px 0px #7141B7;
+  border-radius: 32px;
+  font-weight: bold;
+  font-size: 22px;
+  letter-spacing: 0.01em;
+  color: #7141B7;
+  text-shadow: 1px 1px 2px rgba(113, 65, 183, 0.40);
+  transition: 0.2s;
+
+  @include width-1280-L {
+    height: 44px;
+  }
+  @include width-1280-P {
+    height: 44px;
+  }
+
+  @include width-732-L {
+    margin-top: 16px;
+  }
+  @include width-412-P {
+    margin-top: 16px;
+  }
+
+  @include width-640-L {
+    margin-top: 5px;
+  }
+  @include width-360-P {
+    margin-top: 5px;
+  }
+}
+
+.checkBtn:hover {
+  box-shadow: 0px 0px 16px 0px rgba(155, 81, 224, 0.80) inset, 0px 4px 0px 0px #7141B7;
+}
+
+.checkBtn:active {
+  top: 4px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 16px 0px rgba(155, 81, 224, 0.60) inset, 0px 4px 0px 0px #7141B7;
+}
+

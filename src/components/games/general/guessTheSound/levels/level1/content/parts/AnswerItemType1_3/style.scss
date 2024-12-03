@@ -1,0 +1,82 @@
+@import 'src/scss/_mixins.scss';
+
+.answerVariantBlock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  width: 100%;
+  min-width: 259px;
+  height: 100px;
+  padding-left: 24px;
+  padding-right: 27px;
+  border-radius: 32px;
+
+  position: relative;
+
+  z-index: 1;
+
+  background-color: #fff;
+
+  transition: transform 0.2s linear;
+
+  @include width-1280-L {
+    min-width: auto;
+    width: 194px;
+    height: 72px;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    min-width: auto;
+    width: 194px;
+    height: 72px;
+    border-radius: 24px;
+  }
+
+  @include width-768-P {
+    min-width: auto;
+    height: 72px;
+    border-radius: 24px;
+    width: 194px;
+  }
+
+  @include width-732-L {
+    width: 140px;
+    height: 56px;
+    border-radius: 16px;
+  }
+
+  @include width-534-P {
+    width: 100%;
+  }
+
+  @include width-412-P {
+    height: 56px;
+    border-radius: 16px;
+  }
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.textAnswer {
+  @include titleM();
+
+  @include width-1340-L {
+    font-size: 26px;
+  }
+
+  @include width-768-P {
+    font-size: 26px;
+  }
+
+  @include width-854-L {
+    font-size: 20px;
+  }
+
+  @include width-534-P {
+    font-size: 20px;
+  }
+}

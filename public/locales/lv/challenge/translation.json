@@ -1,0 +1,18 @@
+{
+  "challenge": "Čelendžs",
+  "completed": "Pabeigts",
+  "completedRounds": "Pabeigti raundi",
+  "complete_homework": "Izpildi čelendžu",
+  "completed_homework": "Čelendžs pabeigts",
+  "commentToTask": "Komentārs no pasniedzēja",
+  "stage": "Etaps",
+  "task": "Uzdevums",
+  "roundFinish" : {
+    "pushButton": "Nospied pogu",
+    "allowNewRound": "Pieejams jauns raunds",
+    "roundFinished": "Malacis! Raunds ir pabeigts",
+    "youCanStartNewRound": "Tu vari  uzsākt jauno raundu vai atgriezties pie tā rīt",
+    "newRoundTomorrow": "Jauns raunds būs pieejams rīt",
+    "forUnblockRound": "Lai atbloķētu raundu"
+  }
+}

@@ -1,0 +1,121 @@
+@import 'src/scss/_mixins.scss';
+
+.answers {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-auto-flow: column;
+  gap: 32px 56px;
+  width: 712px;
+  margin-right: auto;
+  margin-left: auto;
+
+  @include width-1280-L {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 16px 48px;
+    width: 100%;
+  }
+  @include width-1280-P {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 16px 48px;
+    width: 100%;
+  }
+  @include width-852-P {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 31px 40px;
+    max-width: 536px;
+  }
+
+  @include width-1000-L {
+    gap: 31px 40px;
+  }
+
+  @include width-854-L {
+    gap: 24px 32px;
+  }
+  @include width-534-P {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-auto-flow: row;
+    gap: 24px;
+  }
+
+  @include width-732-L {
+    gap: 24px;
+  }
+  @include width-412-P {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 32px;
+    max-width: 312px;
+  }
+
+  @include width-640-L {
+    gap: 16px;
+  }
+  @include width-360-P {
+    gap: 16px;
+  }
+}
+
+.answer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  @include width-412-P {
+    flex-direction: column;
+  }
+
+  &__index {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 80px;
+    height: 64px;
+    margin-right: 16px;
+    border-radius: 24px;
+    background: #FFFFFF;
+    box-shadow: 0 6px 8px rgba(28, 6, 64, 0.24);
+    font-weight: 800;
+    font-size: 34px;
+
+    @include width-852-P {
+      min-width: 56px;
+      height: 56px;
+      border-radius: 16px;
+      font-weight: 700;
+      font-size: 26px;
+    }
+
+    @include width-1000-L {
+      min-width: 56px;
+      height: 56px;
+      border-radius: 16px;
+      font-weight: 700;
+      font-size: 26px;
+    }
+
+    @include width-854-L {
+      margin-right: 8px;
+    }
+
+    @include width-732-L {
+      min-width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      font-size: 20px;
+    }
+    @include width-412-P {
+      min-width: 40px;
+      height: 40px;
+      margin-right: 0;
+      margin-bottom: 8px;
+      border-radius: 8px;
+      font-size: 20px;
+    }
+  }
+}

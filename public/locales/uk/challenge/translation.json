@@ -1,0 +1,18 @@
+{
+  "challenge": "Challenge",
+  "completed": "Completed",
+  "completedRounds": "Completed rounds",
+  "complete_homework": "Complete the challenge",
+  "completed_homework": "Challenge completed",
+  "commentToTask": "Trainer’s comment",
+  "stage": "Stage",
+  "task": "Task",
+  "roundFinish" : {
+    "pushButton": "Push the button",
+    "allowNewRound": "New round is available ",
+    "roundFinished": "Well done! The round is completed",
+    "youCanStartNewRound": "You can start the next round now or tomorrow",
+    "newRoundTomorrow": "The next round will be available tomorrow",
+    "forUnblockRound": "to unlock the round"
+  }
+}

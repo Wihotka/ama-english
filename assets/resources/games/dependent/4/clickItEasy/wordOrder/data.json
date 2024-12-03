@@ -1,0 +1,452 @@
+[
+  {
+    "sentence": "She is a lovely tall young woman.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/1.png"
+  },
+  {
+    "sentence": "She is not a lovely short young woman.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/1.png"
+  },
+  {
+    "sentence": "Is she a lovely tall young woman?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/1.png"
+  },
+  {
+    "sentence": "She is a smart young woman.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/2.png"
+  },
+  {
+    "sentence": "She isn't a stupid young woman.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/2.png"
+  },
+  {
+    "sentence": "Is she a smart young woman?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/2.png"
+  },
+  {
+    "sentence": "He is a cheerful tall young slim man.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/3.png"
+  },
+  {
+    "sentence": "He isn't a cheerful tall young plump man.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/3.png"
+  },
+  {
+    "sentence": "Is he a cheerful tall young slim man?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/3.png"
+  },
+  {
+    "sentence": "He is a moody small boy.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/4.png"
+  },
+  {
+    "sentence": "He isn't a moody big boy.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/4.png"
+  },
+  {
+    "sentence": "Is he a moody small boy?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/4.png"
+  },
+  {
+    "sentence": "This is a lazy big fat cat.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/5.png"
+  },
+  {
+    "sentence": "This isn't a lazy small fat cat.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/5.png"
+  },
+  {
+    "sentence": "Is this a lazy big fat cat?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/5.png"
+  },
+  {
+    "sentence": "This is a cute red wild fox.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/6.png"
+  },
+  {
+    "sentence": "This isn't a cute green wild fox.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/6.png"
+  },
+  {
+    "sentence": "Is this a cute red wild fox?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/6.png"
+  },
+  {
+    "sentence": "This is a tasty big French cake.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/7.png"
+  },
+  {
+    "sentence": "This isn't a tasty small French cake.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/7.png"
+  },
+  {
+    "sentence": "Is this a tasty big French cake?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/7.png"
+  },
+  {
+    "sentence": "This is a hot big Italian pizza.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/8.png"
+  },
+  {
+    "sentence": "This is not a hot big Chinese pizza.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/8.png"
+  },
+  {
+    "sentence": "Is this a hot big Italian pizza?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/8.png"
+  },
+  {
+    "sentence": "This is a hot big round American burger.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/9.png"
+  },
+  {
+    "sentence": "This isn't a hot big rectangular American burger.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/9.png"
+  },
+  {
+    "sentence": "Is this a hot big round American burger?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/9.png"
+  },
+  {
+    "sentence": "She is an outgoing young English girl.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/10.png"
+  },
+  {
+    "sentence": "She isn't an outgoing old English girl.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/10.png"
+  },
+  {
+    "sentence": "Is she an outgoing young English girl?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/10.png"
+  },
+  {
+    "sentence": "He is a selfish tall young German actor.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/11.png"
+  },
+  {
+    "sentence": "He is not a selfish short young German actor.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/11.png"
+  },
+  {
+    "sentence": "Is he a selfish tall young German actor?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/11.png"
+  },
+  {
+    "sentence": "He is a creative tall young slim teenager.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/12.png"
+  },
+  {
+    "sentence": "He isn't a creative tall old slim teenager.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/12.png"
+  },
+  {
+    "sentence": "Is he a creative tall young slim teenager?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/12.png"
+  },
+  {
+    "sentence": "He is a sensitive short young boy.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/13.svg"
+  },
+  {
+    "sentence": "He is not a sensitive tall young boy.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/13.svg"
+  },
+  {
+    "sentence": "Is he a sensitive short young boy?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/13.svg"
+  },
+  {
+    "sentence": "He is a modest slim student.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/14.png"
+  },
+  {
+    "sentence": "He is not a modest slim lady.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/14.png"
+  },
+  {
+    "sentence": "Is he a modest slim student?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/14.png"
+  },
+  {
+    "sentence": "This is an exciting thick purple paper book.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/15.png"
+  },
+  {
+    "sentence": "This isn't an exciting thin purple paper book.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/15.png"
+  },
+  {
+    "sentence": "Is this an exciting thick purple paper book?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/15.png"
+  },
+  {
+    "sentence": "This is a sweet fat hamster.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/16.png"
+  },
+  {
+    "sentence": "This is not a sweet fat cat.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/16.png"
+  },
+  {
+    "sentence": "Is this a sweet fat hamster?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/16.png"
+  },
+  {
+    "sentence": "This is a beautiful small colourful butterfly.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/17.png"
+  },
+  {
+    "sentence": "This isn't a beautiful small colourful butterfly.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/17.png"
+  },
+  {
+    "sentence": "Is this a beautiful small colourful butterfly?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/17.png"
+  },
+  {
+    "sentence": "These are big old brown sport trainers.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/18.png"
+  },
+  {
+    "sentence": "These are not big old green sport trainers.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/18.png"
+  },
+  {
+    "sentence": "Are these big old brown sport trainers?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/18.png"
+  },
+  {
+    "sentence": "She is a good-tempered short young teenager.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/19.png"
+  },
+  {
+    "sentence": "She is not a good-tempered tall young teenager.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/19.png"
+  },
+  {
+    "sentence": "Is she a good-tempered short young teenager?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/19.png"
+  },
+  {
+    "sentence": "This is a large old grey African elephant.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/20.png"
+  },
+  {
+    "sentence": "This isn't a small old grey African elephant.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/20.png"
+  },
+  {
+    "sentence": "Is this a large old grey African elephant?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/20.png"
+  },
+  {
+    "sentence": "This is a comfortable long new white sofa.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/21.png"
+  },
+  {
+    "sentence": "This isn't a comfortable small new white sofa.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/21.png"
+  },
+  {
+    "sentence": "Is this a comfortable long new white sofa?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/21.png"
+  },
+  {
+    "sentence": "She is an honest Italian writer.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/22.png"
+  },
+  {
+    "sentence": "She is not an honest Italian writer.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/22.png"
+  },
+  {
+    "sentence": "Is she an honest Italian writer?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/22.png"
+  },
+  {
+    "sentence": "He is a stubborn young French blogger.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/23.png"
+  },
+  {
+    "sentence": "He isn't a stubborn old French blogger.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/23.png"
+  },
+  {
+    "sentence": "Is he a stubborn young French blogger?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/23.png"
+  },
+  {
+    "sentence": "He is a talented plump Spanish manager. ",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/24.png"
+  },
+  {
+    "sentence": "He isn't a talented slim Spanish manager. ",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/24.png"
+  },
+  {
+    "sentence": "Is he a talented plump Spanish manager?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/24.png"
+  },
+  {
+    "sentence": "He is a bad-tempered old lawyer.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/25.png"
+  },
+  {
+    "sentence": "He is not a bad-tempered young lawyer.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/25.png"
+  },
+  {
+    "sentence": "Is he a bad-tempered old lawyer?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/25.png"
+  },
+  {
+    "sentence": "It is a dusty big old brown rug.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/26.png"
+  },
+  {
+    "sentence": "It isn't a dusty small old brown rug.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/26.png"
+  },
+  {
+    "sentence": "Is it a dusty big old brown rug?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/26.png"
+  },
+  {
+    "sentence": "It is a beautiful large old American city.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/27.png"
+  },
+  {
+    "sentence": "It isn't a beautiful small old American city.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/27.png"
+  },
+  {
+    "sentence": "Is it a beautiful large old American city?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/27.png"
+  },
+  {
+    "sentence": "It is a large Brazilian football stadium.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/28.png"
+  },
+  {
+    "sentence": "It isn't a small Brazilian football stadium.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/28.png"
+  },
+  {
+    "sentence": "Is it a large Brazilian football stadium?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/28.png"
+  },
+  {
+    "sentence": "It is a fluffy red Japanese dog.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/29.png"
+  },
+  {
+    "sentence": "It isn't a fluffy blue Japanese dog.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/29.png"
+  },
+  {
+    "sentence": "Is it a fluffy red Japanese dog?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/29.png"
+  },
+  {
+    "sentence": "She is a smart small girl.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/30.png"
+  },
+  {
+    "sentence": "She is not a smart big girl.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/30.png"
+  },
+  {
+    "sentence": "Is she a smart small girl?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/wordOrder/30.png"
+  }
+]

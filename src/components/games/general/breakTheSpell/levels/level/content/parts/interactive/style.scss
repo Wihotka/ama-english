@@ -1,0 +1,86 @@
+@import 'src/scss/_mixins.scss';
+
+.interactive {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+
+  width: 624px;
+  max-width: 100%;
+  height: 202px;
+
+  background-color: #FFFFFF;
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+
+  border-radius: 32px;
+
+  @include width-1280-L {
+    flex-direction: row;
+    gap: 24px;
+    width: 509px;
+    height: 88px;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    flex-direction: row;
+    gap: 24px;
+    width: 509px;
+    height: 88px;
+    border-radius: 24px;
+  }
+
+  @include width-854-L {
+    width: 486px;
+    border-radius: 16px;
+  }
+  @include width-534-P {
+    width: 486px;
+    border-radius: 16px;
+  }
+
+  @include width-732-L {
+    width: 380px;
+    height: 72px;
+    border-radius: 8px;
+  }
+  @include width-412-P {
+    width: 380px;
+    height: 72px;
+    border-radius: 8px;
+  }
+
+  @include width-640-L {
+    width: 328px;
+  }
+  @include width-360-P {
+    width: 328px;
+  }
+}
+
+.transcription {
+  transition: .3s;
+
+  @include titleL;
+
+  &__update {
+    opacity: 0;
+  }
+}
+
+.voice {
+  width: 56px;
+  height: 56px;
+
+  @include width-732-L {
+    width: 40px;
+    height: 40px;
+  }
+  @include width-412-P {
+    width: 40px;
+    height: 40px;
+  }
+}

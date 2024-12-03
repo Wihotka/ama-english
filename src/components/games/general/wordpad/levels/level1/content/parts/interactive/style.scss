@@ -1,0 +1,130 @@
+@import 'src/scss/_mixins.scss';
+
+.interactive {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 424px;
+  height: 216px;
+
+  background-color: #FFFFFF;
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+
+  border-radius: 32px;
+
+  @include width-1280-L {
+    width: 214px;
+    height: 349px;
+
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    width: 214px;
+    height: 349px;
+
+    border-radius: 24px;
+  }
+  @include width-852-P {
+    border-radius: 24px;
+    width: 376px;
+    min-height: 184px;
+  }
+
+  @include width-1000-L {
+    width: 208px;
+    height: 293px;
+  }
+
+  @include width-854-L {
+    border-radius: 16px;
+    width: 232px;
+    height: 245px;
+  }
+  @include width-534-P {
+    border-radius: 16px;
+    width: 100%;
+    min-height: 240px;
+  }
+
+  @include width-732-L {
+    width: 208px;
+    height: 206px;
+  }
+
+  @include width-640-L {
+    width: 139px;
+    height: 198px;
+  }
+  @include width-360-P {
+    min-height: 206px;
+  }
+}
+
+.hintBtn {
+  position: absolute;
+
+  top: 20px;
+  left: 50%;
+
+  width: 74px;
+  height: 43px;
+
+  transform: translateX(-50%) !important;
+  transition: .2s ease-in-out;
+
+  @include width-1280-L {
+    height: 39px;
+  }
+  @include width-1280-P {
+    height: 39px;
+  }
+
+  @include width-854-L {
+    top: 8px;
+    width: 90px;
+  }
+  @include width-534-P {
+    top: 8px;
+    width: 90px;
+  }
+
+  @include width-732-L {
+    width: 84px;
+    height: 27px;
+    padding: 0;
+  }
+  @include width-412-P {
+    width: 84px;
+    height: 27px;
+    padding: 0;
+  }
+
+  &Active {
+    transform: translateX(-50%) translateY(4px) !important;
+  }
+}
+
+.voice {
+  width: 128px;
+  height: 128px;
+
+  @include width-852-P {
+    width: 104px;
+    height: 104px;
+  }
+
+  @include width-1000-L {
+    width: 104px;
+    height: 104px;
+  }
+
+  @include width-732-L {
+    width: 88px;
+    height: 88px;
+  }
+  @include width-412-P {
+    width: 88px;
+    height: 88px;
+  }
+}

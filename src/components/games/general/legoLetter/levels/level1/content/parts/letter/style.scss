@@ -1,0 +1,61 @@
+@import 'src/scss/_mixins.scss';
+
+.letter {
+  width: 401px;
+  height: 320px;
+  box-sizing: border-box;
+  border-radius: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 18px 52px;
+  box-shadow: 2px 8px 24px rgba(56, 22, 109, 0.16);
+  flex-shrink: 0;
+
+  @include width-1280-L {
+    margin: 0;
+    width: 344px;
+    height: 288px;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    margin: 0;
+    width: 344px;
+    height: 288px;
+    border-radius: 24px;
+  }
+
+  @include width-768-P {
+    margin: 0;
+    width: 344px;
+    height: 288px;
+    border-radius: 24px;
+  }
+
+  @include width-732-L {
+    width: 266px;
+    height: 192px;
+  }
+  @include width-412-P {
+    width: 266px;
+    height: 192px;
+  }
+}
+
+.svg {
+  height: 223px;
+
+  @include width-1280-L {
+    height: 199px;
+  }
+  @include width-1280-P {
+    height: 199px;
+  }
+
+  @include width-732-L {
+    height: 146px;
+  }
+  @include width-412-P {
+    height: 146px;
+  }
+}

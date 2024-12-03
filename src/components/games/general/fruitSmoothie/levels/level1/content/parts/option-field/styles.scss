@@ -1,0 +1,44 @@
+@import 'src/scss/_mixins.scss';
+
+.optionField {
+  position: relative;
+
+  width: 100%;
+  height: calc(100% - 80px);
+  padding-top: 16px;
+
+  display: flex;
+  align-items: flex-end;
+
+  overflow: hidden;
+
+  @include width-1280-L {
+    height: calc(100% - 50px);
+  }
+  @include width-1280-P {
+    height: calc(100% - 50px);
+  }
+
+  @include width-1000-L {
+    height: calc(100% - 20px);
+    padding-top: 12px;
+  }
+  @include width-768-P {
+    height: calc(100% - 80px);
+    padding-top: 12px;
+  }
+
+  @include width-854-L {
+    height: 100%;
+  }
+  @include width-534-P {
+    height: 80%;
+  }
+
+  @include width-732-L {
+    padding-top: 8px;
+  }
+  @include width-412-P {
+    padding-top: 8px;
+  }
+}

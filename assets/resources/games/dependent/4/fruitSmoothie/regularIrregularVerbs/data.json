@@ -1,0 +1,195 @@
+[
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "wash",
+    "incorrectAnswers": ["to be", "write", "know"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "watch",
+    "incorrectAnswers": ["become", "eat", "go"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "play",
+    "incorrectAnswers": ["catch", "run", "have"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "want",
+    "incorrectAnswers": ["draw", "forget", "see"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "dance",
+    "incorrectAnswers": ["drink", "swim", "think"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "climb",
+    "incorrectAnswers": ["know", "sing", "write"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "travel",
+    "incorrectAnswers": ["go", "to do", "eat"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "clean",
+    "incorrectAnswers": ["have", "read", "run"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "live",
+    "incorrectAnswers": ["see", "hear", "to be"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "work",
+    "incorrectAnswers": ["think", "to be", "become"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "enjoy",
+    "incorrectAnswers": ["write", "become", "catch"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "stop",
+    "incorrectAnswers": ["eat", "catch", "draw"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "start",
+    "incorrectAnswers": ["run", "draw", "drink"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "kick",
+    "incorrectAnswers": ["forget", "drink", "know"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "look",
+    "incorrectAnswers": ["swim", "know", "go"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "like",
+    "incorrectAnswers": ["sing", "go", "have"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "chat",
+    "incorrectAnswers": ["to do", "have", "see"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "cross",
+    "incorrectAnswers": ["read", "see", "think"]
+  },
+  {
+    "question": "Regular verb: _____ .",
+    "correctAnswer": "close",
+    "incorrectAnswers": ["hear", "think", "write"]
+  },
+
+
+
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "to be",
+    "incorrectAnswers": ["wash", "enjoy", "climb"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "become",
+    "incorrectAnswers": ["watch", "stop", "travel"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "catch",
+    "incorrectAnswers": ["play", "start", "clean"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "draw",
+    "incorrectAnswers": ["want", "kick", "live"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "drink",
+    "incorrectAnswers": ["dance", "look", "work"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "know",
+    "incorrectAnswers": ["climb", "like", "enjoy "]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "go",
+    "incorrectAnswers": ["travel", "chat", "stop"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "have",
+    "incorrectAnswers": ["clean", "cross", "start"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "see",
+    "incorrectAnswers": ["live", "close", "kick"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "think",
+    "incorrectAnswers": ["work", "wash", "look"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "write",
+    "incorrectAnswers": ["enjoy", "watch", "like"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "eat",
+    "incorrectAnswers": ["stop", "play", "chat"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "run",
+    "incorrectAnswers": ["start", "want", "cross"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "forget",
+    "incorrectAnswers": ["kick", "dance", "close"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "swim",
+    "incorrectAnswers": ["look", "climb", "wash"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "sing",
+    "incorrectAnswers": ["like", "travel", "watch"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "to do",
+    "incorrectAnswers": ["chat", "clean", "play"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "read",
+    "incorrectAnswers": ["cross", "live", "want"]
+  },
+  {
+    "question": "Irregular verb: _____ .",
+    "correctAnswer": "hear",
+    "incorrectAnswers": ["close", "work", "dance"]
+  }
+]

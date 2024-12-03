@@ -1,0 +1,1 @@
+export {reducer as pageTitle} from './reducer';

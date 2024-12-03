@@ -1,0 +1,21 @@
+@import "/src/scss/_mixins";
+
+.topPanel{
+  pointer-events: none;
+  z-index: 5;
+  position: relative;
+  //padding: 26px 16px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  //height: 100px;
+
+  @include lg-block() {
+    //padding: 16px 5px 0;
+    //height: 80px;
+  }
+
+  @include sm-block() {
+    top: 0;
+  }
+}

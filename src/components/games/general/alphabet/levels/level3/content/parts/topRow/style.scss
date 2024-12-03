@@ -1,0 +1,80 @@
+@import '/src/scss/_mixins';
+
+.row {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+}
+
+.field {
+  position: relative;
+  top: 0;
+  width: 112px;
+  height: 117px;
+  margin: 0 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.2s;
+
+  @include width-1280-L{
+    width: 88px;
+    margin: 0 8px;
+    height: 92px;
+  }
+  @include width-1280-P{
+    width: 88px;
+    margin: 0 8px;
+    height: 92px;
+  }
+
+  @include width-854-L {
+    width: 62px;
+    margin: 0 4.5px;
+    height: 64px;
+  }
+  @include width-534-P {
+    width: 62px;
+    margin: 0 4.5px;
+    height: 64px;
+  }
+
+  @include width-732-L {
+    width: 47px;
+    height: 49px;
+  }
+  @include width-412-P {
+    width: 47px;
+    height: 49px;
+  }
+
+  @include width-640-L {
+    margin: 0 2.5px;
+  }
+
+  @include width-360-P {
+    margin: 0 2.5px;
+  }
+}
+
+.letter {
+  position: relative;
+
+  @include titleXL();
+
+  padding-bottom: 12px;
+
+  font-family: 'Clear Sans', sans-serif;
+  font-weight: 700;
+
+  @media screen and (max-width: 1339px) {
+    font-size: 48px;
+  }
+  @include md-block() {
+    padding-bottom: 8px;
+    font-size: 30px;
+  }
+  @include sm-block() {
+    font-size: 24px;
+  }
+}

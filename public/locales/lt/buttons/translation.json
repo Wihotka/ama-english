@@ -1,0 +1,20 @@
+{
+  "start": "Pradėti",
+  "finish": "Finišas",
+  "play": "Žaisti",
+  "next": "Toliau",
+  "restart": "Pakartoti",
+  "tryAgain": "Bandyti iš naujo",
+  "toChallenge": "Į Iššūkį",
+  "finishGame": "Baigti žaidimą",
+  "newGame": "Naujas žaidimas",
+  "back": "Grįžti",
+  "choosingGame": "Pasirinkti žaidimą",
+  "check": "Tikrinti",
+  "settings": "Žaidimo nustatymai",
+  "homework": "Namų užduotis",
+  "reloadPage": "Perkrauti puslapį",
+  "exit": "Išeiti",
+  "toTheMain": "Į pagrindinį",
+  "stayInGame": "Likti žaidime"
+}

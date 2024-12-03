@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "theme": "familyHome",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "inventions",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "kind": [
+        ["My", "dog", "is", "very", "", "."],
+        ["She", "has", "a", "", "friend."],
+        ["Sam", "and", "Dean", "are", "", "people."],
+        ["Pam", "is", "a", "", "girl."],
+        ["Ann’s", "brothers", "are", "very", "", "."]
+      ],
+      "kinder": [
+        ["Tim", "is", "", "than", "Tom."],
+        ["Dogs", "are", "", "than", "lions."],
+        ["I", "am", "", "than", "Max."],
+        ["Steve", "is", "not", "", "than", "Kate."],
+        ["Vicky", "is", "", "than", "Mary."]
+      ],
+      "kindest": [
+        ["My", "dog", "is", "the", "", "pet", "in", "the", "world!"],
+        ["His", "sister", "is", "the", "", "girl", "in", "our", "class."],
+        ["My", "father", "is", "the", "", "man", "in", "the", "world!"],
+        ["Dan", "is", "not", "the", "", "boy", "in", "our", "school."],
+        ["The", "", "girl", "in", "our", "school", "is", "Betty."]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "health",
+    "wrongTheme": "inventions",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "animals",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "gamesHobbies",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/121.png",
+        "words": ["She", "is", "a", "lovely", "tall", "young", "woman."],
+        "answer": "She is a lovely tall young woman."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/122.png",
+        "words": ["This", "is", "a", "lazy", "big", "fat", "cat."],
+        "answer": "This is a lazy big fat cat."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/123.png",
+        "words": ["She", "is", "a", "good-tempered", "short", "young", "teenager."],
+        "answer": "She is a good-tempered short young teenager."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/124.png",
+        "words": ["It", "is", "a", "beautiful", "large", "old", "American", "city."],
+        "answer": "It is a beautiful large old American city."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/125.png",
+        "words": ["It", "is", "a", "fluffy", "red", "Japanese", "dog."],
+        "answer": "It is a fluffy red Japanese dog."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "animals",
+    "wrongTheme": "moviesSeries",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/126.png",
+        "words": ["My", "brother", "should", "stay", "at", "home."],
+        "answer": "My brother should stay at home."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/127.png",
+        "words": ["I", "should", "take", "some", "medicine."],
+        "answer": "I should take some medicine."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/128.png",
+        "words": ["I", "should", "take", "my", "dog", "to", "the", "vet."],
+        "answer": "I should take my dog to the vet."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/129.png",
+        "words": ["My", "brother", "should", "sleep", "more."],
+        "answer": "My brother should sleep more."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/130.svg",
+        "words": ["I", "should", "see", "this", "film", "with", "my", "friends."],
+        "answer": "I should see this film with my friends."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "takes": [
+        ["His", "mother", "always", "", "him", "to", "work."],
+        ["She", "", "medicine", "every", "morning."],
+        ["He", "", "his", "dog", "for", "a", "walk", "every", "day."],
+        ["Ella", "always", "", "her", "brother", "to", "school."],
+        ["My", "dad", "", "care", "of", "his", "mother."]
+      ],
+      "is taken": [
+        ["He", "", "to", "work", "by", "his", "mother."],
+        ["Medicine", "", "by", "her", "every", "morning."],
+        ["The", "dog", "", "for", "a", "walk", "every", "day."],
+        ["Ella's", "brother", "", "to", "school."],
+        ["My", "dad's", "mother", "", "care", "of."]
+      ],
+      "took": [
+        ["His", "mother", "", "him", "to", "work", "two", "years", "ago."],
+        ["She", "", "medicine", "yesterday."],
+        ["He", "", "his", "dog", "for", "a", "walk", "yesterday."],
+        ["Ella", "", "her", "brother", "to", "school", "when", "he", "was", "eight."],
+        ["My", "dad", "", "care", "of", "his", "mother", "a", "year", "ago."]
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "theme": "moviesSeries",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "human",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "was studying": [
+        ["I", "", "when", "she", "came", "in."],
+        ["He", "", "when", "I", "saw", "him."],
+        ["Mary", "", "History", "when", "she", "got", "a", "message."],
+        ["Sam", "", "in", "the", "library", "when", "his", "mother", "called."],
+        ["I", "", "Math", "when", "the", "bell", "rang."]
+      ],
+      "are studying": [
+        ["We", "", "at", "the", "moment."],
+        ["Kate", "and", "Dean", "", "Geography", "right", "now."],
+        ["We", "", "Physics", "at", "this", "moment."],
+        ["Mary", "and", "Dan", "", "Literature", "now."],
+        ["My", "cousins", "", "German", "at", "the", "university."]
+      ],
+      "will be studying": [
+        ["My", "brother", "", "English", "after", "school."],
+        ["We", "", "Chemistry", "tomorrow."],
+        ["I", "", "tomorrow", "in", "the", "morning."],
+        ["They", "", "French", "later", "in", "the", "evening."],
+        ["He", "", "Math", "later", "tonight."]
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "theme": "health",
+    "wrongTheme": "inventions",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/131.png",
+        "words": ["He", "is", "a", "stubborn", "young", "French", "blogger."],
+        "answer": "He is a stubborn young French blogger."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/132.png",
+        "words": ["These", "are", "big", "old", "brown", "sport", "trainers."],
+        "answer": "These are big old brown sport trainers."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/133.png",
+        "words": ["This", "is", "a", "cute", "red", "wild", "fox."],
+        "answer": "This is a cute red wild fox."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/134.png",
+        "words": ["This", "is", "a", "tasty", "big", "French", "cake."],
+        "answer": "This is a tasty big French cake."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/135.png",
+        "words": ["This", "is", "a", "beautiful", "small", "colourful", "butterfly."],
+        "answer": "This is a beautiful small colourful butterfly."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "socialNets",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "moviesSeries",
+    "wrongTheme": "animals",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "nature",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "went": [
+        ["I", "", "to", "France", "last", "summer."],
+        ["She", "", "to", "the", "cinema", "yesterday."],
+        ["My", "aunt", "", "to", "the", "same", "university."],
+        ["My", "uncle", "", "to", "the", "hospital", "two", "days", "ago."],
+        ["They", "", "to", "the", "USA", "last", "month."]
+      ],
+      "is going": [
+        ["Max", "", "to", "the", "stadium", "right", "now."],
+        ["Bill", "", "to", "the", "park", "at", "the", "moment."],
+        ["Tammy", "", "to", "the", "rock", "concert", "at", "this", "moment."],
+        ["Harry", "", "climbing", "now."],
+        ["Ella", "", "to", "school", "now."]
+      ],
+      "will go": [
+        ["I", "", "to", "the", "UK", "next", "summer."],
+        ["We", "", "to", "the", "theatre", "tomorrow."],
+        ["He", "", "for", "a", "walk", "after", "finishing", "his", "homework."],
+        ["My", "aunt", "", "to", "her", "brother", "next", "Tuesday."],
+        ["Aria", "", "to", "the", "exhibition", "next", "Sunday."]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/136.png",
+        "words": ["You", "should", "not", "eat", "much", "junk", "food."],
+        "answer": "You should not eat much junk food"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/137.png",
+        "words": ["You", "shouldn't", "feed", "your", "pets", "every", "hour."],
+        "answer": "You shouldn’t feed your pets every hour."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/138.png",
+        "words": ["My", "brother", "should", "not", "eat", "much", "cake."],
+        "answer": "My brother should not eat much cake."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/139.png",
+        "words": ["My", "sister", "shouldn't", "water", "flowers."],
+        "answer": "My sister shouldn't water flowers."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/140.png",
+        "words": ["You", "shouldn't", "listen", "to", "music", "so", "loudly."],
+        "answer": "You shouldn’t listen to music so loudly."
+      }
+    ]
+  }
+]

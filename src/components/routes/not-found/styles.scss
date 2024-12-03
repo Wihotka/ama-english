@@ -1,0 +1,60 @@
+@import "src/scss/mixins";
+
+.mainWrapper{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+  padding: 24px 0;
+  border-radius: 0;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.content{
+  max-width: 916px;
+  box-shadow: 4px 4px 24px rgba(28, 6, 64, 0.4), inset -3px -3px 10px #BBD6FF;
+  border-radius: 48px;
+  background: #fff;
+  padding: 72px;
+}
+
+.textWrap{
+
+  margin-bottom: 50px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.textInner{
+  background: #fff;
+  padding: 64px 100px;
+  font-size: 28px;
+  line-height: 140%;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+}
+
+.title{
+  @include titleXL();
+  margin-bottom: var(--main-base-grid-gap);
+}
+
+.text{
+  @include subtitleM();
+  text-align: center;
+  color: var(--static-main-color2);
+}
+
+.img{
+  max-width: 435px;
+  filter: drop-shadow(4px 16px 0px #AE7DFE);
+}

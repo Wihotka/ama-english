@@ -1,0 +1,57 @@
+@import 'src/scss/_mixins.scss';
+
+.wrapper {
+  display: flex;
+  align-items: center;
+
+  height: 64px;
+
+  @include width-732-L {
+    height: 40px;
+  }
+  @include width-412-P {
+    height: 40px;
+  }
+}
+
+.soundLine {
+  margin-left: 1px;
+
+  border-radius: 8px;
+
+  width: 8px;
+  height: 8px;
+
+  @include width-732-L {
+    width: 5px;
+    height: 5px;
+  }
+  @include width-412-P {
+    width: 5px;
+    height: 5px;
+  }
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &__activeNormal {
+    animation: animateLine 2.5s infinite;
+  }
+
+  &__activeSlow {
+    animation: animateLine 5s infinite;
+  }
+}
+
+@-webkit-keyframes animateLine {
+  0% {height:8px}
+  20% {height:26px}
+  40% {height:14px}
+  50% {height:50px}
+  60% {height:20px}
+  70% {height:64px}
+  80% {height:20px}
+  90% {height:50px}
+  100% {height:8px}
+}

@@ -1,0 +1,184 @@
+@import 'src/scss/_mixins.scss';
+
+.gameWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin-top: 24px;
+
+    @include width-1280-L() {
+        margin-top: 16px;
+    }
+    @include width-1280-P() {
+        margin-top: 16px;
+    }
+
+    @include width-854-L {
+        margin-top: 24px;
+    }
+
+    @include width-732-L {
+        margin-top: 22px;
+    }
+
+    @include width-640-L {
+        margin-top: 16px;
+    }
+
+    @include width-854-L {
+        margin-top: 24px;
+    }
+
+    @include width-732-L {
+        margin-top: 22px;
+    }
+
+    @include width-640-L {
+        margin-top: 16px;
+    }
+
+    @include media-portrait(1000) {
+        margin-top: 16px;
+    }
+
+    @include width-412-P() {
+        margin-top: 28px;
+    }
+
+    @include width-534-P {
+        margin-top: 30px;
+    }
+
+    @include width-412-P {
+        margin-top: 24px;
+    }
+
+    @include width-360-P {
+        margin-top: 16px;
+    }
+}
+
+.gameMain {
+    height: 424px;
+
+    @include width-1280-L {
+        height: auto;
+    }
+    @include width-1280-P {
+        height: auto;
+    }
+
+    @include width-1000-L {
+        height: auto;
+    }
+
+    @include width-768-P() {
+        height: auto;
+    }
+
+    @include width-854-L {
+        height: auto;
+    }
+
+    @include width-534-P {
+        height: auto;
+    }
+}
+
+.buttonContainer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    overflow-x: initial;
+    
+    @include width-1000-L {
+        display: none;
+    }
+
+    @include width-768-P {
+        display: none;
+    }
+
+    @include width-854-L {
+        display: flex;
+        justify-content: flex-end;
+
+        margin-top: auto;
+        margin-bottom: 28px;
+    }
+
+    @include width-534-P {
+        display: flex;
+        justify-content: flex-end;
+
+        margin-top: auto;
+        margin-bottom: 32px;
+    }
+
+    @include width-732-L {
+        margin-bottom: 48px;
+    }
+    @include width-412-P {
+        margin-bottom: 28px;
+    }
+
+    @include width-360-P {
+        margin-bottom: 20px;
+    }
+}
+
+.enter {
+    opacity: 0;
+}
+
+.enterActive {
+    opacity: 1;
+    transition: opacity 200ms ease-in;
+}
+
+.exit {
+    opacity: 1;
+}
+
+.exitActive {
+    opacity: 0;
+    transition: opacity 200ms ease-in;
+}
+
+.checkBtn {
+    border: none;
+
+    &:disabled {
+        background: linear-gradient(180deg, #BAE3C6 0%, #DFF5E6 100%) !important;
+        box-shadow: 0 4px 0 #95CB95, 0 6px 16px rgba(149, 203, 149, 0.72) !important;
+        opacity: 0.4 !important;
+    }
+
+    @include width-854-L {
+        width: 95%;
+        padding: 10px;
+    }
+
+    @include width-534-P {
+        width: 95%;
+        padding: 10px;
+    }
+
+    @include width-732-L {
+        width: 90%;
+        height: 40px;
+        padding: 0 0 4px;
+    }
+
+    @include width-412-P {
+        width: 90%;
+        height: 40px;
+        padding: 0 0 4px;
+    }
+
+    @include width-360-P {
+        width: 85%;
+    }
+}

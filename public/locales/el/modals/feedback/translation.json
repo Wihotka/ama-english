@@ -1,0 +1,24 @@
+{
+  "message": {
+    "title": "Άφησε κριτική?",
+    "text": "Αυτό θα βοηθήσει στη βελτίωση των παιχνιδιών και δεν θα πάρει πολύ χρόνο.",
+    "btnText": "Σίγουρα!"
+  },
+  "form": {
+    "title": "Άφησε κριτική",
+    "subtitle": "Θα βοηθήσεις στη βελτίωση του μαθήματος;",
+    "optionTitleGame": "Μου άρεσε το παιχνίδι",
+    "optionTitleCourse": "Είμαι άνετα χρησιμοποιώντας το μάθημα της «Αγγλικής γλώσσας»",
+    "optionTitleTextarea": "Μοιραστείτε την εμπειρία σας",
+    "textareaPlaceholder": "Τα σχόλια σου",
+    "btnSubmit": "Αποστολή"
+  },
+  "messageStatus": {
+    "titleSuccess": "Ευχαριστώ!",
+    "titleError": "",
+    "textSuccess": "Η κριτική στάλθηκε",
+    "textError": "",
+    "btnTextSuccess": "Παρακαλώ",
+    "btnTextError": ""
+  }
+}

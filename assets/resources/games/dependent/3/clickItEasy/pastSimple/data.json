@@ -1,0 +1,672 @@
+[
+  {
+    "sentence": "Sam washed his hands five minutes ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/1.svg"
+  },
+  {
+    "sentence": "Sam did not wash his hands five minutes ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/1.svg"
+  },
+  {
+    "sentence": "Did Sam wash his hands five minutes ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/1.svg"
+  },
+  {
+    "sentence": "Kate watched TV last night.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/2.svg"
+  },
+  {
+    "sentence": "Kate didn't watch TV last night.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/2.svg"
+  },
+  {
+    "sentence": "Did Kate watch TV last night?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/2.svg"
+  },
+  {
+    "sentence": "Max played basketball yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/3.svg"
+  },
+  {
+    "sentence": "Max didn't play basketball yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/3.svg"
+  },
+  {
+    "sentence": "Did Max play football yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/3.svg"
+  },
+  {
+    "sentence": "My brother wanted to eat some pie.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/4.png"
+  },
+  {
+    "sentence": "My brother didn't want to eat any pie.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/4.png"
+  },
+  {
+    "sentence": "Did my brother want to eat any pie?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/4.png"
+  },
+  {
+    "sentence": "We played tennis last weekend.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/5.svg"
+  },
+  {
+    "sentence": "We did not play tennis last weekend.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/5.svg"
+  },
+  {
+    "sentence": "Did we play tennis last weekend?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/5.svg"
+  },
+  {
+    "sentence": "They danced last week.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/6.svg"
+  },
+  {
+    "sentence": "They didn't dance last week.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/6.svg"
+  },
+  {
+    "sentence": "Did they dance last week?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/6.svg"
+  },
+  {
+    "sentence": "He played with his toys three years ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/7.svg"
+  },
+  {
+    "sentence": "He didn't play with his toys three years ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/7.svg"
+  },
+  {
+    "sentence": "Did he play with his toys three years ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/7.svg"
+  },
+  {
+    "sentence": "Helen climbed a rock last summer.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/8.png"
+  },
+  {
+    "sentence": "Helen did not climb a rock last summer.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/8.png"
+  },
+  {
+    "sentence": "Did Helen climb a rock last summer?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/8.png"
+  },
+  {
+    "sentence": "We travelled by plane last year.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/9.svg"
+  },
+  {
+    "sentence": "We did not travel by plane last year.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/9.svg"
+  },
+  {
+    "sentence": "Did we travel by plane last year?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/9.svg"
+  },
+  {
+    "sentence": "They cleaned their flat five hours ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/10.png"
+  },
+  {
+    "sentence": "They did not clean their flat five hours ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/10.png"
+  },
+  {
+    "sentence": "Did they clean their flat five hours ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/10.png"
+  },
+  {
+    "sentence": "I lived in a house last summer.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/11.svg"
+  },
+  {
+    "sentence": "I did not live in a house last summer.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/11.svg"
+  },
+  {
+    "sentence": "Did I live in a house last summer?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/11.svg"
+  },
+  {
+    "sentence": "I worked as a doctor ten years ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/12.svg"
+  },
+  {
+    "sentence": "I didn't work as a doctor ten years ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/12.svg"
+  },
+  {
+    "sentence": "Did I work as a doctor ten years ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/12.svg"
+  },
+  {
+    "sentence": "She enjoyed chatting with her friends yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/13.svg"
+  },
+  {
+    "sentence": "She did not enjoy chatting with her friends yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/13.svg"
+  },
+  {
+    "sentence": "Did she enjoy chatting with her friends yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/13.svg"
+  },
+  {
+    "sentence": "The driver stopped a car.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/14.png"
+  },
+  {
+    "sentence": "The driver didn't stop a car.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/14.png"
+  },
+  {
+    "sentence": "Did the driver stop a car?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/14.png"
+  },
+  {
+    "sentence": "She enjoyed eating peaches last summer.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/15.svg"
+  },
+  {
+    "sentence": "She didn't enjoy eating peaches last summer.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/15.svg"
+  },
+  {
+    "sentence": "Did she enjoy eating peaches last summer?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/15.svg"
+  },
+  {
+    "sentence": "The sportsman kicked a ball.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/16.svg"
+  },
+  {
+    "sentence": "The sportsman didn't kick a ball.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/16.svg"
+  },
+  {
+    "sentence": "Did the sportsman kick a ball?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/16.svg"
+  },
+  {
+    "sentence": "They looked at the sea from the beach.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/17.svg"
+  },
+  {
+    "sentence": "They did not look at the sea from the beach.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/17.svg"
+  },
+  {
+    "sentence": "Did they look at the sea from the beach?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/17.svg"
+  },
+  {
+    "sentence": "Mary liked her dinner.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/18.svg"
+  },
+  {
+    "sentence": "Mary did not like her dinner.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/18.svg"
+  },
+  {
+    "sentence": "Did Mary like her dinner?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/18.svg"
+  },
+  {
+    "sentence": "Emma read a fairy tale yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/19.svg"
+  },
+  {
+    "sentence": "Emma did not read a fairy tale yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/19.svg"
+  },
+  {
+    "sentence": "Did Emma read a fairy tale yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/19.svg"
+  },
+  {
+    "sentence": "My uncle did not ride a horse.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/20.svg"
+  },
+  {
+    "sentence": "Did my uncle ride a horse?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/20.svg"
+  },
+  {
+    "sentence": "They ran a marathon last spring.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/21.svg"
+  },
+  {
+    "sentence": "They did not run a marathon last spring.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/21.svg"
+  },
+  {
+    "sentence": "Did they run a marathon last spring?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/21.svg"
+  },
+  {
+    "sentence": "The woman swam in the swimming pool yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/22.png"
+  },
+  {
+    "sentence": "The woman did not swim in the swimming pool yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/22.png"
+  },
+  {
+    "sentence": "Did the woman swim in the swimming pool yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/22.png"
+  },
+  {
+    "sentence": "Polly did not wear a scarf last autumn.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/23.svg"
+  },
+  {
+    "sentence": "Did Polly wear a scarf last autumn?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/23.svg"
+  },
+  {
+    "sentence": "He drank juice last night.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/24.svg"
+  },
+  {
+    "sentence": "He didn't drink juice last night.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/24.svg"
+  },
+  {
+    "sentence": "Did he drink juice last night?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/24.svg"
+  },
+  {
+    "sentence": "Dan ate breakfast last morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/25.svg"
+  },
+  {
+    "sentence": "Dan did not eat breakfast last morning.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/25.svg"
+  },
+  {
+    "sentence": "Did Dan eat breakfast last morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/25.svg"
+  },
+  {
+    "sentence": "My brother drew a picture.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/26.png"
+  },
+  {
+    "sentence": "My brother did not draw a picture.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/26.png"
+  },
+  {
+    "sentence": "Did my brother draw a picture?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/26.png"
+  },
+  {
+    "sentence": "My sister did not spend time with her pet last month.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/27.svg"
+  },
+  {
+    "sentence": "Did my sister spend time with her pet last month?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/27.svg"
+  },
+  {
+    "sentence": "His wife learnt English.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/28.png"
+  },
+  {
+    "sentence": "His wife did not learn English.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/28.png"
+  },
+  {
+    "sentence": "Did his wife learn English?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/28.png"
+  },
+  {
+    "sentence": "My friend did not dream about being a blogger.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/29.png"
+  },
+  {
+    "sentence": "Did my friend dream about being a blogger?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/29.png"
+  },
+  {
+    "sentence": "The student did his homework two days ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/30.png"
+  },
+  {
+    "sentence": "The student did not do homework two days ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/30.png"
+  },
+  {
+    "sentence": "Did the student do homework two days ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/30.png"
+  },
+  {
+    "sentence": "My grandmother made a pie yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/31.png"
+  },
+  {
+    "sentence": "My grandmother did not make a pie yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/31.png"
+  },
+  {
+    "sentence": "Did my grandmother make a pie yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/31.png"
+  },
+  {
+    "sentence": "My brother slept well last night.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/32.png"
+  },
+  {
+    "sentence": "My brother did not sleep well last night.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/32.png"
+  },
+  {
+    "sentence": "Did my brother sleep well last night?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/32.png"
+  },
+  {
+    "sentence": "This plant did not grow up.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/33.svg"
+  },
+  {
+    "sentence": "Did this plant grow up?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/33.svg"
+  },
+  {
+    "sentence": "My father wrote notes in the notebook.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/34.svg"
+  },
+  {
+    "sentence": "My father did not write notes in the notebook.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/34.svg"
+  },
+  {
+    "sentence": "Did my father write notes in the notebook?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/34.svg"
+  },
+  {
+    "sentence": "They were at the cinema two days ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/35.svg"
+  },
+  {
+    "sentence": "They were not at the cinema two days ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/35.svg"
+  },
+  {
+    "sentence": "Were they at the cinema two days ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/35.svg"
+  },
+  {
+    "sentence": "We were on holiday in Spain last month.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/36.png"
+  },
+  {
+    "sentence": "Were we on holiday in Spain last month?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/36.png"
+  },
+  {
+    "sentence": "My cat caught a small fish in the river yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/37.png"
+  },
+  {
+    "sentence": "My cat didn't catch a small fish in the river yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/37.png"
+  },
+  {
+    "sentence": "Did my cat catch a small fish in the river yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/37.png"
+  },
+  {
+    "sentence": "They had two cups of tea in the morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/38.svg"
+  },
+  {
+    "sentence": "Did they have two cups of tea in the morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/38.svg"
+  },
+  {
+    "sentence": "We ate pizza with my best friend yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/39.png"
+  },
+  {
+    "sentence": "We didn't eat pizza with my best friend yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/39.png"
+  },
+  {
+    "sentence": "Did we eat pizza with my best friend yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/39.png"
+  },
+  {
+    "sentence": "My brother drank a glass of milk two hours ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/40.png"
+  },
+  {
+    "sentence": "My brother didn't drink a glass of milk two hours ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/40.png"
+  },
+  {
+    "sentence": "Did my brother drink a glass of milk two hours ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/40.png"
+  },
+  {
+    "sentence": "My sister and I played tennis last Sunday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/41.png"
+  },
+  {
+    "sentence": "My sister and I didn't play tennis last Sunday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/41.png"
+  },
+  {
+    "sentence": "Did my sister and I play tennis last Sunday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/41.png"
+  },
+  {
+    "sentence": "I forgot my wallet at the supermarket yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/42.png"
+  },
+  {
+    "sentence": "I didn't forget my wallet at the supermarket yesterday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/42.png"
+  },
+  {
+    "sentence": "Did I forget my wallet at the supermarket yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/42.png"
+  },
+  {
+    "sentence": "My dad washed his car three days ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/43.png"
+  },
+  {
+    "sentence": "My dad disn't wash his car three days ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/43.png"
+  },
+  {
+    "sentence": "Did my dad wash his car three days ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/43.png"
+  },
+  {
+    "sentence": "I saw my cousin at the bookshop last Thursday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/44.png"
+  },
+  {
+    "sentence": "I didn't see my cousin at the bookshop last Thursday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/44.png"
+  },
+  {
+    "sentence": "They sang a beautiful song at the concert yesterday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/45.png"
+  },
+  {
+    "sentence": "Did they sing a beautiful song at the concert yesterday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/45.png"
+  },
+  {
+    "sentence": "My friends went to a volleyball match three weeks ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/46.png"
+  },
+  {
+    "sentence": "My friends didn't go to a volleyball match three weeks ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/46.png"
+  },
+  {
+    "sentence": "Did they go to a volleyball match three weeks qago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/46.png"
+  },
+  {
+    "sentence": "I visited my grandparents in New Zealand two months ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/47.svg"
+  },
+  {
+    "sentence": "I didn't visit my grandparents in New Zealand two months ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/47.svg"
+  },
+  {
+    "sentence": "He wrote a song about his friends a year ago.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/48.png"
+  },
+  {
+    "sentence": "He didn't write a song about his friends a year ago.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/48.png"
+  },
+  {
+    "sentence": "Did he write a song about his friends a year ago?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/pastSimple/48.png"
+  }
+]

@@ -1,0 +1,180 @@
+@import 'src/scss/_mixins.scss';
+
+.contentContainer {
+  width: 100%;
+  position: relative;
+}
+
+.main {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  gap: 32px;
+  margin-bottom: 40px;
+  padding-top: 32px;
+
+  @include width-1280-L {
+    gap: 16px;
+    margin-bottom: 32px;
+    padding-top: 43px;
+  }
+  @include width-1280-P {
+    gap: 16px;
+    margin-bottom: 32px;
+    padding-top: 43px;
+  }
+
+  @include width-1000-L {
+    margin-bottom: 16px;
+    padding-top: 9px;
+  }
+
+  @include width-854-L {
+    gap: 24px;
+    margin-bottom: 20px;
+    padding-top: 8px;
+  }
+
+  @include width-732-L {
+    flex-direction: row;
+    gap: 16px;
+    padding: 0 8px;
+    margin-bottom: 48px;
+    padding-top: 40px;
+  }
+
+  @include width-640-L {
+    margin-bottom: 20px;
+    padding-top: 16px;
+  }
+
+  @include width-768-P {
+    margin-bottom: 112px;
+    gap: 16px;
+    padding-top: 116px;
+  }
+
+  @include width-534-P {
+    margin-bottom: 179px;
+    gap: 24px;
+    padding-top: 144px;
+  }
+
+  @include width-412-P {
+    margin-bottom: 158px;
+    padding-top: 128px;
+  }
+
+  @include width-360-P {
+    margin-bottom: 90px;
+    padding-top: 104px;
+  }
+}
+
+.checkBtnContainer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.checkBtn {
+  border: none;
+  
+  &:disabled {
+    background: linear-gradient(180deg, #BAE3C6 0%, #DFF5E6 100%) !important;
+    box-shadow: 0px 4px 0px #95CB95, 0px 6px 16px rgba(149, 203, 149, 0.72) !important;
+    opacity: 0.4 !important;
+  }
+
+  @include width-854-L {
+    height: 48px;
+    padding: 0;
+  }
+  @include width-534-P {
+    width: 260px;
+    height: 48px;
+    padding: 0;
+  }
+
+  @include width-732-L {
+    width: 260px;
+    height: 40px;
+  }
+  @include width-412-P {
+    height: 40px;
+  }
+}
+
+.enter {
+  opacity: 0;
+}
+
+.enterActive {
+  opacity: 1;
+  transition: opacity 200ms ease-in;
+}
+
+.exit {
+  opacity: 1;
+}
+
+.exitActive {
+  opacity: 0;
+  transition: opacity 200ms ease-in;
+}
+
+.hintBtn {
+  width: 194px;
+  height: 64px;
+  position: absolute;
+  top: -64px;
+  left: calc(50% - 97px);
+  
+  @include titleS();
+
+  @include width-1280-L {
+    width: 90px;
+    height: 36px;
+    padding: 0;
+    top: -38px;
+    left: calc(50% - 45px);
+
+    @include buttonFont();
+  }
+  @include width-1280-P {
+    width: 90px;
+    height: 36px;
+    padding: 0;
+    top: -38px;
+    left: calc(50% - 45px);
+
+    @include buttonFont();
+  }
+
+  @include width-1000-L() {
+    top: -38px;
+  }
+
+  @include width-732-L() {
+    width: 84px;
+    height: 24px;
+    top: -24px;
+  }
+
+  @include width-768-P() {
+    width: 90px;
+    height: 36px;
+    padding: 0;
+    top: -38px;
+    left: calc(50% - 45px);
+
+    @include buttonFont();
+  }
+
+  @include width-412-P() {
+    width: 84px;
+    height: 24px;
+    top: -24px;
+  }
+}

@@ -1,0 +1,1 @@
+export {initWriteSettings} from './settins-write-initter';

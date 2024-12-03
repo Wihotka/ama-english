@@ -1,0 +1,68 @@
+@import 'src/scss/_mixins.scss';
+
+@keyframes showing {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@keyframes hiding {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.answerList {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  align-items: center;
+
+  gap: 16px;
+}
+
+.adaptiveL1_3 {
+  @include width-1280-L {
+    min-width: 50%;
+  }
+  @include width-1280-P {
+    min-width: 50%;
+  }
+
+  @include width-1000-L {
+    min-width: auto;
+  }
+
+  @include width-534-P {
+    width: 100%;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 12px;
+  }
+}
+
+.adaptiveL2 {
+  @include width-1340-L {
+    width: 50%;
+  }
+
+  @include width-768-P {
+    width: 100%;
+  }
+}
+
+.ordinalNames {
+  margin-left: 8px;
+  margin-right: 25px;
+  @include titleS
+}
+
+.showing {
+  animation: showing .9s forwards;
+}
+
+.hiding {
+  pointer-events: none;
+  animation: hiding .9s forwards;
+}

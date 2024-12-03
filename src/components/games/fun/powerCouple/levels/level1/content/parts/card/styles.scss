@@ -1,0 +1,163 @@
+@import 'src/scss/_mixins.scss';
+
+.cardContainer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  perspective: 100em;
+}
+
+.card {
+  position: relative;
+  width: inherit;
+  height: inherit;
+
+  will-change: all;
+  transform-style: preserve-3d;
+  transition: all .3s ease-out;
+
+  border-radius: 16px;
+  cursor: pointer;
+
+  @include width-1280-L {
+    border-radius: 8px;
+  }
+  @include width-1280-P {
+    border-radius: 8px;
+  }
+}
+
+.flipped {
+  cursor: pointer;
+  transform-origin: right;
+  transform: rotateY(180deg) translateX(100%);
+}
+
+.cardFront,
+.cardBack {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: inherit;
+  height: inherit;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  // flex-wrap: wrap;
+
+
+  background: linear-gradient(0deg, rgba(255, 214, 0, 0.16), rgba(255, 214, 0, 0.16)), #FFFFFF;
+  backface-visibility: hidden;
+
+  border: 2px solid rgba(130, 217, 255, 1);
+  border-radius: inherit;
+
+  box-shadow: 0 8px 0 #4AB2DF, 2px 8px 8px rgba(28, 6, 64, 0.56);
+
+  @include width-1280-L {
+    box-shadow: 0 6px 0 #4AB2DF, 2px 8px 8px rgba(28, 6, 64, 0.56);
+  }
+  @include width-1280-P {
+    box-shadow: 0 6px 0 #4AB2DF, 2px 8px 8px rgba(28, 6, 64, 0.56);
+  }
+}
+
+.cardFront {
+  background: #4AB2DF;
+}
+
+.cardBack {
+  transform: rotateY(-180deg);
+
+  & > img {
+    max-width: 56px;
+
+    @include width-1280-L {
+      max-width: 32px;
+    }
+    @include width-1280-P {
+      max-width: 32px;
+    }
+
+    @include width-854-L {
+      max-width: 24px;
+    }
+    @include width-534-P {
+      max-width: 24px;
+    }
+
+    @include width-640-L {
+      max-width: 20px;
+    }
+    @include width-360-P {
+      max-width: 20px;
+    }
+  }
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.disabled .cardBack {
+  box-shadow: 0 8px 0 #587987, 2px 8px 8px rgba(28, 6, 64, 0.48);
+  background: #D1D1D1;
+
+  @include width-1280-L {
+    box-shadow: 0 6px 0 #587987, 2px 8px 8px rgba(28, 6, 64, 0.48);
+  }
+  @include width-1280-P {
+    box-shadow: 0 6px 0 #587987, 2px 8px 8px rgba(28, 6, 64, 0.48);
+  }
+}
+
+.select .cardBack {
+  border: 4px solid #82D9FF;
+  background: linear-gradient(0deg, rgba(255, 192, 146, 0.64), rgba(255, 192, 146, 0.64)), #FFFFFF;
+}
+
+.correct .cardBack {
+  background: linear-gradient(0deg, rgba(0, 255, 25, 0.4), rgba(0, 255, 25, 0.4)), #FFFFFF;
+  border: 4px solid rgba(0, 255, 25, 0.56);
+  box-shadow: 0 8px 0 #00CE14, 2px 8px 8px rgba(28, 6, 64, 0.48);
+}
+
+.error .cardBack {
+  background: linear-gradient(0deg, rgba(254, 58, 58, 0.48), rgba(254, 58, 58, 0.48)), #FFFFFF;
+  border: 4px solid rgba(254, 58, 58, 0.48);
+  box-shadow: 0 8px 0 #D93131, 2px 8px 8px rgba(28, 6, 64, 0.48);
+}
+
+.content {
+  @include captionMRegular;
+  margin-top: 4px;
+  color: #38166D;
+
+  @include width-1280-L {
+    letter-spacing: 0;
+  }
+  @include width-1280-P {
+    letter-spacing: 0;
+  }
+
+  @include width-854-L {
+    margin-top: 2px;
+    font-size: 12px;
+    line-height: 100%;
+  }
+  @include width-534-P {
+    margin-top: 2px;
+    line-height: 100%;
+  }
+
+  @include width-640-L {
+    font-size: 10px;
+  }
+  @include width-360-P {
+    font-size: 10px;
+  }
+}

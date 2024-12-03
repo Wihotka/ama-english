@@ -1,0 +1,1 @@
+export {TemplateInputNumber} from './TemplateInputNumber';

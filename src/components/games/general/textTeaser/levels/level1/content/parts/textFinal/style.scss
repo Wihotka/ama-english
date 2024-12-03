@@ -1,0 +1,88 @@
+@import 'src/scss/_mixins.scss';
+
+.textContainer {
+    display: flex;
+    flex-flow: column;
+    gap: 24px;
+    box-shadow: 4px 8px 40px rgba(28, 6, 64, 0.32);
+    border-radius: 32px;
+    color: #fff;
+    width: 857px;
+    height: 430px;
+    text-align: center;
+    padding: 48px;
+    margin: 89px 0 96px;
+
+    @include width-1280-L() {
+        margin: 32px 0 44px;
+        width: 643px;
+        height: 341px;
+        padding: 32px;
+        gap: 16px;
+    }
+    @include width-1280-P() {
+        margin: 32px 0 44px;
+        width: 643px;
+        height: 341px;
+        padding: 32px;
+        gap: 16px;
+    }
+
+    @include width-1000-L() {
+        margin: 8px 0 18px;
+    }
+
+    @include width-854-L() {
+        margin: 24px 0 29px;
+    }
+
+    @include width-732-L() {
+        margin: 16px 0 34px;
+        height: 266px;
+        border-radius: 16px;
+    }
+
+    @include width-640-L() {
+        margin: 16px 0 22px;
+        width: 608px;
+        height: 226px;
+        padding: 16px;
+        gap: 8px;
+    }
+
+    @include width-852-P() {
+        margin: 96px 0 133px;
+        width: 643px;
+        height: 341px;
+        padding: 32px;
+        gap: 16px;
+    }
+
+    @include width-534-P() {
+        margin: 120px 0 165px;
+        width: 470px;
+        height: 429px;
+    }
+
+    @include width-412-P() {
+        margin: 72px 0 114px;
+        width: 364px;
+        height: 446px;
+    }
+
+    @include width-360-P() {
+        margin: 56px 0 62px;
+        width: 312px;
+        height: 426px;
+        padding: 16px;
+        gap: 8px;
+    }
+}
+
+.textTitle {
+    @include titleL();
+}
+
+.text {
+    @include bodyRegular140Font();
+}

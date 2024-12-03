@@ -1,0 +1,25 @@
+@import 'src/scss/_mixins.scss';
+
+.taskImage {
+    width: 48px;
+
+    @include width-1280-L() {
+        width: 40px;
+    }
+
+    @include width-1000-L() {
+        width: 56px;
+    }
+
+    @include width-732-L() {
+        width: 48px;
+    }
+
+    @include width-852-P() {
+        width: 56px;
+    }
+
+    @include width-412-P() {
+        width: 48px;
+    }
+}

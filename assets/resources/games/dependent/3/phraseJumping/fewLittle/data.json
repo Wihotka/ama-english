@@ -1,0 +1,242 @@
+[
+  {
+    "question": "There are a few-little fantasy books on the shelf.",
+    "correctAnswers": ["There are a few fantasy books on the shelf."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  },
+  {
+    "question": "I have a little-few friends in this city.",
+    "correctAnswers": ["I have a few friends in this city."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  },
+  {
+    "question": "I need to buy a few-little bottles of water.",
+    "correctAnswers": ["I need to buy a few bottles of water."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  },
+  {
+    "question": "We will come back in a little-few days.",
+    "correctAnswers": ["We will come back in a few days."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  },
+  {
+    "question": "There are a few-little strawberries in the fridge.",
+    "correctAnswers": ["There are a few strawberries in the fridge."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I have a little-few questions for my teacher.",
+    "correctAnswers": ["I have a few questions for my teacher."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There are always a few-little flowers in the vase.",
+    "correctAnswers": ["There are always a few flowers in the vase."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There are a little-few people in the museum.",
+    "correctAnswers": ["There are a few people in the museum."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There are a few-little good hotels in this city.",
+    "correctAnswers": ["There are a few good hotels in this city."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I have a few-little sports magazines at home.",
+    "correctAnswers": ["I have a few sports magazines at home."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I saw a little-few cows in the field yesterday.",
+    "correctAnswers": ["I saw a few cows in the field yesterday."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "We have a few-little eggs in the basket.",
+    "correctAnswers": ["We have a few eggs in the basket."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I have a little-few jackets in my wardrobe.",
+    "correctAnswers": ["I have a few jackets in my wardrobe."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There are a little-few ducks on the lake.",
+    "correctAnswers": ["There are a few ducks on the lake."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There are a few-little grapes in his bag.",
+    "correctAnswers": ["There are a few grapes in his bag."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There are a little-few girls in the hall.",
+    "correctAnswers": ["There are a few girls in the hall."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "Peel a few-little potatoes for the soup.",
+    "correctAnswers": ["Peel a few potatoes for the soup."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I need to buy a little-few things for tonight’s party.",
+    "correctAnswers": ["I need to buy a few things for tonight’s party."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "You have a few-little mistakes in the test.",
+    "correctAnswers": ["You have a few mistakes in the test."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There are a little-few trees in our garden.",
+    "correctAnswers": ["There are a few trees in our garden."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I want black tea with a few-little sugar.",
+    "correctAnswers": ["I want black tea with a little sugar."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "Add a few-little salt and mix the ingredients.",
+    "correctAnswers": ["Add a little salt and mix the ingredients."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I have a little-few time this afternoon.",
+    "correctAnswers": ["I have a little time this afternoon."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "These plants need a few-little water every day.",
+    "correctAnswers": ["These plants need a little water every day."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I usually eat a few-little yoghurt every morning.",
+    "correctAnswers": ["I usually eat a little yoghurt every morning."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There is a little-few salad on the plate.",
+    "correctAnswers": ["There is a little salad on the plate."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There is a little-few chicken soup in the bowl.",
+    "correctAnswers": ["There is a little chicken soup in the bowl."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I have a few-little money in my wallet.",
+    "correctAnswers": ["I have a little money in my wallet."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There is a little-few snow on the streets.",
+    "correctAnswers": ["There is a little snow on the streets."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There is a few-little bread in the cupboard.",
+    "correctAnswers": ["There is a little bread in the cupboard."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "There is a little-few meat in your burger.",
+    "correctAnswers": ["There is a little meat in your burger."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I always have a few-little orange juice in the fridge.",
+    "correctAnswers": ["I always have a little orange juice in the fridge."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "She added a little-few honey to my tea.",
+    "correctAnswers": ["She added a little honey to my tea."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I ate a little-few ice cream before dinner.",
+    "correctAnswers": ["I ate a little ice cream before dinner."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+,
+  {
+    "question": "I need a few-little milk for my cake.",
+    "correctAnswers": ["I need a little milk for my cake."],
+    "punctuationMark": ".",
+    "typePrompt":"fewLittle"
+  }
+]

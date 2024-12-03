@@ -1,0 +1,60 @@
+{
+  "gameStart": {
+    "youCanDo": "Έχεις το δικαίωμα για",
+    "textErrors": [
+      "λάθος",
+      "λάθη",
+      "λάθη"
+    ],
+    "noErrors": "Μην κάνεις λάθη",
+    "completeTaskFor": "Τελειώσε το παιχνίδι με",
+    "give": "Δώσε",
+    "rightAnswers": "σωστές απαντήσεις",
+    "textAnswers": [
+      "απάντηση",
+      "απάντηση",
+      "απαντήσεις"
+    ],
+    "textRight": [
+      "σωστή",
+      "σωστή",
+      "σωστές"
+    ],
+    "right": "σωστές",
+    "min": "λεπτά",
+    "sec": "δευτερόλεπτα"
+  },
+  "gameFinish": {
+    "successTrue": "Μπράβο",
+    "successFalse": "Η εργασία δεν ολοκληρώθηκε",
+    "successSmallTrue": "Αποστολή ολοκληρώθηκε",
+    "successSmallFalse": "Προσπάθησε ξανά",
+    "saving": "Το αποτέλεσμα αποθηκεύεται",
+    "failSave": "Το αποτέλεσμα δεν αποθηκεύτηκε",
+    "successSave": "Το αποτέλεσμα αποθηκεύτηκε",
+    "writeToHelp": "επικοινώνησε με την τεχνική υποστήριξη",
+    "min": "λεπτά",
+    "sec": "δευτερόλεπτα",
+    "indicators": {
+      "rightAnswersQty": "Αριθμός σωστών απαντήσεων",
+      "wrongAnswersQty": "Αριθμός λανθασμένων απαντήσεων",
+      "gameTime": "Ώρα παιχνιδιού",
+      "speed": "Ταχύτητα",
+      "readingSyllablesSpeed": "Ταχύτητα ανάγνωσης (συλ/λεπ)",
+      "readingWordsSpeed": "Ταχύτητα ανάγνωσης (λεξ/λεπ)",
+      "pointsQty": "Αριθμός πόντων"
+    }
+  },
+  "template": {
+    "settings": "Ρυθμίσεις",
+    "level": "Επίπεδο",
+    "description": "Περιγραφή παιχνιδιού",
+    "selectedSettings": "Επιλεγμένες ρυθμίσεις",
+    "levelsNames": {
+      "marathon": "Μαραθώνας",
+      "faultless": "Αλάνθαστος",
+      "fittings": "Εξαρτήματα",
+      "free": "Ελεύθερος"
+    }
+  }
+}

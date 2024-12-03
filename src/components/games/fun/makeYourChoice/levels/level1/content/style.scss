@@ -1,0 +1,69 @@
+@import 'src/scss/_mixins.scss';
+
+.contentContainer {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  width: 100%;
+  margin: 24px 0 78px;
+
+  @include width-1280-L() {
+    margin-bottom: 38px;
+  }
+  @include width-1280-P() {
+    margin-bottom: 38px;
+  }
+
+  @include width-1000-L() {
+    margin: 0 0 12px;
+  }
+
+  @include width-854-L() {
+    margin: -40px 0 22px;
+  }
+  
+  @include width-732-L() {
+    margin: -24px 0 10px;
+  }
+
+  @include width-768-P() {
+    margin: 88px 0 124px;
+  }
+
+  @include width-534-P() {
+    margin: 46px 0 78px;
+  }
+
+  @include width-412-P() {
+    margin: 32px 0 100px;
+  }
+
+  @include width-360-P() {
+    margin: 24px 0 48px;
+  }
+}
+
+.transitionContainer {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  width: 100%;
+}
+
+.enter {
+  opacity: 0;
+}
+
+.enterActive {
+  opacity: 1;
+  transition: opacity 100ms ease-in;
+}
+
+.exit {
+  opacity: 1;
+}
+
+.exitActive {
+  opacity: 0;
+  transition: opacity 100ms ease-in;
+}

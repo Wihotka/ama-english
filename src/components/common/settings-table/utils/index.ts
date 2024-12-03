@@ -1,0 +1,1 @@
+export {getSettingsTable} from './settings-table-getter';

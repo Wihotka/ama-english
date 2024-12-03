@@ -1,0 +1,1 @@
+export {TextFinal} from './TextFinal';

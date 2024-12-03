@@ -1,0 +1,368 @@
+[
+  {
+    "question": "Max have got a dog.",
+    "correctAnswers": ["Max has got a dog.", "Max's got a dog."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Jenny have got a turtle.",
+    "correctAnswers": ["Jenny has got a turtle.", "Jenny's got a turtle."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "a dog have got four legs.",
+    "correctAnswers": ["A dog has got four legs.", "A dog's got four legs."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "a cat have got green eyes.",
+    "correctAnswers": ["A cat has got green eyes.", "A cat's got green eyes."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "she have got blue eyes.",
+    "correctAnswers": ["She has got blue eyes.", "She's got blue eyes."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he have got five crayons.",
+    "correctAnswers": ["He has got five crayons.", "He's got five crayons."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Ella have got a red backpack.",
+    "correctAnswers": ["Ella has got a red backpack.", "Ella's got a red backpack."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Dean have got a green pencil box.",
+    "correctAnswers": ["Dean has got a green pencil box.", "Dean's got a green pencil box."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Mike have got a ruler.",
+    "correctAnswers": ["Mike has got a ruler.", "Mike's got a ruler."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Mickey have got a rubber.",
+    "correctAnswers": ["Mickey has got a rubber.", "Mickey's got a rubber."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Bella have got a blue pencil.",
+    "correctAnswers": ["Bella has got a blue pencil.", "Bella's got a blue pencil."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Finn have got an English textbook.",
+    "correctAnswers": ["Finn has got an English textbook.", "Finn's got an English textbook."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "I have got two sisters.",
+    "correctAnswers": ["I have got two sisters.", "I've got two sisters."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "I have got three brothers.",
+    "correctAnswers": ["I have got three brothers.", "I've got three brothers."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "I have got a yellow backpack.",
+    "correctAnswers": ["I have got a yellow backpack.", "I've got a yellow backpack."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "they have got two rubbers.",
+    "correctAnswers": ["They have got two rubbers.", "They've got two rubbers."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "they have got a nice school uniform.",
+    "correctAnswers": ["They have got a nice school uniform.", "They've got a nice school uniform."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "we have got three rulers.",
+    "correctAnswers": ["We have got three rulers.", "We've got three rulers."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "I have got a blue backpack.",
+    "correctAnswers": ["I have got a blue backpack.", "I've got a blue backpack."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "I have got a sister.",
+    "correctAnswers": ["I have got a sister.", "I've got a sister."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "you have got a rubber.",
+    "correctAnswers": ["You have got a rubber.", "You've got a rubber."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "you have got a purple pencil case.",
+    "correctAnswers": ["You have got a purple pencil case.", "You've got a purple pencil case."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "we have got orange pencils.",
+    "correctAnswers": ["We have got orange pencils.", "We've got orange pencils."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "we have got pink rulers.",
+    "correctAnswers": ["We have got pink rulers.", "We've got pink rulers."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "they have got some paper.",
+    "correctAnswers": ["They have got some paper.", "They've got some paper."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "they have got their notebooks.",
+    "correctAnswers": ["They have got their notebooks.", "They've got their notebooks."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Sarah and Nicole have got a textbook.",
+    "correctAnswers": ["Sarah and Nicole have got a textbook."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Tom and Tammy have got some crayons.",
+    "correctAnswers": ["Tom and Tammy have got some crayons."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Emma and Robert have got English textbooks.",
+    "correctAnswers": ["Emma and Robert have got English textbooks."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Mike and Kris have got blue pens.",
+    "correctAnswers": ["Mike and Kris have got blue pens."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Dan and Jim have got colour pencils.",
+    "correctAnswers": ["Dan and Jim have got colour pencils."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "my friends have got a dog.",
+    "correctAnswers": ["My friends have got a dog."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Sarah and Nicole have got a textbook.",
+    "correctAnswers": ["Sarah and Nicole have got a textbook."],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "Robert have not got a brother.",
+    "correctAnswers": ["Robert has not got a brother.", "Robert hasn't got a brother."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Fiona have not got a sister.",
+    "correctAnswers": ["Fiona has not got a sister.", "Fiona hasn't got a sister."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Debby have not got a notebook.",
+    "correctAnswers": ["Debby has not got a notebook.", "Debby hasn't got a notebook."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Karl have not got a pink pencil.",
+    "correctAnswers": ["Karl has not got a pink pencil.", "Karl hasn't got a pink pencil."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Phillip have not got a black backpack.",
+    "correctAnswers": ["Phillip has not got a black backpack.", "Phillip hasn't got a black backpack."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Tania have not got a yellow pencil box.",
+    "correctAnswers": ["Tania has not got a yellow pencil box.", "Tania hasn't got a yellow pencil box."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Sam have not got an orange ruler.",
+    "correctAnswers": ["Sam has not got an orange ruler.", "Sam hasn't got an orange ruler."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Diana have not got a blue ruler.",
+    "correctAnswers": ["Diana has not got a blue ruler.", "Diana hasn't got a blue ruler."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Tina and Jim have not got pencil boxes.",
+    "correctAnswers": ["Tina and Jim have not got pencil boxes.", "Tina and Jim haven't got pencil boxes."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Mike and Pam have not got black pens.",
+    "correctAnswers": ["Mike and Pam have not got black pens.", "Mike and Pam haven't got black pens."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Harry and Ron have not got notebooks.",
+    "correctAnswers": ["Harry and Ron have not got notebooks.", "Harry and Ron haven't got notebooks."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Joe and Matt have not got backpacks.",
+    "correctAnswers": ["Joe and Matt have not got backpacks.", "Joe and Matt haven't got backpacks."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "Steven and Veronica have not got rubbers.",
+    "correctAnswers": ["Steven and Veronica have not got rubbers.", "Steven and Veronica haven't got rubbers."],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "have you got a rubber?",
+    "correctAnswers": ["Have you got a rubber?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have you got a pencil box?",
+    "correctAnswers": ["Have you got a pencil box?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have they got a school uniform?",
+    "correctAnswers": ["Have they got a school uniform?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have they got any pens?",
+    "correctAnswers": ["Have they got any pens?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have they got any paper?",
+    "correctAnswers": ["Have they got any paper?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have she got a pencil?",
+    "correctAnswers": ["Has she got a pencil?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have he got a pen?",
+    "correctAnswers": ["Has he got a pen?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have Ann got a brother?",
+    "correctAnswers": ["Has Ann got a brother?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have Dan got a sister?",
+    "correctAnswers": ["Has Dan got a sister?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have he got a blue crayon?",
+    "correctAnswers": ["Has he got a blue crayon?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have she got a black pen?",
+    "correctAnswers": ["Has she got a black pen?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have Mary got an orange pencil?",
+    "correctAnswers": ["Has Mary got an orange pencil?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have Kevin got a notebook?",
+    "correctAnswers": ["Has Kevin got a notebook?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have Emma got a textbook?",
+    "correctAnswers": ["Has Emma got a textbook?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "have Kate got a colour pencil?",
+    "correctAnswers": ["Has Kate got a colour pencil?"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  }
+]

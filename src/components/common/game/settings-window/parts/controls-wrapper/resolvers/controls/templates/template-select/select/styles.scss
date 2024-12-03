@@ -1,0 +1,14 @@
+.icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-right: 17.6px;
+  svg{
+    filter: drop-shadow(1px 1px 2px rgba(0, 43, 83, 0.72));
+  }
+}
+
+.customSelect{
+  cursor: pointer;
+}

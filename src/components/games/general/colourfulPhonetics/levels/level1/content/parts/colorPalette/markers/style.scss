@@ -1,0 +1,42 @@
+@import 'src/scss/_mixins.scss';
+
+.markers {
+    display: block;
+    margin-top: 115px;
+
+    @include width-1280-L {
+        display: none;
+    }
+    @include width-1280-P {
+        display: none;
+    }
+    @include width-852-P {
+        display: none;
+    }
+}
+
+.markerContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.btnContainer {
+    position: relative;
+    width: 44px;
+    height: 44px;
+
+    &:hover + span > div {
+        transform: translateX(-16px);
+    }
+}
+
+.playBtn {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: -4px;
+    z-index: 1;
+}

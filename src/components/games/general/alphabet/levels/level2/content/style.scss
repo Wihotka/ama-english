@@ -1,0 +1,65 @@
+@import 'src/scss/_mixins.scss';
+
+.gameWrap {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.game {
+  overflow-x: visible;
+  min-height: 700px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: flex-start;
+  align-items: center;
+  width: 685px;
+  height: auto;
+  position: relative;
+
+  @include width-1280-L {
+    min-height: 550px;
+  }
+  @include width-1280-P {
+    min-height: 550px;
+  }
+  @include  width-852-P {
+    width: 550px;
+    min-height: 550px;
+  }
+
+  @include  width-1000-L {
+    width: 550px;
+    min-height: 420px;
+  }
+
+  @include width-854-L {
+    min-height: auto;
+  }
+
+  @include width-534-P {
+    min-height: auto;
+  }
+
+  @include width-732-L {
+    width: 376px;
+  }
+
+  @include width-534-P {
+    width: 100%
+  }
+
+  @include width-640-L {
+    width: 344px;
+  }
+}
+
+.image {
+  position: absolute;
+  width: 100%;
+}

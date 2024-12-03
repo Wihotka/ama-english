@@ -1,0 +1,86 @@
+@import 'src/scss/_mixins.scss';
+
+.map {
+  width: 100%;
+  height: 100%;
+
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include width-534-P {
+    min-width: 480px;
+  }
+
+  @include width-412-P {
+    min-width: 420px;
+  }
+
+  @include width-360-P {
+    min-width: 390px;
+  }
+}
+
+.field {
+  position: absolute;
+  width: calc(100% - 60px);
+  height: calc(100% - 100px);
+
+  display: grid;
+  grid-template-columns:repeat(12, 1fr);
+  grid-template-rows:repeat(6, 95px);
+
+  align-self: center;
+  align-items: center;
+
+  grid-template-areas:
+    "box0_0 box0_1 box0_2 box0_3 box0_4 box0_5 box0_6 box0_7 box0_8 box0_9 box0_10 box0_11"
+    "box1_0 box1_1 box1_2 box1_3 box1_4 box1_5 box1_6 box1_7 box1_8 box1_9 box1_10 box1_11"
+    "box2_0 box2_1 box2_2 box2_3 box2_4 box2_5 box2_6 box2_7 box2_8 box2_9 box2_10 box2_11"
+    "box3_0 box3_1 box3_2 box3_3 box3_4 box3_5 box3_6 box3_7 box3_8 box3_9 box3_10 box3_11"
+    "box4_0 box4_1 box4_2 box4_3 box4_4 box4_5 box4_6 box4_7 box4_8 box4_9 box4_10 box4_11"
+    "box5_0 box5_1 box5_2 box5_3 box5_4 box5_5 box5_6 box5_7 box5_8 box5_9 box5_10 box5_11";
+
+  gap: 4px 8px;
+
+  @include width-1280-L {
+    grid-template-rows: repeat(6, 64px);
+    gap: 2px 4px;
+  }
+  @include width-1280-P {
+    grid-template-rows: repeat(6, 64px);
+    gap: 2px 4px;
+  }
+
+  @include width-1000-L {
+    height: calc(100% - 64px);
+  }
+  @include width-768-P {
+    width: 100%;
+    height: calc(100% - 200px);
+  }
+
+  @include width-854-L {
+    grid-template-rows: repeat(6, 1fr);
+    gap: 1px 2px;
+  }
+  @include width-534-P {
+    width: 100%;
+    height: auto;
+    grid-template-rows: repeat(6, 48px);
+    gap: 1px 2px;
+  }
+
+  @include width-732-L {
+    max-width: 580px;
+  }
+  @include width-412-P {
+    grid-template-rows: repeat(6, 40px);
+  }
+
+  @include width-640-L {
+    width: 100%;
+    max-width: 540px;
+  }
+}

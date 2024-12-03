@@ -1,0 +1,158 @@
+@import 'src/scss/_mixins.scss';
+
+$keySize: 64px;
+$keyboardPadding: 24px;
+
+.keyboard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin-top: 8px;
+  padding: $keyboardPadding;
+
+  max-width: 832px;
+
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+
+  border-radius: 24px;
+
+  @include width-1280-L {
+    margin-top: 16px;
+    padding: 24px 36px;
+    max-width: 858px;
+  }
+  @include width-1280-P {
+    margin-top: 16px;
+    padding: 24px 36px;
+    max-width: 858px;
+  }
+  @include width-852-P {
+    margin-top: 16px;
+    padding: 16px 16px 24px 16px;
+    border-radius: 16px;
+  }
+
+  @include width-1000-L {
+    margin-top: 24px;
+    padding: 16px 16px 24px 16px;
+    max-width: 656px;
+    border-radius: 16px;
+  }
+
+  @include width-854-L {
+    margin-top: 16px;
+    padding: 16px;
+    max-width: 540px;
+  }
+  @include width-534-P {
+    margin-top: 16px;
+    padding: 16px 7px;
+  }
+
+  @include width-732-L {
+    margin-top: 8px;
+    padding: 16px 28px;
+    max-width: 484px;
+  }
+  @include width-412-P {
+    margin-top: 16px;
+    padding: 16px 8px;
+  }
+
+  @include width-640-L {
+    padding: 16px;
+    max-width: 461px;
+  }
+  @include width-360-P {
+    margin-top: 8px;
+  }
+}
+
+.key {
+  width: $keySize;
+  height: $keySize;
+
+  border-radius: 64px;
+
+  margin-left: 16px;
+  margin-top: 16px;
+
+  will-change: transform;
+
+  transition: .1s;
+
+  @include titleM;
+  text-transform: uppercase;
+
+  @include width-852-P {
+    width: 48px;
+    height: 48px;
+    margin-left: 12px;
+    margin-top: 12px;
+  }
+
+  @include width-1000-L {
+    width: 48px;
+    height: 48px;
+  }
+
+  @include width-854-L {
+    width: 40px;
+    height: 40px;
+    margin-left: 12px;
+    margin-top: 12px;
+    font-size: 24px;
+  }
+  @include width-534-P {
+    width: 40px;
+    height: 40px;
+    margin-left: 8px;
+    margin-top: 12px;
+    font-size: 24px;
+  }
+
+  @include width-732-L {
+    width: 32px;
+    height: 32px;
+    margin-top: 16px;
+    font-size: 18px;
+    line-height: 100%;
+  }
+  @include width-412-P {
+    width: 32px;
+    height: 32px;
+    margin-left: 4px;
+    margin-top: 12px;
+    font-size: 18px;
+    line-height: 100%;
+  }
+
+  @include width-640-L {
+    margin-top: 12px;
+  }
+  @include width-360-P {
+    width: 24px;
+    height: 24px;
+    margin-left: 8px;
+  }
+
+  &:nth-child(-n+11) {
+    margin-top: 0;
+  }
+
+  &:nth-child(1),
+  &:nth-child(12),
+  &:nth-child(22) {
+    margin-left: 0;
+  }
+
+  &Hidden {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.brake {width: 100%;}

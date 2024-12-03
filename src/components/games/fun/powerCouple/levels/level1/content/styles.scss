@@ -1,0 +1,35 @@
+@import 'src/scss/_mixins.scss';
+
+.content {
+  width: 1078px;
+  height: 670px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+  @include width-1280-L {
+    width: 720px;
+    height: 470px;
+  }
+  @include width-1280-P {
+    width: 720px;
+    height: 470px;
+  }
+
+  @include width-1000-L {
+    height: 420px;
+  }
+  @include width-768-P {
+    height: 620px;
+  }
+
+  @include width-854-L {
+    max-height: 560px;
+    height: 100%;
+  }
+  @include width-534-P {
+    overflow: hidden;
+  }
+}

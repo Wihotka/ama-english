@@ -1,0 +1,11 @@
+{
+  "somethingWrong": "Kaut kas nogāja greizi",
+  "platformError": "Atvaino, platformā radās kļūda.",
+  "tryReloadPage": "Mēģiniet atkārtoti ielādēt lapu vai uzrakstiet atbalsta dienestam",
+  "ifReloadNotHelpWriteTo": "Ja pārstartēšana nepalīdz, uzrakstiet atbalsta dienestam.",
+  "gameNotAllow": "Spēle nav pieejama",
+  "gameNotAllowMessage": "Atvainojiet, spēle ir bojāta, bet pārstartēšana varētu palīdzēt. Ja tas nepalīdz, uzrakstiet atbalsta dienestam",
+  "whenGameBroke": "Kamēr spēle tiek labota, vari uzspēlēt citus",
+  "pageNotFound": "Lapa nav atrasta",
+  "pageMoved": "Atvaino, lapa ir pārvietota vai pazuda"
+}

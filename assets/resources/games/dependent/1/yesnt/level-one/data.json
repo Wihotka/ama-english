@@ -1,0 +1,527 @@
+[
+    {
+        "textTitle": "My Family",
+        "taskText": "There are four of us in our family – my parents, my brother, and I. My mum enjoys reading and my dad enjoys playing chess with my brother Ken. My mother has long red hair and big brown eyes. My father is tall and handsome, he has short dark hair and grey eyes. We love each other and always try to spend more time together.",
+        "taskQuestions": [
+            {
+                "question": "There are five members in our family.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My mother has short dark hair.",
+                "correctAnswer": false
+            },
+            { "question": "My father is plump.", "correctAnswer": false },
+            { "question": "My dad likes running.", "correctAnswer": false },
+            { "question": "My father is short.", "correctAnswer": false },
+            {
+                "question": "My sister enjoys playing chess with my dad.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I like spending time with my grandparents.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My brother’s name is Ken.",
+                "correctAnswer": true
+            },
+            { "question": "I have got a brother.", "correctAnswer": true },
+            { "question": "My mum enjoys reading.", "correctAnswer": true },
+            {
+                "question": "My father has grey eyes.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I like spending time with my parents.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Trip to Scotland",
+        "taskText": "I go on a bike trip to Scotland every year alone because my parents stay at home. This is a very beautiful country. I go to Scotland because I like the book about it by Peter Green. I stay at different flats and houses. I spend two weeks in Scotland and then go home to London.",
+        "taskQuestions": [
+            {
+                "question": "Every year I go to England.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I go to Scotland with my parents.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Scotland is not a beautiful country.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I like the book about Scotland by Sam Brown.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I usually spend three weeks in Scotland.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I live in Paris.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My parents and I live in London.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I go to Scotland by bike.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I go to Scotland every year.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I go to Scotland because I like the book about it.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I usually stay at different places.",
+                "correctAnswer": true
+            },
+            {
+                "question": "My parents usually stay at home.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Birthday Presents",
+        "taskText": "The holiday I want to tell you about is a 10 day holiday with my grandparents. We celebrated my birthday on the 21st of July. I don’t have lessons at school, so I can stay with them really long. My grandparents gave me great presents: a brand new computer and two video games! It was my biggest dream.",
+        "taskQuestions": [
+            {
+                "question": "My birthday is on the 21st of June.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I spent 9 days with my grandparents.",
+                "correctAnswer": false
+            },
+            {
+                "question": "We celebrated Easter on the 21st of July.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I do not like the presents of my grandparents.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My grandparents gave me three video games.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My parents gave me a robot.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I spent my holidays with my grandparents.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I can stay with my grandparents because I do not have lessons at school.",
+                "correctAnswer": true
+            },
+            {
+                "question": "My grandparents gave me a computer and two video games.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I like my presents very much.",
+                "correctAnswer": true
+            },
+            {
+                "question": "My birthday is in summer.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I celebrated my birthday with my grandparents.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Holidays at Home",
+        "taskText": "My name is Helen, and when it comes to holidays, I usually spend them at home. I don’t like visiting different places. I have rest, read books, and rarely leave the house. But my sister enjoys having fun in other cities and countries. She usually gives different presents from the places she visits.",
+        "taskQuestions": [
+            {
+                "question": "I like visiting my friends on holidays.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My sister usually spends holidays at home.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My sister does not give me any presents.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I do not like reading.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I like visiting different countries.",
+                "correctAnswer": false
+            },
+            {
+                "question": "My name is Elen.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I rarely leave the house on holidays.",
+                "correctAnswer": true
+            },
+            {
+                "question": "On holidays, I read many books.",
+                "correctAnswer": true
+            },
+            {
+                "question": "My sister does not spend holidays at home.",
+                "correctAnswer": true
+            },
+            {
+                "question": "My sister usually gives me presents from different countries.",
+                "correctAnswer": true
+            },
+            {
+                "question": "My sister has fun in different cities and countries.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I do not like visiting different countries on holidays.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Our garden",
+        "taskText": "There is a beautiful garden near our school. The flowers there are all yellow! In the garden also grow lots of carrots and potatoes, and everyone likes them. Our teacher tells us lots of things about animals in our garden. We also watch TV shows about them and draw some paintings for our classroom.",
+        "taskQuestions": [
+            {
+                "question": "There is a beautiful park near our school.",
+                "correctAnswer": false
+            },
+            {
+                "question": "The flowers in our garden are blue.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Not everyone likes our vegetables.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Cucumbers and tomatoes grow in our garden.",
+                "correctAnswer": false
+            },
+            {
+                "question": "We grow fruit in our garden.",
+                "correctAnswer": false
+            },
+            {
+                "question": "We draw paintings for our homes.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Our teacher tells us about animals in our garden.",
+                "correctAnswer": true
+            },
+            {
+                "question": "We grow vegetables in our garden.",
+                "correctAnswer": true
+            },
+            {
+                "question": "We watch TV shows about animals in our garden.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Our garden is beautiful.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Our potatoes and carrots are very tasty.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Our garden is near the school.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Sam and Kate",
+        "taskText": "Sam and Kate live in Sweden and they are very happy. Usually, they have rest on a boat trip on a small river near their house. They swim together, walk a lot, eat fish and drink fizzy drinks. Sam wants to ask Kate to be his wife because they want to have a family: a daughter and a son.",
+        "taskQuestions": [
+            {
+                "question": "Sam and Kate live in Scotland.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Kate lives in Sweden alone.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Sam and Kate are not happy.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Sam and Kate usually have rest on a ship.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Sam and Kate usually eat meat and drink tea on holidays.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Sam does not love Kate.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Sam and Kate are very happy.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Sam and Kate want to have a family.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Sam wants to ask Kate to be his wife.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Sam and Kate usually have rest on a boat trip.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Sam and Kate walk a lot when they have rest.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Sam and Kate want to have two children.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Life on a Farm",
+        "taskText": "Betty Stevens lives on a farm in the hills with her family. They have some animals: a dog, a cat, two rabbits, and a parrot. They also grow potatoes, carrots, cucumbers, and tomatoes. It is not easy because the weather there is usually hot and sunny.",
+        "taskQuestions": [
+            {
+                "question": "Betty Stevens lives alone.",
+                "correctAnswer": false
+            },
+            {
+                "question": "The family has a bear.",
+                "correctAnswer": false
+            },
+            {
+                "question": "The family does not grow potatoes.",
+                "correctAnswer": false
+            },
+            {
+                "question": "The family grows apples.",
+                "correctAnswer": false
+            },
+            {
+                "question": "It is easy to grow vegetables on this farm.",
+                "correctAnswer": false
+            },
+            {
+                "question": "The weather there is wet and cold.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Betty Stevens lives on a farm.",
+                "correctAnswer": true
+            },
+            {
+                "question": "The family grows vegetables.",
+                "correctAnswer": true
+            },
+            {
+                "question": "The family has some animals.",
+                "correctAnswer": true
+            },
+            {
+                "question": "The farm is in the hills.",
+                "correctAnswer": true
+            },
+            {
+                "question": "The weather there is usually hot.",
+                "correctAnswer": true
+            },
+            {
+                "question": "The family has two rabbits, a cat, a parrot and a dog.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "American Lunch",
+        "taskText": "Every day in American schools starts at 9 o’clock. Children finish lessons in the afternoon, at 3 o’clock. At 12 o’clock children have lunch. Many boys and girls bring their lunch boxes from home. Parents make sandwiches and put some fruit.",
+        "taskQuestions": [
+            {
+                "question": "Every day in America starts at 10 o’clock.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Children finish lessons in the evening.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Children start lessons in the afternoon.",
+                "correctAnswer": false
+            },
+            {
+                "question": "At 12 o’clock children have breakfast.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Parents make cakes for children.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Not many boys and girls bring their lunch boxes.",
+                "correctAnswer": false
+            },
+            {
+                "question": "American school day starts at 9 o’clock.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Children finish lessons in the afternoon.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Parents put some fruit in the lunch boxes.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Many boys and girls bring their food to school.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Lunch starts at 12 o’clock.",
+                "correctAnswer": true
+            },
+            {
+                "question": "The school day finishes in the afternoon.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Madagascar",
+        "taskText": "Madagascar has two seasons: a warm, wet season from November to April, and a colder dry season between May and October. There are two parts in Madagascar. One part is hotter and wetter because it rains a lot. Another part is very windy, usually in the mornings. And what is your favourite weather?",
+        "taskQuestions": [
+            {
+                "question": "It is warm in Madagascar from May to October.",
+                "correctAnswer": false
+            },
+            {
+                "question": "It is dry in Madagascar from November to April.",
+                "correctAnswer": false
+            },
+            {
+                "question": "There are four parts in Madagascar.",
+                "correctAnswer": false
+            },
+            {
+                "question": "One part is very cloudy.",
+                "correctAnswer": false
+            },
+            {
+                "question": "One part is very windy, usually in the evenings.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Madagascar has three seasons.",
+                "correctAnswer": false
+            },
+            {
+                "question": "There are two seasons in Madagascar.",
+                "correctAnswer": true
+            },
+            {
+                "question": "It is warm and wet in Madagascar from November to April.",
+                "correctAnswer": true
+            },
+            {
+                "question": "It is cold in Madagascar in October.",
+                "correctAnswer": true
+            },
+            {
+                "question": "It is dry in Madagascar in May.",
+                "correctAnswer": true
+            },
+            {
+                "question": "One part of Madagascar is hot and wet because it rains a lot.",
+                "correctAnswer": true
+            },
+            {
+                "question": "One part of Madagascar is very windy.",
+                "correctAnswer": true
+            }
+        ]
+    },
+    {
+        "textTitle": "Christmas Elf",
+        "taskText": "My favourite holiday is Christmas. I usually put on a costume of a Christmas Elf and make presents for children. Then I visit houses in my small town and give them to children. They enjoy my presents and we have a lot of fun.",
+        "taskQuestions": [
+            {
+                "question": "My favourite holiday is Easter.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I do not like to put on any costumes.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I put on a costume of an Easter Bunny on Christmas.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I make birthday presents for children.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I make presents for my children.",
+                "correctAnswer": false
+            },
+            {
+                "question": "Children do not like my presents.",
+                "correctAnswer": false
+            },
+            {
+                "question": "I like Christmas very much.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I make presents for all children in my small town.",
+                "correctAnswer": true
+            },
+            {
+                "question": "On Christmas, I usually put on a costume of a Christmas Elf.",
+                "correctAnswer": true
+            },
+            {
+                "question": "Children enjoy my presents.",
+                "correctAnswer": true
+            },
+            {
+                "question": "We have a lot of fun with children.",
+                "correctAnswer": true
+            },
+            {
+                "question": "I live in a small town.",
+                "correctAnswer": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "theme": "food",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "travel",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "every Sunday": [
+        ["My", "dad", "cooks", "dinner", "", "."],
+        ["My", "sister", "and", "I", "play", "tennis", "", "."],
+        ["My", "aunt", "works", "in", "a", "hospital", "", "."],
+        ["He", "washes", "the", "dishes", "", "."],
+        ["I", "go", "to", "the", "library", "", "."]
+      ],
+      "at the moment": [
+        ["I'm", "playing", "a", "video", "game", "", "."],
+        ["She", "is", "playing", "basketball", "", "."],
+        ["He", "isn't", "doing", "his", "homework", "", "."],
+        ["We", "are", "climbing", "", "."],
+        ["We're", "helping", "our", "mum", "to", "clean", "the", "kitchen", "", "."]
+      ],
+      "yesterday": [
+        ["He", "was", "very", "friendly", "", "."],
+        ["They", "chatted", "a", "lot", "", "."],
+        ["I", "did", "not", "like", "coffee", "", "."],
+        ["She", "went", "swimming", "", "."],
+        ["Did", "they", "clean", "their", "classroom", "", "?"]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "food",
+    "wrongTheme": "professions",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "clothesWeather",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "cityLife",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/61.png",
+        "words": ["You", "should", "put", "on", "a", "jacket."],
+        "answer": "You should put on a jacket."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/62.png",
+        "words": ["I", "should", "give", "him", "a", "present."],
+        "answer": "I should give him a present."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/63.png",
+        "words": ["Should", "she", "learn", "English?"],
+        "answer": "Should she learn English?"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/64.png",
+        "words": ["You", "must", "wear", "a", "hat", "when", "it", "is", "sunny."],
+        "answer": "You must wear a hat when it is sunny."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/65.png",
+        "words": ["Must", "you", "lean", "on", "the", "glass?"],
+        "answer": "Must you lean on the glass?"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "feelings",
+    "wrongTheme": "professions",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/66.png",
+        "words": ["The", "cat", "is", "behind", "the", "box."],
+        "answer": "The cat is behind the box."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/67.png",
+        "words": ["The", "cat", "is", "between", "the", "boxes."],
+        "answer": "The cat is between the boxes."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/68.png",
+        "words": ["The", "table", "is", "between", "the", "armchairs."],
+        "answer": "The table is between the armchairs."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/69.png",
+        "words": ["The", "lamp", "is", "on", "the", "right", "of", "the", "table."],
+        "answer": "The lamp is on the right of the table."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/70.png",
+        "words": ["The", "table", "is", "in", "the", "middle", "of", "the", "room."],
+        "answer": "The table is in the middle of the room."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "plays": [
+        ["He", "usually", "", "football", "with", "his", "best", "friends."],
+        ["Mark", "", "tennis", "with", "his", "dad", "on", "Sunday."],
+        ["My", "mum", "usually", "", "chess", "every", "day", "after", "breakfast."],
+        ["His", "family", "", "snowballs", "in", "winter."],
+        ["Our", "sibling", "often", "", "the", "guitar", "in", "the", "park."]
+      ],
+      "playing": [
+        ["We", "are", "", "golf", "in", "the", "green", "park", "now."],
+        ["John", "is", "", "basketball", "at", "the", "championship."],
+        ["I", "am", "", "online", "games", "at", "the", "moment."],
+        ["Ann", "is", "", "with", "her", "sisters", "in", "the", "playground."],
+        ["My", "brothers", "are", "", "with", "our", "pet", "in", "the", "living", "room."]
+      ],
+      "played": [
+        ["Max", "", "with", "a", "kite", "ten", "minutes", "ago."],
+        ["Rebecca", "", "volleyball", "last", "summer."],
+        ["His", "father", "", "football", "with", "his", "friends", "last", "weekend."],
+        ["My", "teacher", "", "chess", "with", "my", "classmates", "last", "lesson."],
+        ["My", "little", "sister", "", "with", "her", "toys", "yesterday."]
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "theme": "professions",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "feelings",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "some": [
+        ["There", "are", "", "tomatoes", "in", "the", "fridge."],
+        ["", "African", "animals", "can", "live", "in", "zoos."],
+        ["We", "want", "", "salty", "cookies."],
+        ["My", "family", "has", "got", "", "pets."],
+        ["Sarah", "can", "cook", "", "snacks."]
+      ],
+      "any": [
+        ["Have", "you", "got", "", "eating", "habits?"],
+        ["Has", "she", "got", "", "red", "crayons?"],
+        ["Have", "you", "got", "", "lessons", "in", "the", "evening?"],
+        ["There", "aren't", "", "pictures", "on", "the", "wall."],
+        ["Tim", "can't", "cook", "", "sandwiches."]
+      ],
+      "much": []
+    }
+  },
+  {
+    "id": 14,
+    "theme": "clothesWeather",
+    "wrongTheme": "professions",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/71.png",
+        "words": ["My", "mum", "wash", "all", "the", "dishes", "a", "minute", "ago."],
+        "answer": "My mum washed all the dishes a minute ago."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/72.png",
+        "words": ["Dan", "started", "doing", "his", "homework", "ten", "minutes", "ago."],
+        "answer": "Dan started doing his homework ten minutes ago."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/73.png",
+        "words": ["Kris", "likes", "going", "to", "the", "park", "every", "weekend."],
+        "answer": "Kris likes going to the park every weekend."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/74.png",
+        "words": ["Betty", "is", "working", "on", "the", "computer", "right", "now."],
+        "answer": "Betty is working on the computer right now."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/75.png",
+        "words": ["My", "grandmother", "and", "I", "are", "making", "a", "pie", "at", "the", "moment."],
+        "answer": "My grandmother and I are making a pie at the moment."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "time",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "cityLife",
+    "wrongTheme": "professions",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "time",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "watches": [
+        ["Sam", "", "challenges", "on", "YouTube", "every", "day."],
+        ["Mary", "", "films", "every", "evening."],
+        ["He", "", "TV", "at", "weekends."],
+        ["She", "usually", "", "funny", "videos."],
+        ["Dan", "", "his", "favourite", "TV", "show", "on", "Sundays."]
+      ],
+      "watching": [
+        ["I'm", "", "a", "film", "right", "now."],
+        ["We", "aren't", "", "a", "video", "right", "now."],
+        ["My", "mum", "is", "", "her", "favourite", "film", "at", "the", "moment."],
+        ["He", "isn't", "", "a", "scary", "film", "at", "this", "moment."],
+        ["Are", "they", "", "a", "funny", "film", "now?"]
+      ],
+      "watched": [
+        ["He", "", "this", "film", "yesterday."],
+        ["I", "", "this", "TV", "show", "last", "Monday."],
+        ["We", "", "this", "video", "last", "evening."],
+        ["My", "dad", "", "his", "favourite", "show", "last", "Wednesday."],
+        ["Max", "and", "Nick", "", "challenges", "on", "YouTube", "yesterday."]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/76-80.png",
+        "words": ["There", "is", "much", "water", "in", "the", "fridge."],
+        "answer": "There is much water in the fridge."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/76-80.png",
+        "words": ["There", "are", "many", "eggs", "in", "the", "fridge."],
+        "answer": "There are many eggs in the fridge."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/76-80.png",
+        "words": ["There", "is", "some", "milk", "in", "the", "fridge."],
+        "answer": "There is some milk in the fridge."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/76-80.png",
+        "words": ["Do", "we", "have", "any", "bread", "in", "the", "fridge?"],
+        "answer": "Do we have any bread in the fridge?"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/76-80.png",
+        "words": ["Do", "you", "have", "any", "juice", "in", "the", "fridge?"],
+        "answer": "Do you have any juice in the fridge?"
+      }
+    ]
+  }
+]

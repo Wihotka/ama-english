@@ -1,0 +1,638 @@
+// todo вынести к переменным
+$mainFont: 'Rubik', 'Roboto', Arial, sans-serif;
+
+// *************************************************************
+//                           COMMON
+// *************************************************************
+
+@mixin normalButtonTransition() {
+  transition: all .3s;
+}
+
+// *************************************************************
+//                           FONTS
+// *************************************************************
+
+// titles
+
+@mixin titleXL() {
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 48px;
+  }
+
+  @include secondPoint {
+    font-size: 28px;
+    font-weight: 800;
+  }
+}
+
+@mixin titleL() {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 34px;
+    font-weight: 700;
+  }
+
+  @include secondPoint {
+    font-size: 22px;
+  }
+}
+
+@mixin titleM() {
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 130%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 120%;
+  }
+
+  @include secondPoint {
+    font-size: 20px;
+  }
+}
+
+@mixin titleS() {
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 130%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 24px;
+    line-height: 120%;
+  }
+
+  @include secondPoint {
+    font-size: 18px;
+  }
+}
+
+// subtitles
+
+@mixin subtitleL() {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 130%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 22px;
+  }
+
+  @include secondPoint {
+    font-size: 16px;
+    line-height: 120%;
+  }
+}
+
+@mixin subtitleM() {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 18px;
+  }
+
+  @include secondPoint {
+    font-size: 14px;
+    line-height: 120%;
+  }
+}
+
+@mixin subtitleS() {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 130%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 16px;
+  }
+
+  @include secondPoint {
+    font-size: 12px;
+    line-height: 120%;
+  }
+}
+
+// button
+
+@mixin buttonFont() {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 130%;
+  letter-spacing: 0.01em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 18px;
+  }
+
+  @include secondPoint {
+    font-size: 16px;
+    line-height: 120%;
+  }
+}
+
+// body
+
+@mixin bodyBoldFont() {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 16px;
+  }
+
+  @include secondPoint {
+    font-size: 12px;
+  }
+}
+
+@mixin bodyMediumFont() {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 16px;
+  }
+
+  @include secondPoint {
+    font-size: 12px;
+  }
+}
+
+@mixin bodyRegularFont() {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 16px;
+  }
+
+  @include secondPoint {
+    font-size: 12px;
+  }
+}
+
+@mixin bodyRegular140Font() {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 16px;
+  }
+
+  @include secondPoint {
+    font-size: 12px;
+  }
+}
+
+// captions
+
+@mixin captionMBold() {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 13px;
+  }
+
+  @include secondPoint {
+    font-size: 10px;
+  }
+}
+
+@mixin captionMSemiBold() {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 13px;
+  }
+
+  @include secondPoint {
+    font-size: 10px;
+  }
+}
+
+@mixin captionMRegular() {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 13px;
+  }
+
+  @include secondPoint {
+    font-size: 10px;
+  }
+}
+
+@mixin captionS() {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.03em;
+
+  @content;
+
+  @include firstPoint {
+    font-size: 11px;
+  }
+
+  @include secondPoint {
+    font-size: 10px;
+  }
+}
+
+// settings
+
+// todo добавят позже адаптив в макет
+@mixin settingsEBoldFont() {
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+
+  @content;
+}
+
+@mixin settingsBoldFont() {
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+
+  @content;
+}
+
+// *************************************************************
+//                           MEDIA
+// *************************************************************
+
+@mixin firstPoint() {
+  @include media(1280) {
+    @content
+  }
+}
+
+@mixin secondPoint() {
+  @include width-732-L {
+    @content
+  }
+
+  @include width-412-P {
+    @content
+  }
+}
+
+// common
+
+@mixin media($width) {
+  @media screen and (max-width: $width+'px') {
+    @content
+  }
+}
+
+@mixin mediaH($height) {
+  @media screen and (max-height: $height+'px') {
+    @content
+  }
+}
+
+@mixin media-landscape($width) {
+  @media screen and (max-width: $width+'px') and (orientation: landscape) {
+    @content
+  }
+}
+
+@mixin media-portrait($width) {
+  @media screen and (max-width: $width+'px') and (orientation: portrait) {
+    @content
+  }
+}
+
+// landscape
+
+@mixin width-1340-L() {
+  @include media-landscape(1340) {
+    @content
+  }
+}
+
+@mixin width-1280-L() {
+  @include media-landscape(1280) {
+    @content
+  }
+}
+
+@mixin width-1000-L() {
+  @include media-landscape(1000) {
+    @content
+  }
+}
+
+@mixin width-854-L() {
+  @include media-landscape(854) {
+    @content
+  }
+}
+
+@mixin width-732-L() {
+  @include media-landscape(732) {
+    @content
+  }
+}
+
+@mixin width-640-L() {
+  @include media-landscape(640) {
+    @content
+  }
+}
+
+// portrait
+
+@mixin width-1280-P() {
+  @include media-portrait(1280) {
+    @content
+  }
+}
+
+@mixin width-852-P() {
+  @include media-portrait(852) {
+    @content
+  }
+}
+
+@mixin width-768-P() {
+  @include media-portrait(768) {
+    @content
+  }
+}
+
+@mixin width-534-P() {
+  @include media-portrait(534) {
+    @content
+  }
+}
+
+@mixin width-412-P() {
+  @include media-portrait(412) {
+    @content
+  }
+}
+
+@mixin width-360-P() {
+  @include media-portrait(360) {
+    @content
+  }
+}
+
+// *************************************************************
+//                           CUSTOM
+// *************************************************************
+
+@mixin disabledInput($grayscaleIndex:1) {
+  filter: grayscale($grayscaleIndex);
+  pointer-events: none;
+  cursor: not-allowed;
+  position: relative;
+
+  &:after {
+    position: absolute;
+    content: '';
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0);
+    z-index: 100;
+  }
+}
+
+//миксин для рамок с градиентами
+// $position может быть relative | absolute | fixed. Если передать static - работать будет не адекватно!
+@mixin border-gradient($borWidth, $borRad, $borBg, $blockBg: #fff, $position: relative) {
+  position: $position;
+  background: $blockBg;
+  border-radius: $borRad;
+  background-clip: padding-box !important;
+  border: solid $borWidth transparent;
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    margin: -$borWidth;
+    border-radius: inherit;
+    background: $borBg;
+  }
+}
+
+//добавляет обводку тексту, а так же тень, если потребуется
+@mixin text-stroke-with-text-shadow(
+  $size,
+  $color,
+  $shadow-offset-x: 0,    // аргументы, когда нужен text-shadow
+  $shadow-offset-y: 0,    //
+  $shadow-blur-radius: 0, //
+  $shadow-color: #0000,    //_____________________________________________
+) {
+  $radius: $size;
+  $stroke: ();
+
+  @for $i from -$size through $size {
+    @for $k from -$size through $size {
+
+      $x: $k;
+      $y: $i;
+
+      @if $k > 0 {
+        $x: $k - 0.5;
+      } @else if $k < 0 {
+        $x: $k + 0.5;
+      }
+
+      @if $i > 0 {
+        $y: $i - 0.5;
+      } @else if $i < 0 {
+        $y: $i + 0.5;
+      }
+
+      @if ($x*$x + $y*$y <= $radius*$radius) {
+        $stroke: append($stroke, $i*1px $k*1px 0 $color, comma);
+      }
+    }
+  }
+
+  $stroke: append($stroke, $shadow-offset-x*1px $shadow-offset-y*1px $shadow-blur-radius*1px $shadow-color);
+
+  text-shadow: $stroke;
+}
+
+
+@mixin heightEqualsWidth($percents:100) { // ratio 1:1 по умолчанию
+  position: relative; //обертка
+  width: 100%;
+
+  &:before {
+    content: "";
+    display: block;
+    padding-top: $percents * 1%;
+  }
+
+  & > * { // контейнеры на уровень ниже
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}
+
+// *** ЛИШНЕЕ ***
+// todo избавиться
+// использовать необходимо миксины для landscape (357 строка) и portrait (395 строка)
+// если макет адаптива не готов полностью или его нет вообще - используй миксины media и mediaH (331 строка)
+
+@mixin lg-block() {
+  @include media(999) {
+    @content;
+  }
+}
+
+@mixin xLg-block() {
+  @include media(854) {
+    @content;
+  }
+}
+
+@mixin md-block() {
+  @include media(767) {
+    @content;
+  }
+}
+
+@mixin xmd-block() {
+  @include media(676) {
+    @content;
+  }
+}
+
+@mixin smH-block() {
+  @include mediaH(534) {
+    @content;
+  }
+}
+
+@mixin sm-block() {
+  @include media(533) {
+    @content;
+  }
+}
+
+// todo <= 412
+@mixin xs-block() {
+  @include media(411) {
+    @content;
+  }
+}
+
+@mixin xxs-block() {
+  @include media(360) {
+    @content;
+  }
+}
+
+@mixin smWH-block() {
+  @include media-portrait(534+1) {
+    @content
+  }
+
+  @include media-landscape(854+1) {
+    @content
+  }
+}
+
+@mixin xsWH-block() {
+  @include media-portrait(412) {
+    @content
+  }
+
+  @include media-landscape(732) {
+    @content
+  }
+}
+
+@mixin xxsWH-block() {
+  @include media-portrait(360) {
+    @content
+  }
+
+  @include media-landscape(640) {
+    @content
+  }
+}

@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "You wake up at 7 o'clock.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/1.svg"
+  },
+  {
+    "sentence": "You do not wake up at 7 o'clock.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/1.svg"
+  },
+  {
+    "sentence": "Do you wake up at 7 o'clock?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/1.svg"
+  },
+  {
+    "sentence": "They go to school.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/2.svg"
+  },
+  {
+    "sentence": "They don't go to school.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/2.svg"
+  },
+  {
+    "sentence": "Do they go to school?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/2.svg"
+  },
+  {
+    "sentence": "We like coffee.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/3.svg"
+  },
+  {
+    "sentence": "We do not like coffee.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/3.svg"
+  },
+  {
+    "sentence": "Do we like coffee?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/3.svg"
+  },
+  {
+    "sentence": "She likes winter.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/4.svg"
+  },
+  {
+    "sentence": "She does not like winter.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/4.svg"
+  },
+  {
+    "sentence": "Does she like winter?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/4.svg"
+  },
+  {
+    "sentence": "She eats many fruit.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/5.svg"
+  },
+  {
+    "sentence": "She doesn't eat many fruit.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/5.svg"
+  },
+  {
+    "sentence": "Does she eat many fruit?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/5.svg"
+  },
+  {
+    "sentence": "He washes his hands every day.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/6.svg"
+  },
+  {
+    "sentence": "He doesn't wash his hands every day.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/6.svg"
+  },
+  {
+    "sentence": "Does he wash his hands every day?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/6.svg"
+  },
+  {
+    "sentence": "She watches TV.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/7.svg"
+  },
+  {
+    "sentence": "She doesn't watch TV.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/7.svg"
+  },
+  {
+    "sentence": "Does she watch TV?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/7.svg"
+  },
+  {
+    "sentence": "He drinks juice.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/8.svg"
+  },
+  {
+    "sentence": "He doesn't drink juice.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/8.svg"
+  },
+  {
+    "sentence": "Does he drink juice?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/8.svg"
+  },
+  {
+    "sentence": "He usually has breakfast at 8 o'clock.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/9.svg"
+  },
+  {
+    "sentence": "He doesn't usually have breakfast at 8 o'clock.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/9.svg"
+  },
+  {
+    "sentence": "Does he usually have breakfast at 8 o'clock?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/9.svg"
+  },
+  {
+    "sentence": "We like Christmas.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/10.png"
+  },
+  {
+    "sentence": "We do not like Christmas.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/10.png"
+  },
+  {
+    "sentence": "Do we like Christmas?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/10.png"
+  },
+  {
+    "sentence": "She likes autumn.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/11.svg"
+  },
+  {
+    "sentence": "She does not like autumn.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/11.svg"
+  },
+  {
+    "sentence": "Does she like autumn?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/11.svg"
+  },
+  {
+    "sentence": "They like dolphins.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/12.png"
+  },
+  {
+    "sentence": "They do not like dolphins.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/12.png"
+  },
+  {
+    "sentence": "Do they like dolphins?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/12.png"
+  },
+  {
+    "sentence": "Hamsters eat vegetables.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/13.png"
+  },
+  {
+    "sentence": "Hamsters don't eat meat.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/13.png"
+  },
+  {
+    "sentence": "Do hamsters eat vegetables?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/13.png"
+  },
+  {
+    "sentence": "The rainbow comes after the rain.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/14.png"
+  },
+  {
+    "sentence": "The rainbow doesn't come after the rain.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/14.png"
+  },
+  {
+    "sentence": "Does the rainbow come after the rain?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/14.png"
+  },
+  {
+    "sentence": "We like apples.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/15.svg"
+  },
+  {
+    "sentence": "We do not like apples.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/15.svg"
+  },
+  {
+    "sentence": "Do we like apples?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/15.svg"
+  },
+  {
+    "sentence": "He eats sandwiches for breakfast.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/16.png"
+  },
+  {
+    "sentence": "He doesn't eat sandwiches for breakfast.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/16.png"
+  },
+  {
+    "sentence": "Does he eat sandwiches for breakfast?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/16.png"
+  },
+  {
+    "sentence": "My mother likes flowers.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/17.png"
+  },
+  {
+    "sentence": "My mother doesn't like flowers.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/17.png"
+  },
+  {
+    "sentence": "Does my mother like flowers?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/17.png"
+  },
+  {
+    "sentence": "She goes to the cinema every Sunday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/18.svg"
+  },
+  {
+    "sentence": "She doesn't go to the cinema every Sunday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/18.svg"
+  },
+  {
+    "sentence": "Does she go to the cinema every Sunday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/18.svg"
+  },
+  {
+    "sentence": "We drink tea with lemon every morning.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/19.svg"
+  },
+  {
+    "sentence": "We don't drink tea with lemon every morning.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/19.svg"
+  },
+  {
+    "sentence": "Do we drink tea with lemon every morning?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/19.svg"
+  },
+  {
+    "sentence": "He plays football every Saturday.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/20.svg"
+  },
+  {
+    "sentence": "He doesn't play football every Saturday.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/20.svg"
+  },
+  {
+    "sentence": "Does he play football every Saturday?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/20.svg"
+  },
+  {
+    "sentence": "He wears T-shirts.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/21.svg"
+  },
+  {
+    "sentence": "He does not wear T-shirts.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/21.svg"
+  },
+  {
+    "sentence": "Does he wear T-shirts?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/21.svg"
+  },
+  {
+    "sentence": "She plays computer games.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/22.png"
+  },
+  {
+    "sentence": "She does not play computer games.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/22.png"
+  },
+  {
+    "sentence": "Does she play computer games?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/22.png"
+  },
+  {
+    "sentence": "We go to the hospital.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/23.png"
+  },
+  {
+    "sentence": "We do not go to the hospital.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/23.png"
+  },
+  {
+    "sentence": "Do we go to the hospital?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/23.png"
+  },
+  {
+    "sentence": "This boy draws pictures at the lesson.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/24.png"
+  },
+  {
+    "sentence": "This boy does not draw pictures at the lesson.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/24.png"
+  },
+  {
+    "sentence": "Does this boy draw pictures at the lesson?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/24.png"
+  },
+  {
+    "sentence": "They learn English with a textbook.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/25.png"
+  },
+  {
+    "sentence": "They do not learn English with a textbook.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/25.png"
+  },
+  {
+    "sentence": "Do they learn English with a textbook?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/25.png"
+  },
+  {
+    "sentence": "I usually write with a pencil.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/26.svg"
+  },
+  {
+    "sentence": "I don't usually write with a pencil.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/26.svg"
+  },
+  {
+    "sentence": "Do I usually write with a pencil?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/26.svg"
+  },
+  {
+    "sentence": "He likes singing.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/27.png"
+  },
+  {
+    "sentence": "He does not like singing.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/27.png"
+  },
+  {
+    "sentence": "Does he like singing?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/27.png"
+  },
+  {
+    "sentence": "He usually skies at winter.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/28.png"
+  },
+  {
+    "sentence": "He doesn't usually ski at winter.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/28.png"
+  },
+  {
+    "sentence": "Does he usually ski at winter?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/28.png"
+  },
+  {
+    "sentence": "My brother wants some pie.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/29.png"
+  },
+  {
+    "sentence": "My brother doesn't want any pie.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/29.png"
+  },
+  {
+    "sentence": "Does my brother want any pie?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/29.png"
+  },
+  {
+    "sentence": "A jellyfish lives in the sea.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/30.svg"
+  },
+  {
+    "sentence": "A jellyfish does not live in the river.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/30.svg"
+  },
+  {
+    "sentence": "Does a jellyfish live in the sea?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/30.svg"
+  },
+  {
+    "sentence": "We usually play tennis every weekend.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/31.svg"
+  },
+  {
+    "sentence": "We don't usually play tennis every weekend.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/31.svg"
+  },
+  {
+    "sentence": "Do we usually play tennis every weekend?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/presentSimple/31.svg"
+  }
+]

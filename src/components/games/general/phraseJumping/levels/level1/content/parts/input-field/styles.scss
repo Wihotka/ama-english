@@ -1,0 +1,135 @@
+@import 'src/scss/_mixins.scss';
+
+.inputField {
+  position: relative;
+  width: 100%;
+  height: 120px;
+  min-height: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include width-1280-L {
+    height: 90px;
+  }
+  @include width-1280-P {
+    height: 90px;
+  }
+
+  @include width-534-P {
+    height: 120px;
+  }
+
+  @include width-732-L {
+    height: 66px;
+  }
+}
+
+.textArea {
+  width: 100%;
+  height: 100%;
+
+  border-radius: 32px;
+  box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.4), inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+
+  padding: 24px 80px 24px 40px;
+
+  background-color: #fff;
+
+  @include titleS;
+  text-align: left;
+  color: #7141B7;
+
+  outline: none;
+  overflow: hidden;
+  resize: none;
+
+  @include width-1280-L {
+    padding: 16px 64px 16px 32px;
+  }
+  @include width-1280-P {
+    padding: 16px 64px 16px 32px;
+  }
+  @include width-852-P {
+    padding: 16px 56px 16px 16px;
+  }
+
+  @include width-1000-L {
+    padding: 16px 56px 16px 32px;
+  }
+
+  @include width-854-L {
+    padding: 16px 56px 16px 16px;
+  }
+
+  @include width-640-L {
+    padding: 8px 40px 8px 8px;
+  }
+  @include width-360-P {
+    padding: 16px 48px 16px 16px;
+  }
+}
+
+.correct {
+  box-shadow: 0 0 4px #72FF80,
+  0 0 32px #72FF80,
+  4px 8px 24px rgba(56, 22, 109, 0.4),
+  inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+}
+
+.mistake {
+  box-shadow: 0 0 4px #FE3A3A,
+  0 0 32px #FE3A3A,
+  4px 8px 24px rgba(56, 22, 109, 0.4),
+  inset 4px 6px 7px rgba(67, 25, 2, 0.24);
+}
+
+.mark {
+  position: absolute;
+  right: 24px;
+
+  width: 40px;
+  height: calc(100% - 32px);
+  padding: 24px 15px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 24px;
+  opacity: 0.4;
+
+  background-color: #fff;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+  @include titleS;
+  color: #38166D;
+
+  @include width-1280-L {
+    right: 16px;
+    width: 32px;
+    padding: 12px 15px;
+  }
+  @include width-1280-P {
+    right: 16px;
+    width: 32px;
+    padding: 12px 15px;
+  }
+
+  @include width-732-L {
+    width: 24px;
+    padding: 6px;
+  }
+  @include width-412-P {
+    width: 24px;
+    padding: 6px;
+  }
+
+  @include width-640-L {
+    right: 8px;
+  }
+}

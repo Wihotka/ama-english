@@ -1,0 +1,230 @@
+@import "/src/scss/mixins";
+
+.container {
+  width: fit-content;
+  height: fit-content;
+  margin: 0 auto;
+  padding: 54px;
+  border-radius: 32px;
+  background: #D9E6FF;
+  box-shadow: 7px 7px 10px 0px rgba(55, 4, 38, 0.20), 4px 4px 24px 0px rgba(28, 6, 64, 0.40), -3px -3px 10px 0px #BBD6FF inset;
+
+  @include width-1000-L {
+    padding: 32px;
+    border-radius: 24px;
+  }
+  @include width-768-P {
+    padding: 32px;
+    border-radius: 24px;
+  }
+
+  @include width-732-L {
+    width: 100%;
+    max-width: 510px;
+    border-radius: 24px;
+  }
+  @include width-412-P {
+    width: 100%;
+    border-radius: 24px;
+  }
+
+  .winners {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-bottom: 32px;
+
+    @include width-1000-L {
+      gap: 20px;
+    }
+    @include width-768-P {
+      gap: 20px;
+    }
+
+    @include width-732-L {
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    @include width-412-P {
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+  
+    .winner {
+      position: relative;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 10px;
+      width: 435px;
+      height: 120px;
+      padding-left: 60px;
+      border-radius: 24px;
+      background: #FFF;
+      box-shadow: 4px 4px 12px 0px rgba(28, 6, 64, 0.20), -3px -3px 10px 0px #BBD6FF inset;
+
+      @include width-1000-L {
+        width: 328px;
+        height: 100px;
+        border-radius: 18px;
+      }
+      @include width-768-P {
+        width: 328px;
+        height: 100px;
+        border-radius: 18px;
+      }
+
+      @include width-732-L {
+        width: 100%;
+        height: 80px;
+      }
+      @include width-412-P {
+        width: 100%;
+        height: 80px;
+      }
+
+      &Loser {
+        filter: grayscale(1);
+      }
+
+      .place {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 60px;
+        border-radius: 24px 0px 0px 24px;
+        color: #FFF;
+        background: #FFAE15;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 4px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+        font-weight: 700;
+        font-size: 48px;
+
+        @include width-1000-L {
+          width: 48px;
+          border-radius: 18px 0px 0px 18px;
+          font-size: 32px;
+        }
+        @include width-768-P {
+          width: 48px;
+          border-radius: 18px 0px 0px 18px;
+          font-size: 32px;
+        }
+
+        @include width-732-L {
+          font-size: 28px;
+        }
+        @include width-412-P {
+          font-size: 28px;
+        }
+      }
+
+      & > img {
+        object-fit: contain;
+        object-position: center;
+
+        @include width-1000-L {
+          width: 96px;
+        }
+        @include width-768-P {
+          width: 96px;
+        }
+
+        @include width-732-L {
+          width: 80px;
+        }
+        @include width-412-P {
+          width: 80px;
+        }
+      }
+
+      .info {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+
+        & > h4 {
+          color: #FFF;
+          font-weight: 700;
+          font-size: 24px;
+          line-height: 140%;
+          -webkit-text-stroke: 1px #000;
+
+          @include width-1000-L {
+            font-size: 20px;
+          }
+          @include width-768-P {
+            font-size: 20px;
+          }
+
+          @include width-732-L {
+            font-size: 18px;
+          }
+          @include width-412-P {
+            font-size: 18px;
+          }
+        }
+
+        &Score {
+          display: flex;
+          align-items: center;
+          color: #000;
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 130%;
+
+          @include width-1000-L {
+            font-size: 18px;
+          }
+          @include width-768-P {
+            font-size: 18px;
+          }
+
+          @include width-732-L {
+            font-size: 16px;
+          }
+          @include width-412-P {
+            font-size: 16px;
+          }
+        }
+      }
+    }
+  }
+
+  .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 55px;
+    padding: 0;
+
+    @include width-732-L {
+      height: 40px;
+    }
+    @include width-412-P {
+      height: 40px;
+    }
+  }
+  
+  .repeatBtn {
+    margin-bottom: 24px;
+
+    @include width-1000-L {
+      margin-bottom: 20px;
+    }
+    @include width-768-P {
+      margin-bottom: 20px;
+    }
+
+    @include width-732-L {
+      margin-bottom: 16px;
+    }
+    @include width-412-P {
+      margin-bottom: 16px;
+    }
+  }
+}

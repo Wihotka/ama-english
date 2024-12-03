@@ -1,0 +1,374 @@
+[
+  {
+    "question": "she eat sandwiches for breakfast.",
+    "correctAnswers": ["She eats sandwiches for breakfast"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he like eating oranges.",
+    "correctAnswers": ["He likes eating oranges"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he like listening to music.",
+    "correctAnswers": ["He likes listening to music"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "it like playing.",
+    "correctAnswers": ["It likes playing"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "she like reading.",
+    "correctAnswers": ["She likes reading"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "she like winter.",
+    "correctAnswers": ["She likes winter"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "she eat many fruit.",
+    "correctAnswers": ["She eats many fruit"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he wash his hands every day.",
+    "correctAnswers": ["He washes his hands every day"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "she watch TV.",
+    "correctAnswers": ["She watches TV"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he drink juice.",
+    "correctAnswers": ["He drinks juice"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he like autumn.",
+    "correctAnswers": ["He likes autumn"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he have a fish.",
+    "correctAnswers": ["He has a fish"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "he have breakfast at 8 o'clock.",
+    "correctAnswers": ["He has breakfast at 8 o'clock"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "she have a brother.",
+    "correctAnswers": ["She has a brother"],
+    "punctuationMark": ".",
+    "typePrompt":"affirmative"
+  },
+  {
+    "question": "I not like singing. ",
+    "correctAnswers": ["I do not like singing", "I don't like singing"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "they not go to school.",
+    "correctAnswers": ["They do not go to school", "They don't go to school"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "they not have fun.",
+    "correctAnswers": ["They do not have fun", "They don't have fun"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "we not like coffee.",
+    "correctAnswers": ["We do not like coffee", "We don't like coffee"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "we not like Christmas.",
+    "correctAnswers": ["We do not like Christmas", "We don't like Christmas"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "you not like playing video games.",
+    "correctAnswers": ["You do not like playing video games", "You don't like playing video games"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "we not like apples.",
+    "correctAnswers": ["We do not like apples", "We don't like apples"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "they not like travelling by car.",
+    "correctAnswers": ["They do not like travelling by car", "They don't like travelling by car"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "they not like dolphins.",
+    "correctAnswers": ["They do not like dolphins", "They don't like dolphins"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "hamsters not eat meat.",
+    "correctAnswers": ["Hamsters do not eat meat", "Hamsters don't eat meat"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "he not like listening to music.",
+    "correctAnswers": ["He does not like listening to music", "He doesn't like listening to music"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "it not like playing.",
+    "correctAnswers": ["It does not like playing", "It doesn't like playing"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "she not like reading.",
+    "correctAnswers": ["She does not like reading", "She doesn't like reading"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "she not like winter.",
+    "correctAnswers": ["She does not like winter", "She doesn't like winter"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "she not eat many fruit.",
+    "correctAnswers": ["She does not eat many fruit", "She doesn't eat many fruit"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "he not drink juice.",
+    "correctAnswers": ["He does not drink juice", "He doesn't drink juice"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "she not watch TV.",
+    "correctAnswers": ["She does not watch TV", "She doesn't watch TV"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "he not wash his hands every day.",
+    "correctAnswers": ["He does not wash his hands every day", "He doesn't wash his hands every day"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "he not have breakfast at 8 o'clock.",
+    "correctAnswers": ["He does not have breakfast at 8 o'clock", "He doesn't have breakfast at 8 o'clock"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "he not have a fish.",
+    "correctAnswers": ["He does not have a fish", "He doesn't have a fish"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "he not like autumn.",
+    "correctAnswers": ["He does not like autumn", "He doesn't like autumn"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "she not have a brother.",
+    "correctAnswers": ["She does not have a brother", "She doesn't have a brother"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "she not eat sandwiches for lunch.",
+    "correctAnswers": ["She does not eat sandwiches for lunch", "She doesn't eat sandwiches for lunch"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "he not like eating lemons.",
+    "correctAnswers": ["He does not like eating lemons", "He doesn't like eating lemons"],
+    "punctuationMark": ".",
+    "typePrompt":"negative"
+  },
+  {
+    "question": "I like singing?",
+    "correctAnswers": ["Do I like singing"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "they go to school?",
+    "correctAnswers": ["Do they go to school"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "they have fun?",
+    "correctAnswers": ["Do they have fun"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "we like coffee?",
+    "correctAnswers": ["Do we like coffee"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "they like travelling by train?",
+    "correctAnswers": ["Do they like travelling by train"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "we like apples?",
+    "correctAnswers": ["Do we like apples"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "you like playing video games?",
+    "correctAnswers": ["Do you like playing video games"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "they like dolphins?",
+    "correctAnswers": ["Do they like dolphins"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "we like Christmas?",
+    "correctAnswers": ["Do we like Christmas"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "hamsters eat meat?",
+    "correctAnswers": ["Do hamsters eat meat"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "he like listening to music?",
+    "correctAnswers": ["Does he like listening to music"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "it like playing?",
+    "correctAnswers": ["Does it like playing"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "she like reading?",
+    "correctAnswers": ["Does she like reading"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "she like winter?",
+    "correctAnswers": ["Does she like winter"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "she eat many fruit?",
+    "correctAnswers": ["Does she eat many fruit"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "she watch TV?",
+    "correctAnswers": ["Does she watch TV"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "he wash his hands every day?",
+    "correctAnswers": ["Does he wash his hands every day"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "he drink juice?",
+    "correctAnswers": ["Does he drink juice"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "he have breakfast at 8 o'clock?",
+    "correctAnswers": ["Does he have breakfast at 8 o'clock"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "he have a fish?",
+    "correctAnswers": ["Does he have a fish"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "she have a brother?",
+    "correctAnswers": ["Does she have a brother"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "he like autumn?",
+    "correctAnswers": ["Does he like autumn"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "she eat sandwiches for dinner?",
+    "correctAnswers": ["Does she eat sandwiches for dinner"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  },
+  {
+    "question": "he like eating pears?",
+    "correctAnswers": ["Does he like eating pears"],
+    "punctuationMark": "?",
+    "typePrompt":"question"
+  }
+]

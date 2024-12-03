@@ -1,0 +1,30 @@
+{
+  "rules": "Spēles noteikumi",
+  "waiting": "Lejuplādes",
+  "finish": "Rezultāti",
+  "next": "Nākamais",
+  "play": "Atskaņot",
+  "winner": "Uzvarētājs",
+  "score": "Rezultāts",
+  "lostTime": "Atlikušais laiks",
+  "repeat": "Spēlēt vēlreiz",
+  "stepBy": "Kārta:",
+  "exit": "Iziet",
+  "inputPlaceholder": "Spēlētājs",
+  "nicknamesError": "Spēlētāju vārdiem jābūt atšķirīgiem",
+  "sec": "sek.",
+  "online": {
+    "name": "Online",
+    "desc": "Cīnies ar sāncensi online kaujā",
+    "inputLabel": "Ievadi vārdu un izvēlies attēlojumu",
+    "findEnemy": "Atrodi sāncensi",
+    "findingEnemy": "Meklē sāncensi...",
+    "foundEnemy": "Sāncensis atrasts",
+    "waitingEnemy": "Gaida sāncenša atbildi"
+  },
+  "offline": {
+    "name": "Offline",
+    "desc": "Spēlējiet ar draugiem no vienas ierīces ",
+    "inputLabel": "Izvēlies attēlojumu un ievadi vārdus"
+  }
+}

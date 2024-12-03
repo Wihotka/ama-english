@@ -1,0 +1,50 @@
+{
+  "gameStart": {
+    "youCanDo": "У тебя есть право на",
+    "textErrors": ["ошибку", "ошибки", "ошибок"],
+    "noErrors": "Не допускай ошибок",
+    "completeTaskFor": "Заверши игру за",
+    "give": "Дай",
+    "rightAnswers": "верных ответов",
+    "textAnswers": ["ответ", "ответа", "ответов"],
+    "textRight": ["верный", "верных", "верных"],
+    "right": "верных",
+    "min": "мин",
+    "sec": "сек",
+    "collectItems": "Расставь",
+    "items": ["предмета", "предмета", "предметов"]
+  },
+  "gameFinish": {
+    "successTrue": "Молодец",
+    "successFalse": "Задание не выполнено",
+    "successSmallTrue": "Задание выполнено",
+    "successSmallFalse": "Попробуй еще раз",
+    "saving": "Результат сохраняется",
+    "failSave": "Результат не сохранен",
+    "successSave": "Результат сохранен",
+    "writeToHelp": "Обратитесь в техподдержку",
+    "min": "мин",
+    "sec": "сек",
+    "indicators":{
+      "rightAnswersQty": "Количество верных ответов",
+      "wrongAnswersQty": "Количество неверных ответов",
+      "gameTime": "Время игры",
+      "speed": "Скорость",
+      "readingSyllablesSpeed": "Скорость чтения (слог/мин)",
+      "readingWordsSpeed": "Скорость чтения (слов/мин)",
+      "pointsQty": "Количество баллов"
+    }
+  },
+  "template": {
+    "settings": "Настройки",
+    "level": "Уровень",
+    "description": "Описание игры",
+    "selectedSettings": "Выбранные настройки",
+    "levelsNames": {
+      "marathon": "Марафон",
+      "faultless": "Безошибочный",
+      "fittings": "Подгонялки",
+      "free": "Свободный"
+    }
+  }
+}

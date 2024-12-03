@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "theme": "familyHome",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "clothesWeather",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "on": [
+        ["The", "candle", "is", "", "the", "table."],
+        ["The", "papers", "are", "", "the", "chair."],
+        ["The", "color", "pencils", "are", "", "the", "desk."],
+        ["The", "sausages", "are", "in", "the", "fridge", "", "the", "top", "shelf."],
+        ["The", "colourful", "poster", "is", "", "the", "wall."]
+      ],
+      "between": [
+        ["I", "sit", "", "Sue", "and", "Jane."],
+        ["The", "little", "cat", "is", "sitting", "", "the", "table", "and", "the", "sofa."],
+        ["That", "clock", "is", "", "the", "shelves", "on", "the", "wall."],
+        ["The", "computer", "is", "", "two", "speakers."],
+        ["My", "lamp", "is", "", "the", "sofa", "and", "the", "armchair."]
+      ],
+      "in": [
+        ["These", "books", "are", "on", "the", "desk", "", "the", "middle."],
+        ["Put", "the", "mirror", "", "the", "corner", "of", "the", "living", "room."],
+        ["The", "towel", "is", "", "the", "closet."],
+        ["My", "mum’s", "shoes", "are", "", "the", "wardrobe."],
+        ["The", "watermelon", "is", "", "the", "fridge", "on", "the", "bottom", "shelf."]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "gamesHobbies",
+    "wrongTheme": "clothesWeather",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "animals",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "human",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/81.png",
+        "words": ["My", "sister", "live", "on", "a", "farm."],
+        "answer": "My sister lives on a farm."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/82.png",
+        "words": ["My", "aunt", "usually", "wear", "a", "purple", "coat", "at", "work."],
+        "answer": "My aunt usually wears a purple coat at work."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/83.png",
+        "words": ["Kevin", "play", "the", "guitar", "after", "his", "classes."],
+        "answer": "Kevin plays the guitar after his classes."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/84.png",
+        "words": ["He", "always", "wear", "a", "hat", "when", "it", "is", "sunny."],
+        "answer": "He always wears a hat when it is sunny."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/85.png",
+        "words": ["My", "dad", "drive", "a", "family", "car", "every", "Saturday."],
+        "answer": "My dad drives a family car every Saturday."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "animals",
+    "wrongTheme": "clothesWeather",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/86.png",
+        "words": ["He", "become", "more", "popular", "these", "days."],
+        "answer": "He is becoming more popular these days."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/87.png",
+        "words": ["We", "watch", "the", "opera", "in", "the", "theatre", "at", "the", "moment."],
+        "answer": "We are watching the opera in the theatre at the moment."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/88.png",
+        "words": ["I", "talk", "to", "my", "friends", "no."],
+        "answer": "I am talking to my friend now."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/89.svg",
+        "words": ["She", "read", "a", "book", "these", "day."],
+        "answer": "She is reading a book these days."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/90.png",
+        "words": ["They", "write", "a", "test", "with", "their", "classmates", "at", "the", "lesson."],
+        "answer": "They are writing a test with their classmates right now."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "a": [
+        ["My", "son", "wants", "", "dog", "for", "Christmas."],
+        ["Brad", "Pitt", "is", "", "famous", "actor", "in", "Hollywood."],
+        ["My", "younger", "sister", "wants", "to", "be", "", "teacher."],
+        ["I", "always", "have", "", "cup", "of", "tea", "after", "lunch."],
+        ["My", "grandparents", "have", "", "horse", "on", "their", "farm."]
+      ],
+      "an": [
+        ["I", "usually", "have", "", "umbrella", "in", "my", "bag."],
+        ["I", "have", "", "uncle", "who", "works", "at", "the", "university."],
+        ["He", "saw", "", "elephant", "at", "the", "zoo."],
+        ["It", "is", "", "armchair."],
+        ["I", "like", "to", "have", "", "apple", "for", "breakfast."]
+      ],
+      "the": [
+        ["", "boy", "in", "the", "corner", "is", "my", "friend."],
+        ["", "snack", "on", "the", "table", "is", "from", "Australia."],
+        ["", "winter", "of", "2001", "was", "very", "cold."],
+        ["", "red", "book", "is", "interesting."],
+        ["Sunday", "is", "", "last", "day", "of", "the", "week."]
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "theme": "familyHome",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "human",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "in": [
+        ["", "the", "morning"],
+        ["", "Summer"],
+        ["", "August"],
+        ["", "the", "evening"],
+        ["", "2022"]
+      ],
+      "on": [
+        ["", "Wednesday"],
+        ["", "Tuesday"],
+        ["", "11th", "of", "August"],
+        ["", "27th", "of", "June"],
+        ["", "30th", "of", "March"]
+      ],
+      "at": [
+        ["", "night"],
+        ["", "weekends"],
+        ["", "6", "o’clock"],
+        ["", "ten", "o’clock"],
+        ["", "half", "past", "seven"]
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "theme": "clothesWeather",
+    "wrongTheme": "gamesHobbies",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/91.png",
+        "words": ["Kim", "like", "help", "her", "mum."],
+        "answer": "Kim likes helping her mum."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/92.png",
+        "words": ["Steve", "enjoy", "make", "pies", "with", "his", "grandmother."],
+        "answer": "Steve enjoys making pies with his grandmother."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/93.svg",
+        "words": ["Maggy", "hate", "run."],
+        "answer": "Maggy hates running."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/94.png",
+        "words": ["Mark", "like", "eat", "burgers."],
+        "answer": "Mark likes eating burgers."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/95.png",
+        "words": ["Erica", "enjoy", "live", "in", "New", "York."],
+        "answer": "Erica enjoys living in New Yor"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "animals",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "familyHome",
+    "wrongTheme": "gamesHobbies",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "gamesHobbies",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "brave": [
+        ["My", "dog", "is", "very", "", "."],
+        ["She", "has", "a", "", "friend."],
+        ["Sam", "and", "Dean", "are", "", "people."],
+        ["Pam", "is", "a", "", "girl."],
+        ["Ann's", "brothers", "are", "very", "", "."]
+      ],
+      "braver": [
+        ["Tim", "is", "", "than", "Tom."],
+        ["Dogs", "are", "", "than", "rabbits."],
+        ["I", "am", "", "than", "Max."],
+        ["Steve", "is", "not", "", "than", "Kate."],
+        ["Vicky", "is", "", "than", "Mary."]
+      ],
+      "bravest": [
+        ["My", "dog", "is", "the", "", "pet", "in", "the", "world!"],
+        ["His", "sister", "is", "the", "", "girl", "in", "our", "class."],
+        ["My", "father", "is", "the", "", "man", "in", "the", "world!"],
+        ["Dan", "is", "not", "the", "", "boy", "in", "our", "school."],
+        ["The", "", "girl", "in", "our", "school", "is", "Betty."]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/96.png",
+        "words": ["There", "three", "different", "dogs."],
+        "answer": "There are three different dogs."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/97.png",
+        "words": ["There", "an", "elephant", "in", "the", "zoo."],
+        "answer": "There is an elephant in the zoo."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/98.png",
+        "words": ["This", "dog", "have", "got", "a", "stick."],
+        "answer": "This dog has got a stick."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/99.png",
+        "words": ["Kate", "have", "got", "a", "white", "cat."],
+        "answer": "Kate has got a white cat."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/100.png",
+        "words": ["There", "a", "big", "cake", "for", "my", "birthday", "party."],
+        "answer": "There is a big cake for my birthday party."
+      }
+    ]
+  }
+]

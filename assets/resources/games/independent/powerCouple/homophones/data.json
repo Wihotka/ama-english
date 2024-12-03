@@ -1,0 +1,236 @@
+[
+  {
+    "id": "1",
+    "variants": [
+      {
+        "content": "weigh",
+        "imgPath": "/homophones/weigh.png"
+      },
+      {
+        "content": "way",
+        "imgPath": "/homophones/way.png"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "variants": [
+      {
+        "content": "ant",
+        "imgPath": "/homophones/ant.png"
+      },
+      {
+        "content": "aunt",
+        "imgPath": "/homophones/aunt.png"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "variants": [
+      {
+        "content": "fair",
+        "imgPath": "/homophones/fair.png"
+      },
+      {
+        "content": "fare",
+        "imgPath": "/homophones/fare.png"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "variants": [
+      {
+        "content": "flour",
+        "imgPath": "/homophones/flour.png"
+      },
+      {
+        "content": "flower",
+        "imgPath": "/homophones/flower.png"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "variants": [
+      {
+        "content": "knight",
+        "imgPath": "/homophones/knight.png"
+      },
+      {
+        "content": "night",
+        "imgPath": "/homophones/night.png"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "variants": [
+      {
+        "content": "mail",
+        "imgPath": "/homophones/mail.png"
+      },
+      {
+        "content": "male",
+        "imgPath": "/homophones/male.png"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "variants": [
+      {
+        "content": "peace",
+        "imgPath": "/homophones/peace.png"
+      },
+      {
+        "content": "piece",
+        "imgPath": "/homophones/piece.png"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "variants": [
+      {
+        "content": "right",
+        "imgPath": "/homophones/right.png"
+      },
+      {
+        "content": "write",
+        "imgPath": "/homophones/write.png"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "variants": [
+      {
+        "content": "waist",
+        "imgPath": "/homophones/waist.png"
+      },
+      {
+        "content": "waste",
+        "imgPath": "/homophones/waste.png"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "variants": [
+      {
+        "content": "ball",
+        "imgPath": "/homophones/ball.png"
+      },
+      {
+        "content": "bowl",
+        "imgPath": "/homophones/bowl.png"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "variants": [
+      {
+        "content": "berth",
+        "imgPath": "/homophones/berth.png"
+      },
+      {
+        "content": "birth",
+        "imgPath": "/homophones/birth.png"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "variants": [
+      {
+        "content": "hair",
+        "imgPath": "/homophones/hair.png"
+      },
+      {
+        "content": "hare",
+        "imgPath": "/homophones/hare.png"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "variants": [
+      {
+        "content": "hear",
+        "imgPath": "/homophones/hear.png"
+      },
+      {
+        "content": "here",
+        "imgPath": "/homophones/here.png"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "variants": [
+      {
+        "content": "maize",
+        "imgPath": "/homophones/maize.png"
+      },
+      {
+        "content": "maze",
+        "imgPath": "/homophones/maze.png"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "variants": [
+      {
+        "content": "pause",
+        "imgPath": "/homophones/pause.png"
+      },
+      {
+        "content": "paws",
+        "imgPath": "/homophones/paws.png"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "variants": [
+      {
+        "content": "sail",
+        "imgPath": "/homophones/sail.png"
+      },
+      {
+        "content": "sale",
+        "imgPath": "/homophones/sale.png"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "variants": [
+      {
+        "content": "sea",
+        "imgPath": "/homophones/sea.png"
+      },
+      {
+        "content": "see",
+        "imgPath": "/homophones/see.png"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "variants": [
+      {
+        "content": "hole",
+        "imgPath": "/homophones/hole.png"
+      },
+      {
+        "content": "whole",
+        "imgPath": "/homophones/whole.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+export {StudyLink} from './study-link';

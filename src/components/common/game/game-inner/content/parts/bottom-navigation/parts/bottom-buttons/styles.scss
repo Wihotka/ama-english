@@ -1,0 +1,55 @@
+@import "src/scss/mixins";
+
+.buttonsWrap{
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: var(--gridGap5);
+
+  @include width-1280-L {
+    margin-top: var(--gridGap4);
+  }
+  @include width-1000-L {
+    margin-top: var(--gridGap3);
+  }
+
+  @include width-534-P {
+    gap: 16px;
+  }
+
+  @include width-412-P {
+    flex-direction: column;
+  }
+
+  & > button {
+    height: 56px;
+    padding: 0;
+
+    @include width-854-L {
+      min-width: 235px;
+    }
+    @include width-534-P {
+      min-width: calc(50% - 8px);
+    }
+
+    @include width-732-L {
+      min-width: calc(50% - 4px);
+    }
+    @include width-412-P {
+      min-width: 100%;
+    }
+
+    @include width-640-L {
+      height: 48px;
+      padding-bottom: 2px;
+    }
+    @include width-360-P {
+      height: 48px;
+      padding-bottom: 2px;
+    }
+  }
+}
+
+.start{
+  margin-left: auto;
+}

@@ -1,0 +1,15 @@
+{
+  "presentSimpleAffirmativeContent3part1": "He/She/It: Don’t forget to add '",
+  "presentSimpleAffirmativeContent3part2": "' to the verbs",
+  "themeTask": {
+    "presentSimple": "Make up a sentence, follow the rules of Present Simple",
+    "toBe": "Make up a sentence, put the verb 'to be' in the correct form",
+    "thereIsAre": "Make up a sentence, put the verb 'to be' in the correct form",
+    "verbHave": "Make up a sentence, change the form of the verb if necessary",
+    "formsOfAdjectives": "Make up a sentence, put the adjective in the correct form",
+    "fewLittle": "Make up a sentence, choose the correct adverb",
+    "futureContinuous": "Make up a sentence, follow the rules of Future Continuous",
+    "presentPerfectContinuous": "Make up a sentence, follow the rules of Present Perfect Continuous",
+    "pastPerfect": "Make up a sentence, follow the rules of Past Perfect"
+  }
+}

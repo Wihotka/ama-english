@@ -1,0 +1,164 @@
+@import 'src/scss/_mixins.scss';
+
+@keyframes keyHidden {
+  0% {
+    opacity: 1;
+    visibility: visible;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.update {opacity: 0}
+
+.keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+
+  padding: 16px 70px;
+
+  width: 100%;
+  min-height: 160px;
+  height: fit-content;
+
+  border-radius: 40px;
+
+  @include width-1280-L {
+    padding: 16px 30px;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    padding: 16px 30px;
+    border-radius: 24px;
+  }
+  @include width-852-P {
+    min-height: fit-content;
+  }
+
+  @include width-854-L {
+    min-height: 128px;
+    padding: 16px 20px;
+  }
+  @include width-534-P {
+    max-height: 128px;
+    padding: 16px 20px;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+
+    &::-webkit-scrollbar {
+      width: 0;
+      height: 0;
+    }
+  }
+
+  @include width-732-L {
+    min-height: 106px;
+    max-height: 106px;
+    padding: 16px;
+    border-radius: 16px;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+
+    &::-webkit-scrollbar {
+      width: 0;
+      height: 0;
+    }
+  }
+  @include width-412-P {
+    max-height: 106px;
+    padding: 16px;
+    border-radius: 16px;
+  }
+
+  @include width-640-L {
+    padding: 8px 12px 10px;
+  }
+  @include width-360-P {
+    padding: 8px 12px 10px;
+  }
+}
+
+.key {
+  padding: 13px 16px;
+
+  z-index: 99;
+
+  transition: .3s;
+
+  @include buttonFont;
+
+  @include width-852-P {
+    padding: 8px 16px;
+  }
+
+  @include width-1000-L {
+    padding: 8px 16px;
+  }
+
+  @include width-732-L {
+    padding: 8px 12px;
+  }
+  @include width-412-P {
+    padding: 8px 12px;
+  }
+
+  &__hidden {animation: keyHidden .3s .3s forwards;}
+
+  &__pressed {
+    box-shadow: 0 0 0 #5B2377;
+
+    transform: translateY(4px);
+
+    pointer-events: none;
+  }
+
+  &__wrong {
+    animation: shake;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    transform: translate3d(-2px, 0, 0);
+
+    pointer-events: none;
+
+    @keyframes shake {
+      0%, to {
+        border: 1px solid #FE3A3A;
+        box-shadow: 0 0 8px rgba(254, 58, 58, 0.88), 0 0 55px #FE3A3A;
+        transform: translateY(4px) translateZ(0);
+      }
+      10%, 30%, 50%, 70%, 90% {
+        transform: translate3d(-2px, 0, 0);
+      }
+      20%, 40%, 60%, 80% {
+        transform: translate3d(2px, 0, 0);
+      }
+    }
+  }
+
+  &Wrapper {
+    position: relative;
+  }
+
+  &Border{
+    position: absolute;
+    top: 4px;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background: rgba(174, 125, 254, 0.24);
+    border: 1px solid rgba(174, 125, 254, 0.56);
+
+    border-radius: 32px;
+
+    z-index: 9;
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "message": {
+    "title": "Paliksi atsiliepimą?",
+    "text": "Tai padės pagerinti žaidimus ir užtruks visai neilgai",
+    "btnText": "Žinoma!"
+  },
+  "form": {
+    "titleGame": "Palik atsiliepimą",
+    "titleCourse": "Rate the course",
+    "titleBad": "What do you dislike?",
+    "subtitleGame": "You will help us to improve the game",
+    "subtitleCourse": "Tu padėsi pagerinti kursą",
+    "optionTitleGame": "Man patiko žaidimas",
+    "optionTitleCourse": "Man patogu naudotis kursu 'Anglų kalba'",
+    "reason": {
+      "difficult": "Difficult",
+      "boring": "Boring",
+      "performance": "Doesn't work correctly",
+      "appearance": "How everything looks",
+      "orientation": "Hard to navigate",
+      "comment": "Describe in commentary"
+    },
+    "optionTitleTextarea": "Pasidalink įspūdžiais",
+    "textareaPlaceholder": "Tavo atsiliepimas",
+    "btnSubmit": "Išsiųsti"
+  },
+  "messageStatus": {
+    "titleSuccess": "Ačiū!",
+    "titleError": "Nepavyko",
+    "textGoodResponse": "Atsiliepimas išsiųstas",
+    "textBadResponse": "Отзыв отправлен. В ближайшее время мы рассмотрим твоё обращение",
+    "textError": "Nepavyko išsiųsti atsiliepimo. Pabandyk prašau dar kartą.",
+    "btnTextSuccess": "Ok",
+    "btnTextError": "Pabandyti dar kartą",
+    "btnTextSupport": "Kreiptis pagalbos"
+  }
+}

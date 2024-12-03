@@ -1,0 +1,35 @@
+.preloader{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-size: cover!important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  //pointer-events: none;
+  //border-radius: 0;
+
+  &_main{
+    background: radial-gradient(72.21% 72.21% at 50% 50%, #F3ECFF 33.65%, #B385FF 100%);
+  }
+
+  &_section{
+    background: radial-gradient(72.21% 72.21% at 50% 50%, #E0FEFF 33.65%, #00CED2 100%);
+  }
+
+  &_hide{
+    transition: all .3s;
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+.content{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

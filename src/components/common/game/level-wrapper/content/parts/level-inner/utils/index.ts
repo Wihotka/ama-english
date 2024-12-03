@@ -1,0 +1,1 @@
+export {getBg} from './bg-getter';

@@ -1,0 +1,30 @@
+{
+  "rules": "Pravidlá hry",
+  "waiting": "Čakať",
+  "finish": "Výsledky",
+  "next": "Ďalej",
+  "play": "Hrať",
+  "winner": "Víťaz",
+  "score": "Skóre",
+  "lostTime": "Zostávajúci čas",
+  "repeat": "Hrať znova",
+  "stepBy": "Na rade:",
+  "exit": "Exit",
+  "inputPlaceholder": "Hráč",
+  "nicknamesError": "Mená hráčov by mali byť odlišné",
+  "sec": "sek.",
+  "online": {
+    "name": "Online",
+    "desc": "Postav sa svojmu súperovi v online súboji",
+    "inputLabel": "Zadaj meno a vyber si avatara",
+    "findEnemy": "Nájsť súpera",
+    "findingEnemy": "Hľadá sa súper...",
+    "foundEnemy": "Súper sa našiel",
+    "waitingEnemy": "Čaká sa na odpoveď súpera"
+  },
+  "offline": {
+    "name": "Offline",
+    "desc": "Hrať s kamarátmi na tom istom zariadení",
+    "inputLabel": "Výber avatarov a zadanie mena"
+  }
+}

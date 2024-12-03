@@ -1,0 +1,25 @@
+@import 'src/scss/_mixins.scss';
+
+.person{
+  margin: 0 auto var(--gridGap2);
+  max-width: 450px;
+
+  @include lg-block() {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  @include md-block() {
+    max-width: 350px;
+    margin: 0 auto;
+  }
+
+  @include mediaH(450) {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  &Wrap{
+    position: relative;
+  }
+}

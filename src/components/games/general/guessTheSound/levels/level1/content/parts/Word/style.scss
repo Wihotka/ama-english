@@ -1,0 +1,76 @@
+@import 'src/scss/_mixins.scss';
+
+.word {
+  @include titleM;
+
+  &_question {
+    color: #9066C6;
+  }
+
+  &_answer {
+    color: #FFFFFF;
+  }
+
+  @include width-1340-L {
+    font-size: 26px;
+  }
+
+  @include width-768-P {
+    font-size: 26px;
+  }
+
+  @include width-854-L {
+    font-size: 20px;
+  }
+
+  @include width-534-P {
+    font-size: 20px;
+  }
+}
+
+.selectWord {
+  @include titleM;
+
+  @include width-1340-L {
+    font-size: 26px;
+  }
+
+  @include width-768-P {
+    font-size: 26px;
+  }
+
+  @include width-854-L {
+    font-size: 20px;
+  }
+
+  @include width-534-P {
+    font-size: 20px;
+  }
+}
+
+@keyframes showing {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes hiding {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.showing {
+  animation: showing .9s forwards;
+}
+
+.hiding {
+  pointer-events: none;
+  animation: hiding .9s forwards;
+}

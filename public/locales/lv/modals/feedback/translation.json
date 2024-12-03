@@ -1,0 +1,38 @@
+{
+  
+  "message": {
+    "title": "Atstāt atsauksmi",
+    "text": "Tas palīdzēs uzlabot spēles un neaizņems daudz laika",
+    "btnText": "Protams"
+  },
+  "form": {
+    "titleGame": "Novērtē spēli",
+    "titleCourse": "Novērtē kursu",
+    "titleBad": "Kas tev nepatika?",
+    "subtitleGame": "Tu palīdzēsi uzlabot spēli",
+    "subtitleCourse": "Tu palīdzēsi uzlabot angļu valodas kursu",
+    "optionTitleGame": "Man patika spēle",
+    "optionTitleCourse": "Man ir ērti izmantot 'Angļu valodas' kursu'",
+    "reason": {
+      "difficult": "Sarežģīti",
+      "boring": "Garlaicīgi",
+      "performance": "Slikti strādā",
+      "appearance": "Ārskats",
+      "orientation": "Grūti orientēties",
+      "comment": "Aprakstīšu komentāros"
+    },
+    "optionTitleTextarea": "Atstāj komentāru, lai Kami neskumtu",
+    "textareaPlaceholder": "Tavs komentārs",
+    "btnSubmit": "Nosūtīt"
+  },
+  "messageStatus": {
+    "titleSuccess": "Paldies",
+    "titleError": "Neveiksme",
+    "textGoodResponse": "Atsauksme nosūtīta",
+    "textBadResponse": "Atsauksme nosūtīta. Mēs izskatīsim tavu pieteikumu tuvākajā laikā ",
+    "textError": "Sūtot atsauksmi, radās kļūda. Lūdzu mēģini vēlreiz.",
+    "btnTextSuccess": "Ок",
+    "btnTextError": "Atkārtot mēģinājumu",
+    "btnTextSupport": "Rakstīt atbalsta dienestam"
+  }
+}

@@ -1,0 +1,70 @@
+@import "/src/scss/mixins";
+
+.pageWrap {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-width: calc(1110px + var(--main-base-grid-gap)*4);
+  margin: 0 auto;
+  padding: 0 calc(var(--main-base-grid-gap)*2);
+
+  @include width-1280-L {max-width: calc(1160px + 2 * calc(var(--main-base-grid-gap)*2))}
+
+  @include width-1000-L {max-width: calc(952px + 2 * calc(var(--main-base-grid-gap)*2))}
+  @include width-768-P {max-width: calc(720px + 2 * calc(var(--main-base-grid-gap)*2))}
+
+  @include width-854-L {
+    padding: 0 calc(2 * var(--main-base-grid-gap));
+    max-width: 100%;
+  }
+  @include width-534-P {
+    padding: 0 calc(2 * var(--main-base-grid-gap));
+    max-width: 100%;
+  }
+
+  @include width-732-L {
+    padding: 0 var(--main-base-grid-gap);
+  }
+  @include width-412-P {
+    padding: 0 var(--main-base-grid-gap);
+  }
+}
+
+.menuTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--gridGap6);
+  margin-bottom: var(--gridGap3);;
+  position: relative;
+
+  svg {
+    filter: drop-shadow(2px 3px 2px rgba(0, 43, 83, 0.72));
+  }
+
+  @include width-1280-L {
+    margin-top: var(--gridGap5);
+  }
+  @include width-1280-P {
+    margin-top: var(--gridGap5);
+  }
+
+  @include width-1000-L {
+    margin-top: var(--gridGap4);
+  }
+
+  @include sm-block() {
+    margin: 10px 0 32px;
+  }
+
+  @include smH-block() {
+    margin: 10px 0 32px;
+  }
+
+  &_hide {
+    @include smWH-block() {
+      margin: 0;
+    }
+  }
+}

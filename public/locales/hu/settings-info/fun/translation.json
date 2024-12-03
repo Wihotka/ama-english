@@ -1,0 +1,60 @@
+﻿{
+  "level": "A szinttől függően változnak a játékszabályok:",
+  "dataComplexity": "Szavak nehézségi szintjének kiválasztása",
+  "answersQty": "A játék befejezéséhez szükséges válaszok száma",
+  "gameTime": "A játék időtartama",
+  "maxLettersQty": "A betűk maximális száma a szavakban a játékterületen",
+  "complexity": "A játék nehézségi szintje",
+  "mode": "Játékmód",
+  "games": {
+    "secretCode": {
+      "level": {
+        "texts": [
+          "“Számok és betűk” kulcs",
+          "“Emoji” kulcs",
+          "“Kilépés a keretből” kulcs"
+        ]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "A szó 4 vagy 5 betűből áll",
+          "A szó 6 vagy 7 betűből áll",
+          "A szó 8-10 betűből áll"
+        ]
+      },
+      "mode": {
+        "innerName": "A játékmód kiválasztásától függ a kártyák elhelyezkedése:",
+        "texts": [
+          "A megfejtőkulcs azonnal megjelenik a játékablakban",
+          "A megfejtőkulcs csak a speciális ikon segítségével jelenik meg"
+        ]
+      }
+    },
+    "storyteller": {
+      "storyType": {
+        "innerName": "A történet kiválasztása"
+      }
+    },
+    "makeYourChoice": {
+      "level": {
+        "texts": [
+          "Nézd meg a képet, és párosítsd össze a szót a megfelelő fordítással!",
+          "Párosítsd össze a szót a megfelelő fordítással."
+        ]
+      }
+    },
+    "powerCouple": {
+      "theme": {
+        "innerName": "A téma kiválasztása után megismerkedhetsz a szavak kategóriáival:",
+        "texts": [
+          "A homográfok olyan szavak, amelyeket egyformán írnak, de másképp ejtenek",
+          "A homofónok olyan szavak, amelyeket egyformán ejtenek, de másképp írnak"
+        ]
+      },
+      "map": {
+        "innerName": "A minta kiválasztása, amelyben a kártyák megjelennek"
+      }
+    }
+  }
+}

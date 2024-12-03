@@ -1,0 +1,15 @@
+{
+  "presentSimpleAffirmativeContent3part1": "He/She/It: Не забудь про окончание '",
+  "presentSimpleAffirmativeContent3part2": "' у глаголов",
+  "themeTask": {
+    "presentSimple": "Собери предложение, учитывай правила образования Present Simple",
+    "toBe": "Собери предложение, вставь глагол 'to be' в правильной форме",
+    "thereIsAre": "Собери предложение, вставь глагол 'to be' в правильной форме",
+    "verbHave": "Собери предложение, измени форму глагола, если необходимо",
+    "formsOfAdjectives": "Собери предложение, поставь прилагательное в правильную форму",
+    "fewLittle": "Собери предложение, выбери правильное наречие",
+    "futureContinuous": "Собери предложение, учитывай правила образования Future Continuous",
+    "presentPerfectContinuous": "Собери предложение, учитывай правила образования Present Perfect Continuous",
+    "pastPerfect": "Собери предложение, учитывай правила образования Past Perfect"
+  }
+}

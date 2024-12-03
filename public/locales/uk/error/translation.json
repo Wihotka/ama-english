@@ -1,0 +1,11 @@
+{
+  "somethingWrong": "Something went wrong",
+  "platformError": "Sorry, an error occurred during platform initialization",
+  "tryReloadPage": "Try refreshing the page or contact customer support",
+  "ifReloadNotHelpWriteTo": "If refreshing the page didn’t help, contact the customer support",
+  "gameNotAllow": "The game isn’t available",
+  "gameNotAllowMessage": "Sorry, something is wrong with the game. Try refreshing the page or contact customer support",
+  "whenGameBroke": "You can play other games while we’re fixing this one",
+  "pageNotFound": "Page not found",
+  "pageMoved": "Sorry, this page isn’t here or has moved"
+}

@@ -1,0 +1,73 @@
+@import 'src/scss/_mixins.scss';
+
+.gameWrap {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 40px;
+
+  @include lg-block {
+    height: auto;
+  }
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  min-height: 700px;
+  overflow-x: auto;
+  position: relative;
+
+  @include width-1280-L {
+    min-height: 430px;
+  }
+  @include width-1280-P {
+    min-height: 430px;
+  }
+
+  @include width-1000-L {
+    min-height: 380px;
+  }
+  @include width-768-P {
+    min-height: 500px;
+  }
+
+  @include width-854-L {
+    min-height: auto;
+  }
+  @include width-534-P {
+    min-height: auto;
+  }
+}
+
+.fadeEnter.game {
+  opacity: 0;
+  transform: scale(0.5);
+}
+
+.fadeEnterActive.game {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.fadeExit.game {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.fadeExitActive.game {
+  opacity: 0;
+  transform: scale(0.5);
+}
+
+.fadeEnterActive.game,
+.fadeExitActive.game {
+  transition: opacity 150ms, transform 150ms;
+}

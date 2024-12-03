@@ -1,0 +1,9 @@
+{
+  "withImg": "Užrašyk žodį, pažiūrėjęs į paveikslėlį",
+  "withVoice": "Užrašyk žodį, išklausęs jo tarimo",
+  "withTranscription": "Užrašyk žodį, pažiūrėjęs į jo transkripciją",
+  "withVoiceTranscription": "Užrašyk žodį, pažiūrėjęs į paveikslėlį bei transkripciją ir išklausęs jo tarimo",
+  "withSentenceFilling": "Pasirink teisingą atsakymą iš pateiktų trijų variantų ir užrašyk jį",
+  "withSentenceMaking": "Sudaryk sakinį. Jeigu reikia, pakeisk veiksmažodžio galūnę arba vartok veiksmažodį 'to be'",
+  "withExtraWordSearching": "Užrašyk žodį, kuris NEtinka šiai temai"
+}

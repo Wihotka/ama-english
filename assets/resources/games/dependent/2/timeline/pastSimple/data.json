@@ -1,0 +1,558 @@
+{
+  "1": [
+    {
+      "sentence": ["Sam washed his hands five minutes ago."],
+      "imagePath": "/themes-tenses/wash.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["Kate watched TV last night."],
+      "imagePath": "/themes-tenses/film.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["Max played basketball yesterday."],
+      "imagePath": "/themes-tenses/basketball.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My brother wanted to eat some pie."],
+      "imagePath": "/themes-tenses/pie.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We played tennis last weekend."],
+      "imagePath": "/themes-tenses/tennis.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They danced last week."],
+      "imagePath": "/themes-tenses/dance.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He played with his toys three years ago."],
+      "imagePath": "/themes-tenses/toys.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["Helen climbed a rock last summer."],
+      "imagePath": "/themes-tenses/climb.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We travelled to England by plane last autumn."],
+      "imagePath": "/themes-tenses/plane.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They cleaned their flat five hours ago."],
+      "imagePath": "/themes-tenses/clean.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I lived in a house last summer."],
+      "imagePath": "/themes-tenses/house.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I worked as a doctor ten years ago."],
+      "imagePath": "/themes-tenses/doctor.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She enjoyed chatting with her friends yesterday."],
+      "imagePath": "/themes-tenses/chat.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["The driver stopped the car."],
+      "imagePath": "/themes-tenses/car.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She enjoyed eating peaches last summer."],
+      "imagePath": "/themes-tenses/peach.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["You kicked a ball with your classmates yesterday after school."],
+      "imagePath": "/themes-tenses/football.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They looked at the sea from the beach."],
+      "imagePath": "/themes-tenses/hotbeach.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["Mary liked her dinner."],
+      "imagePath": "/themes-tenses/fruit.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I did my homework five minutes ago."],
+      "imagePath": "/themes-tenses/homework.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I went to school yesterday."],
+      "imagePath": "/themes-tenses/school.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I went to the park last weekends."],
+      "imagePath": "/themes-tenses/park.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He went to the swimming pool last Sunday."],
+      "imagePath": "/themes-tenses/swim.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She cooked lunch last Wednesday."],
+      "imagePath": "/themes-tenses/cooklunch.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He brushed his teeth yesterday."],
+      "imagePath": "/themes-tenses/brushteeth.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He listened to music ten minutes ago."],
+      "imagePath": "/themes-tenses/listentomusic.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He went to France last summer."],
+      "imagePath": "/themes-tenses/France.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We walked with our dog last evening."],
+      "imagePath": "/themes-tenses/girlanddog.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We played golf last weekend."],
+      "imagePath": "/themes-tenses/playgolf.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They washed the dishes last evening."],
+      "imagePath": "/themes-tenses/washdish.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They chatted a lot yesterday."],
+      "imagePath": "/themes-tenses/chat.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I liked coffee two years ago."],
+      "imagePath": "/themes-tenses/coffee.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They cleaned their classroom yesterday."],
+      "imagePath": "/themes-tenses/classroom.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["The student counted his crayons five minutes ago."],
+      "imagePath": "/themes-tenses/crayons.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My sibling played video games last hour."],
+      "imagePath": "/themes-tenses/videogame.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She looked like her sister."],
+      "imagePath": "/themes-tenses/Twins.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They smiled a lot."],
+      "imagePath": "/themes-tenses/school.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My classmates studied English last year."],
+      "imagePath": "/themes-tenses/textbook.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We visited our grandparents six days ago."],
+      "imagePath": "/themes-tenses/grandparents.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We finished playing tennis ten minutes ago."],
+      "imagePath": "/themes-tenses/tennis.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["Veronica closed the curtains in her bedroom."],
+      "imagePath": "/themes-tenses/curtain.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She opened her umbrella."],
+      "imagePath": "/themes-tenses/Umbrella.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My parents moved to a new flat last month."],
+      "imagePath": "/themes-tenses/move.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["She loved the smell of flowers three years ago."],
+      "imagePath": "/themes-tenses/flowers.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He hated to wake up early last year."],
+      "imagePath": "/themes-tenses/wakeup.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I changed my skirt ten minutes ago."],
+      "imagePath": "/themes-tenses/skirt.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It started raining about thirteen minutes ago."],
+      "imagePath": "/themes-tenses/rain.png",
+      "disabledImg": [
+        " "
+      ]
+    }
+  ],
+  "2": [
+    {
+      "correctVersion": "Sam washed his hands five minutes ago.",
+      "incorrectVersion": "Sam washes his hands five minutes ago.",
+      "imagePath": "/association-tenses/wash.svg"
+    },
+    {
+      "correctVersion": "Kate watched TV last night.",
+      "incorrectVersion": "Kate is watched TV last night.",
+      "imagePath": "/association-tenses/film.svg"
+    },
+    {
+      "correctVersion": "Max played basketball yesterday.",
+      "incorrectVersion": "Max playd basketball yesterday.",
+      "imagePath": "/association-tenses/basketball.svg"
+    },
+    {
+      "correctVersion": "My brother wanted to eat some pie.",
+      "incorrectVersion": "My brother is wanted to eat some pie.",
+      "imagePath": "/association-tenses/pie.png"
+    },
+    {
+      "correctVersion": "We played tennis last weekend.",
+      "incorrectVersion": "We are played tennis last weekend.",
+      "imagePath": "/association-tenses/tennis.svg"
+    },
+    {
+      "correctVersion": "They danced last week.",
+      "incorrectVersion": "They are dancing last week.",
+      "imagePath": "/association-tenses/dance.svg"
+    },
+    {
+      "correctVersion": "He played with his toys three years ago.",
+      "incorrectVersion": "He is playing with his toys three years ago.",
+      "imagePath": "/association-tenses/toys.svg"
+    },
+    {
+      "correctVersion": "Helen climbed a rock last summer.",
+      "incorrectVersion": "Helen climbs a rock last summer.",
+      "imagePath": "/association-tenses/climb.png"
+    },
+    {
+      "correctVersion": "We travelled to England by plane last autumn.",
+      "incorrectVersion": "We travel to England by plane last autumn.",
+      "imagePath": "/association-tenses/plane.svg"
+    },
+    {
+      "correctVersion": "They cleaned their flat five hours ago.",
+      "incorrectVersion": "They are cleaning their flat five hours ago.",
+      "imagePath": "/association-tenses/clean.png"
+    },
+    {
+      "correctVersion": "I lived in a house last summer.",
+      "incorrectVersion": "I am lived in a house last summer.",
+      "imagePath": "/association-tenses/house.svg"
+    },
+    {
+      "correctVersion": "I worked as a doctor ten years ago.",
+      "incorrectVersion": "I workd as a doctor ten years ago.",
+      "imagePath": "/association-tenses/doctor.svg"
+    },
+    {
+      "correctVersion": "She enjoyed chatting with her friends yesterday.",
+      "incorrectVersion": "She is enjoyed chatting with her friends yesterday.",
+      "imagePath": "/association-tenses/chat.png"
+    },
+    {
+      "correctVersion": "The driver stopped a car.",
+      "incorrectVersion": "The driver is stops a car.",
+      "imagePath": "/association-tenses/car.png"
+    },
+    {
+      "correctVersion": "She enjoyed eating peaches last summer.",
+      "incorrectVersion": "She enjoyd eating peaches last summer.",
+      "imagePath": "/association-tenses/peach.svg"
+    },
+    {
+      "correctVersion": "You kicked a ball with your classmates yesterday after school.",
+      "incorrectVersion": "You is kick a ball with your classmates yesterday after school.",
+      "imagePath": "/association-tenses/football.svg"
+    },
+    {
+      "correctVersion": "They looked at the sea from the beach.",
+      "incorrectVersion": "They looking at the sea from the beach.",
+      "imagePath": "/association-tenses/hotbeach.svg"
+    },
+    {
+      "correctVersion": "Mary liked her dinner.",
+      "incorrectVersion": "Mary are liked her dinner.",
+      "imagePath": "/association-tenses/fruit.svg"
+    },
+    {
+      "correctVersion": "I did my homework five minutes ago.",
+      "incorrectVersion": "I do my homework five minutes ago.",
+      "imagePath": "/association-tenses/homework.png"
+    },
+    {
+      "correctVersion": "I went to school yesterday.",
+      "incorrectVersion": "I am going to school yesterday.",
+      "imagePath": "/association-tenses/school.svg"
+    },
+    {
+      "correctVersion": "I went to the park last weekends.",
+      "incorrectVersion": "I am go to the park last weekends.",
+      "imagePath": "/association-tenses/park.png"
+    },
+    {
+      "correctVersion": "He went to the swimming pool last Sunday.",
+      "incorrectVersion": "He goes to the swimming pool last Sunday.",
+      "imagePath": "/association-tenses/swim.svg"
+    },
+    {
+      "correctVersion": "She cooked lunch last Wednesday.",
+      "incorrectVersion": "She is cooking lunch last Wednesday.",
+      "imagePath": "/association-tenses/cooklunch.png"
+    },
+    {
+      "correctVersion": "He brushed his teeth yesterday.",
+      "incorrectVersion": "He brushes his teeth yesterday.",
+      "imagePath": "/association-tenses/brushteeth.svg"
+    },
+    {
+      "correctVersion": "He listened to music ten minutes ago.",
+      "incorrectVersion": "He listening to music ten minutes ago.",
+      "imagePath": "/association-tenses/listentomusic.png"
+    },
+    {
+      "correctVersion": "He went to France last summer.",
+      "incorrectVersion": "He is going to France last summer.",
+      "imagePath": "/association-tenses/France.png"
+    },
+    {
+      "correctVersion": "We walked with our dog last evening.",
+      "incorrectVersion": "We walks with our dog last evening.",
+      "imagePath": "/association-tenses/girlanddog.svg"
+    },
+    {
+      "correctVersion": "We played golf last weekend.",
+      "incorrectVersion": "We playd golf last weekend.",
+      "imagePath": "/association-tenses/playgolf.png"
+    },
+    {
+      "correctVersion": "They washed the dishes last evening.",
+      "incorrectVersion": "They washes the dishes last evening.",
+      "imagePath": "/association-tenses/washdish.png"
+    },
+    {
+      "correctVersion": "They chatted a lot yesterday.",
+      "incorrectVersion": "They is chatted a lot yesterday.",
+      "imagePath": "/association-tenses/chat.png"
+    },
+    {
+      "correctVersion": "I liked coffee two years ago.",
+      "incorrectVersion": "I did like coffee two years ago.",
+      "imagePath": "/association-tenses/coffee.svg"
+    },
+    {
+      "correctVersion": "They cleaned their classroom yesterday.",
+      "incorrectVersion": "They cleand their classroom yesterday.",
+      "imagePath": "/association-tenses/classroom.png"
+    },
+    {
+      "correctVersion": "The student counted his crayons five minutes ago.",
+      "incorrectVersion": "The student counts his crayons five minutes ago.",
+      "imagePath": "/association-tenses/crayons.png"
+    },
+    {
+      "correctVersion": "My sibling played video games last hour.",
+      "incorrectVersion": "My sibling plays video games last hour.",
+      "imagePath": "/association-tenses/videogame.png"
+    },
+    {
+      "correctVersion": "She looked like her sister.",
+      "incorrectVersion": "She lookd like her sister.",
+      "imagePath": "/association-tenses/Twins.svg"
+    },
+    {
+      "correctVersion": "They smiled a lot.",
+      "incorrectVersion": "They are smiled a lot.",
+      "imagePath": "/association-tenses/school.svg"
+    },
+    {
+      "correctVersion": "My classmates studied English last year.",
+      "incorrectVersion": "My classmates study English last year.",
+      "imagePath": "/association-tenses/textbook.png"
+    },
+    {
+      "correctVersion": "We visited our grandparents six days ago.",
+      "incorrectVersion": "We visit our grandparents six days ago.",
+      "imagePath": "/association-tenses/grandparents.svg"
+    },
+    {
+      "correctVersion": "We finished playing tennis ten minutes ago.",
+      "incorrectVersion": "We finish play tennis ten minutes ago.",
+      "imagePath": "/association-tenses/tennis.svg"
+    },
+    {
+      "correctVersion": "Veronica closed the curtains in her bedroom.",
+      "incorrectVersion": "Veronica is closed the curtains in her bedroom.",
+      "imagePath": "/association-tenses/curtain.svg"
+    },
+    {
+      "correctVersion": "She opened her umbrella.",
+      "incorrectVersion": "She is opened her umbrella.",
+      "imagePath": "/association-tenses/Umbrella.png"
+    },
+    {
+      "correctVersion": "My parents moved to a new flat last month.",
+      "incorrectVersion": "My parents moves to a new flat last month.",
+      "imagePath": "/association-tenses/move.svg"
+    },
+    {
+      "correctVersion": "She loved the smell of flowers three years ago.",
+      "incorrectVersion": "She loves the smell of flowers three years ago.",
+      "imagePath": "/association-tenses/flowers.png"
+    },
+    {
+      "correctVersion": "He hated to wake up early last year.",
+      "incorrectVersion": "He hates to wake up early morning last year.",
+      "imagePath": "/association-tenses/wakeup.svg"
+    },
+    {
+      "correctVersion": "I changed my skirt ten minutes ago.",
+      "incorrectVersion": "I change my skirt ten minutes ago.",
+      "imagePath": "/association-tenses/skirt.svg"
+    },
+    {
+      "correctVersion": "It started raining about thirteen minutes ago.",
+      "incorrectVersion": "It starts raining about thirteen minutes ago.",
+      "imagePath": "/association-tenses/rain.png"
+    }
+  ]
+}

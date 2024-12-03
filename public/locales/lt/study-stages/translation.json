@@ -1,0 +1,23 @@
+{
+  "textbook": "Web Vadovėlis",
+  "challenge": "Iššūkis",
+  "vocabulary": "Žodynas",
+  "games": "Žaidimai",
+  "arena": "Arena",
+  "fun": "Pramogos",
+  "completed": "Praeita",
+
+  "descriptions": {
+    "challenge": "Naujų žinių įtvirtinimas",
+    "vocabulary": "Naujų žodžių mokymasis ir įtvirtinimas",
+    "games": "Išeitos medžiagos kartojimas",
+    "arena": "Internetiniai žaidimai su priešininku",
+    "fun": "Žaidimai visiems",
+    "textbook": "Gauti naujas užduotis"
+  },
+  "messages": {
+    "dueTo": "Atlikti iki"
+  },
+
+  "developing": "Skyrius ruošiamas"
+}

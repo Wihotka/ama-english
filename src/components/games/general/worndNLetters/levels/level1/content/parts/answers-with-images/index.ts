@@ -1,0 +1,1 @@
+export {AnswersWithImages} from './AnswersWithImages';

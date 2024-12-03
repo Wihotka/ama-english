@@ -1,0 +1,1 @@
+export {generateGameData} from './generate-game-data';

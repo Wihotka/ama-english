@@ -1,0 +1,59 @@
+@import 'src/scss/_mixins.scss';
+
+.button {
+  width: 120px;
+  height: 152px;
+  margin: 0 12px;
+
+  @include width-1280-L {
+    width: 100px;
+    height: 125px;
+    border-radius: 24px;
+    margin: 0;
+  }
+  @include width-1280-P {
+    width: 100px;
+    height: 125px;
+    border-radius: 24px;
+    margin: 0;
+  }
+
+  @include width-768-P {
+    width: 100px;
+    height: 125px;
+    border-radius: 24px;
+    margin: 0;
+  }
+
+  @include width-732-L {
+    width: 72px;
+    height: 88px;
+    border-radius: 16px;
+  }
+  @include width-412-P {
+    width: 72px;
+    height: 88px;
+    border-radius: 16px;
+  }
+}
+
+.svg {
+  width: 89px;
+  height: 120px;
+
+  @include width-1280-L {
+    width: 73px;
+    height: 98px;
+  }
+  @include width-1280-P {
+    width: 73px;
+    height: 98px;
+  }
+
+  @include width-732-L {
+    height: 55px;
+  }
+  @include width-412-P {
+    height: 55px;
+  }
+}

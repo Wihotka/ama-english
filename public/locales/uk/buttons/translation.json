@@ -1,0 +1,22 @@
+{
+  "yes": "Yes",
+  "no": "No",
+  "start": "Start",
+  "finish": "Finish",
+  "play": "Play",
+  "next": "Next",
+  "restart": "Restart",
+  "tryAgain": "Try again",
+  "toChallenge": "To Challenge",
+  "finishGame": "Finish Game",
+  "newGame": "New Game",
+  "back": "back",
+  "choosingGame": "Choosing Game",
+  "check": "Check",
+  "settings": "Game settings",
+  "homework": "Homework",
+  "reloadPage": "Reload Page",
+  "exit": "Exit",
+  "toTheMain": "Main",
+  "stayInGame": "Stay in the game"
+}

@@ -1,0 +1,737 @@
+[
+  {
+    "sentence": "I like singing.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/1.png"
+  },
+  {
+    "sentence": "I do not like singing.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/1.png"
+  },
+  {
+    "sentence": "Do I like singing?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/1.png"
+  },
+  {
+    "sentence": "He likes listening to music.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/2.png"
+  },
+  {
+    "sentence": "He does not like listening to music.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/2.png"
+  },
+  {
+    "sentence": "Does he like listening to music?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/2.png"
+  },
+  {
+    "sentence": "You wake up at 7 o'clock.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/3.svg"
+  },
+  {
+    "sentence": "You do not wake up at 7 o'clock.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/3.svg"
+  },
+  {
+    "sentence": "Do you wake up at 7 o'clock?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/3.svg"
+  },
+  {
+    "sentence": "It likes playing.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/4.svg"
+  },
+  {
+    "sentence": "It doesn't like playing.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/4.svg"
+  },
+  {
+    "sentence": "Does it like playing?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/4.svg"
+  },
+  {
+    "sentence": "They go to school.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/5.svg"
+  },
+  {
+    "sentence": "They don't go to school.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/5.svg"
+  },
+  {
+    "sentence": "Do they go to school?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/5.svg"
+  },
+  {
+    "sentence": "We can run very fast.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/6.svg"
+  },
+  {
+    "sentence": "We can't run very fast.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/6.svg"
+  },
+  {
+    "sentence": "Can we run very fast?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/6.svg"
+  },
+  {
+    "sentence": "She likes reading.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/7.svg"
+  },
+  {
+    "sentence": "She doesn't like reading.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/7.svg"
+  },
+  {
+    "sentence": "Does she like reading?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/7.svg"
+  },
+  {
+    "sentence": "They have fun.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/8.svg"
+  },
+  {
+    "sentence": "They do not have fun.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/8.svg"
+  },
+  {
+    "sentence": "Do they have fun?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/8.svg"
+  },
+  {
+    "sentence": "It is a big house.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/9.svg"
+  },
+  {
+    "sentence": "It isn't a big house.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/9.svg"
+  },
+  {
+    "sentence": "Is it a big house?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/9.svg"
+  },
+  {
+    "sentence": "It is hot.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/10.svg"
+  },
+  {
+    "sentence": "It isn't hot.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/10.svg"
+  },
+  {
+    "sentence": "Is it hot?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/10.svg"
+  },
+  {
+    "sentence": "We like coffee.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/11.svg"
+  },
+  {
+    "sentence": "We do not like coffee.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/11.svg"
+  },
+  {
+    "sentence": "Do we like coffee?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/11.svg"
+  },
+  {
+    "sentence": "She likes winter.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/12.svg"
+  },
+  {
+    "sentence": "She does not like winter.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/12.svg"
+  },
+  {
+    "sentence": "Does she like winter?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/12.svg"
+  },
+  {
+    "sentence": "She eats many fruit.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/13.svg"
+  },
+  {
+    "sentence": "She doesn't eat many fruit.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/13.svg"
+  },
+  {
+    "sentence": "Does she eat many fruit?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/13.svg"
+  },
+  {
+    "sentence": "He washes his hands every day.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/14.svg"
+  },
+  {
+    "sentence": "He doesn't wash his hands every day.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/14.svg"
+  },
+  {
+    "sentence": "Does he wash his hands every day?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/14.svg"
+  },
+  {
+    "sentence": "She watches TV.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/15.svg"
+  },
+  {
+    "sentence": "She doesn't watch TV.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/15.svg"
+  },
+  {
+    "sentence": "Does she watch TV?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/15.svg"
+  },
+  {
+    "sentence": "He drinks juice.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/16.svg"
+  },
+  {
+    "sentence": "He doesn't drink juice.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/16.svg"
+  },
+  {
+    "sentence": "Does he drink juice?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/16.svg"
+  },
+  {
+    "sentence": "It is cloudy.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/17.svg"
+  },
+  {
+    "sentence": "It isn't cloudy.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/17.svg"
+  },
+  {
+    "sentence": "Is it cloudy?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/17.svg"
+  },
+  {
+    "sentence": "It can fly.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/18.svg"
+  },
+  {
+    "sentence": "It can't fly.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/18.svg"
+  },
+  {
+    "sentence": "Can it fly?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/18.svg"
+  },
+  {
+    "sentence": "He usually has breakfast at 8 o'clock.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/19.svg"
+  },
+  {
+    "sentence": "He doesn't usually have breakfast at 8 o'clock.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/19.svg"
+  },
+  {
+    "sentence": "Does he usually have breakfast at 8 o'clock?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/19.svg"
+  },
+  {
+    "sentence": "We like Christmas.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/20.png"
+  },
+  {
+    "sentence": "We do not like Christmas.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/20.png"
+  },
+  {
+    "sentence": "Do we like Christmas?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/20.png"
+  },
+  {
+    "sentence": "The weather is bad.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/21.svg"
+  },
+  {
+    "sentence": "The weather is not bad.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/21.svg"
+  },
+  {
+    "sentence": "Is the weather bad?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/21.svg"
+  },
+  {
+    "sentence": "It is sweet.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/22.svg"
+  },
+  {
+    "sentence": "It is not sweet.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/22.svg"
+  },
+  {
+    "sentence": "Is it sweet?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/22.svg"
+  },
+  {
+    "sentence": "Fruit are tasty.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/23.svg"
+  },
+  {
+    "sentence": "Fruit are not tasty.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/23.svg"
+  },
+  {
+    "sentence": "Are fruit tasty?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/23.svg"
+  },
+  {
+    "sentence": "He has got a fish.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/24.svg"
+  },
+  {
+    "sentence": "He hasn't got a fish.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/24.svg"
+  },
+  {
+    "sentence": "Has he got a fish?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/24.svg"
+  },
+  {
+    "sentence": "It is pink.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/25.png"
+  },
+  {
+    "sentence": "It isn't black.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/25.png"
+  },
+  {
+    "sentence": "Is it pink?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/25.png"
+  },
+  {
+    "sentence": "It is blue.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/26.png"
+  },
+  {
+    "sentence": "It is not white.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/26.png"
+  },
+  {
+    "sentence": "Is it blue?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/26.png"
+  },
+  {
+    "sentence": "It is a triangle.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/27.png"
+  },
+  {
+    "sentence": "It isn't a rectangle.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/27.png"
+  },
+  {
+    "sentence": "Is it a triangle?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/27.png"
+  },
+  {
+    "sentence": "It is a star.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/28.png"
+  },
+  {
+    "sentence": "It isn't a circle.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/28.png"
+  },
+  {
+    "sentence": "Is it a star?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/28.png"
+  },
+  {
+    "sentence": "We have a big family.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/29.png"
+  },
+  {
+    "sentence": "Our family isn't big.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/29.png"
+  },
+  {
+    "sentence": "Do we have a big family?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/29.png"
+  },
+  {
+    "sentence": "She has a brother.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/30.svg"
+  },
+  {
+    "sentence": "She does not have a brother.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/30.svg"
+  },
+  {
+    "sentence": "Does she have a brother?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/30.svg"
+  },
+  {
+    "sentence": "She likes autumn.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/31.svg"
+  },
+  {
+    "sentence": "She does not like autumn.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/31.svg"
+  },
+  {
+    "sentence": "Does she like autumn?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/31.svg"
+  },
+  {
+    "sentence": "It is a big ship.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/32.svg"
+  },
+  {
+    "sentence": "This ship is not big.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/32.svg"
+  },
+  {
+    "sentence": "Is it a big ship?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/32.svg"
+  },
+  {
+    "sentence": "My bedroom is small.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/33.png"
+  },
+  {
+    "sentence": "My bedroom isn't small.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/33.png"
+  },
+  {
+    "sentence": "Is my bedroom small?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/33.png"
+  },
+  {
+    "sentence": "They like dolphins.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/34.png"
+  },
+  {
+    "sentence": "They do not like dolphins.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/34.png"
+  },
+  {
+    "sentence": "Do they like dolphins?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/34.png"
+  },
+  {
+    "sentence": "You have a dog.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/35.svg"
+  },
+  {
+    "sentence": "You don't have a dog.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/35.svg"
+  },
+  {
+    "sentence": "Do you have a dog?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/35.svg"
+  },
+  {
+    "sentence": "Hamsters eat vegetables.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/36.png"
+  },
+  {
+    "sentence": "Hamsters don't eat meat.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/36.png"
+  },
+  {
+    "sentence": "Do hamsters eat vegetables?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/36.png"
+  },
+  {
+    "sentence": "They have a big window in their room.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/37.png"
+  },
+  {
+    "sentence": "The window in their room isn't big.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/37.png"
+  },
+  {
+    "sentence": "Do they have a big window in their room?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/37.png"
+  },
+  {
+    "sentence": "You like playing video games.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/38.png"
+  },
+  {
+    "sentence": "You don't like playing video games.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/38.png"
+  },
+  {
+    "sentence": "Do you like playing video games?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/38.png"
+  },
+  {
+    "sentence": "He has got many toys.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/39.svg"
+  },
+  {
+    "sentence": "He hasn't got many toys.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/39.svg"
+  },
+  {
+    "sentence": "Has he got many toys?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/39.svg"
+  },
+  {
+    "sentence": "It can run.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/40.png"
+  },
+  {
+    "sentence": "It can't fly.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/40.png"
+  },
+  {
+    "sentence": "Can it run?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/40.png"
+  },
+  {
+    "sentence": "Her eyes are brown.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/41.svg"
+  },
+  {
+    "sentence": "Her eyes are not green.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/41.svg"
+  },
+  {
+    "sentence": "Are her eyes brown?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/41.svg"
+  },
+  {
+    "sentence": "Your birthday is in August.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/42.png"
+  },
+  {
+    "sentence": "Your birthday is not in August.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/42.png"
+  },
+  {
+    "sentence": "Is your birthday in August?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/42.png"
+  },
+  {
+    "sentence": "The rainbow comes after the rain.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/43.png"
+  },
+  {
+    "sentence": "The rainbow doesn't come after the rain.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/43.png"
+  },
+  {
+    "sentence": "Does the rainbow come after the rain?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/43.png"
+  },
+  {
+    "sentence": "It is a green skirt.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/44.svg"
+  },
+  {
+    "sentence": "it is not a green T-shirt.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/44.svg"
+  },
+  {
+    "sentence": "Is it a green skirt?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/44.svg"
+  },
+  {
+    "sentence": "It is windy.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/45.png"
+  },
+  {
+    "sentence": "It is not windy.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/45.png"
+  },
+  {
+    "sentence": "Is it windy?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/45.png"
+  },
+  {
+    "sentence": "We like apples.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/46.svg"
+  },
+  {
+    "sentence": "We do not like apples.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/46.svg"
+  },
+  {
+    "sentence": "Do we like apples?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/46.svg"
+  },
+  {
+    "sentence": "He eats sandwiches for breakfast.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/47.png"
+  },
+  {
+    "sentence": "He doesn't eat sandwiches for breakfast.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/47.png"
+  },
+  {
+    "sentence": "Does he eat sandwiches for breakfast?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/47.png"
+  },
+  {
+    "sentence": "She likes eating lemons.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/48.png"
+  },
+  {
+    "sentence": "She does not like eating lemons.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/48.png"
+  },
+  {
+    "sentence": "Does she like eating lemons?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/48.png"
+  },
+  {
+    "sentence": "They like travelling by train.",
+    "type": "affirmative",
+    "imgUrl": "sentences/clickItEasy/simple/49.png"
+  },
+  {
+    "sentence": "They do not like travelling by train.",
+    "type": "negative",
+    "imgUrl": "sentences/clickItEasy/simple/49.png"
+  },
+  {
+    "sentence": "Do they like travelling by train?",
+    "type": "interrogative",
+    "imgUrl": "sentences/clickItEasy/simple/49.png"
+  }
+]

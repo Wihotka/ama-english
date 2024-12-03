@@ -1,0 +1,12 @@
+export {HungryBear as hungryBear} from './HungryBear';
+export {FunnyCrocodile as funnyCrocodile} from './FunnyCrocodile';
+export {CuteFrog as cuteFrog} from './CuteFrog';
+export {HappyOctopus as happyOctopus} from './HappyOctopus';
+export {CuriousMonkey as curiousMonkey} from './CuriousMonkey';
+export {LovelyDragon as lovelyDragon} from './LovelyDragon';
+export {SmartToucan as smartToucan} from './SmartToucan';
+export {WonderfulUnicorn as wonderfulUnicorn} from './WonderfulUnicorn';
+export {ArtisticOctopus as artisticOctopus} from './ArtisticOctopus';
+export {SweetTooth as sweetTooth} from './SweetTooth';
+export {OpenSpace as openSpace} from './OpenSpace';
+export {DangerousDragon as dangerousDragon} from './DangerousDragon';

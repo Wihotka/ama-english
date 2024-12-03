@@ -1,0 +1,36 @@
+@import 'src/scss/_mixins.scss';
+
+.markerDot {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 0 solid #fff;
+    transition: border .2s ease-in, box-shadow .2s ease-in;
+    cursor: pointer;
+
+    @include width-640-L {
+        width: 48px;
+        height: 48px;
+    }
+    @include width-360-P {
+        width: 48px;
+        height: 48px;
+    }
+}
+
+.markerBorder {
+    border: 7px solid #FFFFFF;
+
+    @include width-732-L() {
+        border-width: 5px;
+    }
+
+    @include width-412-P() {
+        border-width: 5px;
+    }
+}
+
+.markerShadow {
+    box-shadow: 0px 0px 16px #FE0000;
+    border: 0px solid #fff;
+}

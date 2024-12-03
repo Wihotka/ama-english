@@ -1,0 +1,1044 @@
+{
+  "1": [
+    {
+      "sentence": [
+        "I am playing a video game at this moment.",
+        "You are playing a video game at this moment.",
+        "We are playing a video game at this moment.",
+        "They are playing a video game at this moment.",
+        "She is playing a video game at this moment."
+      ],
+      "imagePath": "/themes-tenses/videogame.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm playing basketball now.",
+        "You're playing basketball now.",
+        "We're playing basketball now.",
+        "They're playing basketball now.",
+        "She's playing basketball now.",
+        "He's playing basketball now."
+      ],
+      "imagePath": "/themes-tenses/basketball.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm reading a fairy tale.",
+        "You're reading a fairy tale.",
+        "We're reading a fairy tale.",
+        "They're reading a fairy tale.",
+        "She's reading a fairy tale."
+      ],
+      "imagePath": "/themes-tenses/reading.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am riding a horse today.",
+        "You are riding a horse today.",
+        "We are riding a horse today.",
+        "They are riding a horse today.",
+        "She is riding a horse today.",
+        "He is riding a horse today."
+      ],
+      "imagePath": "/themes-tenses/horse.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am running a marathon now.",
+        "You are running a marathon now.",
+        "We are running a marathon now.",
+        "They are running a marathon now.",
+        "He is running a marathon now.",
+        "She is running a marathon now."
+      ],
+      "imagePath": "/themes-tenses/run.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm playing with leaves today.",
+        "You're playing with leaves today.",
+        "We're playing with leaves today.",
+        "They're playing with leaves today.",
+        "She's playing with leaves today."
+      ],
+      "imagePath": "/themes-tenses/autumn.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am drinking juice these days.",
+        "You are drinking juice these days.",
+        "We are drinking juice these days.",
+        "They are drinking juice these days.",
+        "He is drinking juice these days."
+      ],
+      "imagePath": "/themes-tenses/drinkjuice.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am eating dinner at this moment.",
+        "You are eating dinner at this moment.",
+        "We are eating dinner at this moment.",
+        "They are eating dinner at this moment.",
+        "He is eating dinner at this moment."
+      ],
+      "imagePath": "/themes-tenses/dinner.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm driving a car.",
+        "You are driving a car.",
+        "We are driving a car.",
+        "They are driving a car.",
+        "She is driving a car.",
+        "He is driving a car."
+      ],
+      "imagePath": "/themes-tenses/car.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am drawing a picture right now.",
+        "You are drawing a picture right now.",
+        "We are drawing a picture right now.",
+        "They are drawing a picture right now.",
+        "He is drawing a picture right now."
+      ],
+      "imagePath": "/themes-tenses/draw.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am climbing a rock now.",
+        "You are climbing a rock now.",
+        "We are climbing a rock now.",
+        "They are climbing a rock now.",
+        "She's climbing a rock now."
+      ],
+      "imagePath": "/themes-tenses/climb.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm singing at the moment.",
+        "You're singing at the moment.",
+        "We're singing at the moment.",
+        "They're singing at the moment.",
+        "He's singing at the moment."
+      ],
+      "imagePath": "/themes-tenses/sing.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am watching cartoons on TV today.",
+        "You are watching cartoons on TV today.",
+        "We are watching cartoons on TV today.",
+        "They are watching cartoons on TV today.",
+        "She is watching cartoons on TV today."
+      ],
+      "imagePath": "/themes-tenses/film.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm washing hands now.",
+        "You're washing hands now.",
+        "We're washing hands now.",
+        "They're washing hands now.",
+        "He's washing hands now."
+      ],
+      "imagePath": "/themes-tenses/wash.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm playing with cars now.",
+        "You are playing with cars now.",
+        "He is playing with cars now."
+      ],
+      "imagePath": "/themes-tenses/toys.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am spending time with my pet these days.",
+        "You are spending time with your pet these days.",
+        "We are spending time with our pet these days.",
+        "They are spending time with their pet these days.",
+        "She is spending time with her pet these days."
+      ],
+      "imagePath": "/themes-tenses/girlanddog.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am learning English at the moment.",
+        "You are learning English at the moment.",
+        "We are learning English at the moment.",
+        "They are learning English at the moment.",
+        "She is learning English at the moment.",
+        "He is learning English at the moment."
+      ],
+      "imagePath": "/themes-tenses/textbook.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm dancing at the moment.",
+        "You're dancing at the moment.",
+        "We're dancing at the moment.",
+        "They're dancing at the moment.",
+        "He's dancing at the moment.",
+        "She's dancing at the moment."
+      ],
+      "imagePath": "/themes-tenses/dance.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am dreaming about being a blogger.",
+        "You are dreaming about being a blogger.",
+        "He is dreaming about being a blogger."
+      ],
+      "imagePath": "/themes-tenses/blogger.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am doing my homework right now.",
+        "You are doing your homework right now.",
+        "We are doing our homework right now.",
+        "They are doing their homework right now.",
+        "He is doing his homework right now."
+      ],
+      "imagePath": "/themes-tenses/homework.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am making a pie at the moment.",
+        "You are making a pie at the moment.",
+        "We are making a pie at the moment.",
+        "They are making a pie at the moment.",
+        "He is making a pie at the moment.",
+        "She is making a pie at the moment."
+      ],
+      "imagePath": "/themes-tenses/pie.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm travelling by plane.",
+        "You are travelling by plane.",
+        "We are travelling by plane.",
+        "They are travelling by plane.",
+        "He is travelling by plane.",
+        "She is travelling by plane."
+      ],
+      "imagePath": "/themes-tenses/plane.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am sleeping now.",
+        "You are sleeping now.",
+        "We are sleeping now.",
+        "They are sleeping now.",
+        "He is sleeping now."
+      ],
+      "imagePath": "/themes-tenses/sleep.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am cleaning my room right now.",
+        "You are cleaning your room right now.",
+        "We are cleaning our room right now.",
+        "They are cleaning their room right now.",
+        "He is cleaning his room right now.",
+        "They are cleaning her room right now."
+      ],
+      "imagePath": "/themes-tenses/clean.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm living in a big brown house now.",
+        "You're living in a big brown house now.",
+        "We're living in a big brown house now.",
+        "They're living in a big brown house now.",
+        "She's living in a big brown house now.",
+        "He's living in a big brown house now."
+      ],
+      "imagePath": "/themes-tenses/house.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm working as a doctor now.",
+        "You're working as a doctor now.",
+        "We're working as doctors now.",
+        "They're working as doctors now.",
+        "He's working as a doctor now."
+      ],
+      "imagePath": "/themes-tenses/doctor.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am going to the cinema with my family now.",
+        "You are going to the cinema with your family now.",
+        "We are going to the cinema with our family now.",
+        "They are going to the cinema with their family now.",
+        "He is going to the cinema with his family now.",
+        "She is going to the cinema with her family now."
+      ],
+      "imagePath": "/themes-tenses/cinema.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am not writing notes in the notebook now.",
+        "You are not writing notes in the notebook now.",
+        "We are not writing notes in the notebook now.",
+        "They are not writing notes in the notebook now.",
+        "He is not writing notes in the notebook now.",
+        "She is not writing notes in the notebook now."
+      ],
+      "imagePath": "/themes-tenses/notebook.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm going to the park with my sister now.",
+        "You are going to the park with your sister now.",
+        "We are going to the park with our sister now.",
+        "They are going to the park with their sister now.",
+        "He is going to the park with his sister now.",
+        "She is going to the park with her sister now."
+      ],
+      "imagePath": "/themes-tenses/park.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm playing football today.",
+        "You are playing football today.",
+        "We are playing football today.",
+        "They are playing football today.",
+        "He is playing football today."
+      ],
+      "imagePath": "/themes-tenses/football.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am chatting a lot these days.",
+        "You are chatting a lot these days.",
+        "We are chatting a lot these days.",
+        "They are chatting a lot these days.",
+        "He is chatting a lot these days.",
+        "She is chatting a lot these days."
+      ],
+      "imagePath": "/themes-tenses/chat.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am cooking lunch for my family now.",
+        "You are cooking lunch for your family now.",
+        "We are cooking lunch for our family now.",
+        "They are cooking lunch for their family now.",
+        "She is cooking lunch for her family now."
+      ],
+      "imagePath": "/themes-tenses/cooklunch.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am playing with my cat at the moment.",
+        "You are playing with your cat at the moment.",
+        "We are playing with our cat at the moment.",
+        "They are playing with their cat at the moment.",
+        "He is playing with his cat at the moment."
+      ],
+      "imagePath": "/themes-tenses/Playingwithacat.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm wearing a jacket today.",
+        "You're wearing a jacket today.",
+        "We're wearing jackets today.",
+        "They're wearing jackets today.",
+        "He's wearing a jacket today.",
+        "She's wearing a jacket today."
+      ],
+      "imagePath": "/themes-tenses/jacket.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I am wearing a red dress today.",
+        "You are wearing a red dress today.",
+        "We are wearing red dresses today.",
+        "They are wearing red dresses today.",
+        "She is wearing a red dress today."
+      ],
+      "imagePath": "/themes-tenses/dress.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm wearing green shorts today.",
+        "You are wearing green shorts today.",
+        "We are wearing green shorts today.",
+        "They are wearing green shorts today.",
+        "He is wearing green shorts today.",
+        "She is wearing green shorts today."
+      ],
+      "imagePath": "/themes-tenses/shorts.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": [
+        "I'm wearing a blue T-shirt today.",
+        "You're wearing a blue T-shirt today.",
+        "We're wearing a blue T-shirt today.",
+        "They're wearing a blue T-shirt today.",
+        "He's wearing a blue T-shirt today.",
+        "She's wearing a blue T-shirt today."
+      ],
+      "imagePath": "/themes-tenses/T-shirt.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["The sun is shining today."],
+      "imagePath": "/themes-tenses/sun.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["This plant is growing up well these days."],
+      "imagePath": "/themes-tenses/grow.svg",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It’s raining all day."],
+      "imagePath": "/themes-tenses/rain.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+
+
+
+
+    {
+      "sentence": ["Max is cooking fish for dinner at the moment."],
+      "imagePath": "/themes-tenses/cook-fish.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They are watching a TV show right now."],
+      "imagePath": "/themes-tenses/tv-show.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We are having a picnic in the park."],
+      "imagePath": "/themes-tenses/picnic.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My wife is wearing a green dress tonight."],
+      "imagePath": "/themes-tenses/green-dress.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He is studying at the library right now."],
+      "imagePath": "/themes-tenses/study-library.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He is playing basketball with his friends today."],
+      "imagePath": "/themes-tenses/basketball.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It’s sunny today and I’m wearing my sunglasses."],
+      "imagePath": "/themes-tenses/sunglasses.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["He is sleeping on the sofa in our living room."],
+      "imagePath": "/themes-tenses/sofa-man.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["My brother is reading comics in his bedroom right now."],
+      "imagePath": "/themes-tenses/comics.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I am doing a Chemistry project now."],
+      "imagePath": "/themes-tenses/chemistry-project.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["We are doing gymnastics at the sport center right now."],
+      "imagePath": "/themes-tenses/gymnastics.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["They are watching a football match in a sports cafe."],
+      "imagePath": "/themes-tenses/watch-football.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["I am helping my mom to clean the kitchen."],
+      "imagePath": "/themes-tenses/help-mom.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["His sister is playing on the playground now."],
+      "imagePath": "/themes-tenses/playground.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is snowing outside."],
+      "imagePath": "/themes-tenses/comfortable.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It isn't working now."],
+      "imagePath": "/themes-tenses/not-working.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is singing right now."],
+      "imagePath": "/themes-tenses/bird.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is eating vegetables."],
+      "imagePath": "/association-tenses/hamster.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is sleeping on the sofa."],
+      "imagePath": "/themes-tenses/sofa-cat.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is playing with a stick."],
+      "imagePath": "/themes-tenses/dog.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is running at the moment."],
+      "imagePath": "/themes-tenses/horse.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is swimming."],
+      "imagePath": "/themes-tenses/fish.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is flying at this moment."],
+      "imagePath": "/themes-tenses/butterfly.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is drawing a picture now."],
+      "imagePath": "/themes-tenses/panda.png",
+      "disabledImg": [
+        " "
+      ]
+    },
+    {
+      "sentence": ["It is sitting on the grass at the moment."],
+      "imagePath": "/themes-tenses/fox-grass.png",
+      "disabledImg": [
+        " "
+      ]
+    }
+  ],
+  "2": [
+    {
+      "correctVersion": "Rebecca is playing a video game all day.",
+      "incorrectVersion": "Rebecca is playing a video game all day.",
+      "imagePath": "/association-tenses/videogame.png"
+    },
+    {
+      "correctVersion": "I'm playing basketball at the moment.",
+      "incorrectVersion": "I'm am playing basketball at the moment.",
+      "imagePath": "/association-tenses/basketball.svg"
+    },
+    {
+      "correctVersion": "My younger sister is reading a fairy tale now.",
+      "incorrectVersion": "My younger sister is reads a fairy tale.",
+      "imagePath": "/association-tenses/reading.svg"
+    },
+    {
+      "correctVersion": "My husband is riding a horse.",
+      "incorrectVersion": "My husband are riding a horse.",
+      "imagePath": "/association-tenses/horse.svg"
+    },
+    {
+      "correctVersion": "This team is running a marathon.",
+      "incorrectVersion": "This team are runs a marathon.",
+      "imagePath": "/association-tenses/run.svg"
+    },
+    {
+      "correctVersion": "My child is playing with leaves today.",
+      "incorrectVersion": "My child is plaing with leaves today.",
+      "imagePath": "/association-tenses/autumn.svg"
+    },
+    {
+      "correctVersion": "My nephew is drinking water these days.",
+      "incorrectVersion": "My nephew drinking water these days.",
+      "imagePath": "/association-tenses/drinkjuice.svg"
+    },
+    {
+      "correctVersion": "My son is eating breakfast at this moment.",
+      "incorrectVersion": "My son is eating breakfast at this moment.",
+      "imagePath": "/association-tenses/dinner.svg"
+    },
+    {
+      "correctVersion": "My dad is driving a car.",
+      "incorrectVersion": "My dad are driving a car.",
+      "imagePath": "/association-tenses/car.png"
+    },
+    {
+      "correctVersion": "My elder brother is drawing a picture right now.",
+      "incorrectVersion": "My elder brother are drawing a picture right now.",
+      "imagePath": "/association-tenses/draw.png"
+    },
+    {
+      "correctVersion": "This sportsman is climbing a rock now.",
+      "incorrectVersion": "This sportsman is climbs a rock now.",
+      "imagePath": "/association-tenses/climb.png"
+    },
+    {
+      "correctVersion": "My uncle is singing at the moment.",
+      "incorrectVersion": "My uncle am singing at the moment.",
+      "imagePath": "/association-tenses/sing.png"
+    },
+    {
+      "correctVersion": "This girl is watching cartoons on TV today.",
+      "incorrectVersion": "This girl is watches cartoons on TV today.",
+      "imagePath": "/association-tenses/film.svg"
+    },
+    {
+      "correctVersion": "Mark is washing hands at the moment.",
+      "incorrectVersion": "Mark am washing hands at the moment.",
+      "imagePath": "/association-tenses/wash.svg"
+    },
+    {
+      "correctVersion": "Peter is playing with dolls now.",
+      "incorrectVersion": "Peter isn plaing with dolls now.",
+      "imagePath": "/association-tenses/toys.svg"
+    },
+    {
+      "correctVersion": "My niece is spending time with my dog right now.",
+      "incorrectVersion": "My niece are spending time with my dog right now.",
+      "imagePath": "/association-tenses/girlanddog.svg"
+    },
+    {
+      "correctVersion": "My classmates are learning English at the moment.",
+      "incorrectVersion": "My classmates are learns English at the moment.",
+      "imagePath": "/association-tenses/textbook.png"
+    },
+    {
+      "correctVersion": "My parents are dancing at the moment.",
+      "incorrectVersion": "My parents are danceing at the moment.",
+      "imagePath": "/association-tenses/dance.svg"
+    },
+    {
+      "correctVersion": "My friend is dreaming about being a blogger.",
+      "incorrectVersion": "My friend dreaming about being a blogger.",
+      "imagePath": "/association-tenses/blogger.png"
+    },
+    {
+      "correctVersion": "My brother is helping me with my homework now.",
+      "incorrectVersion": "My brother helping me with my homework now.",
+      "imagePath": "/association-tenses/homework.png"
+    },
+    {
+      "correctVersion": "My grandma is making a pie in the kitchen.",
+      "incorrectVersion": "My grandma are making a pie in the kitchen.",
+      "imagePath": "/association-tenses/pie.png"
+    },
+    {
+      "correctVersion": "My parents are travelling by plane.",
+      "incorrectVersion": "My parents is travelling by plane.",
+      "imagePath": "/association-tenses/plane.svg"
+    },
+    {
+      "correctVersion": "Victor is sleeping in his bed now.",
+      "incorrectVersion": "Victor is sleeps in his bed now.",
+      "imagePath": "/association-tenses/sleep.png"
+    },
+    {
+      "correctVersion": "These people are cleaning our house right now.",
+      "incorrectVersion": "These people am cleaning our house right now.",
+      "imagePath": "/association-tenses/clean.png"
+    },
+    {
+      "correctVersion": "My family is living in a big brown house now.",
+      "incorrectVersion": "My family am living in a big brown house now.",
+      "imagePath": "/association-tenses/house.svg"
+    },
+    {
+      "correctVersion": "My dad is working as a doctor.",
+      "incorrectVersion": "My dad is works as a doctor.",
+      "imagePath": "/association-tenses/doctor.svg"
+    },
+    {
+      "correctVersion": "My classmates are going to the cinema now.",
+      "incorrectVersion": "My classmates are goes to the cinema now.",
+      "imagePath": "/association-tenses/cinema.svg"
+    },
+    {
+      "correctVersion": "She is writing notes in the notebook now.",
+      "incorrectVersion": "She are writing notes in the notebook now",
+      "imagePath": "/association-tenses/notebook.svg"
+    },
+    {
+      "correctVersion": "A brother is going to the park with his sister now.",
+      "incorrectVersion": "A brother is goes to the park with his sister now.",
+      "imagePath": "/association-tenses/park.png"
+    },
+    {
+      "correctVersion": "Dave is playing football today.",
+      "incorrectVersion": "Dave is plaing football today.",
+      "imagePath": "/association-tenses/football.svg"
+    },
+    {
+      "correctVersion": "These people are chatting a lot these days.",
+      "incorrectVersion": "These people am chatting a lot these days.",
+      "imagePath": "/association-tenses/chat.png"
+    },
+    {
+      "correctVersion": "I am cooking lunch for our family now.",
+      "incorrectVersion": "I am cook lunch for our family now.",
+      "imagePath": "/association-tenses/cooklunch.png"
+    },
+    {
+      "correctVersion": "I am playing with my cat at the moment.",
+      "incorrectVersion": "I is playing with my cat at the moment.",
+      "imagePath": "/association-tenses/Playingwithacat.svg"
+    },
+    {
+      "correctVersion": "My dad is wearing a jacket today.",
+      "incorrectVersion": "My dad is wears a jacket today.",
+      "imagePath": "/association-tenses/jacket.png"
+    },
+    {
+      "correctVersion": "My mum is wearing a red dress these days.",
+      "incorrectVersion": "My mum are wearing a red dress these days.",
+      "imagePath": "/association-tenses/dress.svg"
+    },
+    {
+      "correctVersion": "John is wearing green shorts today.",
+      "incorrectVersion": "John is wear green shorts today.",
+      "imagePath": "/association-tenses/shorts.png"
+    },
+    {
+      "correctVersion": "I'm wearing a blue T-shirt today.",
+      "incorrectVersion": "I'm am wearing a blue T-shirt today.",
+      "imagePath": "/association-tenses/T-shirt.svg"
+    },
+    {
+      "correctVersion": "The sun is shining these weekends.",
+      "incorrectVersion": "The sun are shining these weekends.",
+      "imagePath": "/association-tenses/sun.png"
+    },
+    {
+      "correctVersion": "This plant is growing up well these days.",
+      "incorrectVersion": "This plant is grow up well these days.",
+      "imagePath": "/association-tenses/grow.svg"
+    },
+    {
+      "correctVersion": "It’s raining today.",
+      "incorrectVersion": "It’s is raining today.",
+      "imagePath": "/association-tenses/rain.png"
+    },
+
+
+
+
+    {
+      "correctVersion": "Max is cooking fish for dinner at the moment.",
+      "incorrectVersion": "Max cooking fish for dinner at the moment.",
+      "imagePath": "/themes-tenses/cook-fish.png"
+    },
+    {
+      "correctVersion": "They are watching a TV show right now.",
+      "incorrectVersion": "They is watching a TV show right now.",
+      "imagePath": "/themes-tenses/tv-show.png"
+    },
+    {
+      "correctVersion": "We are having a picnic in the park.",
+      "incorrectVersion": "We are have a picnic in the park.",
+      "imagePath": "/themes-tenses/picnic.png"
+    },
+    {
+      "correctVersion": "My wife is wearing a green dress tonight.",
+      "incorrectVersion": "My wife is wears a green dress tonight.",
+      "imagePath": "/themes-tenses/green-dress.png"
+    },
+    {
+      "correctVersion": "He is studying at the library right now.",
+      "incorrectVersion": "He studying at the library right now.",
+      "imagePath": "/themes-tenses/study-library.png"
+    },
+    {
+      "correctVersion": "He is playing basketball with his friends today.",
+      "incorrectVersion": "He is plaing basketball with his friends today.",
+      "imagePath": "/themes-tenses/basketball.png"
+    },
+    {
+      "correctVersion": "It’s sunny today and I’m wearing my sunglasses.",
+      "incorrectVersion": "It’s sunny today and I’m is wearing my sunglasses.",
+      "imagePath": "/themes-tenses/sunglasses.png"
+    },
+    {
+      "correctVersion": "He is sleeping on the sofa in our living room.",
+      "incorrectVersion": "He's is sleeping on the sofa in our living room.",
+      "imagePath": "/themes-tenses/sofa-man.png"
+    },
+    {
+      "correctVersion": "My brother is reading comics in his bedroom right now.",
+      "incorrectVersion": "My brother reading comics in his bedroom right now.",
+      "imagePath": "/themes-tenses/comics.png"
+    },
+    {
+      "correctVersion": "I am doing a Chemistry project now.",
+      "incorrectVersion": "I'm am doing a Chemistry project now.",
+      "imagePath": "/themes-tenses/chemistry-project.png"
+    },
+    {
+      "correctVersion": "We are doing gymnastics at the sport center right now.",
+      "incorrectVersion": "We is doing gymnastics at the sport center right now.",
+      "imagePath": "/themes-tenses/gymnastics.png"
+    },
+    {
+      "correctVersion": "They are watching a football match in a sports cafe.",
+      "incorrectVersion": "They are watchs a football match in a sports cafe.",
+      "imagePath": "/themes-tenses/watch-football.png"
+    },
+    {
+      "correctVersion": "I am helping my mom to clean the kitchen.",
+      "incorrectVersion": "I helping my mom to clean the kitchen.",
+      "imagePath": "/themes-tenses/help-mom.png"
+    },
+    {
+      "correctVersion": "His sister is playing on the playground now.",
+      "incorrectVersion": "His sister playing on the playground now.",
+      "imagePath": "/themes-tenses/playground.png"
+    },
+    {
+      "correctVersion": "The sun is shining today.",
+      "incorrectVersion": "The sun are shining today.",
+      "imagePath": "/themes-tenses/sun.png"
+    },
+    {
+      "correctVersion": "This plant is growing up well these days.",
+      "incorrectVersion": "This plant are growing up well these days.",
+      "imagePath": "/themes-tenses/grow.svg"
+    },
+    {
+      "correctVersion": "It’s raining all day.",
+      "incorrectVersion": "It’s is raining all day.",
+      "imagePath": "/themes-tenses/rain.png"
+    },
+    {
+      "correctVersion": "It is snowing outside.",
+      "incorrectVersion": "Its snowing outside.",
+      "imagePath": "/themes-tenses/comfortable.png"
+    },
+    {
+      "correctVersion": "It isn't working now.",
+      "incorrectVersion": "It isnt working now.",
+      "imagePath": "/themes-tenses/not-working.png"
+    },
+    {
+      "correctVersion": "It is singing right now.",
+      "incorrectVersion": "It singing right now.",
+      "imagePath": "/themes-tenses/bird.png"
+    },
+    {
+      "correctVersion": "It is eating vegetables.",
+      "incorrectVersion": "It are eating vegetables.",
+      "imagePath": "/association-tenses/hamster.png"
+    },
+    {
+      "correctVersion": "It is sleeping on the sofa.",
+      "incorrectVersion": "It's is sleeping on the sofa.",
+      "imagePath": "/themes-tenses/sofa-cat.png"
+    },
+    {
+      "correctVersion": "It is playing with a stick.",
+      "incorrectVersion": "It is plaing with a stick.",
+      "imagePath": "/themes-tenses/dog.png"
+    },
+    {
+      "correctVersion": "It is running at the moment.",
+      "incorrectVersion": "Its running at the moment.",
+      "imagePath": "/themes-tenses/horse.png"
+    },
+    {
+      "correctVersion": "It is swimming.",
+      "incorrectVersion": "It are swimming.",
+      "imagePath": "/themes-tenses/fish.png"
+    },
+    {
+      "correctVersion": "It is flying at this moment.",
+      "incorrectVersion": "It is flies at this moment.",
+      "imagePath": "/themes-tenses/butterfly.png"
+    },
+    {
+      "correctVersion": "It is drawing a picture now.",
+      "incorrectVersion": "It is draws a picture now.",
+      "imagePath": "/themes-tenses/panda.png"
+    },
+    {
+      "correctVersion": "It is sitting on the grass at the moment.",
+      "incorrectVersion": "It is siting on the grass at the moment.",
+      "imagePath": "/themes-tenses/fox-grass.png"
+    }
+  ]
+}

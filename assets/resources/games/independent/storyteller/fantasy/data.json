@@ -1,0 +1,180 @@
+{
+    "storyText": "Deep in a forest there was a beautiful kingdom. Lots of fantastic creatures lived there, like sprites, fairies, centaurs and unicorns. But an evil a0 wanted to destroy the kingdom! Sky was a1. Sky's best friend was a2. They had a very important mission. The two friends had to find a magic a3 to kill the a0. They had a special map. They followed the map and walked for a4 days. Finally they came to a secret a5. They saw the a3! They took the a3 back to the kingdom and killed the evil a0. All the sprites, fairies, centaurs, and unicorns thanked Sky and his friend and they all lived happily ever after.",
+    "imageBg": "#B694FFCC",
+    "questions": [
+        {
+            "questionText": "There is an evil character in the story.\nWhat is it?",
+            "answers": [
+                {
+                    "value": "ogre",
+                    "imgPath": "fantasy/ogre.png"
+                },
+                {
+                    "value": "witch",
+                    "imgPath": "fantasy/witch.png"
+                },
+                {
+                    "value": "dragon",
+                    "imgPath": "fantasy/dragon.png"
+                },
+                {
+                    "value": "troll",
+                    "imgPath": "fantasy/troll.png"
+                },
+                {
+                    "value": "wizard",
+                    "imgPath": "fantasy/wizard.png"
+                },
+                {
+                    "value": "giant",
+                    "imgPath": "fantasy/giant.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There is a good character in the story.\nWhat is it?",
+            "answers": [
+                {
+                    "value": "a centaur",
+                    "imgPath": "fantasy/centaur.png"
+                },
+                {
+                    "value": "a unicorn",
+                    "imgPath": "fantasy/unicorn.png"
+                },
+                {
+                    "value": "a fairy",
+                    "imgPath": "fantasy/fairy.png"
+                },
+                {
+                    "value": "a sprite",
+                    "imgPath": "fantasy/sprite.png"
+                },
+                {
+                    "value": "a girl",
+                    "imgPath": "fantasy/girl.png"
+                },
+                {
+                    "value": "a boy",
+                    "imgPath": "fantasy/boy.png"
+                }
+            ]
+        },
+        {
+            "questionText": "The good character has a best friend.\nWhat is it?",
+            "answers": [
+                {
+                    "value": "a centaur",
+                    "imgPath": "fantasy/centaur.png"
+                },
+                {
+                    "value": "a unicorn",
+                    "imgPath": "fantasy/unicorn.png"
+                },
+                {
+                    "value": "a fairy",
+                    "imgPath": "fantasy/fairy.png"
+                },
+                {
+                    "value": "a sprite",
+                    "imgPath": "fantasy/sprite.png"
+                },
+                {
+                    "value": "a girl",
+                    "imgPath": "fantasy/girl.png"
+                },
+                {
+                    "value": "a boy",
+                    "imgPath": "fantasy/boy.png"
+                }
+            ]
+        },
+        {
+            "questionText": "The characters in the story need to find something.\nWhat is it?",
+            "answers": [
+                {
+                    "value": "Philosopher's Stone",
+                    "imgPath": "fantasy/philosopher's-stone.png"
+                },
+                {
+                    "value": "sword",
+                    "imgPath": "fantasy/sword.png"
+                },
+                {
+                    "value": "wand",
+                    "imgPath": "fantasy/wand.png"
+                },
+                {
+                    "value": "potion",
+                    "imgPath": "fantasy/potion.png"
+                },
+                {
+                    "value": "bow and arrows",
+                    "imgPath": "fantasy/bow-and-arrows.png"
+                },
+                {
+                    "value": "ring",
+                    "imgPath": "fantasy/ring.png"
+                }
+            ]
+        },
+        {
+            "questionText": "How many days did they walk for?",
+            "answers": [
+                {
+                    "value": "10",
+                    "imgPath": "fantasy/ten.png"
+                },
+                {
+                    "value": "30",
+                    "imgPath": "fantasy/thirty.png"
+                },
+                {
+                    "value": "60",
+                    "imgPath": "fantasy/sixty.png"
+                },
+                {
+                    "value": "80",
+                    "imgPath": "fantasy/eighty.png"
+                },
+                {
+                    "value": "100",
+                    "imgPath": "fantasy/one-hundred.png"
+                },
+                {
+                    "value": "200",
+                    "imgPath": "fantasy/two-hundred.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What place did they come to?",
+            "answers": [
+                {
+                    "value": "mountain",
+                    "imgPath": "fantasy/mountain.png"
+                },
+                {
+                    "value": "cave",
+                    "imgPath": "fantasy/cave.png"
+                },
+                {
+                    "value": "temple",
+                    "imgPath": "fantasy/temple.png"
+                },
+                {
+                    "value": "lake",
+                    "imgPath": "fantasy/lake.png"
+                },
+                {
+                    "value": "tower",
+                    "imgPath": "fantasy/tower.png"
+                },
+                {
+                    "value": "castle ",
+                    "imgPath": "fantasy/castle.png"
+                }
+            ]
+        }
+    ]
+}

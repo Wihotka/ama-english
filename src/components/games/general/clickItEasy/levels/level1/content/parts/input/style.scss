@@ -1,0 +1,215 @@
+@import 'src/scss/_mixins.scss';
+
+@mixin hiddenAndPressKey {
+  opacity: 0;
+  visibility: hidden;
+  box-shadow: 0 0 0 #5B2377;
+  transform: translateY(4px);
+}
+
+@keyframes showing {
+  0% {opacity: 0; visibility: hidden;}
+  20% {opacity: 1; visibility: visible;}
+  50% {opacity: 1; visibility: visible;}
+  100% {opacity: 0; visibility: hidden;}
+}
+
+.wrapper {
+  position: relative;
+
+  width: 100%;
+  height: 168px;
+
+  margin-top: 16px;
+  border-radius: 32px;
+
+  box-shadow: 2px 4px 8px rgba(56, 22, 109, 0.12); 
+  overflow: hidden;
+
+  @include width-1280-L {
+    height: 100%;
+    margin-top: 0;
+    border-radius: 24px;
+  }
+  @include width-1280-P {
+    height: 100%;
+    margin-top: 0;
+    border-radius: 24px;
+  }
+  @include width-852-P {
+    height: 220px;
+  }
+
+  @include width-534-P {
+    height: 200px;
+  }
+
+  @include width-732-L {
+    border-radius: 8px;
+    box-shadow: none;
+  }
+  @include width-412-P {
+    border-radius: 8px;
+    box-shadow: none;
+  }
+}
+
+.lines {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  width: 100%;
+  height: 100%;
+  padding: 40px 0;
+
+  background-color: #FFFFFF;
+  overflow: hidden;
+
+  @include width-1280-L {
+    padding: 36px 0;
+  }
+  @include width-1280-P {
+    padding: 36px 0;
+  }
+
+  @include width-732-L {
+    padding: 20px 0;
+    background-color: transparent;
+  }
+  @include width-412-P {
+    padding: 20px 0;
+    background-color: transparent;
+  }
+}
+
+.line {
+  @include width-732-L {
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+  @include width-412-P {
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+}
+
+.inputField {
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+
+  border: 1px solid transparent;
+  border-radius: inherit;
+
+  transition: border .3s, box-shadow .3s;
+
+  &__success {
+    box-shadow: 0 0 16px rgba(114, 255, 128, 0.88), 0 0 80px #72FF80;
+  }
+
+  &__error {
+    border: 1px solid #FE3A3A;
+    box-shadow: 0 0 8px rgba(254, 58, 58, 0.88), 0 0 55px #FE3A3A;
+  }
+}
+
+.inputCells {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+
+  width: 100%;
+  padding: 0 8px;
+}
+
+.inputCell {
+  margin-bottom: 4px;
+
+  padding: 13px 16px;
+
+  @include buttonFont;
+
+  @include width-852-P {
+    padding: 8px 16px;
+  }
+
+  @include width-1000-L {
+    padding: 8px 16px;
+  }
+
+  &__hidden, &__pressed {
+    @include hiddenAndPressKey;
+
+    box-shadow: 0 0 0 #5B2377;
+    transform: translateY(4px);
+    background: linear-gradient(180deg, #CE8BF0 0%, #A227E0 100%) !important;
+    pointer-events: none;
+  }
+}
+
+.naturalSentence {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 100%;
+
+  opacity: 0;
+  visibility: hidden;
+
+  transition: .3s;
+
+  text-align: center;
+
+  @include titleS;
+
+  &__showed {animation: showing 1s .5s;}
+}
+
+.type {
+  position: absolute;
+  bottom: 8px;
+  left: 24px;
+  font-size: 20px;
+
+  @include width-1280-L {
+    font-size: 16px;
+  }
+  @include width-1280-P {
+    font-size: 16px;
+  }
+
+  @include width-732-L {
+    bottom: 0;
+    left: 4px;
+    font-size: 14px;
+    line-height: 1;
+  }
+  @include width-412-P {
+    bottom: 0;
+    left: 4px;
+    font-size: 14px;
+    line-height: 1;
+  }
+
+  & > :first-child, & > :nth-child(2) {
+    font-weight: 700;
+  }
+
+  & > :last-child {
+    margin-left: 8px;
+  }
+}

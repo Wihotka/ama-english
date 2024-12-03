@@ -1,0 +1,486 @@
+[
+  {
+    "img": "16",
+    "taskQuestions": [
+      {
+        "question": "The new menu for lunch starts next Wednesday.",
+        "correctAnswer": false
+      },
+      {
+        "question": "There isn’t a new menu for dinner.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The new dinner menu starts from March 9th.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The lunch menu changes from next Monday.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The dinner menu changes in March.",
+        "correctAnswer": true
+      },
+      {
+        "question": "There are new menus for lunches and dinners.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "17",
+    "taskQuestions": [
+      {
+        "question": "Trains stop at this station.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can get on a train here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I should stand behind the red line.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t get on a train here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t cross the yellow line.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can stand behind the yellow line.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "18",
+    "taskQuestions": [
+      {
+        "question": "Lifts are on the right.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The way out is on the left.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Toilets are on the right.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The waiting room is on the left.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Toilets are on the left.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Lifts are not on the right.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "19",
+    "taskQuestions": [
+      {
+        "question": "The new timetable starts in winter.",
+        "correctAnswer": false
+      },
+      {
+        "question": "There is no new timetable.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The new timetable is for buses.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The old timetable ends on September 22nd.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The new timetable starts in September.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The new timetable starts in autumn.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "20",
+    "taskQuestions": [
+      {
+        "question": "I can walk with my cat here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can play with my dog here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can take my parrot with me.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t play with my dog here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t take my hamster with me.",
+        "correctAnswer": true
+      },
+      { "question": "I can’t walk my dog here.", "correctAnswer": true }
+    ]
+  },
+  {
+    "img": "21",
+    "taskQuestions": [
+      {
+        "question": "I can get this house in October.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t go there with 5 friends.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can park 2 cars there.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can have a picnic there.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can see the sea from the garden there.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can go on holiday there.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "22",
+    "taskQuestions": [
+      {
+        "question": "I can get on a bus from here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "This bus stop is in use.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can get to George Street by bus from this stop.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t use this bus stop.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t get on a bus here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can get on a bus on George Street.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "23",
+    "taskQuestions": [
+      {
+        "question": "The dog’s name is Mask.",
+        "correctAnswer": false
+      },
+      {
+        "question": "We lost our dog in a lake.",
+        "correctAnswer": false
+      },
+      {
+        "question": "We lost our dog in winter.",
+        "correctAnswer": false
+      },
+      {
+        "question": "We lost Max.",
+        "correctAnswer": true
+      },
+      {
+        "question": "We lost Max near the Cafe.",
+        "correctAnswer": true
+      },
+      {
+        "question": "We lost Max in the middle of June.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "24",
+    "taskQuestions": [
+      {
+        "question": "On Sundays the shop is closed.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop is opened 24 hours.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop is closed at weekends.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop is closed at night.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The shop opens in the morning.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The shop is closed from 8 PM till 8 AM.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "25",
+    "taskQuestions": [
+      {
+        "question": "The shop is now closed.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop is closed for 1 hour every day.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop doesn’t work.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop is always opened.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The shop isn’t closed at night.",
+        "correctAnswer": true
+      },
+      { "question": "The shop is opened now.", "correctAnswer": true }
+    ]
+  },
+  {
+    "img": "26",
+    "taskQuestions": [
+      {
+        "question": "I can come in.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop is working.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can buy food here now.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop isn’t working now.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I should come back tomorrow.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t buy here food now.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "27",
+    "taskQuestions": [
+      {
+        "question": "I can’t come in.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop isn’t working.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I should come back tomorrow.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The shop is working.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can buy something here now.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can come in.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "28",
+    "taskQuestions": [
+      {
+        "question": "I can talk loudly here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can sing here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can chat here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t talk here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t chat with my friends here.",
+        "correctAnswer": true
+      },
+      { "question": "I shouldn’t sing here.", "correctAnswer": true }
+    ]
+  },
+  {
+    "img": "29",
+    "taskQuestions": [
+      {
+        "question": "I can’t walk with my dog here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I shouldn’t clean after my pet.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t play with my dog here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I should clean after my pet.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can walk with my dog here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can play with my pet here.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "30",
+    "taskQuestions": [
+      {
+        "question": "I can use this phone when I want.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t use this phone in case of emergency.",
+        "correctAnswer": false
+      },
+      {
+        "question": "This phone doesn’t work.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can use this phone in case of emergency",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t use it when I want.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can call for help with this phone.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "31",
+    "taskQuestions": [
+      {
+        "question": "The ticket office is on the left.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can buy food and drinks at the ticket office.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can get tickets if I turn left.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The ticket office is on the right.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t buy toys at the ticket office.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I have to turn right to buy tickets.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "32",
+    "taskQuestions": [
+      {
+        "question": "I can throw trash on the ground here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I shouldn’t put trash in the trash bin here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can leave trash here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I should put trash into trash bins here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I shouldn't leave trash here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t throw trash on the ground here",
+        "correctAnswer": true
+      }
+    ]
+  }
+]

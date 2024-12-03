@@ -1,0 +1,9 @@
+@import "/src/scss/mixins";
+
+.gameWrap{
+  display: flex;
+  flex-direction: column;
+  @include lg-block() {
+    flex: 1 0 auto;
+  }
+}

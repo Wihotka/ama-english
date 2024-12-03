@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "theme": "gamesHobbies",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 2,
+    "theme": "acquaintanceNumbers",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 3,
+    "case": "withSentenceFilling",
+    "options": {
+      "brave": [
+        ["My", "dog", "is", "very", "", "."],
+        ["She", "has", "a", "", "friend."],
+        ["Sam", "and", "Dean", "are", "", "people."],
+        ["Pam", "is", "a", "", "girl."],
+        ["Ann's", "brothers", "are", "very", "", "."]
+      ],
+      "braver": [
+        ["Tim", "is", "", "than", "Tom."],
+        ["Dogs", "are", "", "than", "rabbits."],
+        ["I", "am", "", "than", "Max."],
+        ["Steve", "is", "not", "", "than", "Kate."],
+        ["Vicky", "is", "", "than", "Mary."]
+      ],
+      "bravest": [
+        ["My", "dog", "is", "the", "", "pet", "in", "the", "world!"],
+        ["His", "sister", "is", "the", "", "girl", "in", "our", "class."],
+        ["My", "father", "is", "the", "", "man", "in", "the", "world!"],
+        ["Dan", "is", "not", "the", "", "boy", "in", "our", "school."],
+        ["The", "", "girl", "in", "our", "school", "is", "Betty."]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "theme": "acquaintanceNumbers",
+    "wrongTheme": "nature",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 5,
+    "theme": "animals",
+    "case": "withImg",
+    "wordsQty": 1
+  },
+  {
+    "id": 6,
+    "theme": "human",
+    "case": "withVoiceTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 7,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/41.png",
+        "words": ["This", "book", "interesting."],
+        "answer": "This book is interesting."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/42.png",
+        "words": ["That", "crayon", "orange."],
+        "answer": "That crayon is orange."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/43.png",
+        "words": ["These", "flowers", "for", "my", "sister."],
+        "answer": "These flowers are for my sister."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/44.png",
+        "words": ["Those", "cats", "yours."],
+        "answer": "Those cats are yours."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/45.png",
+        "words": ["Those", "crayons", "colourful"],
+        "answer": "Those crayons are colourful."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "familyHome",
+    "wrongTheme": "nature",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 9,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/46.png",
+        "words": ["I", "should", "give", "him", "a", "present."],
+        "answer": "I should give him a present."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/47.svg",
+        "words": ["You", "should", "have", "breakfast", "before", "school."],
+        "answer": "You should have breakfast before school."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/48.svg",
+        "words": ["You", "must", "walk", "with", "your", "dog", "every", "day."],
+        "answer": "You must walk with your dog every day."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/49.png",
+        "words": ["Must", "she", "finish", "a", "painting?"],
+        "answer": "Must she finish a painting?"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/50.png",
+        "words": ["Should", "we", "clean", "the", "room?"],
+        "answer": "Should we clean the room?"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "case": "withSentenceFilling",
+    "options": {
+      "have": [],
+      "has": [
+        ["He", "", "a", "dog."],
+        ["She", "", "a", "sandwich."],
+        ["Max", "", "two", "cats."],
+        ["Billy", "", "a", "green", "notebook."],
+        ["Ron", "", "a", "map."],
+        ["A", "hamster", "", "four", "legs."],
+        ["A", "zebra", "", "black", "and", "white", "stripes."],
+        ["Harry", "", "dark", "hair."],
+        ["Jane", "", "blue", "eyes."],
+        ["Betty", "", "long", "hair."],
+        ["A", "bear", "", "brown", "fur."],
+        ["A", "wolf", "", "a", "tail."],
+        ["Barry", "", "a", "green", "backpack."],
+        ["A", "crocodile", "", "a", "long", "mouth."],
+        ["Veronica", "", "a", "plump", "face."]
+      ],
+      "haven't": []
+    }
+  },
+  {
+    "id": 11,
+    "theme": "gamesHobbies",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 12,
+    "theme": "nature",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 13,
+    "case": "withSentenceFilling",
+    "options": {
+      "has": [],
+      "hasn't": [],
+      "have": [
+        ["We", "", "got", "yellow", "bikes."],
+        ["They", "", "got", "three", "cats."],
+        ["Max", "and", "Sam", "", "got", "blue", "pencil", "cases."],
+        ["Larry", "and", "Den", "", "got", "brown", "eyes."],
+        ["Tim", "and", "Tammy", "", "got", "black", "pens."],
+        ["They", "", "got", "domestic", "plants."],
+        ["We", "", "got", "orange", "pencils."],
+        ["My", "parents", "", "got", "a", "car."],
+        ["I", "", "got", "a", "bike."],
+        ["I", "", "got", "a", "computer."],
+        ["", "you", "got", "a", "rubber?"],
+        ["", "you", "got", "a", "ruler?"],
+        ["", "Ron", "and", "Harry", "got", "blue", "pens?"],
+        ["", "they", "got", "textbooks?"],
+        ["", "Sam", "and", "Pam", "got", "purple", "pencils?"]
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "theme": "human",
+    "wrongTheme": "nature",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 15,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/51.svg",
+        "words": ["Do", "she", "like", "winter?"],
+        "answer": "Does she like winter?"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/52.svg",
+        "words": ["Do", "he", "drink", "juice?"],
+        "answer": "Does he drink juice?"
+      },
+      {
+        "imgUrl": "sentences/checkpoint/53.svg",
+        "words": ["She", "go", "to", "the", "cinema", "every", "Sunday."],
+        "answer": "She goes to the cinema every Sunday."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/54.png",
+        "words": ["He", "eat", "sandwiches", "for", "breakfast."],
+        "answer": "He eats sandwiches for breakfast."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/55.png",
+        "words": ["Do", "he", "like", "singing?"],
+        "answer": "Does he like singing?"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "nature",
+    "case": "withTranscription",
+    "wordsQty": 1
+  },
+  {
+    "id": 17,
+    "theme": "school",
+    "wrongTheme": "nature",
+    "case": "withExtraWordSearching",
+    "wordsQty": 3,
+    "wrongWordsQty": 1
+  },
+  {
+    "id": 18,
+    "theme": "familyHome",
+    "case": "withVoice",
+    "wordsQty": 1
+  },
+  {
+    "id": 19,
+    "case": "withSentenceFilling",
+    "options": {
+      "this": [],
+      "that": [],
+      "those": [
+        ["", "cats", "are", "yours."],
+        ["", "are", "my", "friend's", "phones."],
+        ["", "flowers", "are", "for", "my", "mum."],
+        ["", "are", "my", "brother's", "books."],
+        ["", "cars", "are", "blue."],
+        ["", "crayons", "are", "colourful."],
+        ["", "dogs", "are", "mine."],
+        ["", "backpacks", "are", "not", "blue."],
+        ["", "rubbers", "aren't", "white."],
+        ["", "cars", "are", "not", "black."],
+        ["", "rulers", "aren't", "yellow."],
+        ["", "pencils", "are", "not", "orange."],
+        ["Are", "", "my", "parent's", "phones?"],
+        ["Are", "", "flowers", "for", "me?"],
+        ["Are", "", "pens", "green?"],
+        ["Are", "", "houses", "red?"],
+        ["Are", "", "papers", "colourful?"]
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "case": "withSentenceMaking",
+    "options": [
+      {
+        "imgUrl": "sentences/checkpoint/56.png",
+        "words": ["There", "a", "textbook", "on", "the", "table."],
+        "answer": "There is a textbook on the table."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/57.png",
+        "words": ["There", "crayons", "in", "my", "pencil", "box."],
+        "answer": "There are crayons in my pencil box."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/58.svg",
+        "words": ["There", "a", "pencil", "in", "my", "backpack."],
+        "answer": "There is a pencil in my backpack."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/59.svg",
+        "words": ["There", "a", "jellyfish", "in", "the", "water."],
+        "answer": "There is a jellyfish in the water."
+      },
+      {
+        "imgUrl": "sentences/checkpoint/60.png",
+        "words": ["There", "flowers", "in", "the", "living", "room."],
+        "answer": "There are flowers in the living room."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1263 @@
+{
+  "livingRoom": {
+    "imgUrl": "navigation/bg/livingroom.png",
+    "options": [
+      {
+        "item": {
+          "name": "Teddy bear",
+          "imgUrl": "navigation/items/1.svg",
+          "size": 6.6,
+          "top": 49,
+          "left": 16
+        },
+        "sentence": "Put the teddy bear on the sofa on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Plant",
+          "imgUrl": "navigation/items/5.svg",
+          "size": 7,
+          "top": 38.5,
+          "left": 55
+        },
+        "sentence": "Put the plant near the window on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Books",
+          "imgUrl": "navigation/items/7.svg",
+          "size": 6.9,
+          "top": 49,
+          "left": 85
+        },
+        "sentence": "Put the books in the bookcase.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Pencil box",
+          "imgUrl": "navigation/items/9.svg",
+          "size": 5.6,
+          "top": 63,
+          "left": 68.5
+        },
+        "sentence": "Put the pencil box on the table.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Ball",
+          "imgUrl": "navigation/items/6.svg",
+          "size": 6.7,
+          "top": 76.2,
+          "left": 8.2
+        },
+        "sentence": "Put the ball near the sofa on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Ship",
+          "imgUrl": "navigation/items/2.svg",
+          "size": 2.7,
+          "top": 8.1,
+          "left": 33
+        },
+        "sentence": "Put the ship on the shelf near the books.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Pillow",
+          "imgUrl": "navigation/items/8.svg",
+          "size": 8.7,
+          "top": 47.6,
+          "left": 29
+        },
+        "sentence": "Put the pillows on the sofa on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Teddy bear",
+          "imgUrl": "navigation/items/1.svg",
+          "size": 6.6,
+          "top": 71,
+          "left": 28
+        },
+        "sentence": "Put the teddy bear in front of the sofa.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Plant",
+          "imgUrl": "navigation/items/5.svg",
+          "size": 7,
+          "top": 38.5,
+          "left": 55
+        },
+        "sentence": "Put the plant in front of the window on the left.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Pencil box",
+          "imgUrl": "navigation/items/9.svg",
+          "size": 5.6,
+          "top": 85,
+          "left": 68
+        },
+        "sentence": "Put the pencil box under the table.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Ship",
+          "imgUrl": "navigation/items/2.svg",
+          "size": 2.7,
+          "top": 8.1,
+          "left": 33
+        },
+        "sentence": "Put the ship on the shelf above the sofa.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Poster",
+          "imgUrl": "navigation/items/3.svg",
+          "size": 10.4,
+          "top": 24,
+          "left": 22.3
+        },
+        "sentence": "Put the poster on the wall between the sofa and the shelf.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Clock",
+          "imgUrl": "navigation/items/4.svg",
+          "size": 6,
+          "top": 7,
+          "left": 15.2
+        },
+        "sentence": "Put the clock between the shelves on the wall.",
+        "complexity": 2
+      }
+    ]
+  },
+  "study": {
+    "imgUrl": "navigation/bg/study.png",
+    "options": [
+      {
+        "item": {
+          "name": "Box",
+          "imgUrl": "navigation/items/14.svg",
+          "size": 9,
+          "top": 76.5,
+          "left": 53.7
+        },
+        "sentence": "Put the box near the chair on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Picture",
+          "imgUrl": "navigation/items/11.svg",
+          "size": 9.2,
+          "top": 4.6,
+          "left": 23.8
+        },
+        "sentence": "Put the picture on the left of the window.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Bin",
+          "imgUrl": "navigation/items/10.svg",
+          "size": 10,
+          "top": 72,
+          "left": 71
+        },
+        "sentence": "Put the trash bin near the desk on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Computer",
+          "imgUrl": "navigation/items/18.svg",
+          "size": 14,
+          "top": 45.4,
+          "left": 31.2
+        },
+        "sentence": "Put the computer on the desk on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Books",
+          "imgUrl": "navigation/items/13.svg",
+          "size": 9,
+          "top": 28,
+          "left": 82.4
+        },
+        "sentence": "Put the books on the bookshelf.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Folders",
+          "imgUrl": "navigation/items/15.svg",
+          "size": 10,
+          "top": 52,
+          "left": 46
+        },
+        "sentence": "Put the folders on the desk in the middle.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Pencils",
+          "imgUrl": "navigation/items/16.svg",
+          "size": 3,
+          "top": 45.6,
+          "left": 63
+        },
+        "sentence": "Put the pencils near the paper on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Plant",
+          "imgUrl": "navigation/items/17.svg",
+          "size": 8,
+          "top": 57.6,
+          "left": 19
+        },
+        "sentence": "Put the plant between the locker and the desk.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Box",
+          "imgUrl": "navigation/items/14.svg",
+          "size": 9,
+          "top": 76.5,
+          "left": 53.7
+        },
+        "sentence": "Put the box under the desk on the right.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Picture",
+          "imgUrl": "navigation/items/11.svg",
+          "size": 9.2,
+          "top": 4.6,
+          "left": 23.8
+        },
+        "sentence": "Put the picture between the locker and the window.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Bin",
+          "imgUrl": "navigation/items/10.svg",
+          "size": 10,
+          "top": 57,
+          "left": 82
+        },
+        "sentence": "Put the trash bin on the floor under the bookshelf.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Computer",
+          "imgUrl": "navigation/items/18.svg",
+          "size": 14,
+          "top": 45.4,
+          "left": 31.2
+        },
+        "sentence": "Put the computer in front of the chair.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Clock",
+          "imgUrl": "navigation/items/12.svg",
+          "size": 7,
+          "top": 10.4,
+          "left": 83.8
+        },
+        "sentence": "Put the clock above the bookshelf.",
+        "complexity": 2
+      }
+    ]
+  },
+  "kitchen": {
+    "imgUrl": "navigation/bg/kitchen.png",
+    "options": [
+      {
+        "item": {
+          "name": "Eggs",
+          "imgUrl": "navigation/items/19.svg",
+          "size": 4.4,
+          "top": 43.8,
+          "left": 25.6
+        },
+        "sentence": "Put the eggs near the cakes on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Bread",
+          "imgUrl": "navigation/items/20.svg",
+          "size": 6,
+          "top": 21,
+          "left": 22.4
+        },
+        "sentence": "Put the bread in the fridge on the top shelf.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Lemon",
+          "imgUrl": "navigation/items/26.svg",
+          "size": 2,
+          "top": 35.5,
+          "left": 20.2
+        },
+        "sentence": "Put the lemon near the cabbage on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Cup",
+          "imgUrl": "navigation/items/27.svg",
+          "size": 4,
+          "top": 53.4,
+          "left": 68
+        },
+        "sentence": "Put the cup on the table on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Cereal",
+          "imgUrl": "navigation/items/23.svg",
+          "size": 3.6,
+          "top": 15.6,
+          "left": 52
+        },
+        "sentence": "Put the cereal in the cupboard.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Watermelon",
+          "imgUrl": "navigation/items/28.svg",
+          "size": 8,
+          "top": 45,
+          "left": 81
+        },
+        "sentence": "Put the watermelon on the table on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Poster",
+          "imgUrl": "navigation/items/24.svg",
+          "size": 7,
+          "top": 31,
+          "left": 59.8
+        },
+        "sentence": "Put the poster on the wall between the cupboards.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Trash bin",
+          "imgUrl": "navigation/items/25.svg",
+          "size": 3.4,
+          "top": 69.6,
+          "left": 78.4
+        },
+        "sentence": "Put the trash bin behind the table.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Cat",
+          "imgUrl": "navigation/items/21.svg",
+          "size": 10,
+          "top": 58,
+          "left": 19.6
+        },
+        "sentence": "Put the cat in front of the fridge.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Cereal",
+          "imgUrl": "navigation/items/23.svg",
+          "size": 3.6,
+          "top": 15.6,
+          "left": 52
+        },
+        "sentence": "Put the cereal above the towels.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Watermelon",
+          "imgUrl": "navigation/items/28.svg",
+          "size": 5.5,
+          "top": 83,
+          "left": 57
+        },
+        "sentence": "Put the watermelon under the chair.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Orange juice",
+          "imgUrl": "navigation/items/22.svg",
+          "size": 2.3,
+          "top": 43.2,
+          "left": 10.7
+        },
+        "sentence": "Put the orange juice in the fridge above the bottle with water.",
+        "complexity": 2
+      }
+    ]
+  },
+  "aquapark": {
+    "imgUrl": "navigation/bg/aquapark.png",
+    "options": [
+      {
+        "item": {
+          "name": "Ball",
+          "imgUrl": "navigation/items/33.svg",
+          "size": 8,
+          "top": 70,
+          "left": 78
+        },
+        "sentence": "Put the ball in the pool on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Duck",
+          "imgUrl": "navigation/items/34.svg",
+          "size": 15,
+          "top": 58.4,
+          "left": 48
+        },
+        "sentence": "Put the yellow duck in the pool on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Hat",
+          "imgUrl": "navigation/items/37.svg",
+          "size": 16,
+          "top": 82,
+          "left": 4
+        },
+        "sentence": "Put the hat near the left corner of the pool.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Chair",
+          "imgUrl": "navigation/items/31.svg",
+          "size": 13,
+          "top": 44,
+          "left": 2
+        },
+        "sentence": "Put the chair near the red umbrella.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Towel",
+          "imgUrl": "navigation/items/38.svg",
+          "size": 7,
+          "top": 51,
+          "left": 28.6
+        },
+        "sentence": "Put the towel on the purple chair.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Juice",
+          "imgUrl": "navigation/items/32.svg",
+          "size": 2.8,
+          "top": 58.2,
+          "left": 67.2
+        },
+        "sentence": "Put the juice near the green chair.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Sunglasses",
+          "imgUrl": "navigation/items/30.svg",
+          "size": 3,
+          "top": 52,
+          "left": 62.4
+        },
+        "sentence": "Put the sunglasses on the green chair.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Duck",
+          "imgUrl": "navigation/items/34.svg",
+          "size": 8,
+          "top": 53,
+          "left": 67.4
+        },
+        "sentence": "Put the yellow duck between the green chair and the yellow slider.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Chair",
+          "imgUrl": "navigation/items/31.svg",
+          "size": 13,
+          "top": 44,
+          "left": 2
+        },
+        "sentence": "Put the chair under the red umbrella.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Table",
+          "imgUrl": "navigation/items/36.svg",
+          "size": 9,
+          "top": 59,
+          "left": 16
+        },
+        "sentence": "Put the table between the umbrellas.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Sign",
+          "imgUrl": "navigation/items/29.svg",
+          "size": 14.6,
+          "top": 5,
+          "left": 16.4
+        },
+        "sentence": "Put the sign behind the umbrellas.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Dog",
+          "imgUrl": "navigation/items/35.svg",
+          "size": 12,
+          "top": 68,
+          "left": 21.5
+        },
+        "sentence": "Put the dog in front of the pool on the left.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Sunglasses",
+          "imgUrl": "navigation/items/30.svg",
+          "size": 6,
+          "top": 92,
+          "left": 78.6
+        },
+        "sentence": "Put the sunglasses in front of the pool on the right.",
+        "complexity": 2
+      }
+    ]
+  },
+  "classroom": {
+    "imgUrl": "navigation/bg/classroom.png",
+    "options": [
+      {
+        "item": {
+          "name": "Map",
+          "imgUrl": "navigation/items/39.svg",
+          "size": 8.8,
+          "top": 31.6,
+          "left": 90.4
+        },
+        "sentence": "Put the map on the wall on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Globe",
+          "imgUrl": "navigation/items/43.svg",
+          "size": 6,
+          "top": 14,
+          "left": 76.8
+        },
+        "sentence": "Put the globe on the bookcase.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Books",
+          "imgUrl": "navigation/items/47.svg",
+          "size": 4.4,
+          "top": 50.6,
+          "left": 76.8
+        },
+        "sentence": "Put the books in the bookcase.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Bell",
+          "imgUrl": "navigation/items/42.svg",
+          "size": 4.5,
+          "top": 10,
+          "left": 83.4
+        },
+        "sentence": "Put the bell in the top right corner of the room.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Computer",
+          "imgUrl": "navigation/items/48.svg",
+          "size": 10,
+          "top": 52.3,
+          "left": 13.4
+        },
+        "sentence": "Put the computer on the desk in the middle.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "TV",
+          "imgUrl": "navigation/items/49.svg",
+          "size": 15,
+          "top": 12,
+          "left": 10.4
+        },
+        "sentence": "Put the TV in the top left corner of the room.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Pencils",
+          "imgUrl": "navigation/items/46.svg",
+          "size": 2,
+          "top": 53.3,
+          "left": 27.5
+        },
+        "sentence": "Put the pencils on the desk on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Backpack",
+          "imgUrl": "navigation/items/45.svg",
+          "size": 4.5,
+          "top": 71,
+          "left": 29.6
+        },
+        "sentence": "Put the bag near the desk on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Ruler",
+          "imgUrl": "navigation/items/44.svg",
+          "size": 10,
+          "top": 54.4,
+          "left": 36.6
+        },
+        "sentence": "Put the ruler near the desk on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Poster",
+          "imgUrl": "navigation/items/40.svg",
+          "size": 11,
+          "top": 36.6,
+          "left": 16
+        },
+        "sentence": "Put the poster on the wall behind the desk.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Clock",
+          "imgUrl": "navigation/items/41.svg",
+          "size": 6,
+          "top": 12,
+          "left": 50
+        },
+        "sentence": "Put the clock above the blackboard.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Globe",
+          "imgUrl": "navigation/items/43.svg",
+          "size": 6,
+          "top": 14,
+          "left": 76.8
+        },
+        "sentence": "Put the globe above the plant.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Books",
+          "imgUrl": "navigation/items/47.svg",
+          "size": 4.4,
+          "top": 50.6,
+          "left": 76.8
+        },
+        "sentence": "Put the books between the plant and the folders.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Computer",
+          "imgUrl": "navigation/items/48.svg",
+          "size": 10,
+          "top": 52.3,
+          "left": 13.4
+        },
+        "sentence": "Put the computer in front of the chair.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "TV",
+          "imgUrl": "navigation/items/49.svg",
+          "size": 15,
+          "top": 12,
+          "left": 10.4
+        },
+        "sentence": "Put the TV above the desk.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Backpack",
+          "imgUrl": "navigation/items/45.svg",
+          "size": 5,
+          "top": 74,
+          "left": 2.6
+        },
+        "sentence": "Put the bag under the window.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Ruler",
+          "imgUrl": "navigation/items/44.svg",
+          "size": 10,
+          "top": 54.4,
+          "left": 36.6
+        },
+        "sentence": "Put the ruler in front of the board.",
+        "complexity": 2
+      }
+    ]
+  },
+  "bedroom": {
+    "imgUrl": "navigation/bg/bedroom.png",
+    "options": [
+      {
+        "item": {
+          "name": "Candles",
+          "imgUrl": "navigation/items/53.svg",
+          "size": 2,
+          "top": 42,
+          "left": 25.4
+        },
+        "sentence": "Put the candles near the window on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Rug",
+          "imgUrl": "navigation/items/54.svg",
+          "size": 20,
+          "top": 77,
+          "left": 76.6
+        },
+        "sentence": "Put the rug near the bed on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Plant",
+          "imgUrl": "navigation/items/51.svg",
+          "size": 2,
+          "top": 27,
+          "left": 42
+        },
+        "sentence": "Put the plant near the window on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Lamp",
+          "imgUrl": "navigation/items/56.svg",
+          "size": 7,
+          "top": 16.4,
+          "left": 49.6
+        },
+        "sentence": "Put the lamp in the corner of the room.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Armchair",
+          "imgUrl": "navigation/items/50.svg",
+          "size": 20,
+          "top": 44,
+          "left": 4.4
+        },
+        "sentence": "Put the armchair near the curtain.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Picture",
+          "imgUrl": "navigation/items/52.svg",
+          "size": 7.6,
+          "top": 19,
+          "left": 67
+        },
+        "sentence": "Put the blue picture near the orange picture on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Pillows",
+          "imgUrl": "navigation/items/55.svg",
+          "size": 10.8,
+          "top": 52,
+          "left": 76
+        },
+        "sentence": "Put the pillows on the bed.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Candles",
+          "imgUrl": "navigation/items/53.svg",
+          "size": 2,
+          "top": 32,
+          "left": 76
+        },
+        "sentence": "Put the candles between the books.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Rug",
+          "imgUrl": "navigation/items/54.svg",
+          "size": 20,
+          "top": 77,
+          "left": 76.6
+        },
+        "sentence": "Put the rug in front of the bed on the right.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Plant",
+          "imgUrl": "navigation/items/51.svg",
+          "size": 2,
+          "top": 27,
+          "left": 42
+        },
+        "sentence": "Put the plant in front of the window on the right.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Lamp",
+          "imgUrl": "navigation/items/56.svg",
+          "size": 7,
+          "top": 16.4,
+          "left": 49.6
+        },
+        "sentence": "Put the lamp behind the bed.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Armchair",
+          "imgUrl": "navigation/items/50.svg",
+          "size": 20,
+          "top": 44,
+          "left": 4.4
+        },
+        "sentence": "Put the armchair in front of the curtain.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Picture",
+          "imgUrl": "navigation/items/52.svg",
+          "size": 7.6,
+          "top": 19,
+          "left": 67
+        },
+        "sentence": "Put the blue picture above the bookshelf on the left.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Pillows",
+          "imgUrl": "navigation/items/55.svg",
+          "size": 10.8,
+          "top": 52,
+          "left": 76
+        },
+        "sentence": "Put the pillows under the bookshelf.",
+        "complexity": 2
+      }
+    ]
+  },
+  "bathroom": {
+    "imgUrl": "navigation/bg/bathroom.png",
+    "options": [
+      {
+        "item": {
+          "name": "Soap",
+          "imgUrl": "navigation/items/64.svg",
+          "size": 3,
+          "top": 34.8,
+          "left": 72.6
+        },
+        "sentence": "Put the soap on the shelf.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Green towel",
+          "imgUrl": "navigation/items/58.svg",
+          "size": 3.4,
+          "top": 23,
+          "left": 11.6
+        },
+        "sentence": "Put the green towel on the door.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Toothpaste",
+          "imgUrl": "navigation/items/62.svg",
+          "size": 4,
+          "top": 36,
+          "left": 37.2
+        },
+        "sentence": "Put the toothpaste near the mirror on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Toothbrushes",
+          "imgUrl": "navigation/items/63.svg",
+          "size": 2.5,
+          "top": 30,
+          "left": 44.1
+        },
+        "sentence": "Put the toothbrushes near the mirror on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Toilet paper",
+          "imgUrl": "navigation/items/65.svg",
+          "size": 6,
+          "top": 86,
+          "left": 84.6
+        },
+        "sentence": "Put the toilet paper near the toilet.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Washer",
+          "imgUrl": "navigation/items/57.svg",
+          "size": 13,
+          "top": 48,
+          "left": 21.2
+        },
+        "sentence": "Put the washer in the left corner.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Rug",
+          "imgUrl": "navigation/items/60.svg",
+          "size": 17,
+          "top": 80,
+          "left": 52
+        },
+        "sentence": "Put the rug near the bath in the middle.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Yellow towel",
+          "imgUrl": "navigation/items/61.svg",
+          "size": 6,
+          "top": 45.8,
+          "left": 73.2
+        },
+        "sentence": "Put the yellow towel under the shelf.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Toothpaste",
+          "imgUrl": "navigation/items/62.svg",
+          "size": 4,
+          "top": 36,
+          "left": 37.2
+        },
+        "sentence": "Put the toothpaste above the sink on the left.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Toothbrushes",
+          "imgUrl": "navigation/items/63.svg",
+          "size": 2.5,
+          "top": 30,
+          "left": 44.1
+        },
+        "sentence": "Put the toothbrushes in front of the mirror on the right.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Curtain",
+          "imgUrl": "navigation/items/59.svg",
+          "size": 9.4,
+          "top": 5.6,
+          "left": 60.4
+        },
+        "sentence": "Put the curtain above the bath on the right.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Toilet paper",
+          "imgUrl": "navigation/items/65.svg",
+          "size": 6,
+          "top": 75.4,
+          "left": 71
+        },
+        "sentence": "Put the toilet paper between the bath and the toilet.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Washer",
+          "imgUrl": "navigation/items/57.svg",
+          "size": 13,
+          "top": 48,
+          "left": 21.2
+        },
+        "sentence": "Put the washer under the cupboard.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Rug",
+          "imgUrl": "navigation/items/60.svg",
+          "size": 17,
+          "top": 80,
+          "left": 52
+        },
+        "sentence": "Put the rug in front of the bath.",
+        "complexity": 2
+      }
+    ]
+  },
+  "showroom": {
+    "imgUrl": "navigation/bg/showroom.png",
+    "options": [
+      {
+        "item": {
+          "name": "Clock",
+          "imgUrl": "navigation/items/74.svg",
+          "size": 4.8,
+          "top": 5.6,
+          "left": 48
+        },
+        "sentence": "Put the clock on the wall in the middle.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Trousers",
+          "imgUrl": "navigation/items/71.svg",
+          "size": 3.6,
+          "top": 23.5,
+          "left": 32
+        },
+        "sentence": "Put the blue trousers in the wardrobe in the middle.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Suitcase",
+          "imgUrl": "navigation/items/70.svg",
+          "size": 4,
+          "top": 53,
+          "left": 53
+        },
+        "sentence": "Put the suitcase near the green trousers on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Green bag",
+          "imgUrl": "navigation/items/75.svg",
+          "size": 2.5,
+          "top": 21.4,
+          "left": 54.6
+        },
+        "sentence": "Put the green bag near the red handbag.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Phone",
+          "imgUrl": "navigation/items/68.svg",
+          "size": 4,
+          "top": 61.4,
+          "left": 18
+        },
+        "sentence": "Put the phone on the desk near the flowers.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Gloves",
+          "imgUrl": "navigation/items/72.svg",
+          "size": 6,
+          "top": 31,
+          "left": 66
+        },
+        "sentence": "Put the gloves near the purple skirt on the left.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Socks",
+          "imgUrl": "navigation/items/67.svg",
+          "size": 6,
+          "top": 31,
+          "left": 86.4
+        },
+        "sentence": "Put the socks near the white T-shirt on the right.",
+        "complexity": 1
+      },
+      {
+        "item": {
+          "name": "Clock",
+          "imgUrl": "navigation/items/74.svg",
+          "size": 4.8,
+          "top": 5.6,
+          "left": 48
+        },
+        "sentence": "Put the clock between the wardrobe and the shelf with shoes.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Trousers",
+          "imgUrl": "navigation/items/71.svg",
+          "size": 3.6,
+          "top": 23.5,
+          "left": 32
+        },
+        "sentence": "Put the blue trousers in the wardrobe under the bags.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Hat",
+          "imgUrl": "navigation/items/69.svg",
+          "size": 6.6,
+          "top": 42,
+          "left": 12.6
+        },
+        "sentence": "Put the brown hat between the yellow hat and the red cap.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Suitcase",
+          "imgUrl": "navigation/items/70.svg",
+          "size": 4,
+          "top": 53,
+          "left": 53
+        },
+        "sentence": "Put the suitcase under the pink skirt.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Green bag",
+          "imgUrl": "navigation/items/75.svg",
+          "size": 2.5,
+          "top": 21.4,
+          "left": 54.6
+        },
+        "sentence": "Put the green bag above the pink skirt.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Phone",
+          "imgUrl": "navigation/items/68.svg",
+          "size": 4,
+          "top": 61.4,
+          "left": 18
+        },
+        "sentence": "Put the phone on the desk behind the red cap.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Blue bag",
+          "imgUrl": "navigation/items/73.svg",
+          "size": 5,
+          "top": 68.8,
+          "left": 71.6
+        },
+        "sentence": "Put the blue bag between the shoes and the yellow bag.",
+        "complexity": 2
+      },
+      {
+        "item": {
+          "name": "Computer",
+          "imgUrl": "navigation/items/66.svg",
+          "size": 7,
+          "top": 44.4,
+          "left": 18.6
+        },
+        "sentence": "Put the computer on the desk in front of the window.",
+        "complexity": 2
+      }
+    ]
+  }
+}

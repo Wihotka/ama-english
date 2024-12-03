@@ -1,0 +1,50 @@
+@mixin notifColor ($color) {
+  border-color: $color;
+  path, circle{
+    fill: $color;
+  }
+}
+
+.message{
+  display: flex;
+
+  &__icon{
+    background: limegreen;
+    margin-right: 10px;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    border: 2px solid limegreen;
+
+    path{
+      fill: #fff;
+    }
+
+    &_notify{
+      background: #fff;
+    }
+
+    &_success{
+      @include notifColor(limegreen);
+    }
+    &_info{
+      @include notifColor(blue);
+    }
+    &_warning{
+      @include notifColor(orange);
+    }
+    &_error{
+      @include notifColor(red);
+    }
+  }
+
+  &__title{
+    font-size: 16px;
+    font-weight: bold;
+  }
+}
+

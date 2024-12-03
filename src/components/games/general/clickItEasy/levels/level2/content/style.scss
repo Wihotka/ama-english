@@ -1,0 +1,59 @@
+@import 'src/scss/_mixins.scss';
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+
+  padding-top: 16px;
+}
+
+.topContent {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(3, minmax(min-content, max-content));
+  justify-items: center;
+  align-content: center;
+  gap: 16px;
+
+  width: 100%;
+  margin-bottom: 8px;
+
+  @include width-1280-L {
+    grid-template-columns: minmax(min-content, max-content) 1fr;
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    gap: 8px 16px;
+  }
+  @include width-1280-P {
+    grid-template-columns: minmax(min-content, max-content) 1fr;
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    gap: 8px 16px;
+  }
+  @include width-852-P {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, minmax(min-content, max-content));
+    gap: 8px 0;
+    margin-bottom: 16px;
+  }
+
+  @include width-1000-L {
+    grid-template-rows: minmax(min-content, max-content);
+    margin-bottom: 16px;
+  }
+
+  @include width-854-L {
+    gap: 8px;
+  }
+
+  @include width-732-L {
+    margin-bottom: 12px;
+  }
+
+  @include width-412-P {
+    margin-bottom: 8px;
+  }
+}

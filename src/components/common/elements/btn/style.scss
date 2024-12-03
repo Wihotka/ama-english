@@ -1,0 +1,130 @@
+@import '/src/scss/_mixins';
+
+.btn {
+  position: relative;
+  min-width: 260px;
+  padding: 15px;
+  border-radius: 32px;
+
+  span {
+    color: #FFFFFF;
+
+    @include buttonFont();
+
+    text-shadow: 2px 1px 4px rgba(40, 40, 40, 0.32);
+
+    @include sm-block() {
+      font-size: 18px;
+    }
+  }
+
+
+  @include width-534-P {
+    min-width: 244px;
+  }
+  @include sm-block() {
+    min-width: 140px;
+    padding: 10px;
+  }
+
+  @include normalButtonTransition();
+
+  &_normal {
+    background: linear-gradient(180deg, #69A5FF 0%, #3685FD 100%);
+    box-shadow: 0 4px 0 #0D5CD6, 0 6px 16px rgba(13, 92, 214, 0.72);
+
+    &:hover {
+      background: linear-gradient(180deg, #84B5FF 0%, #5498FF 100%);;
+    }
+
+    &:active{
+      box-shadow: 0 6px 16px rgba(13, 92, 214, 0.72);
+      transform: translate(0, 4px);
+    }
+  }
+
+  &_primary {
+    border: 1px solid rgba(13, 114, 23, 0.5);
+    background: linear-gradient(180deg, #23D935 0%, #10AA20 100%);
+    box-shadow: 0 4px 0 #0D7217, 0 6px 16px rgba(13, 114, 23, 0.72);
+
+    &:hover {
+      background: linear-gradient(180deg, #25F43A 0%, #0FCA22 100%);
+      //box-shadow: 0px 4px 0px #0D7217, 0px 6px 16px rgba(13, 114, 23, 0.72);
+    }
+
+    &:active{
+      box-shadow: 0 6px 16px rgba(13, 114, 23, 0.72);
+      transform: translate(0, 4px);
+    }
+  }
+
+  &_game {
+    //border-radius: 6px;
+    //background-color: rgba(255,252,233,0.8);
+    //box-shadow: 0 4px 4px rgba(0, 0, 0, 60%), inset -3px -2px 4px #103d6d, inset 3px 3px 2px #23bfd0;
+
+    //line-height: 1.3em;
+    //border-radius: 6px;
+    //background-color: rgba(255,252,233,0.8);
+    //color: #fff!important;
+    //background: linear-gradient(135deg, #1d3f54 0%, #132d42 100%, #539fe1 100%, #2a7388 100%);
+    //box-shadow: 0 4px 4px rgba(0, 0, 0, 60%), inset -3px -2px 4px #132d42, inset 3px 3px 2px #23bfd0;
+
+    //text-decoration: none;
+    //display: inline-block;
+    //padding: 12px 40px;
+    //margin: 10px 20px;
+    //border-radius: 30px;
+    //background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%);
+    //background-position: 100% 0;
+    //background-size: 200% 200%;
+    //font-family: 'Montserrat', sans-serif;
+    //font-size: 24px;
+    //font-weight: 300;
+    //color: white;
+    //box-shadow: 0 16px 32px 0 rgba(0, 40, 120, .35);
+    //transition: .5s;
+    //
+    //&:hover {
+    //  box-shadow: 0 0 0 0 rgba(0, 40, 120, 0);
+    //  background-position: 0 0;
+    //}
+
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 60%), inset -2px -1px 4px #086c12, inset 1px 1px 2px #2ffb43;
+    line-height: 1.3em;
+
+    &:hover{
+      box-shadow: 0 4px 4px rgba(0, 0, 0, 60%), inset -2px -1px 4px #086c12, inset 1px 1px 2px #2ffb43;
+    }
+  }
+
+  &_round {
+    min-width: initial;
+    padding: 8px;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  &_size_small{
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 2px 6px rgba(13, 92, 214, 0.72);
+  }
+
+  &:disabled {
+    pointer-events: none;
+
+    background: linear-gradient(180deg, #DEDEDE 0%, #ABABAB 100%);
+    border-color: rgba(114, 114, 114, 0.5);
+    opacity: 0.7;
+
+    box-shadow: 0 4px 0 #727272, 0 6px 16px rgba(114, 114, 114, 0.72);
+
+    color: #777575;
+  }
+}

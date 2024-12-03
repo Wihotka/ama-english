@@ -1,0 +1,191 @@
+{
+  "1": [
+    {
+      "question": "I _____ my teeth every day .",
+      "correctAnswer": "clean",
+      "incorrectAnswers": ["cleans", "cleaning", "cleanes"]
+    },
+    {
+      "question": "I _____ very fast .",
+      "correctAnswer": "run",
+      "incorrectAnswers": ["runs", "running", "runns"]
+    },
+    {
+      "question": "I _____ vegetables every day .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": ["eats", "eating", "eatts"]
+    },
+    {
+      "question": "I _____ my father every morning .",
+      "correctAnswer": "hug",
+      "incorrectAnswers": ["hugs", "hugging", "huggs"]
+    },
+    {
+      "question": "You _____ a lot .",
+      "correctAnswer": "hug",
+      "incorrectAnswers": ["hugs", "hugging", "huggs"]
+    },
+    {
+      "question": "You _____ many fruits .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": ["eats", "eating", "eatting"]
+    },
+    {
+      "question": "You _____ too much fizzy drinks .",
+      "correctAnswer": "drink",
+      "incorrectAnswers": ["drinks", "drinking", "drinkz"]
+    },
+    {
+      "question": "He _____ his teeth every morning .",
+      "correctAnswer": "cleans",
+      "incorrectAnswers": ["clean", "cleaning", "cleanz"]
+    },
+    {
+      "question": "He _____ to the kinder garden every day .",
+      "correctAnswer": "goes",
+      "incorrectAnswers": ["go", "going", "gos"]
+    },
+    {
+      "question": "He _____ at 7 o'clock .",
+      "correctAnswer": "wakes up",
+      "incorrectAnswers": ["wake up", "waking up", "wakes ups"]
+    },
+    {
+      "question": "He _____ his face every morning and every evening .",
+      "correctAnswer": "washes",
+      "incorrectAnswers": ["wash", "washing", "washs"]
+    },
+    {
+      "question": "She _____ at home on holidays .",
+      "correctAnswer": "stays",
+      "incorrectAnswers": ["stay", "staying", "staies"]
+    },
+    {
+      "question": "She _____ her grandparents every summer .",
+      "correctAnswer": "visits",
+      "incorrectAnswers": ["visit", "visiting", "visitts"]
+    },
+    {
+      "question": "She _____ high .",
+      "correctAnswer": "jumps",
+      "incorrectAnswers": ["jump", "jumping", "jumpes"]
+    },
+    {
+      "question": "She _____ her hair every morning .",
+      "correctAnswer": "brushes",
+      "incorrectAnswers": ["brush", "brushing", "brushs"]
+    },
+    {
+      "question": "We _____ our friends on weekends .",
+      "correctAnswer": "visit",
+      "incorrectAnswers": ["visits", "visiting", "visites"]
+    },
+    {
+      "question": "We _____ a lot in summer .",
+      "correctAnswer": "travel",
+      "incorrectAnswers": ["travels", "traveling", "traveles"]
+    },
+    {
+      "question": "We _____ snowballs in winter .",
+      "correctAnswer": "play",
+      "incorrectAnswers": ["plays", "playing", "plaies"]
+    },
+    {
+      "question": "We _____ every evening .",
+      "correctAnswer": "run",
+      "incorrectAnswers": ["runs", "runing", "runz"]
+    },
+    {
+      "question": "They _____ to the park on weekends .",
+      "correctAnswer": "go",
+      "incorrectAnswers": ["goes", "going", "goez"]
+    },
+    {
+      "question": "They _____ a lot .",
+      "correctAnswer": "read",
+      "incorrectAnswers": ["reads", "reading", "reades"]
+    },
+    {
+      "question": "They _____ coffee every morning .",
+      "correctAnswer": "drink",
+      "incorrectAnswers": ["drinks", "drinking", "drinkes"]
+    },
+    {
+      "question": "They _____ vegetables every day .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": ["eats", "eating", "eates"]
+    }
+  ],
+  "2": [
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "jumping",
+      "incorrectAnswers": ["jumps", "jump", "jumpping"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "running",
+      "incorrectAnswers": ["run", "runs", "runing"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "playing",
+      "incorrectAnswers": ["plays", "play", "plaing"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "eating sweets",
+      "incorrectAnswers": ["eats sweets", "eat sweets", "eatting sweets"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "hugging",
+      "incorrectAnswers": ["hugs", "hug", "huging"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "riding a bike",
+      "incorrectAnswers": ["ride a bike", "rides a bike", "rideing a bike"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "kicking a ball",
+      "incorrectAnswers": ["kicks a ball", "kick a ball", "kickieng a ball"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "reading",
+      "incorrectAnswers": ["read", "reads", "readings"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "listening to music",
+      "incorrectAnswers": ["listens to music", "listen to music", "lestenning to music"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "sleeping",
+      "incorrectAnswers": ["sleeps", "sleep", "sleepping"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "drinking tea",
+      "incorrectAnswers": ["drink tea", "drinks tea", "drinkking tea"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "traveling",
+      "incorrectAnswers": ["travels", "travel", "travelsing"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "visiting friends",
+      "incorrectAnswers": ["visits friends", "visit friends", "visitting friends"]
+    },
+    {
+      "question": ["I like _____ .", "You like _____ .", "She likes _____ .", "He likes _____ .", "We like _____ .", "They like _____ ."],
+      "correctAnswer": "staying at home",
+      "incorrectAnswers": ["stay at home", "stays at home", "staieng at home"]
+    }
+  ]
+}

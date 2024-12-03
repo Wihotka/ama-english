@@ -1,0 +1,37 @@
+﻿{
+  "message": {
+    "title": "Szeretnéd elküldeni a véleményed?",
+    "text": "Ez segít nekünk tovább javítani a játékokat, és igazán gyorsan megy",
+    "btnText": "Persze!"
+  },
+  "form": {
+    "titleGame": "Értékeld a játékot",
+    "titleCourse": "Értékeld a tanfolyamot",
+    "titleBad": "Mi nem tetszett?",
+    "subtitleGame": "Segítesz jobbá tenni a játékot",
+    "subtitleCourse": "Segítesz jobbá tenni az angol tanfolyamot",
+    "optionTitleGame": "Tetszett a játék",
+    "optionTitleCourse": "Jól tudom használni az 'Angol nyelv' tanfolyamot",
+    "reason": {
+      "difficult": "Nehéz",
+      "boring": "Unalmas",
+      "performance": "Nem működik megfelelően",
+      "appearance": "Kinézet",
+      "orientation": "Nehéz benne eligazodni",
+      "comment": "Hozzászólás"
+    },
+    "optionTitleTextarea": "Írj véleményt, hogy Kami ne legyen szomorú",
+    "textareaPlaceholder": "Vélemény írása",
+    "btnSubmit": "Küldés"
+  },
+  "messageStatus": {
+    "titleSuccess": "Köszönjük!",
+    "titleError": "Nem sikerült",
+    "textGoodResponse": "Véleményed elküldve",
+    "textBadResponse": "Véleményed elküldve. Hamarossan foglalkozunk az észrevételeddel.",
+    "textError": "Hiba történt a vélemény küldésekor. Kérünk próbáld újra.",
+    "btnTextSuccess": "OK",
+    "btnTextError": "Új próbálkozás",
+    "btnTextSupport": "Üzenet küldése az ügyfélszolgálatnak"
+  }
+}

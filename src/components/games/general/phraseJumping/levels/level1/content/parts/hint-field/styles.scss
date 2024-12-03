@@ -1,0 +1,194 @@
+@import 'src/scss/_mixins.scss';
+
+.hintField {
+  position: relative;
+  min-width: 640px;
+  height: 225px;
+  padding: 16px;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  box-shadow: 2px 4px 10px rgba(28, 6, 64, 0.24);
+  border-radius: 24px;
+
+  opacity: 0;
+
+  transition: all 300ms ease-in;
+  z-index: -1;
+
+  @include width-1280-L {
+    height: auto;
+    padding: 16px 40px;
+  }
+  @include width-1280-P {
+    height: auto;
+    padding: 16px 40px;
+  }
+  @include width-852-P {
+    min-width: 400px;
+    width: 580px;
+    height: 220px;
+    padding: 16px 24px;
+  }
+
+  @include width-1000-L {
+    width: 770px;
+    padding: 8px 24px;
+  }
+
+  @include width-854-L {
+    padding: 8px 16px;
+  }
+  @include width-534-P {
+    min-width: 350px;
+    width: 450px;
+    height: 250px;
+  }
+
+  @include width-732-L {
+    min-width: 600px;
+  }
+  @include width-412-P {
+    min-width: 295px;
+    width: 348px;
+    height: 200px;
+    padding: 8px 24px;
+  }
+
+  @include width-640-L {
+    min-width: 400px;
+    padding: 6px 12px;
+  }
+  @include width-360-P {
+    min-width: 180px;
+    width: 296px;
+    height: 200px;
+    padding: 8px 16px;
+  }
+
+
+  &:before {
+    content: '';
+    top: 80px;
+    position: absolute;
+    display: block;
+
+    width: calc(100% - 32px);
+    height: 2px;
+
+    @include width-1280-L {
+      top: 56px;
+    }
+    @include width-1280-P {
+      top: 56px;
+    }
+
+    @include width-1000-L {
+      top: 44px;
+    }
+
+    @include width-732-L {
+      top: 36px;
+    }
+    @include width-412-P {
+      top: 44px;
+    }
+
+    @include width-640-L {
+      top: 32px;
+    }
+  }
+}
+
+.hintContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+}
+
+.view {
+  opacity: 1;
+  z-index: 10;
+}
+
+.image {
+  width: 64px;
+  height: 64px;
+  /* margin-bottom: 8px; */
+
+  @include width-1280-L {
+    width: 32px;
+    height: 28px;
+  }
+  @include width-1280-P {
+    width: 32px;
+    height: 28px;
+  }
+
+  @include width-732-L {
+    width: 24px;
+    height: 21px;
+  }
+}
+
+.textField {
+  width: 100%;
+  padding-top: 12px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+
+  @include width-1000-L {
+    padding-top: 8px;
+    gap: 8px;
+  }
+}
+
+.sentence {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap
+}
+
+.letter {
+  @include bodyMediumFont();
+  white-space: pre;
+
+  &_normal {
+    color: #7141B7;
+  }
+
+  &_strong {
+    color: #38166D;
+  }
+}
+
+.hintTitle {
+  display: flex;
+  align-items: center;
+  color: #7141B7;
+
+  height: 56px;
+
+  @include subtitleL;
+
+  @include width-1280-L {
+    height: auto;
+  }
+  @include width-1280-P {
+    height: auto;
+  }
+}
+
+.break {
+  flex-basis: 100%;
+  height: 10px;
+}

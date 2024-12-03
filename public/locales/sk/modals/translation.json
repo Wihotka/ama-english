@@ -1,0 +1,48 @@
+﻿{
+  "gameStart": {
+    "youCanDo": "Teraz môžete",
+    "textErrors": ["chyba", "chyby", "chýb"],
+    "noErrors": "Nerobte chyby",
+    "completeTaskFor": "Dokončite hru za",
+    "give": "Dajte",
+    "rightAnswers": "správnych odpovedí",
+    "textAnswers": ["odpoveď", "odpovede", "odpovedí"],
+    "textRight": ["správna", "správne", "správnych"],
+    "right": "správne",
+    "min": "min",
+    "sec": "sek"
+  },
+  "gameFinish": {
+    "successTrue": "Výborne",
+    "successFalse": "Úloha nie je dokončená",
+    "successSmallTrue": "Úloha je dokončená",
+    "successSmallFalse": "Skúste ešte raz",
+    "saving": "Výsledok sa ukladá",
+    "failSave": "Výsledok sa neuložil",
+    "successSave": "Výsledok je uložený",
+    "writeToHelp": "Obráťte sa na technickú podporu",
+    "min": "min",
+    "sec": "sek",
+    "indicators":{
+      "rightAnswersQty": "Počet správnych odpovedí",
+      "wrongAnswersQty": "Počet nesprávnych odpovedí",
+      "gameTime": "Čas hry",
+      "speed": "Rýchlosť",
+      "readingSyllablesSpeed": "Rýchlosť čítania (slov/min)",
+      "readingWordsSpeed": "Rýchlosť čítania (slov/min)",
+      "pointsQty": "Počet bodov"
+    }
+  },
+  "template": {
+    "settings": "Nastavenia",
+    "level": "Úroveň",
+    "description": "Popis hry",
+    "selectedSettings": "Vybrané nastavenia",
+    "levelsNames": {
+      "marathon": "Maratón",
+      "faultless": "Neprehliadnuteľný",
+      "fittings": "Výstroj",
+      "free": "Slobodne"
+    }
+  }
+}

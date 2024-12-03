@@ -1,0 +1,117 @@
+@import 'src/scss/_mixins.scss';
+
+.pointsContainer {
+    position: relative;
+    display: grid;
+    justify-content: center;
+    width: 100%;
+    height: 96px;
+    margin-bottom: 56px;
+    gap: 16px;
+    grid-template-columns: 272px 178px;
+
+    @include width-1280-L() {
+        grid-template-columns: 224px 130px;
+        height: 63px;
+        margin-bottom: 16px;
+    }
+    @include width-1280-P() {
+        grid-template-columns: 224px 130px;
+        height: 63px;
+        margin-bottom: 16px;
+    }
+
+    @include width-854-L() {
+        height: 40px;
+        grid-template-columns: 340px 133px;
+        margin-bottom: 24px;
+    }
+
+    @include width-732-L() {
+        height: 24px;
+        grid-template-columns: 256px 99px;
+        margin-bottom: 16px;
+    }
+
+    @include width-768-P() {
+        height: 63px;
+        grid-template-columns: 224px 130px;
+        margin-bottom: 16px;
+    }
+
+    @include width-534-P() {
+        height: 82px;
+        grid-template-columns: 259px 172px;
+        gap: 23px;
+        margin-bottom: 40px;
+    }
+
+    @include width-412-P() {
+        height: 70px;
+        grid-template-columns: 232px 118px;
+        gap: 16px;
+    }
+
+    @include width-412-P() {
+        grid-template-columns: 208px 94px;
+        gap: 8px;
+        margin-bottom: 24px;
+    }
+}
+
+.commonContainer {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    background: linear-gradient(0deg, rgba(255, 192, 146, 0.4), rgba(255, 192, 146, 0.4)), #FFFFFF;
+    box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+    border-radius: 32px;
+    padding: 0 23px;
+
+    @include width-1280-L() {
+        border-radius: 24px;
+    }
+    @include width-1280-P() {
+        border-radius: 24px;
+    }
+
+    @include width-854-L() {
+        flex-flow: row;
+        align-items: center;
+        gap: 8px;
+        padding: 0 16px;
+    }
+
+    @include width-768-P() {
+        border-radius: 24px;
+    }
+
+    @include width-412-P() {
+        border-radius: 16px;
+    }
+}
+
+.commonText {
+    @include captionMRegular();
+}
+
+.scorePoints {
+    margin-top: 6px;
+
+    @include titleS();
+
+    @include width-1280-L() {
+        margin-top: 0;
+    }
+    @include width-1280-P() {
+        margin-top: 0;
+    }
+
+    @include width-768-P() {
+        margin-top: 0;
+    }
+
+    @include width-534-P() {
+        margin-top: 4px;
+    }
+}

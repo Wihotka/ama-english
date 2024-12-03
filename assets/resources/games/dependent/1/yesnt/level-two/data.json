@@ -1,0 +1,425 @@
+[
+  {
+    "img": "1",
+    "taskQuestions": [
+      {
+        "question": "Children under 10 go for free.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Children under twelve go for free.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Adults can go for free.",
+        "correctAnswer": false
+      },
+      {
+        "question": "Adults can not go for free.",
+        "correctAnswer": true
+      },
+      {
+        "question": "Children under nine go for free.",
+        "correctAnswer": true
+      },
+      { "question": "Adults pay £10  to go.", "correctAnswer": true }
+    ]
+  },
+  {
+    "img": "2",
+    "taskQuestions": [
+      {
+        "question": "I can open the door.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can open the door when I want.",
+        "correctAnswer": false
+      },
+      {
+        "question": "When I see fire, I cannot open this door.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can open this door when I see the fire.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I cannot open the door when I want.",
+        "correctAnswer": true
+      },
+      { "question": "The door is closed.", "correctAnswer": true }
+    ]
+  },
+  {
+    "img": "3",
+    "taskQuestions": [
+      {
+        "question": "I can go there on Sunday.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can go there on Saturday.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t go there on Wednesday.",
+        "correctAnswer": false
+      },
+      {
+        "question": "It does not work on weekends.",
+        "correctAnswer": true
+      },
+      {
+        "question": "It works on weekdays.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can go there on Monday.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "4",
+    "taskQuestions": [
+      {
+        "question": "First 20 min are free.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The car park is free.",
+        "correctAnswer": false
+      },
+      {
+        "question": "It is a bus park.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can park my car here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I cannot park a bus here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can park for free only for the first 30 min.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "5",
+    "taskQuestions": [
+      {
+        "question": "The paint is dry.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can sit here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "It is not painted.",
+        "correctAnswer": false
+      },
+      {
+        "question": "The paint is wet.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The paint is not dry.",
+        "correctAnswer": true
+      },
+      { "question": "I can’t sit here.", "correctAnswer": true }
+    ]
+  },
+  {
+    "img": "6",
+    "taskQuestions": [
+      {
+        "question": "I can eat here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can drink here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "It is a room for telephones.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t eat here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t drink here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "There are many computers here.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "7",
+    "taskQuestions": [
+      {
+        "question": "I can lean on the glass.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can touch the glass.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can scratch the glass.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I cannot lean on the glass.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can stand near the glass.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I cannot touch the glass.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "8",
+    "taskQuestions": [
+      {
+        "question": "The floor is slippery when it is dry.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can fall when it is dry.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can go fast when the floor is wet.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can fall when the floor is wet.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The floor is slippery when it is wet.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can go when the floor is dry.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "9",
+    "taskQuestions": [
+      {
+        "question": "I can go to the railway station from here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I cannot go to the airport from here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can go to the airport by train from here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can go to the airport by bus from here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "The bus to the airport leaves every hour.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I cannot go to the railway station from here.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "10",
+    "taskQuestions": [
+      {
+        "question": "I do not live in this hotel and I can park here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I live in this hotel and I can’t park here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I am the guest of the hotel, I can’t park here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I live in this hotel and I can park here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I do not live in this hotel and I can’t park here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I am a guest of the hotel, I can park here.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "11",
+    "taskQuestions": [
+      {
+        "question": "I can walk here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can run here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can have a picnic here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t walk here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t play with my dog here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t eat and drink here.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "12",
+    "taskQuestions": [
+      {
+        "question": "I can have 3 meals for free.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can have 3 meals for the price of 1.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t get any food here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can take lunch here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can take two meals for the price of one.",
+        "correctAnswer": true
+      },
+      { "question": "I can eat here.", "correctAnswer": true }
+    ]
+  },
+  {
+    "img": "13",
+    "taskQuestions": [
+      {
+        "question": "I can dive here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can jump in the water here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t swim here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can swim here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t dive here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t jump in the water here.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "14",
+    "taskQuestions": [
+      {
+        "question": "I can run here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can walk very fast here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can run here and I can’t fall.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t run here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t walk very fast here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "If I run here, I can fall.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "img": "15",
+    "taskQuestions": [
+      {
+        "question": "I can eat here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can drink here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can eat but I can’t drink here.",
+        "correctAnswer": false
+      },
+      {
+        "question": "I can’t eat here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t drink here.",
+        "correctAnswer": true
+      },
+      {
+        "question": "I can’t eat and I can’t drink here.",
+        "correctAnswer": true
+      }
+    ]
+  }
+]

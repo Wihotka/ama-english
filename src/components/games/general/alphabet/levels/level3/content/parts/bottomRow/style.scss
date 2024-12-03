@@ -1,0 +1,165 @@
+@import '/src/scss/_mixins';
+
+.row {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.field {
+  position: relative;
+  top: 0;
+  width: 112px;
+  height: 115px;
+  margin: 0 12px 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.2s;
+
+  @media screen and (max-width: 1339px) {
+    width: 88px;
+    height: 90px;
+    margin: 0 8px 24px;
+  }
+  @media screen and (max-width: 767px) and (orientation: landscape) {
+    width: 56px;
+    height: 57px;
+  }
+  @include sm-block() {
+    width: 56px;
+    height: 57px;
+  }
+  @media screen and (max-width: 731px) and (orientation: landscape) {
+    margin: 0 4px 12px;
+  }
+}
+
+.activeField {
+  cursor: pointer;
+  top: 0;
+  transition: 0.2s;
+}
+
+.inactiveField {
+  cursor: auto;
+  opacity: 0;
+}
+
+.mistakeField {
+  animation: shake 1s infinite;
+  top: 8px;
+
+  .shadowSvg {
+    top: 0;
+  }
+}
+
+.letter {
+  position: relative;
+
+  color: #9066C6;
+
+  @include titleXL();
+
+  padding-bottom: 8px;
+
+  font-family: 'Clear Sans', sans-serif;
+  font-weight: 700;
+
+  @media screen and (max-width: 1339px) {
+    font-size: 48px;
+  }
+  @media screen and (max-width: 767px) and (orientation: landscape) {
+    font-size: 28px;
+  }
+  @include sm-block() {
+    font-size: 28px;
+  }
+}
+
+.topPuzzle, .bottomPuzzle, .shadowSvg {
+  position: absolute;
+  transition: 0.2s;
+}
+
+.topPuzzle, .bottomPuzzle, .shadowSvg {
+  width: 100%;
+}
+
+.svgWrap {
+  position: absolute;
+}
+
+.path {
+  fill: #FFF;
+  transition: 0.2s;
+}
+
+.defaultSvg {
+  filter: url(#default);
+}
+
+.activeField:hover .defaultSvg {
+  filter: url(#hover);
+}
+
+.shadowSvg {
+  top: 8px;
+
+  @media screen and (max-width: 1339px) {
+    top: 6px;
+  }
+  @media screen and (max-width: 853px) {
+    top: 5px;
+  }
+}
+
+.activeField:active {
+  top: 8px;
+
+  @media screen and (max-width: 1339px) {
+    top: 6px;
+  }
+  @media screen and (max-width: 853px) {
+    top: 5px;
+  }
+
+  .shadowSvg {
+    top: 0;
+  }
+
+  .defaultSvg {
+    filter: url(#pressed);
+  }
+}
+
+.wrongSvg {
+  filter: url(#wrong);
+}
+
+.emptySvg {
+  filter: url(#empty);
+}
+
+.disabledField {
+  filter: grayscale(1);
+
+  & .defaultSvg {
+    filter: url(#default) !important;
+  }
+}
+
+@keyframes shake {
+  0%, to {
+    transform: translateZ(0)
+  }
+  10%, 30%, 50%, 70%, 90% {
+    transform: translate3d(-2px, 0, 0)
+  }
+  20%, 40%, 60%, 80% {
+    transform: translate3d(2px, 0, 0)
+  }
+}

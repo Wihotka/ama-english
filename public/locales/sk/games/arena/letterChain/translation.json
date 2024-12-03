@@ -1,0 +1,10 @@
+{
+  "taskName": {
+    "online": "Z daných písmen treba zostaviť čo najviac slov. Slová by mali mať minimálne 3 písmená. Za každé slovo je možné získať 2 body. Ak sa nepodarí nájsť žiadne nové slovo, možno obnoviť hracie pole a pokračovať v hre.",
+    "offline": "Z daných písmen sa postupne tvoria slová. Slová by mali mať minimálne 3 písmená. Za každé slovo získate 2 body. Ak sa nepodarí nájsť žiadne nové slovo, možno obnoviť hraciu plochu a pokračovať v hre. Každý hráč má na ťah 30 sekúnd."
+  },
+  "time": {
+    "online": "Celkový čas hry: 3 min.",
+    "offline": "Celkový čas hry: 5 min."
+  }
+}

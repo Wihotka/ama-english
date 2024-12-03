@@ -1,0 +1,396 @@
+{
+  "1": [
+    {
+      "question": "wash",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "watch",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "play",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "want",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "dance",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "climb",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "travel",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "clean",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "live",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "work",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "enjoy",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "stop",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "start",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "kick",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "look",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "like",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "chat",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "cross ",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "close",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "visit",
+      "correctAnswer": "Regular verb",
+      "incorrectAnswers": "Irregular verb"
+    },
+    {
+      "question": "to be",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "become",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "catch",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "draw",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "drink",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "know",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "go",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "have",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "see",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "think",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "write",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "eat",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "run",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "forget",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "swim",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "sing",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "to do",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "read",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    },
+    {
+      "question": "hear",
+      "correctAnswer": "Irregular verb",
+      "incorrectAnswers": "Regular verb"
+    }
+  ],
+  "2": [
+    {
+      "question": "I _____ # my hands before lunch .",
+      "correctAnswer": "washed",
+      "incorrectAnswers": "washt"
+    },
+    {
+      "question": "We _____ # TV yesterday .",
+      "correctAnswer": "watched",
+      "incorrectAnswers": "wacht"
+    },
+    {
+      "question": "My sister and I _____ # tennis last Sunday .",
+      "correctAnswer": "played",
+      "incorrectAnswers": "playt"
+    },
+    {
+      "question": "Will _____ # to go on a picnic on Monday .",
+      "correctAnswer": "wanted",
+      "incorrectAnswers": "want"
+    },
+    {
+      "question": "We _____ # a lot last night .",
+      "correctAnswer": "danced",
+      "incorrectAnswers": "dancet"
+    },
+    {
+      "question": "I _____ # a rock in July .",
+      "correctAnswer": "climbed",
+      "incorrectAnswers": "climb"
+    },
+    {
+      "question": "Mike and Ella _____ # to France last summer .",
+      "correctAnswer": "travelled",
+      "incorrectAnswers": "travelld"
+    },
+    {
+      "question": "Robin _____ # the kitchen on Sunday .",
+      "correctAnswer": "cleaned",
+      "incorrectAnswers": "cleant"
+    },
+    {
+      "question": "We _____ # in Spain last year .",
+      "correctAnswer": "lived",
+      "incorrectAnswers": "leved"
+    },
+    {
+      "question": "I _____ # as a doctor ten years ago .",
+      "correctAnswer": "worked",
+      "incorrectAnswers": "workt"
+    },
+    {
+      "question": "Steve _____ # our walk yesterday .",
+      "correctAnswer": "enjoyed",
+      "incorrectAnswers": "enjoied"
+    },
+    {
+      "question": "I _____ # doing my homework two hours ago .",
+      "correctAnswer": "stopped",
+      "incorrectAnswers": "stop"
+    },
+    {
+      "question": "I _____ # drawing this picture two days ago .",
+      "correctAnswer": "started",
+      "incorrectAnswers": "start"
+    },
+    {
+      "question": "I _____ # a ball with my friends three hours ago .",
+      "correctAnswer": "kicked",
+      "incorrectAnswers": "kick"
+    },
+    {
+      "question": "I _____ # the film yesterday .",
+      "correctAnswer": "liked",
+      "incorrectAnswers": "likd"
+    },
+    {
+      "question": "We _____ # with Nancy an hour ago .",
+      "correctAnswer": "chatted",
+      "incorrectAnswers": "chat"
+    },
+    {
+      "question": "You _____ # out the right answer in the previous test .",
+      "correctAnswer": "crossed",
+      "incorrectAnswers": "crossd"
+    },
+    {
+      "question": "I _____ # the window yesterday .",
+      "correctAnswer": "closed",
+      "incorrectAnswers": "claused"
+    },
+    {
+      "question": "I _____ # my grandparents in New Zealand two months ago .",
+      "correctAnswer": "visited",
+      "incorrectAnswers": "visitted"
+    },
+    {
+      "question": "They _____ # at the cinema two days ago .",
+      "correctAnswer": "were",
+      "incorrectAnswers": "was"
+    },
+    {
+      "question": "My cat _____ # a small fish in the river yesterday .",
+      "correctAnswer": "caught",
+      "incorrectAnswers": "catched"
+    },
+    {
+      "question": "My brother _____ # a picture .",
+      "correctAnswer": "drew",
+      "incorrectAnswers": "drawed"
+    },
+    {
+      "question": "My brother _____ # a glass of milk two hours ago .",
+      "correctAnswer": "drank",
+      "incorrectAnswers": "drinked"
+    },
+    {
+      "question": "I _____ # him three years ago .",
+      "correctAnswer": "knew",
+      "incorrectAnswers": "knowed"
+    },
+    {
+      "question": "My friends _____ # to a volleyball match three weeks ago .",
+      "correctAnswer": "went",
+      "incorrectAnswers": "goed"
+    },
+    {
+      "question": "They _____ # two cups of tea in the morning .",
+      "correctAnswer": "had",
+      "incorrectAnswers": "haved"
+    },
+    {
+      "question": "I _____ # my cousin at the bookshop last Thursday .",
+      "correctAnswer": "saw",
+      "incorrectAnswers": "seed"
+    },
+    {
+      "question": "I _____ # you are in France .",
+      "correctAnswer": "thought",
+      "incorrectAnswers": "thinked"
+    },
+    {
+      "question": "He _____ # a song about his friends a year ago .",
+      "correctAnswer": "wrote",
+      "incorrectAnswers": "writed"
+    },
+    {
+      "question": "We _____ # pizza with my best friend yesterday .",
+      "correctAnswer": "ate",
+      "incorrectAnswers": "eated"
+    },
+    {
+      "question": "They _____ # a marathon last spring .",
+      "correctAnswer": "ran",
+      "incorrectAnswers": "runned"
+    },
+    {
+      "question": "I _____ # my wallet at the supermarket yesterday .",
+      "correctAnswer": "forgot",
+      "incorrectAnswers": "forgetted"
+    },
+    {
+      "question": "The woman _____ # in the swimming pool yesterday .",
+      "correctAnswer": "swam",
+      "incorrectAnswers": "swimmed"
+    },
+    {
+      "question": "They _____ # a beautiful song at the concert yesterday .",
+      "correctAnswer": "sang",
+      "incorrectAnswers": "singed"
+    },
+    {
+      "question": "I know what you _____ # last summer .",
+      "correctAnswer": "did",
+      "incorrectAnswers": "doed"
+    },
+    {
+      "question": "Emma _____ # a fairy tale yesterday .",
+      "correctAnswer": "read",
+      "incorrectAnswers": "readed"
+    },
+    {
+      "question": "I _____ # this song yesterday .",
+      "correctAnswer": "heard",
+      "incorrectAnswers": "heared"
+    },
+    {
+      "question": "His wife _____ # English .",
+      "correctAnswer": "learnt",
+      "incorrectAnswers": "learned"
+    },
+    {
+      "question": "My grandmother _____ # a pie yesterday .",
+      "correctAnswer": "made",
+      "incorrectAnswers": "maked"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "taskName": {
+    "online": "You need to make as many words as you can from the given letters. The words should be minimum 3 letters long. You can get 2 points for each word. If you can not find any new words, you can refresh the playing field and continue the game.",
+    "offline": "In turns make up words from the given letters. The words should be minimum 3 letters long. You can get 2 points for each word. If you can not find any new words, you can refresh the playing field and continue the game. Each player is given 30 seconds to take a turn."
+  },
+  "time": {
+    "online": "Total game time: 3 min.",
+    "offline": "Total game time: 5 min."
+  }
+}

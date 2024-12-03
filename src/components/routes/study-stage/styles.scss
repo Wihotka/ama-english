@@ -1,0 +1,25 @@
+@import "src/scss/mixins";
+
+.links{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--gridGap3);
+
+  @include width-1000-L {
+    gap: var(--gridGap2);
+  }
+  @include width-768-P {
+    gap: var(--gridGap2);
+  }
+
+  @include width-534-P {
+    grid-template-columns: 1fr;
+  }
+
+  @include width-732-L {
+    gap: var(--main-base-grid-gap);
+  }
+  @include width-412-P {
+    gap: var(--main-base-grid-gap);
+  }
+}

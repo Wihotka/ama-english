@@ -1,0 +1,11 @@
+﻿{
+  "somethingWrong": "Niečo nie je v poriadku",
+  "platformError": "Prepáčte, vyskytlasa chyba na platforme",
+  "tryReloadPage": "Skúste znova načítať stránku alebo kontaktujte podporu",
+  "ifReloadNotHelpWriteTo": "Ak reštart nepomohol, kontaktujte podporu",
+  "gameNotAllow": "Hra je nedostupná",
+  "gameNotAllowMessage": "Ľutujeme, hra je nefunkčná, prosím obnovte stránku alebo eštartujte hru. Ak to nepomohlo, kontaktujte podporu",
+  "whenGameBroke": "Kým sa hra opravuje, môžete hrať inú",
+  "pageNotFound": "Stránka sa nenašla",
+  "pageMoved": "Ľutujeme, stránka sa presunula alebo stratila"
+}

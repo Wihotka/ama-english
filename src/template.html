@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru" translate="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <script>
+        var base;
+        //так же имя проекта нужно указывать в src/config/path-config.ts
+        var projectPath = '/apps/english/';
+
+        switch (window.location.hostname){
+            case 'amakids.ru':
+            case 'amakids.com':
+                base = '/platform' + projectPath;
+                break;
+
+            case 'localhost':
+                base = '/';
+                break;
+
+            default:
+                base = projectPath;
+        }
+
+        document.write('<base href="' + base + '"/>');
+    </script>
+</head>
+<body>
+    <main id="app"></main>
+</body>
+</html>

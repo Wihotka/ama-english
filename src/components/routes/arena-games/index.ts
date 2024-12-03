@@ -1,0 +1,1 @@
+export {ArenaGames} from './ArenaGamesWrap';

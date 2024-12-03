@@ -1,0 +1,21 @@
+﻿{
+  "textbook": "Web Učebnica",
+  "challenge": "Výzva",
+  "vocabulary": "Slovník",
+  "games": "Hry",
+  "arena": "Aréna",
+  "fun": "Zábava",
+  "completed": "Dokončené",
+  "descriptions": {
+    "challenge": "Upevnenie nových poznatkov",
+    "vocabulary": "Učiť sa a trénovať nové slová",
+    "games": "Opakovanie preberanej látky",
+    "arena": "Online hry so súperom",
+    "fun": "Zábavné hry pre všetkých",
+    "textbook": "Získavanie nových vedomostí"
+  },
+  "messages": {
+    "dueTo": "Zdieľať"
+  },
+  "developing": "Vo vývoji"
+}

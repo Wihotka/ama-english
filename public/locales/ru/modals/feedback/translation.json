@@ -1,0 +1,37 @@
+{
+  "message": {
+    "title": "Оставишь отзыв?",
+    "text": "Это поможет улучшить игры и не займет много времени",
+    "btnText": "Конечно!"
+  },
+  "form": {
+    "titleGame": "Оцени игру",
+    "titleCourse": "Оцени курс",
+    "titleBad": "Что тебе не понравилось?",
+    "subtitleGame": "Ты поможешь сделать игру лучше",
+    "subtitleCourse": "Ты поможешь улучшить курс английского языка",
+    "optionTitleGame": "Мне понравилась игра",
+    "optionTitleCourse": "Мне удобно пользоваться курсом 'Английский язык'",
+    "reason": {
+      "difficult": "Сложно",
+      "boring": "Скучно",
+      "performance": "Плохо работает",
+      "appearance": "Внешний вид",
+      "orientation": "Сложно ориентироваться",
+      "comment": "Опишу в комментарии"
+    },
+    "optionTitleTextarea": "Оставь комментарий, чтобы Ками не грустил",
+    "textareaPlaceholder": "Твой комментарий",
+    "btnSubmit": "Отправить"
+  },
+  "messageStatus": {
+    "titleSuccess": "Спасибо!",
+    "titleError": "Неудача",
+    "textGoodResponse": "Отзыв отправлен",
+    "textBadResponse": "Отзыв отправлен. В ближайшее время мы рассмотрим твоё обращение",
+    "textError": "Ошибка при отправке отзыва. Пожалуйста, попробуй еще раз.",
+    "btnTextSuccess": "Ок",
+    "btnTextError": "Повторить попытку",
+    "btnTextSupport": "Написать в поддержку"
+  }
+}

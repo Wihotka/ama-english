@@ -1,0 +1,144 @@
+@import 'src/scss/_mixins.scss';
+
+@keyframes hiding {
+  to {
+    opacity: 1
+  }
+  from {
+    opacity: 0
+  }
+}
+
+.option {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  will-change: transform;
+
+  cursor: pointer;
+
+  animation-fill-mode: forwards;
+
+  opacity: 0;
+  transition: opacity 500ms ease-out;
+}
+
+.view {
+  opacity: 1;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  max-width: none;
+  z-index: 1;
+  filter: drop-shadow(4px 8px 48px rgba(28, 6, 64, 0.4));
+
+  @include width-1000-L() {
+    filter: drop-shadow(2px 4px 24px rgba(28, 6, 64, 0.32));
+  }
+
+  @include width-732-L() {
+    filter: drop-shadow(1px 2px 16px rgba(28, 6, 64, 0.22));
+  }
+
+  @include width-768-P() {
+    filter: drop-shadow(2px 4px 24px rgba(28, 6, 64, 0.32));
+  }
+
+  @include width-412-P() {
+    filter: drop-shadow(1px 2px 16px rgba(28, 6, 64, 0.22));
+  }
+}
+
+.normal {
+  width: 176px;
+  height: 160px;
+
+  @include width-1280-L {
+    width: 138px;
+    height: 130px;
+  }
+  @include width-1280-P {
+    width: 138px;
+    height: 130px;
+  }
+
+  @include width-732-L {
+    width: 102px;
+    height: 90px;
+  }
+  @include width-412-P {
+    width: 102px;
+    height: 90px;
+  }
+}
+
+.cut {
+  width: 265px;
+  height: 178px;
+
+  @include width-1280-L {
+    width: 207px;
+    height: 144px;
+  }
+  @include width-1280-P {
+    width: 207px;
+    height: 144px;
+  }
+
+  @include width-732-L {
+    width: 153px;
+    height: 104px;
+  }
+  @include width-412-P {
+    width: 153px;
+    height: 104px;
+  }
+}
+
+.word {
+  position: absolute;
+  padding: 8px 16px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #fff;
+
+  white-space: nowrap;
+
+  @include titleS;
+
+  z-index: 2;
+
+  box-shadow: 0 6px 8px rgba(28, 6, 64, 0.24);
+  border-radius: 16px;
+
+  @include width-732-L {
+    padding: 4px 8px;
+  }
+  @include width-412-P {
+    padding: 4px 8px;
+  }
+}
+
+.wordSuccess {
+  background: rgba(114, 255, 128, 0.8);
+  box-shadow: 0 0 3px #00FF15, 0 0 32px #00FF19;
+}
+
+.wordError {
+  background: linear-gradient(0deg, rgba(254, 58, 58, 0.64), rgba(254, 58, 58, 0.64)), #FFFFFF;
+  box-shadow: 0 0 3px #FE3A3A, 0 0 32px #FE3A3A;
+}

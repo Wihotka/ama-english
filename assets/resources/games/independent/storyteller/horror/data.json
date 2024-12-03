@@ -1,0 +1,180 @@
+{
+    "storyText": "I was staying with my a0 in an old house in the forest. One night, I wanted to go out. 'Where are you going?' said my a0. 'To a1,' I said. 'But it's getting dark! And a storm is coming. All the a2 come out when there is a storm. Don't go near them. And don't touch them!' I went out and saw lots of a2. I wasn't scared. I went near them and touched them. Then I remembered what my a0 had said. Too late! My teeth turned a3 and I was attacked by a4. I screamed and ran into the forest. In the middle of the forest I saw a a5. Now I live with the a5, and when it's dark and stormy I go into the forest and scare people. Maybe I will come out and scare you.",
+    "imageBg": "#066560F5",
+    "questions": [
+        {
+            "questionText": "Who do you like being with?",
+            "answers": [
+                {
+                    "value": "mother",
+                    "imgPath": "horror/mother.png"
+                },
+                {
+                    "value": "father",
+                    "imgPath": "horror/father.png"
+                },
+                {
+                    "value": "friend",
+                    "imgPath": "horror/friend.png"
+                },
+                {
+                    "value": "brother",
+                    "imgPath": "horror/brother.png"
+                },
+                {
+                    "value": "sister",
+                    "imgPath": "horror/sister.png"
+                },
+                {
+                    "value": "grandfather",
+                    "imgPath": "horror/grandfather.png"
+                }
+            ]
+        },
+        {
+            "questionText": "Where do you like to go?",
+            "answers": [
+                {
+                    "value": "my friend’s house",
+                    "imgPath": "horror/my-friends-house.png"
+                },
+                {
+                    "value": "the river",
+                    "imgPath": "horror/river.png"
+                },
+                {
+                    "value": "the forest",
+                    "imgPath": "horror/forest.png"
+                },
+                {
+                    "value": "the park",
+                    "imgPath": "horror/park.png"
+                },
+                {
+                    "value": "the playground",
+                    "imgPath": "horror/playground.png"
+                },
+                {
+                    "value": "the shopping centre",
+                    "imgPath": "horror/shopping-centre.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What are the scariest creatures?",
+            "answers": [
+                {
+                    "value": "rats",
+                    "imgPath": "horror/rats.png"
+                },
+                {
+                    "value": "snakes",
+                    "imgPath": "horror/snakes.png"
+                },
+                {
+                    "value": "spiders",
+                    "imgPath": "horror/spiders.png"
+                },
+                {
+                    "value": "bees",
+                    "imgPath": "horror/bees.png"
+                },
+                {
+                    "value": "insects",
+                    "imgPath": "horror/insects.png"
+                },
+                {
+                    "value": "bats",
+                    "imgPath": "horror/bats.png"
+                }
+            ]
+        },
+        {
+            "questionText": "What colour do you hate?",
+            "answers": [
+                {
+                    "value": "brown",
+                    "imgPath": "horror/brown.png"
+                },
+                {
+                    "value": "purple",
+                    "imgPath": "horror/purple.png"
+                },
+                {
+                    "value": "red",
+                    "imgPath": "horror/red.png"
+                },
+                {
+                    "value": "orange",
+                    "imgPath": "horror/orange.png"
+                },
+                {
+                    "value": "black",
+                    "imgPath": "horror/black.png"
+                },
+                {
+                    "value": "grey",
+                    "imgPath": "horror/grey.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There are some very small creatures in this story.\nWhat are they?",
+            "answers": [
+                {
+                    "value": "cockroaches",
+                    "imgPath": "horror/cockroaches.png"
+                },
+                {
+                    "value": "spiders",
+                    "imgPath": "horror/spiders.png"
+                },
+                {
+                    "value": "frogs",
+                    "imgPath": "horror/frogs.png"
+                },
+                {
+                    "value": "worms",
+                    "imgPath": "horror/worms.png"
+                },
+                {
+                    "value": "flies",
+                    "imgPath": "horror/flies.png"
+                },
+                {
+                    "value": "scorpions",
+                    "imgPath": "horror/scorpions.png"
+                }
+            ]
+        },
+        {
+            "questionText": "There's a scary person or creature in this story.\nWhat is it?",
+            "answers": [
+                {
+                    "value": "ghost",
+                    "imgPath": "horror/ghost.png"
+                },
+                {
+                    "value": "vampire",
+                    "imgPath": "horror/vampire.png"
+                },
+                {
+                    "value": "witch",
+                    "imgPath": "horror/witch.png"
+                },
+                {
+                    "value": "evil dwarf",
+                    "imgPath": "horror/evil-dwarf.png"
+                },
+                {
+                    "value": "skeleton",
+                    "imgPath": "horror/skeleton.png"
+                },
+                {
+                    "value": "werewolf ",
+                    "imgPath": "horror/werewolf.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+﻿{
+  "gameStart": {
+    "youCanDo": "Elkövethetsz",
+    "textErrors": ["hibát", "hibát", "hibát"],
+    "noErrors": "Ne kövess el hibát!",
+    "completeTaskFor": "Teljesítsd a játékot",
+    "give": "Adj",
+    "rightAnswers": "helyes választ",
+    "textAnswers": ["választ", "választ", "választ"],
+    "textRight": ["helyes", "helyes", "helyes"],
+    "right": "helyes",
+    "min": "perc",
+    "sec": "mp",
+    "collectItems": "Rendezd az",
+    "items": ["elemet", "elemeket", "elemeket"]
+  },
+  "gameFinish": {
+    "successTrue": "Ügyes vagy",
+    "successFalse": "A feladat nem sikerült",
+    "successSmallTrue": "A feladat sikerült",
+    "successSmallFalse": "Próbáld meg újra",
+    "saving": "Az eredmény mentése",
+    "failSave": "Az eredmény nincs mentve",
+    "successSave": "Az eredmény mentve",
+    "writeToHelp": "Írj az ügyfélszolgálatnak",
+    "min": "perc",
+    "sec": "mp",
+    "indicators":{
+      "rightAnswersQty": "Helyes válaszok száma",
+      "wrongAnswersQty": "Hibás válaszok száma",
+      "gameTime": "Játék időtartama",
+      "speed": "Sebesség",
+      "readingSyllablesSpeed": "Olvasás sebessége (szótag/perc)",
+      "readingWordsSpeed": "Olvasás sebessége (szó/perc)",
+      "pointsQty": "Pontszám"
+    }
+  },
+  "template": {
+    "settings": "Beállítások",
+    "level": "Szint",
+    "description": "Játék leírása",
+    "selectedSettings": "Kiválasztott beállítások",
+    "levelsNames": {
+      "marathon": "Maraton",
+      "faultless": "Hiba nélkül",
+      "fittings": "Gyorsulás",
+      "free": "Szabadon"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "gameStart": {
+    "youCanDo": "You can make",
+    "textErrors": ["mistake", "mistakes", "mistakes"],
+    "noErrors": "Don't make mistakes",
+    "completeTaskFor": "Finish the game in",
+    "give": "Give",
+    "rightAnswers": "correct answers",
+    "textAnswers": ["answer", "answers", "answers"],
+    "textRight": ["right", "right", "right"],
+    "right": "right",
+    "min": "min",
+    "sec": "sec",
+    "collectItems": "Sort out",
+    "items": ["items", "items", "items"]
+  },
+  "gameFinish": {
+    "successTrue": "Well done",
+    "successFalse": "The task isn't completed",
+    "successSmallTrue": "The task is completed",
+    "successSmallFalse": "Try again",
+    "saving": "Saving the result",
+    "failSave": "The result is not saved",
+    "successSave": "Result saved",
+    "writeToHelp": "Contact technical support",
+    "min": "min",
+    "sec": "sec",
+    "indicators":{
+      "rightAnswersQty": "Number of correct answers",
+      "wrongAnswersQty": "Number of wrong answers",
+      "gameTime": "Time",
+      "speed": "Speed",
+      "readingSyllablesSpeed": "Скорость чтения (слог/мин)",
+      "readingWordsSpeed": "Скорость чтения (слов/мин)",
+      "pointsQty": "Score"
+    }
+  },
+  "template": {
+    "settings": "Settings",
+    "level": "Level",
+    "description": "Rules of the game",
+    "selectedSettings": "Selected settings",
+    "levelsNames": {
+      "marathon": "Марафон",
+      "faultless": "Безошибочный",
+      "fittings": "Подгонялки",
+      "free": "Свободный"
+    }
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "1": [
+    {
+      "question": "If it _____ , we will stay at home .",
+      "correctAnswer": "rains",
+      "incorrectAnswers": "will rain"
+    },
+    {
+      "question": "We will visit Granada if we _____ to Spain .",
+      "correctAnswer": "travel",
+      "incorrectAnswers": "will travel"
+    },
+    {
+      "question": "She will play with us if she _____ home early .",
+      "correctAnswer": "comes",
+      "incorrectAnswers": "will come"
+    },
+    {
+      "question": "If you _____ the dinner, I will wash the dishes .",
+      "correctAnswer": "cook",
+      "incorrectAnswers": "will cook"
+    },
+    {
+      "question": "I _____ a new car if I get a good job .",
+      "correctAnswer": "will buy",
+      "incorrectAnswers": "buy"
+    },
+    {
+      "question": "If you catch a cold, you _____ in bed .",
+      "correctAnswer": "will stay",
+      "incorrectAnswers": "stay"
+    },
+    {
+      "question": "She will be very happy if you _____ her some flowers .",
+      "correctAnswer": "give",
+      "incorrectAnswers": "will give"
+    },
+    {
+      "question": "You will be late if you _____ get up now .",
+      "correctAnswer": "do not",
+      "incorrectAnswers": "will not"
+    },
+    {
+      "question": "Call me when you _____ home .",
+      "correctAnswer": "are",
+      "incorrectAnswers": "will be"
+    },
+    {
+      "question": "Let's go for a walk when you _____ your homework .",
+      "correctAnswer": "finish",
+      "incorrectAnswers": "will finish"
+    },
+    {
+      "question": "Don't put too much salt when you _____ dinner .",
+      "correctAnswer": "cook",
+      "incorrectAnswers": "will cook"
+    },
+    {
+      "question": "You can take a biscuit when you _____ your lunch .",
+      "correctAnswer": "finish",
+      "incorrectAnswers": "will finish"
+    },
+    {
+      "question": "Don't talk when you _____ .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": "will eat"
+    },
+    {
+      "question": "When you _____ chatting look at the board .",
+      "correctAnswer": "stop",
+      "incorrectAnswers": "will stop"
+    },
+    {
+      "question": "You will feel the sour taste when you _____ a lemon .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": "will eat"
+    },
+    {
+      "question": "If it _____ sunny, we will go to the park .",
+      "correctAnswer": "is",
+      "incorrectAnswers": "will be"
+    },
+    {
+      "question": "They will be happy when they _____ holidays .",
+      "correctAnswer": "have",
+      "incorrectAnswers": "will have"
+    },
+    {
+      "question": "Stop writing when the bell _____ .",
+      "correctAnswer": "rings",
+      "incorrectAnswers": "will ring"
+    },
+    {
+      "question": "You can go when the bell _____ .",
+      "correctAnswer": "rings",
+      "incorrectAnswers": "will ring"
+    },
+    {
+      "question": "When he _____ TV he will fall asleep .",
+      "correctAnswer": "watches",
+      "incorrectAnswers": "will watch"
+    },
+    {
+      "question": "You will not be hungry if you _____ your breakfast .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": "will eat"
+    },
+    {
+      "question": "I _____ a new car next month .",
+      "correctAnswer": "will buy",
+      "incorrectAnswers": "buy"
+    },
+    {
+      "question": "I _____ to come to your birthday party on Tuesday .",
+      "correctAnswer": "will try",
+      "incorrectAnswers": "try"
+    },
+    {
+      "question": "She _____ to the cinema with us .",
+      "correctAnswer": "will go",
+      "incorrectAnswers": "goes"
+    },
+    {
+      "question": "I believe, her daughter _____ a great lawyer in the future .",
+      "correctAnswer": "will be",
+      "incorrectAnswers": "is going to be"
+    },
+    {
+      "question": "We _____ to the theatre together tonight .",
+      "correctAnswer": "will go",
+      "incorrectAnswers": "go"
+    },
+    {
+      "question": "She thinks she  _____ at the sports club .",
+      "correctAnswer": "will play",
+      "incorrectAnswers": "is going to play"
+    },
+    {
+      "question": "I think I _____ a famous actor in ten years .",
+      "correctAnswer": "will become",
+      "incorrectAnswers": "am going to become"
+    },
+    {
+      "question": "I _____  to China in two years .",
+      "correctAnswer": "will travel",
+      "incorrectAnswers": "travel"
+    },
+    {
+      "question": "I think my brother _____ Geography at the university .",
+      "correctAnswer": "will study",
+      "incorrectAnswers": "is going to study"
+    },
+    {
+      "question": "I _____ these stories in the train tomorrow .",
+      "correctAnswer": "will read",
+      "incorrectAnswers": "read"
+    },
+    {
+      "question": "My sister _____ the guitar at the concert next Friday .",
+      "correctAnswer": "will play",
+      "incorrectAnswers": "plays"
+    },
+    {
+      "question": "I think I _____ 50 countries in ten years .",
+      "correctAnswer": "will visit",
+      "incorrectAnswers": "am going to visit"
+    },
+    {
+      "question": "The rain has suddenly stopped, so we _____ the children to the park .",
+      "correctAnswer": "will take",
+      "incorrectAnswers": "are going to take"
+    },
+    {
+      "question": "My friends _____ an exam next week .",
+      "correctAnswer": "will have",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "I _____ for you at the bus stop after school .",
+      "correctAnswer": "will wait",
+      "incorrectAnswers": "wait"
+    },
+    {
+      "question": "She _____ a green dress for the festival next weekend .",
+      "correctAnswer": "will wear",
+      "incorrectAnswers": "wears"
+    },
+    {
+      "question": "She _____ a letter to her best friend tomorrow .",
+      "correctAnswer": "will write",
+      "incorrectAnswers": "writes"
+    },
+    {
+      "question": "Don't worry, I _____ you with your homework .",
+      "correctAnswer": "will help",
+      "incorrectAnswers": "am going to"
+    },
+    {
+      "question": "Give me your phone, I _____ a photo of you near the castle .",
+      "correctAnswer": "will take",
+      "incorrectAnswers": "am going to take"
+    },
+    {
+      "question": "I think we _____ pizza and salad for dinner .",
+      "correctAnswer": "will have",
+      "incorrectAnswers": "are going to have"
+    },
+    {
+      "question": "Max _____ holiday in France next spring, he has bought the tickets .",
+      "correctAnswer": "is going to spend",
+      "incorrectAnswers": "will spend"
+    },
+    {
+      "question": "She will come after lunch so she _____ dinner with us tonight .",
+      "correctAnswer": "is going to have",
+      "incorrectAnswers": "will have"
+    },
+    {
+      "question": "We bought tickets and we _____ to Africa next month .",
+      "correctAnswer": "are going to go",
+      "incorrectAnswers": "will go"
+    },
+    {
+      "question": "I have entered Cambridge, so I _____ in the UK next year .",
+      "correctAnswer": "am going to live",
+      "incorrectAnswers": "will live"
+    },
+    {
+      "question": "Your results are excellent, you _____ a great journalist .",
+      "correctAnswer": "are going to be",
+      "incorrectAnswers": "will be"
+    },
+    {
+      "question": "He _____ photos of our family .",
+      "correctAnswer": "is going to take",
+      "incorrectAnswers": "taked"
+    },
+    {
+      "question": "We _____ a turtle next week .",
+      "correctAnswer": "are going to take",
+      "incorrectAnswers": "take"
+    },
+    {
+      "question": "She _____ a cake tomorrow. It's her mother's Birthday .",
+      "correctAnswer": "is going to make",
+      "incorrectAnswers": "will make"
+    },
+    {
+      "question": "She has found a teacher, so she _____ to play the guitar .",
+      "correctAnswer": "is going to learn",
+      "incorrectAnswers": "will learn"
+    },
+    {
+      "question": "We have booked a room, so we _____ at this hotel for two nights .",
+      "correctAnswer": "are going to stay",
+      "incorrectAnswers": "will stay"
+    }
+  ],
+  "2": [
+    {
+      "question": "If it _____ # , we will stay at home .",
+      "correctAnswer": "rains",
+      "incorrectAnswers": "will rain"
+    },
+    {
+      "question": "We will visit Granada if we _____ # to Spain .",
+      "correctAnswer": "travel",
+      "incorrectAnswers": "will travel"
+    },
+    {
+      "question": "She will play with us if she _____ # home early .",
+      "correctAnswer": "comes",
+      "incorrectAnswers": "will come"
+    },
+    {
+      "question": "If you _____ # dinner, I will wash the dishes .",
+      "correctAnswer": "cook",
+      "incorrectAnswers": "will cook"
+    },
+    {
+      "question": "I _____ # a new car if I get a good job .",
+      "correctAnswer": "will buy",
+      "incorrectAnswers": "buy"
+    },
+    {
+      "question": "If you catch a cold, you _____ # in bed .",
+      "correctAnswer": "will stay",
+      "incorrectAnswers": "stay"
+    },
+    {
+      "question": "She will be very happy if you _____ # her some flowers .",
+      "correctAnswer": "give",
+      "incorrectAnswers": "will give"
+    },
+    {
+      "question": "You will be late if you _____ # get up now .",
+      "correctAnswer": "do not",
+      "incorrectAnswers": "will not"
+    },
+    {
+      "question": "Call me when you _____ # home .",
+      "correctAnswer": "are",
+      "incorrectAnswers": "will be"
+    },
+    {
+      "question": "Let's go for a walk when you _____ # your homework .",
+      "correctAnswer": "finish",
+      "incorrectAnswers": "will finish"
+    },
+    {
+      "question": "Don't put too much salt when you _____ # dinner .",
+      "correctAnswer": "cook",
+      "incorrectAnswers": "will cook"
+    },
+    {
+      "question": "You can take a biscuit when you _____ # your lunch .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": "will eat"
+    },
+    {
+      "question": "Don't talk when you _____ # .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": "will eat"
+    },
+    {
+      "question": "When you _____ # chatting look at the board .",
+      "correctAnswer": "stop",
+      "incorrectAnswers": "will stop"
+    },
+    {
+      "question": "You will feel the sour taste when you _____ # a lemon .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": "will eat"
+    },
+    {
+      "question": "If it _____ # sunny, we will go to the park .",
+      "correctAnswer": "is",
+      "incorrectAnswers": "will be"
+    },
+    {
+      "question": "They will be happy when they _____ # holidays .",
+      "correctAnswer": "have",
+      "incorrectAnswers": "will have"
+    },
+    {
+      "question": "Stop writing when the bell _____ # .",
+      "correctAnswer": "rings",
+      "incorrectAnswers": "will ring"
+    },
+    {
+      "question": "You can go when the bell _____ # .",
+      "correctAnswer": "rings",
+      "incorrectAnswers": "will ring"
+    },
+    {
+      "question": "When he _____ # TV he will fall asleep .",
+      "correctAnswer": "watches",
+      "incorrectAnswers": "will watch"
+    },
+    {
+      "question": "You will not be hungry if you _____ # your breakfast .",
+      "correctAnswer": "eat",
+      "incorrectAnswers": "will eat"
+    },
+    {
+      "question": "I _____ # a new car next month .",
+      "correctAnswer": "will buy",
+      "incorrectAnswers": "buy"
+    },
+    {
+      "question": "I _____ # to come to your birthday party on Tuesday .",
+      "correctAnswer": "will try",
+      "incorrectAnswers": "try"
+    },
+    {
+      "question": "She _____ # to the cinema with us .",
+      "correctAnswer": "will go",
+      "incorrectAnswers": "goes"
+    },
+    {
+      "question": "I believe, her daughter _____ # a great lawyer in the future .",
+      "correctAnswer": "will be",
+      "incorrectAnswers": "is going to be"
+    },
+    {
+      "question": "We _____ # to the theatre together tonight .",
+      "correctAnswer": "will go",
+      "incorrectAnswers": "go"
+    },
+    {
+      "question": "She thinks she  _____ # at the sports club .",
+      "correctAnswer": "will play",
+      "incorrectAnswers": "is going to play"
+    },
+    {
+      "question": "I think I _____ # a famous actor in ten years .",
+      "correctAnswer": "will become",
+      "incorrectAnswers": "am going to become"
+    },
+    {
+      "question": "I _____ # to China in two years .",
+      "correctAnswer": "will travel",
+      "incorrectAnswers": "travel"
+    },
+    {
+      "question": "I think my brother _____ # Geography at the university .",
+      "correctAnswer": "will study",
+      "incorrectAnswers": "is going to study"
+    },
+    {
+      "question": "I _____ # these stories in the train tomorrow .",
+      "correctAnswer": "will read ",
+      "incorrectAnswers": "read"
+    },
+    {
+      "question": "My sister _____ # the guitar at the concert next Friday .",
+      "correctAnswer": "will play",
+      "incorrectAnswers": "plays"
+    },
+    {
+      "question": "I think I _____ # 50 countries in ten years .",
+      "correctAnswer": "will visit",
+      "incorrectAnswers": "am going to visit"
+    },
+    {
+      "question": "The rain has suddenly stopped, so we _____ # the children to the park .",
+      "correctAnswer": "will take",
+      "incorrectAnswers": "are going to take"
+    },
+    {
+      "question": "My friends _____ # an exam next week .",
+      "correctAnswer": "will have",
+      "incorrectAnswers": "have"
+    },
+    {
+      "question": "I _____ # for you at the bus stop after school .",
+      "correctAnswer": "will wait",
+      "incorrectAnswers": "wait"
+    },
+    {
+      "question": "She _____ # a green dress for the festival next weekend .",
+      "correctAnswer": "will wear",
+      "incorrectAnswers": "wears"
+    },
+    {
+      "question": "She _____ # a letter to her best friend tomorrow .",
+      "correctAnswer": "will write",
+      "incorrectAnswers": "writes"
+    },
+    {
+      "question": "If you say that the task isn't easy, I _____ # you with it .",
+      "correctAnswer": "will help",
+      "incorrectAnswers": "am going to help"
+    },
+    {
+      "question": "Give me your phone, I _____ # a photo of you near the castle .",
+      "correctAnswer": "will take",
+      "incorrectAnswers": "am going to take"
+    },
+    {
+      "question": "I think we _____ # pizza and salad for dinner .",
+      "correctAnswer": "will have",
+      "incorrectAnswers": "are going to have"
+    },
+    {
+      "question": "Max _____ # holiday in France next spring, he has bought the tickets .",
+      "correctAnswer": "is going to spend",
+      "incorrectAnswers": "will spend"
+    },
+    {
+      "question": "She will come after lunch so she _____ # dinner with us tonight .",
+      "correctAnswer": "is going to have",
+      "incorrectAnswers": "will have"
+    },
+    {
+      "question": "We bought tickets and we _____ # to Africa next month .",
+      "correctAnswer": "are going to go",
+      "incorrectAnswers": "will go"
+    },
+    {
+      "question": "I have entered Cambridge, so I _____ # in the UK next year .",
+      "correctAnswer": "am going to live",
+      "incorrectAnswers": "will live"
+    },
+    {
+      "question": "Your results are excellent, you _____ # a great journalist .",
+      "correctAnswer": "are going to be",
+      "incorrectAnswers": "will be"
+    },
+    {
+      "question": "He _____ # photos of our family .",
+      "correctAnswer": "is going to take",
+      "incorrectAnswers": "taked"
+    },
+    {
+      "question": "We _____ # a turtle next week .",
+      "correctAnswer": "are going to take",
+      "incorrectAnswers": "take"
+    },
+    {
+      "question": "She _____ # a cake tomorrow. It's her mother's Birthday .",
+      "correctAnswer": "is going to make",
+      "incorrectAnswers": "will make"
+    },
+    {
+      "question": "She has found a teacher, so she _____ # to play the guitar .",
+      "correctAnswer": "is going to learn",
+      "incorrectAnswers": "will learn"
+    },
+    {
+      "question": "We have booked a room, so we _____ # at this hotel for two nights .",
+      "correctAnswer": "are going to stay",
+      "incorrectAnswers": "will stay"
+    }
+  ]
+}

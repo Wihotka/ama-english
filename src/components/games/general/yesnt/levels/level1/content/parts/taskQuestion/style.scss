@@ -1,0 +1,49 @@
+@import 'src/scss/_mixins.scss';
+
+.taskQuestionContainer {
+    height: 148px;
+    padding: 32px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+    box-shadow: 4px 8px 24px rgba(56, 22, 109, 0.16);
+    border-radius: 32px;
+    display: flex;
+    flex-flow: column;
+    gap: 5px;
+
+    @include width-1280-L() {
+        height: 100%
+    }
+    @include width-1280-P() {
+        height: 100%
+    }
+
+    @include width-732-L() {
+        padding: 16px;
+        border-radius: 16px;
+    }
+
+    @include width-768-P() {
+        height: 139px;
+    }
+
+    @include width-412-P() {
+        height: 99px;
+        border-radius: 16px;
+    }
+
+    @include width-360-P() {
+        padding: 16px;
+    }
+}
+
+.taskTextHeader {
+    color: #38166D;
+
+    @include buttonFont();
+}
+
+.taskQuestionText {
+    color: #7141B7;
+
+    @include bodyRegular140Font();
+}

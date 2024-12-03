@@ -1,0 +1,12 @@
+@import 'src/scss/_mixins.scss';
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  max-width: 85%;
+
+  @include subtitleS();
+  text-align: center;
+}

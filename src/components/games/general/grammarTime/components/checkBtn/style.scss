@@ -1,0 +1,78 @@
+@import 'src/scss/_mixins.scss';
+
+.btnContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+  width: 100%;
+
+  @include width-1280-L() {
+    margin-top: 33px;
+  }
+
+  @include width-1000-L() {
+    margin-top: 7px;
+  }
+
+  @include width-854-L() {
+    margin-top: 26px;
+  }
+
+  @include width-732-L() {
+    margin-top: 16px;
+  }
+
+  @include width-640-L() {
+    margin-top: 19px;
+  }
+
+  @include width-852-P() {
+    margin-top: 10px;
+  }
+
+  @include width-534-P() {
+    margin-top: 18px;
+  }
+
+  @include width-412-P() {
+    margin-top: 32px;
+  }
+
+  @include width-360-P() {
+    margin-top: 26px;
+  }
+}
+  
+.checkBtn {
+  margin-left: auto;
+  border: none;
+  width: 258px;
+  height: 56px;
+  padding: 0;
+
+  &:disabled {
+    background: linear-gradient(180deg, #BAE3C6 0%, #DFF5E6 100%) !important;
+    box-shadow: 0px 4px 0px #95CB95, 0px 6px 16px rgba(149, 203, 149, 0.72) !important;
+    opacity: 0.4 !important;
+  }
+
+  @include width-1280-L() {
+    width: 260px;
+    height: 48px;
+  }
+
+  @include width-732-L() {
+    width: 260px;
+    height: 40px;
+  }
+
+  @include width-852-P() {
+    width: 260px;
+    height: 48px;
+  }
+
+  @include width-412-P() {
+    width: 260px;
+    height: 40px;
+  }
+}

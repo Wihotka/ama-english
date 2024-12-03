@@ -1,0 +1,108 @@
+@import 'src/scss/_mixins.scss';
+
+.gameWrap {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 80px 0;
+}
+
+.game {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 940px;
+  row-gap: 30px;
+  height: auto;
+  overflow-x: auto;
+
+  @include width-1000-L {
+    row-gap: 12px;
+    max-width: 100%;
+  }
+
+  @include width-768-P {
+    row-gap: 12px;
+    max-width: 100%;
+  }
+
+  @include width-854-L {
+    row-gap: 24px;
+  }
+
+  @include width-534-P {
+    row-gap: 24px;
+  }
+
+  @include width-732-L {
+    row-gap: 12px;
+  }
+
+  @include width-412-P {
+    row-gap: 16px;
+  }
+
+  @include width-640-L {
+    row-gap: 8px;
+  }
+
+  @include width-360-P {
+    row-gap: 12px;
+  }
+}
+
+.currentLetter {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 234px;
+  height: 64px;
+  border-width: 4px;
+  border-style: solid;
+  box-shadow: 2px 4px 16px rgba(28, 6, 64, 0.24);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-shadow: -1px -1px 0 #120084,-1px 0px 0 #120084,-1px 1px 0 #120084,0px -1px 0 #120084,0px 0px 0 #120084,0px 1px 0 #120084,1px -1px 0 #120084,1px 0px 0 #120084,1px 1px 0 #120084,0px 0px 0px #000000;
+  border-radius: 40px;
+
+  @include titleL();
+
+  @include width-1280-L {
+    width: 136px;
+    height: 40px;
+    border-width: 2px;
+    @include titleM();
+  }
+  @include width-1280-P {
+    width: 136px;
+    height: 40px;
+    border-width: 2px;
+    @include titleM();
+  }
+
+  @include width-854-L {
+    top: 8px;
+  }
+  @include width-534-P() {
+    top: 8px;
+  }
+
+  @include width-732-L {
+    width: 64px;
+    height: 24px;
+    border: none;
+  }
+  @include width-412-P {
+    width: 64px;
+    height: 24px;
+    border: none;
+  }
+}

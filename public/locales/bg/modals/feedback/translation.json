@@ -1,0 +1,37 @@
+{
+  "message": {
+    "title": "Ваш отзив?",
+    "text": "Това ни помага постоянно да се подобряваме",
+    "btnText": "Разбира се"
+  },
+  "form": {
+    "titleGame": "Оцени играта",
+    "titleCourse": "Оцени курса",
+    "titleBad": "Какво не ти хареса?",
+    "subtitleGame": "Ще ни помогнеш да направим играта по-добра",
+    "subtitleCourse": "Ше ни помогнеш да подобрим курса ни по английски език ",
+    "optionTitleGame": "Играта ми хареса",
+    "optionTitleCourse": "За мен е удобно да използвам курса \"Английски език\"",
+    "reason": {
+      "difficult": "Сложно",
+      "boring": "Скучно",
+      "performance": "Не работи добре",
+      "appearance": "Външен вид",
+      "orientation": "Труден за навигация",
+      "comment": "Ще го опиша в коментар"
+    },
+    "optionTitleTextarea": "Споделете своя опит",
+    "textareaPlaceholder": "Коментари",
+    "btnSubmit": "Изпрати"
+  },
+  "messageStatus": {
+    "titleSuccess": "Благодаря",
+    "titleError": "Не съм доволен",
+    "textGoodResponse": "Отзивът е изпратен",
+    "textBadResponse": "Отзыв отправлен. В ближайшее время мы рассмотрим твоё обращение",
+    "textError": "Грешка при изпращане на обратна връзка. Моля, опитайте отново.",
+    "btnTextSuccess": "Ок",
+    "btnTextError": "Повторете опита",
+    "btnTextSupport": "Свържете се с технически отдел"
+  }
+}

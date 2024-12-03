@@ -1,0 +1,10 @@
+{
+  "taskName": {
+    "online": "Nájdi čo najrýchlejšie všetky zodpovedajúce dvojice. Karty je potrebné otvárať jednu po druhej. Za každú správnu dvojicu môžeš získať 2 body. Aby bola hra víťazná, musíš ju dokončiť rýchlejšie ako tvoj súper. Hra sa skončí, keď na hracej ploche nezostanú žiadne karty.",
+    "offline": "Nájdi všetky zhodné dvojice kariet. Karty treba otvárať jednu po druhej. Každý hráč má 10 sekúnd na to, aby prišiel na rad. Za každú správnu dvojicu môžeš získať 2 body a čas navyše. Ak chceš vyhrať, musíš nájsť viac správnych dvojíc a získať viac bodov ako tvoj súper. Hra sa skončí, keď na hracej ploche nezostanú žiadne karty."
+  },
+  "time": {
+    "online": "",
+    "offline": "Celkový čas hry: 5 min."
+  }
+}

@@ -1,0 +1,489 @@
+[
+  {
+    "question": "Ann's room is clean than Dan's.",
+    "correctAnswers": ["Ann's room is cleaner than Dan's."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Kim's dress is dirty than Emma's.",
+    "correctAnswers": ["Kim's dress is dirtier than Emma's."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "A cake is sweet than an orange.",
+    "correctAnswers": ["A cake is sweeter than an orange."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "A cat is nice than a crocodile.",
+    "correctAnswers": ["A cat is nicer than a crocodile."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Jill is active than Max.",
+    "correctAnswers": ["Jill is more active than Max."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Sam is brave than Ken.",
+    "correctAnswers": ["Sam is braver than Ken."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "She is calm than her father.",
+    "correctAnswers": ["She is calmer than her father."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Ben is friendly than Ella.",
+    "correctAnswers": ["Ben is friendlier than Ella."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "My book is interesting than his book.",
+    "correctAnswers": ["My book is more interesting than his book."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Juice is tasty than water.",
+    "correctAnswers": ["Juice is tastier than water."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "My car is slow than your car.",
+    "correctAnswers": ["My car is slower than your car."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "He is greedy than his brother.",
+    "correctAnswers": ["He is greedier than his brother."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Tim is tall than Tom.",
+    "correctAnswers": ["Tim is taller than Tom."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "My room is small than my parents' room.",
+    "correctAnswers": ["My room is smaller than my parents' room."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Mary is plump than Dina.",
+    "correctAnswers": ["Mary is plumper than Dina."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "My brother is handsome than her brother.",
+    "correctAnswers": ["My brother is more handsome than her brother."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "This book is thin than that one.",
+    "correctAnswers": ["This book is thinner than that one."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Your room is clean than my room.",
+    "correctAnswers": ["Your room is cleaner than my room."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Kim's socks are dirty than Sam's socks.",
+    "correctAnswers": ["Kim's socks are dirtier than Sam's socks."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "A pie is sweet than an apple.",
+    "correctAnswers": ["A pie is sweeter than an apple."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "A rabbit is nice than a frog.",
+    "correctAnswers": ["A rabbit is nicer than a frog."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "She is calm than her brother.",
+    "correctAnswers": ["She is calmer than her brother."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "This book is interesting than that one.",
+    "correctAnswers": ["This book is more interesting than that one."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "A banana is tasty than a lemon.",
+    "correctAnswers": ["A banana is tastier than a lemon."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "A car is slow than a plane.",
+    "correctAnswers": ["A car is slower than a plane."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "A mouse is small than an elephant.",
+    "correctAnswers": ["A mouse is smaller than an elephant."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Betty is plump than Veronica.",
+    "correctAnswers": ["Betty is plumper than Veronica."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "My book is thin than her book.",
+    "correctAnswers": ["My book is thinner than her book."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Luc is rude than Alex.",
+    "correctAnswers": ["Luc is ruder than Alex."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "His book is thick than my book.",
+    "correctAnswers": ["His book is thicker than my book."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Her backpack is big than my backpack.",
+    "correctAnswers": ["Her backpack is bigger than my backpack."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Her hair is long than Pam's hair.",
+    "correctAnswers": ["Her hair is longer than Pam's hair."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+
+
+  {
+    "question": "Ann is young than her brother.",
+    "correctAnswers": ["Ann is younger than her brother."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Jane's hair is curly than Kate's hair.",
+    "correctAnswers": ["Jane's hair is curlier than Kate's hair."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Victor is creative than Sam.",
+    "correctAnswers": ["Victor is more creative than Sam."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Phisics is boring than Literature.",
+    "correctAnswers": ["Phisics is more boring than Literature."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Dan is hard-working than Emma.",
+    "correctAnswers": ["Dan is more hard-working than Emma."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Max is lazy than Bill.",
+    "correctAnswers": ["Max is lazier than Bill."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Nancy is clever than Robin.",
+    "correctAnswers": ["Nancy is cleverer than Robin."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "This sofa is comfortable than that armchair.",
+    "correctAnswers": ["This sofa is more comfortable than that armchair."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Mike's flat is modern than Will's flat.",
+    "correctAnswers": ["Mike's flat is more modern than Will's flat."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "The weather today is gloomy than yesterday.",
+    "correctAnswers": ["The weather today is gloomier than yesterday."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Steve's room is stylish than Dustine's room.",
+    "correctAnswers": ["Steve's room is more stylish than Dustine's room."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+  {
+    "question": "Will is polite than Lucas.",
+    "correctAnswers": ["Will is more polite than Lucas."],
+    "punctuationMark": ".",
+    "typePrompt":"comparative"
+  },
+
+
+  {
+    "question": "She is the pretty girl in our class.",
+    "correctAnswers": ["She is the prettiest girl in our class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "He is the rude boy in our school.",
+    "correctAnswers": ["He is the rudest boy in our school."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My mum is the serious woman in our family.",
+    "correctAnswers": ["My mum is the most serious woman in our family."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "I have many books and this is the thick one.",
+    "correctAnswers": ["I have many books and this is the thickest one."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "July is the hot month.",
+    "correctAnswers": ["July is the hottest month."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "January is the cold month.",
+    "correctAnswers": ["January is the coldest month."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Our house is the big one on our street.",
+    "correctAnswers": ["Our house is the biggest one on our street."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My room is the small one in our flat.",
+    "correctAnswers": ["My room is the smallest one in our flat."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My sister is the beautiful girl in our school.",
+    "correctAnswers": ["My sister is the most beautiful girl in our school."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "She has the long hair in our family.",
+    "correctAnswers": ["She has the longest hair in our family."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "This exercise is the easy one.",
+    "correctAnswers": ["This exercise is the easiest one."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "She is the clever girl in the class.",
+    "correctAnswers": ["She is the cleverest girl in the class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Sam is the active boy in my class.",
+    "correctAnswers": ["Sam is the most active boy in my class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My dog is the brave animal in the world.",
+    "correctAnswers": ["My dog is the bravest animal in the world."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Max is the tall boy in our class.",
+    "correctAnswers": ["Max is the tallest boy in our class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Steve is the greedy boy in our school.",
+    "correctAnswers": ["Steve is the greediest boy in our school."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Ken is the handsome boy in our class.",
+    "correctAnswers": ["Ken is the most handsome boy in our class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My teacher is the kind teacher in our school.",
+    "correctAnswers": ["My teacher is the kindest teacher in our school."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Ella is the pretty girl in my class.",
+    "correctAnswers": ["Ella is the prettiest girl in my class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My grandfather is the serious man in our family.",
+    "correctAnswers": ["My grandfather is the most serious man in our family."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Today is the hot day of the year.",
+    "correctAnswers": ["Today is the hottest day of the year."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My mum is the beautiful woman in the world.",
+    "correctAnswers": ["My mum is the most beautiful woman in the world."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "This task is the easy one.",
+    "correctAnswers": ["This task is the easiest one."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "He is the clever boy in my class.",
+    "correctAnswers": ["He is the cleverest boy in my class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+
+
+
+  {
+    "question": "Will is the young boy in our company.",
+    "correctAnswers": ["Will is the youngest boy in our company."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Steve is the old boy in his class.",
+    "correctAnswers": ["Steve is the oldest boy in his class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Dustine is the creative person in our class.",
+    "correctAnswers": ["Dustine is the most creative person in our class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Physics is the boring school subject.",
+    "correctAnswers": ["Physics is the most boring school subject."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Jonathan is the hard-working boy in our school.",
+    "correctAnswers": ["Jonathan is the most hard-working boy in our school."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Lucas is the lazy person I know.",
+    "correctAnswers": ["Lucas is the laziest person I know."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "This bed is the uncomfortable one.",
+    "correctAnswers": ["This bed is the most uncomfortable one."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Nancy's room is the stylish one in our house.",
+    "correctAnswers": ["Nancy's room is the most stylish one in our house."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "My father is the modern person in our family.",
+    "correctAnswers": ["My father is the most modern person in our family."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "Today is the bright day of this week.",
+    "correctAnswers": ["Today is the brightest day of this week."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "He is the gloomy person in our class.",
+    "correctAnswers": ["He is the gloomiest person in our class."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  },
+  {
+    "question": "This sofa is the comfortable one.",
+    "correctAnswers": ["This sofa is the most comfortable one."],
+    "punctuationMark": ".",
+    "typePrompt":"superlative"
+  }
+]

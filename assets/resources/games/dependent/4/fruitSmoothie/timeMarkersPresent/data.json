@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "usually",
+    "incorrectAnswers": ["now", "these days", "at the moment"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every day",
+    "incorrectAnswers": ["at the moment", "at this moment", "tonight"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every week",
+    "incorrectAnswers": ["today", "right now", "these days"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every month",
+    "incorrectAnswers": ["tonight", "yet", "at this moment"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every year",
+    "incorrectAnswers": ["these days", "never", "right now"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every hour",
+    "incorrectAnswers": ["at this moment", "lately", "yet"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "two times a day",
+    "incorrectAnswers": ["right now", "recently", "never"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "two times a week",
+    "incorrectAnswers": ["yet", "already", "lately"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every summer",
+    "incorrectAnswers": ["never", "for", "recently"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every spring",
+    "incorrectAnswers": ["lately", "just", "already"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every winter",
+    "incorrectAnswers": ["recently", "now", "for"]
+  },
+  {
+    "question": "Present Simple: _____ .",
+    "correctAnswer": "every autumn",
+    "incorrectAnswers": ["already", "at the moment", "just"]
+  },
+  {
+    "question": "Present Continuous: _____ .",
+    "correctAnswer": "now",
+    "incorrectAnswers": ["for", "yet", "usually"]
+  },
+  {
+    "question": "Present Continuous: _____ .",
+    "correctAnswer": "at the moment",
+    "incorrectAnswers": ["just", "never", "every day"]
+  },
+  {
+    "question": "Present Continuous: _____ .",
+    "correctAnswer": "tonight",
+    "incorrectAnswers": ["usually", "lately", "every week"]
+  },
+  {
+    "question": "Present Continuous: _____ .",
+    "correctAnswer": "these days",
+    "incorrectAnswers": ["every day", "recently", "every month"]
+  },
+  {
+    "question": "Present Continuous: _____ .",
+    "correctAnswer": "at this moment",
+    "incorrectAnswers": ["every week", "already", "every year"]
+  },
+  {
+    "question": "Present Continuous: _____ .",
+    "correctAnswer": "right now",
+    "incorrectAnswers": ["every month", "for", "every hour"]
+  },
+  {
+    "question": "Present Continuous: _____ .",
+    "correctAnswer": "yet",
+    "incorrectAnswers": ["every year", "just", "two times a day"]
+  },
+  {
+    "question": "Present Perfect: _____ .",
+    "correctAnswer": "never",
+    "incorrectAnswers": ["every hour", "usually", "two times a week"]
+  },
+  {
+    "question": "Present Perfect: _____ .",
+    "correctAnswer": "lately",
+    "incorrectAnswers": ["two times a day", "every day", "every summer"]
+  },
+  {
+    "question": "Present Perfect: _____ .",
+    "correctAnswer": "recently",
+    "incorrectAnswers": ["two times a week", "every week", "every spring"]
+  },
+  {
+    "question": "Present Perfect: _____ .",
+    "correctAnswer": "already",
+    "incorrectAnswers": ["every summer", "every month", "every winter"]
+  },
+  {
+    "question": "Present Perfect: _____ .",
+    "correctAnswer": "for",
+    "incorrectAnswers": ["every spring", "every year", "every autumn"]
+  },
+  {
+    "question": "Present Perfect: _____ .",
+    "correctAnswer": "just",
+    "incorrectAnswers": ["every winter", "every hour", "at the moment"]
+  }
+]

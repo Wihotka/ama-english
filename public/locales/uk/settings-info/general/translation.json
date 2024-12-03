@@ -1,0 +1,569 @@
+{
+  "level": "The game settings depend on the level of the game:",
+  "dataComplexity": "Выбор сложности слов",
+  "answersQty": "Необходимое количество ответов для завершения игры",
+  "gameTime": "Total duration of the game",
+  "maxLettersQty": "Максимальное количество букв в словах на игровом поле",
+  "test": "some test setting",
+  "games": {
+    "someGameName": {
+      "level": {
+        "innerName": "Отображает количество буквосочетаний, одновременно расположенных на игровом поле",
+        "texts": [
+          "1 уровень - необходимо найти идентичное буквосочетание",
+          "2 уровень - необходимо собрать слово по слогам",
+          "3 уровень - необходимо найти идентичное слово",
+          "4 уровень - необходимо найти идентичное слово, при этом слова могут быть перевёрнутые"
+        ]
+      },
+      "gameTime": {
+        "innerName": "Общая продолжительность игры"
+      }
+    },
+    "legoLetter": {
+      "level": {
+        "texts": [
+          "Make up a letter from the given elements",
+          "Find a pair to each letter"
+        ]
+      },
+      "letters": {
+        "innerName": "The type of letters for the game"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "buildMe": {
+      "level": {
+        "texts": [
+          "Make up words using the given picture, transcription and voicing",
+          "Make up words using the given transcription and voicing",
+          "Make up words using the given voicing"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "hint": {
+        "innerName": "The first and the last letters are filled in automatically"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "alphabet": {
+      "level": {
+        "texts": [
+          "Click on the letters in the right order to make up an alphabet",
+          "Click on the letters that break the alphabet order",
+          "Put the letters into the correct alphabet order"
+        ]
+      },
+      "letters": {
+        "innerName": "Choose the type of letters for the game"
+      },
+      "mode": {
+        "innerName": "The harder the mode is, the less time you have to complete the game"
+      },
+      "speedInSeconds": {
+        "innerName": "The changing speed of one letter"
+      },
+      "lettersQty": {
+        "innerName": "The number of letters in one line"
+      }
+    },
+    "guessTheSound": {
+      "level": {
+        "texts": [
+          "Choose a transcription that illustrates the given sound",
+          "Choose the sound that illustrates the highlighted letters in the given word",
+          "Choose the word in which the highlighted letters illustrate the sound given in the middle"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "complexity": {
+        "innerName": "The type of sounds:",
+        "texts": [
+          "Easy",
+          "Hard",
+          "Random order"
+        ]
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "itsMatch": {
+      "level": {
+        "texts": [
+          "Listen to the sound. Choose the transcription that corresponds to the sound",
+          "Choose the sound that corresponds to the transcription"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "perfectPairs": {
+      "level": {
+        "texts": [
+          "Choose the word that corresponds to the picture",
+          "Choose the transcription that corresponds to the picture"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "levitation": {
+      "level": {
+        "texts": [
+          "Find the right word to the given picture",
+          "Find the sound that corresponds to the highlighted letters in the given word",
+          "Find the word that contains the given sound"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "speed": {
+        "innerName": "The speed of feathers"
+      },
+      "feathersQty": {
+        "innerName": "The number of feathers on the playing field"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "wordBox": {
+      "level": {
+        "texts": [
+          "Find the words in the square. The words can be arranged vertically and horizontally. Direction of the words:  ↓, →",
+          "Find the words in the square. The words can be arranged vertically and horizontally. Direction of the words: ↓, →, ↑ , ←",
+          "Find the words in the square. The words can be arranged vertically, horizontally and diagonally. Direction of the words: ↓, →, ↘",
+          "Find the words in the square. The words can be arranged vertically, horizontally and diagonally. Direction of the words: ↓, →, ↑ , ←, ↘, ↙"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "complexity": {
+        "innerName": "If the list of words is available",
+        "texts": [
+          "The list of the words is presented",
+          "The list of the words is hidden"
+        ]
+      },
+      "wordsQty": {
+        "innerName": "The number of words that should be found"
+      }
+    },
+    "worndNLetters": {
+      "level": {
+        "texts": [
+          "Arrange the words in the alphabetical order",
+          "Match the words with the pictures"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "complexity": {
+        "innerName": " ",
+        "texts": [
+          "The words start with different letters",
+          "The words can start with the same letters"
+        ]
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "timeline": {
+      "level": {
+        "texts": [
+          "Choose a picture that matches the sentence",
+          "Choose a sentence that matches the picture"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the grammar topics"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "wordpad": {
+      "level": {
+        "texts": [
+          "Listen to the word and write it down with the help of the keyboard",
+          "Listen to the word and write it down with the help of the keyboard. Time for making up each word is limited"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "hint": {
+        "innerName": "With the help of the hint you can listen to the spelling of the word"
+      },
+      "complexity": {
+        "innerName": "Difficulty",
+        "texts": [
+          "You have 1 minute to write down the word",
+          "You have 45 seconds to write down the word",
+          "You have 30 seconds to write down the word"
+        ]
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "lostTwins": {
+      "level": {
+        "texts": [
+          "Find all the matching pairs. All cards are opened up",
+          "Find all the matching pairs. Turn over cards one by one",
+          "Find all the matching pairs. Turn over cards one by one,  some cards can be turned upside down"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "fieldSize": {
+        "innerName": "The choice of the size of the playing field"
+      },
+      "mode": {
+        "innerName": "The harder the mode is, the less time you have to complete the game"
+      },
+      "hint": {
+        "innerName": "You are given 5 seconds to look through the cards, then the cards will be turned over"
+      }
+    },
+    "yesnt": {
+      "level": {
+        "texts": [
+          "Read the text and answer the questions",
+          "Study the advertisement and answer the questions"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "sortOut": {
+      "level": {
+        "texts": ["Sort out the icons on the screen according to the task"]
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": ["Prepositions: right, left", "Prepositions: under, above, between", "Random order"]
+      },
+      "fieldSize": {
+        "innerName": "The choice of the size of the playing field"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "fruitSmoothie": {
+      "level": {
+        "texts": [
+          "Two fruits fly out. Find the fruit with the right answer",
+          "Three fruits fly out. Find the fruit with the right answer",
+          "Four fruits fly out. Find the fruit with the right answer"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the grammar topics"
+      },
+      "complexity": {
+        "innerName": " ",
+        "texts": [
+          "Endings of the verbs in the 3rd person singular",
+          "Endings of the verbs proceeded by the verb “like”",
+          "Both types of endings"
+        ]
+      },
+      "speedInSeconds": {
+        "innerName": "Fruit flight timing"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "guessWhat": {
+      "level": {
+        "texts": [
+          "Read the description and choose the correct item. You are given 4 answer options",
+          "Read the description and choose the correct item. You are given 6 answer options",
+          "Read the description and choose the correct item. You are given 8 answer options"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "Simple descriptions of the items",
+          "Complicated descriptions of the items"
+        ]
+      },
+      "hint": {
+        "innerName": "The hint automatically removes 2 wrong answers"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "clickItEasy": {
+      "level": {
+        "texts": [
+          "Make up sentences using the given pictures. There are no time limits",
+          "Make up sentences using the given pictures. Time to make up each sentence is limited"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the grammar topics"
+      },
+      "sentenceType": {
+        "innerName": "The choice of the sentence type"
+      },
+      "complexity": {
+        "innerName": "\n",
+        "texts": [
+          "You have 90 seconds to make up a sentence",
+          "You have 60 seconds to make up a sentence",
+          "You have 45 seconds to make up a sentence"
+        ]
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "breakTheSpell": {
+      "level": {
+        "texts": [
+          "Look at the transcription of the word, listen to its recording and write it down with the help of your keyboard",
+          "Look at the transcription of the word and write it down with the help of your keyboard"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "grammarTime": {
+      "level": {
+        "texts": [
+          "Find two matches",
+          "Find three matches"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the grammar topics"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "grammarMix": {
+      "level": {
+        "texts": [
+          "Choose the correct option",
+          "Open the brackets and fill in the gaps"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the grammar topics"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "phraseJumping": {
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the grammar topics"
+      },
+      "hint": {
+        "innerName": "The hint shows the rules of the sentence building"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "airWord": {
+      "level": {
+        "texts": [
+          "Find the word that is related to the chosen theme",
+          "Find the word that is NOT related to the chosen theme"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "planesQty": {
+        "innerName": "The number of planes on the playing field"
+      },
+      "speedInSeconds": {
+        "innerName": "Plane flight timing"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "colourfulPhonetics": {
+      "level": {
+        "texts": [
+          "Match the pronunciation of the sound with its transcription and colour the picture accordingly. The picture contains 5 colours",
+          "Match the pronunciation of the sound with its transcription and colour the picture accordingly. The picture may contain up to 10 colours"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "picture": {
+        "innerName": "The choice of the picture for colouring"
+      },
+      "complexity": {
+        "innerName": "The type of sounds:",
+        "texts": [
+          "easy",
+          "hard",
+          "random"
+        ]
+      }
+    },
+    "checkpoint": {
+      "level": {
+        "texts": [
+          "The first mid-course revision",
+          "The second mid-course revision"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      }
+    },
+    "wordBuilder": {
+      "level": {
+        "texts": [
+          "Make up words using the given transcription and voicing",
+          "Make up words using the given voicing"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "theme": {
+        "innerName": "The choice of the target vocabulary"
+      },
+      "hint": {
+        "innerName": "The first and the last letters are filled in automatically"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "textTeaser": {
+      "level": {
+        "texts": [
+          "Put the parts of the text into the correct order. You’ll have to sort out 4 parts",
+          "Put the parts of the text into the correct order. You’ll have to sort out 5 parts"
+        ]
+      },
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "hint": {
+        "innerName": "The first part of the text will take its place"
+      }
+    },
+    "echoChamber": {
+      "course": {
+        "innerName": "The choice of the course"
+      },
+      "answersQty": {
+        "innerName": "The number of answers in one game"
+      }
+    },
+    "navigation": {
+      "complexity": {
+        "innerName": "Difficulty",
+        "texts": [
+          "Prepositions: in, on, near, right, left",
+          "Prepositions: under, above, behind, in front of, between"
+        ]
+      },
+      "location": {
+        "innerName": "The choice of location"
+      }
+    }
+  }
+}

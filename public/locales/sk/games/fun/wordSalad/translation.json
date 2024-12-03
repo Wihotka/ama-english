@@ -1,0 +1,4 @@
+﻿{
+  "taskName1": "Vymyslite čo najviac anglických slov z písmen ponúknutých na hracom poli. Každé písmeno v poli môže byť použité 1 krát. Do úvahy sa berú slová s dĺžkou 3 až 10 písmen. Pri skladaní slov skontrolujte ich pravopis. Čím dlhšie je slovo, tým viac bodov môžete za hru získať. Nemôžete používať skratky, vlastné mená, slová, ktoré sú napísané so spojovníkom. Ak v poli už nie sú žiadne nové slová, môžete použiť tlačidlo „Aktualizovať pole“ a pokračovať v hre",
+  "check": "Kontrola"
+}

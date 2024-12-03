@@ -1,0 +1,542 @@
+[
+  {
+    "id": "116",
+    "text": "What do you usually have for breakfast?"
+  },
+  {
+    "id": "117",
+    "text": "I have some biscuits and apple juice."
+  },
+  {
+    "id": "118",
+    "text": "What do you usually have for lunch?"
+  },
+  {
+    "id": "119",
+    "text": "And what do you usually have for dinner?"
+  },
+  {
+    "id": "120",
+    "text": "Sounds tasty!"
+  },
+  {
+    "id": "121",
+    "text": "Can we talk about your food?"
+  },
+  {
+    "id": "122",
+    "text": "What do you like to have for breakfast?"
+  },
+  {
+    "id": "123",
+    "text": "I like to eat some sandwiches for breakfast."
+  },
+  {
+    "id": "124",
+    "text": "What do you like to have for lunch?"
+  },
+  {
+    "id": "125",
+    "text": "I like to have some soup and biscuits for lunch."
+  },
+  {
+    "id": "126",
+    "text": "What do you like to have for dinner?"
+  },
+  {
+    "id": "127",
+    "text": "Thank you for help."
+  },
+  {
+    "id": "128",
+    "text": "I usually take a lunch box to school."
+  },
+  {
+    "id": "129",
+    "text": "I like fruit very much."
+  },
+  {
+    "id": "130",
+    "text": "My favourite fruit is an apple and a banana and I eat them a lot!"
+  },
+  {
+    "id": "131",
+    "text": "In the morning I make 2 sandwiches and put them in my lunchbox."
+  },
+  {
+    "id": "132",
+    "text": "I take a lunchbox to school because I eat there."
+  },
+  {
+    "id": "133",
+    "text": "My phone number is 13 40 758"
+  },
+  {
+    "id": "134",
+    "text": "There is one cat."
+  },
+  {
+    "id": "135",
+    "text": "There are three dogs."
+  },
+  {
+    "id": "136",
+    "text": "This family is very big."
+  },
+  {
+    "id": "137",
+    "text": "It’s a nice family photo."
+  },
+  {
+    "id": "138",
+    "text": "We’ve got 1 boy and 1 girl in a family of two."
+  },
+  {
+    "id": "139",
+    "text": "People have meals together in the dining room."
+  },
+  {
+    "id": "140",
+    "text": "Bedroom is a private room for relax."
+  },
+  {
+    "id": "141",
+    "text": "We wash our face and brush teeth in the bathroom."
+  },
+  {
+    "id": "142",
+    "text": "Living room is a big room for the whole family."
+  },
+  {
+    "id": "143",
+    "text": "People cook food in the kitchen."
+  },
+  {
+    "id": "144",
+    "text": "Playroom is a room with lots of toys."
+  },
+  {
+    "id": "145",
+    "text": "I want to tell you about my dream room."
+  },
+  {
+    "id": "146",
+    "text": "There is a big bed in the room."
+  },
+  {
+    "id": "147",
+    "text": "There are some toys on my bed."
+  },
+  {
+    "id": "148",
+    "text": "I like reading in the evening."
+  },
+  {
+    "id": "149",
+    "text": "I like painting."
+  },
+  {
+    "id": "150",
+    "text": "There are some posters on the walls in my room."
+  },
+  {
+    "id": "151",
+    "text": "On the floor there is a big and colourful rug!"
+  },
+  {
+    "id": "152",
+    "text": "Next to the armchair there is a box with toys!"
+  },
+  {
+    "id": "153",
+    "text": "I'm not at home at lunch time."
+  },
+  {
+    "id": "154",
+    "text": "I have lunch at school."
+  },
+  {
+    "id": "155",
+    "text": "We have dinner together."
+  },
+  {
+    "id": "156",
+    "text": "My home is near the school."
+  },
+  {
+    "id": "157",
+    "text": "It only takes 5 minutes to go to school."
+  },
+  {
+    "id": "158",
+    "text": "I love computer games."
+  },
+  {
+    "id": "159",
+    "text": "At my school we have a lot of homework."
+  },
+  {
+    "id": "160",
+    "text": "In the afternoon and evening I do my homework."
+  },
+  {
+    "id": "161",
+    "text": "I have no time for computer games."
+  },
+  {
+    "id": "162",
+    "text": "I do a lot of sport."
+  },
+  {
+    "id": "163",
+    "text": "After school I play tennis for two hours until dinner."
+  },
+  {
+    "id": "164",
+    "text": "My school finishes late."
+  },
+  {
+    "id": "165",
+    "text": "In the morning I get up late too."
+  },
+  {
+    "id": "166",
+    "text": "Don't touch the ball with hands."
+  },
+  {
+    "id": "167",
+    "text": "Raise your hands and hit the ball."
+  },
+  {
+    "id": "168",
+    "text": "Hit the ball with racket."
+  },
+  {
+    "id": "169",
+    "text": "Don't touch the ball."
+  },
+  {
+    "id": "170",
+    "text": "She has got brown hair, brown eyes and small lips."
+  },
+  {
+    "id": "171",
+    "text": "He has got black hair, blue eyes and a beard. He hasn't got glasses."
+  },
+  {
+    "id": "172",
+    "text": "She has long blonde hair, blue eyes and glasses."
+  },
+  {
+    "id": "173",
+    "text": "She has got grey hair, blue eyes and white glasses."
+  },
+  {
+    "id": "174",
+    "text": "Let me tell you about my friend."
+  },
+  {
+    "id": "175",
+    "text": "What does she look like?"
+  },
+  {
+    "id": "176",
+    "text": "She isn't short, she is quite tall."
+  },
+  {
+    "id": "177",
+    "text": "She is not plum, she is slim."
+  },
+  {
+    "id": "178",
+    "text": "She has got long brown hair and big brown eyes."
+  },
+  {
+    "id": "179",
+    "text": "She has red lips and a pretty face."
+  },
+  {
+    "id": "180",
+    "text": "A person who does a lot of things is active."
+  },
+  {
+    "id": "181",
+    "text": "A person who likes to be with other people is friendly."
+  },
+  {
+    "id": "182",
+    "text": "Someone who helps other people is kind."
+  },
+  {
+    "id": "183",
+    "text": "A person who feels uncomfortable to talk with others is shy."
+  },
+  {
+    "id": "184",
+    "text": "A person who is quiet and doesn't laugh often is serious."
+  },
+  {
+    "id": "185",
+    "text": "A person who doesn't get nervous is calm."
+  },
+  {
+    "id": "186",
+    "text": "Someone who is easily upset is touchy."
+  },
+  {
+    "id": "187",
+    "text": "Someone who is not afraid of danger is brave."
+  },
+  {
+    "id": "188",
+    "text": "Some people who are not polite are rude."
+  },
+  {
+    "id": "189",
+    "text": "Someone who wants more money than needs is greedy."
+  },
+  {
+    "id": "190",
+    "text": "Do you go home by bus?"
+  },
+  {
+    "id": "191",
+    "text": "We have different types of weather."
+  },
+  {
+    "id": "192",
+    "text": "In autumn it is usually very windy."
+  },
+  {
+    "id": "193",
+    "text": "The breeze is blowing now."
+  },
+  {
+    "id": "194",
+    "text": "It is usually a bit cold."
+  },
+  {
+    "id": "195",
+    "text": "it rarely rains."
+  },
+  {
+    "id": "196",
+    "text": "In winter it is frosty and snowy."
+  },
+  {
+    "id": "197",
+    "text": "We play snowballs or ski."
+  },
+  {
+    "id": "198",
+    "text": "In spring it is often rainy, so the weather is wet."
+  },
+  {
+    "id": "199",
+    "text": "After the rain the rainbow comes."
+  },
+  {
+    "id": "200",
+    "text": "In summer it is usually hot and not even cloudy."
+  },
+  {
+    "id": "201",
+    "text": "At night you can see the moon and stars."
+  },
+  {
+    "id": "202",
+    "text": "What do I prefer wearing?"
+  },
+  {
+    "id": "203",
+    "text": "I usually wear a T-shirt and trousers."
+  },
+  {
+    "id": "204",
+    "text": "I don't wear sportswear or uniform."
+  },
+  {
+    "id": "205",
+    "text": "I am wearing shorts and a T-shirt now."
+  },
+  {
+    "id": "206",
+    "text": "What about you?"
+  },
+  {
+    "id": "207",
+    "text": "There are four seasons in the year."
+  },
+  {
+    "id": "208",
+    "text": "When it is hot people wear T-shirts and shorts, sport shoes, socks and sandals."
+  },
+  {
+    "id": "209",
+    "text": "It is very important to wear a cap or sunglasses if it is very sunny."
+  },
+  {
+    "id": "210",
+    "text": "People also can go to the river or sea to swim."
+  },
+  {
+    "id": "211",
+    "text": "In cold weather people usually put on warm clothes."
+  },
+  {
+    "id": "212",
+    "text": "When it is raining, the most important thing is an umbrella."
+  },
+  {
+    "id": "213",
+    "text": "Take a bag for an umbrella if the rain stops."
+  },
+  {
+    "id": "214",
+    "text": "Weather changes very fast."
+  },
+  {
+    "id": "215",
+    "text": "What are you doing right now?"
+  },
+  {
+    "id": "216",
+    "text": "I am playing computer games at the moment."
+  },
+  {
+    "id": "217",
+    "text": "I am walking in the park. Do you want to come?"
+  },
+  {
+    "id": "218",
+    "text": "What is the weather like today? Is it raining now?"
+  },
+  {
+    "id": "219",
+    "text": "I usually don’t walk in the park when it rains."
+  },
+  {
+    "id": "220",
+    "text": "What do you usually do when it's rainy?"
+  },
+  {
+    "id": "221",
+    "text": "I stay at home and read a book."
+  },
+  {
+    "id": "222",
+    "text": "I always play computer games."
+  },
+  {
+    "id": "223",
+    "text": "What are you wearing?"
+  },
+  {
+    "id": "224",
+    "text": "I am wearing a red jacket, a T-shirt and black trousers."
+  },
+  {
+    "id": "225",
+    "text": "I had the most delicious sandwich last Wednesday."
+  },
+  {
+    "id": "226",
+    "text": "Harry has done his whole homework at home by himself."
+  },
+  {
+    "id": "227",
+    "text": "Young Una is beautiful in her new yellow university uniform."
+  },
+  {
+    "id": "228",
+    "text": "You wore your new yellow tunic yesterday, didn't you?"
+  },
+  {
+    "id": "229",
+    "text": "Some parrots live over 100 years."
+  },
+  {
+    "id": "230",
+    "text": "Jaguars swim very well and they love water."
+  },
+  {
+    "id": "231",
+    "text": "Guinea pigs play for 20 hours a day."
+  },
+  {
+    "id": "232",
+    "text": "My hobby is reading."
+  },
+  {
+    "id": "234",
+    "text": "I have a lot of books in my room."
+  },
+  {
+    "id": "235",
+    "text": "I think fantasy books are very interesting."
+  },
+  {
+    "id": "236",
+    "text": "I love stories about magicians."
+  },
+  {
+    "id": "237",
+    "text": "Comic books can be funny but I am not a fan of them."
+  },
+  {
+    "id": "238",
+    "text": "He is very handsome."
+  },
+  {
+    "id": "239",
+    "text": "He has got blonde straight short hair, blue eyes."
+  },
+  {
+    "id": "240",
+    "text": "He is tall and slim."
+  },
+  {
+    "id": "241",
+    "text": "He always walks or does sports."
+  },
+  {
+    "id": "242",
+    "text": "He always works actively."
+  },
+  {
+    "id": "243",
+    "text": "He reacts calmly to all the problems."
+  },
+  {
+    "id": "244",
+    "text": "He has a lot of friends."
+  },
+  {
+    "id": "245",
+    "text": "He is much cleverer than me."
+  },
+  {
+    "id": "246",
+    "text": "Come in."
+  },
+  {
+    "id": "247",
+    "text": "Take a seat."
+  },
+  {
+    "id": "248",
+    "text": "I want you to help me!"
+  },
+  {
+    "id": "249",
+    "text": "Any complaints?"
+  },
+  {
+    "id": "250",
+    "text": "I don’t feel very well."
+  },
+  {
+    "id": "251",
+    "text": "Have you got a high temperature?"
+  }
+]

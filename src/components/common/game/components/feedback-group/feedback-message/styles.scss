@@ -1,0 +1,56 @@
+@import 'src/scss/_mixins.scss';
+
+.messageField {
+  position: fixed;
+  top: 48px;
+  right: 24px;
+
+  min-width: 376px;
+  max-width: 416px;
+  min-height: 205px;
+  padding: 24px;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 8px;
+
+  background: #FFFFFF;
+
+  border: 1px solid #D3BBFF;
+  box-shadow: 0 16px 32px rgba(28, 6, 64, 0.32);
+  border-radius: 40px;
+
+  z-index: 5;
+}
+
+.messageTitle {
+  width: 100%;
+
+  text-align: left;
+  align-items: flex-start;
+  @include subtitleS;
+  color: #38166D;
+}
+
+.messageText {
+  padding-right: 20px;
+  @include bodyRegularFont;
+  line-height: 140%;
+  color: #38166D;
+  margin-bottom: 8px;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px 58px;
+  @include buttonFont;
+  color: #FFFFFF;
+}
+
+.btnClose {
+  position: absolute;
+  top: 24px;
+  right: 26px;
+}

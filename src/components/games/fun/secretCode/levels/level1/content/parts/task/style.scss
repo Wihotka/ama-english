@@ -1,0 +1,170 @@
+@import 'src/scss/_mixins.scss';
+
+.taskContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF;
+    width: 100%;
+    height: 140px;
+    box-shadow: 4px 8px 24px rgba(48, 42, 54, 0.16);
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: 32px;
+
+    @include width-1280-L {
+        height: 102px;
+        border-radius: 24px;
+    }
+    @include width-1280-P {
+        height: 102px;
+        border-radius: 24px;
+    }
+
+    @include width-1000-L {
+        height: 80px;
+        border-radius: 32px;
+        padding: 0 12px;
+    }
+
+    @include width-768-P {
+        height: 80px;
+        flex-flow: wrap;
+        border-radius: 32px;
+    }
+
+    @include width-854-L {
+        height: 100px;
+        padding: 26px 18px;
+        border-radius: 16px;
+    }
+
+    @include width-534-P {
+        height: 170px;
+        border-radius: 16px;
+    }
+
+    @include width-732-L {
+        height: 60px;
+        padding: 0 8px;
+    }
+
+    @include width-412-P {
+        height: 134px;
+        padding: 18px 20px;
+    }
+
+    @include width-640-L {
+        height: 52px;
+    }
+
+    @include width-360-P {
+        height: 100px;
+        padding: 6px 12px;
+    }
+}
+
+
+.taskLetterContainer {
+    width: 72px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px 50px 8px 8px;
+    color: #fff;
+    margin-right: 16px;
+    text-align: center;
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    padding-top: 16px;
+    
+    @include titleM();
+
+    @include width-1280-L {
+        width: 64px;
+        height: 48px;
+        padding-top: 10px;
+    }
+    @include width-1280-P {
+        width: 64px;
+        height: 48px;
+        padding-top: 10px;
+    }
+
+    @include width-1000-L {
+        margin-right: 14px;
+    }
+
+    @include width-768-P {
+        width: 50px;
+        height: 38px;
+        padding-top: 8px;
+    }
+
+    @include width-854-L {
+        padding-top: 8px;
+        margin-right: 14px;
+    }
+
+    @include width-534-P {
+        width: 72px;
+        height: 54px;
+        padding-top: 8px;
+    }
+
+    @include width-732-L {
+        width: 54px;
+        height: 41px;
+    }
+
+    @include width-412-P {
+        width: 54px;
+        height: 41px;
+        margin: 0 6px;
+    }
+
+    @include width-640-L {
+        width: 45px;
+        height: 33px;
+    }
+
+    @include width-360-P {
+        width: 45px;
+        height: 33px;
+    }
+}
+
+.taskLetterContainer:last-child {
+    margin-right: 0;
+}
+
+.taskImage {
+    width: 80px;
+    height: 80px;
+    padding-top: 0;
+
+    @include width-1340-L() {
+        width: 56px;
+        height: 56px;
+    }
+
+    @include width-1000-L() {
+        width: 50px;
+        height: 50px;
+    }
+
+    @include width-854-L() {
+        width: 40px;
+        height: 40px;
+    }
+
+    @include media-portrait(1000) {
+        width: 50px;
+        height: 50px;
+    }
+
+    @include width-768-P() {
+        width: 40px;
+        height: 40px;
+        margin: 0 10px;
+    }
+}

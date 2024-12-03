@@ -1,0 +1,27 @@
+.fade-enter.game {
+    opacity: 0;
+    /*transform: scale(0.5);*/
+}
+.fade-enter-active.game {
+    opacity: 1;
+    /*transform: scale(1);*/
+}
+.fade-exit.game {
+    opacity: 1;
+    /*transform: scale(1);*/
+}
+.fade-exit-active.game {
+    opacity: 0;
+    /*transform: scale(0.5);*/
+}
+
+.game{
+    display: flex;
+    flex: 1 0 auto;
+}
+
+
+/*.fade-enter-active.game,*/
+/*.fade-exit-active.game {*/
+/*    transition: opacity;*/
+/*}*/

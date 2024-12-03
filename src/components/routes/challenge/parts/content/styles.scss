@@ -1,0 +1,29 @@
+@import '/src/scss/_mixins';
+
+.content{
+  //background: linear-gradient(135deg, #1d3f54 0%, #132d42 100%, #539fe1 100%, #2a7388 100%);
+  //border: 10px solid #23bfd0;
+  //box-sizing: border-box;
+  //border-radius: 50px;
+  //padding: 25px 25px 5px;
+  //color: #fff;
+
+  padding: 40px 67px;
+  flex-direction: column;
+  margin-bottom: 48px;
+
+  @include sm-block() {
+    padding: 15px;
+  }
+}
+
+.title{
+  @include titleS();
+  margin-bottom: calc(var(--main-base-grid-gap) * 4);
+  color: #7141B7;
+}
+
+.roundsDone{
+  color: #38166D;
+  font-weight: bold;
+}

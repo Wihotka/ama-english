@@ -1,0 +1,1 @@
+export {ContentImg} from './ContentImg';

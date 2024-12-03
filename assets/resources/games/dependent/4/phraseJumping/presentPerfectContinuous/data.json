@@ -1,0 +1,242 @@
+[
+  {
+    "question": "I live in Paris for two months.",
+    "correctAnswers": ["I have been living in Paris for two months."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I teach at this school since 2017.",
+    "correctAnswers": ["I have been teaching at this school since 2017."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "The child play a computer game for two hours.",
+    "correctAnswers": ["The child has been playing a computer game for two hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I study Geography for five years.",
+    "correctAnswers": ["I have been studying Geography for five years."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I wait for you for 40 minutes.",
+    "correctAnswers": ["I have been waiting for you for 40 minutes."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "He learn French for three years.",
+    "correctAnswers": ["He has been learning French for three years."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "She live with her parents for many years.",
+    "correctAnswers": ["She has been living with her parents for many years."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "The child cry for an hour.",
+    "correctAnswers": ["The child has been crying for an hour."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "My mum plant flowers all day.",
+    "correctAnswers": ["My mum has been planting flowers all day."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "She swim in the sea for three hours.",
+    "correctAnswers": ["She has been swimming in the sea for three hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I work as a dentist for seven years.",
+    "correctAnswers": ["I have been working as a dentist for seven years."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I run in the park for two hours.",
+    "correctAnswers": ["I have been running in the park for two hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I dream about moving to London for five years.",
+    "correctAnswers": ["I have been dreaming about moving to London for five years."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I decorate the house for Christmas for three hours.",
+    "correctAnswers": ["I have been decorating the house for Christmas for three hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "She talk to her mum since morning.",
+    "correctAnswers": ["She has been talking to her mum since morning."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "We plan our trip since January.",
+    "correctAnswers": ["We have been planning our trip since January."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "My sister bake this cake all morning.",
+    "correctAnswers": ["My sister has been baking this cake all morning."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I walk in these terrible shoes all day.",
+    "correctAnswers": ["I have been walking in these terrible shoes all day."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "He sleep in our living room for three hours.",
+    "correctAnswers": ["He has been sleeping in our living room for three hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "My aunt work in this museum for 15 years.",
+    "correctAnswers": ["My aunt has been working in this museum for 15 years."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "The driver fix his car since morning.",
+    "correctAnswers": ["The driver has been fixing his car since morning."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "We watch too much TV lately.",
+    "correctAnswers": ["We have been watching too much TV lately."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I try to call her all day.",
+    "correctAnswers": ["I have been trying to call her all day."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I write this essay since early morning.",
+    "correctAnswers": ["I have been writing this essay since early morning."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "My dog try to open the door for 10 minutes.",
+    "correctAnswers": ["My dog has been trying to open the door for 10 minutes."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "He build the house since 2017.",
+    "correctAnswers": ["He has been building the house since 2017."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "It rain for the past three weeks.",
+    "correctAnswers": ["It has been raining for the past three weeks."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "My neighbour play the piano since morning.",
+    "correctAnswers": ["My neighbour has been playing the piano since morning."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "We paint the walls in our flat for four hours.",
+    "correctAnswers": ["We have been painting the walls in our flat for four hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "They travel since last March.",
+    "correctAnswers": ["They have been travelling since last March."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "He exercise for the last two months.",
+    "correctAnswers": ["He has been exercising for the last two months."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "He sit like this since morning.",
+    "correctAnswers": ["He has been sitting like this since morning."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I learn to play the guitar for five months.",
+    "correctAnswers": ["I have been learning to play the guitar for five months."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "She look for her keys since morning.",
+    "correctAnswers": ["She has been looking for her keys since morning."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "She complain about her job for two years.",
+    "correctAnswers": ["She has been complaining about her job for two years."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "The girls dance for two hours.",
+    "correctAnswers": ["The girls have been dancing for two hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "We worry about you for the last two weeks.",
+    "correctAnswers": ["We have been worrying about you for the last two weeks."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "The dog bark for five hours.",
+    "correctAnswers": ["The dog has been barking for five hours."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "I do my Chemistry project for two days.",
+    "correctAnswers": ["I have been doing my Chemistry project for two days."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  },
+  {
+    "question": "He eat his breakfast for 40 minutes.",
+    "correctAnswers": ["He has been eating his breakfast for 40 minutes."],
+    "punctuationMark": ".",
+    "typePrompt":"presentPerfectContinuous"
+  }
+]
