@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VolodymyrKalynii/ama-eng.git"
+    "url": "git+https://github.com/Wihotka/ama-english.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VolodymyrKalynii/ama-eng/issues"
+    "url": "https://github.com/Wihotka/ama-english/issues"
   },
-  "homepage": "https://github.com/VolodymyrKalynii/ama-eng#readme",
+  "homepage": "https://github.com/Wihotka/ama-english#readme",
   "browserslist": [
     "last 20 version",
     "> 1%"
